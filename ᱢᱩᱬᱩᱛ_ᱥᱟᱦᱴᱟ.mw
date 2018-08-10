@@ -64,7 +64,7 @@
 |}
 |}<inputbox>
  type=create
- width=90
+ width=50
  bgcolor=#ffffff
  preload=Template:Standard content for new page
  editintro=Template:Instructions
