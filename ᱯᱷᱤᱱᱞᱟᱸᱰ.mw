@@ -1,6 +1,75 @@
 <div align="right" class="NavFrame collapsed" id="purl" style="float:right;   position: absolute;  top: -3em;  right:30px; width:auto; background:#eae9e9;"><div align="right" class="NavHead" id="4" style="float:right; font-size:85%; background:#dadadb; padding-right: 90px">{{ᱦᱩᱰᱤᱧ|:en:Finland|Finland}}</div><div align="right" class="NavContent" id="5" style="background:#eae9e9; width:auto">{{ᱦᱩᱰᱤᱧ|Finland|Finland}}</div></div>
-[[ᱨᱮᱫ:Flag_of_Finland.svg|thumb|ᱯᱷᱤᱱᱞᱟᱸᱰ ᱪᱤᱨ]]
-[[ᱨᱮᱫ:EU-Finland.svg|thumb|ᱯᱷᱤᱱᱞᱟᱸᱰ ᱫᱚᱱᱚᱬᱚᱢ]]
+
+{{Infobox country
+|native_name     = ᱯᱷᱤᱱᱞᱟᱸᱰ ᱜᱟᱬᱟ ᱯᱚᱱᱚᱛ
+|conventional_long_name  = ''Suomen tasavalta''</small><br />''Republiken Finland''</small>
+|common_name     = ᱯᱷᱤᱱᱞᱟᱸᱰ
+|image_flag     = Flag_of_Finland.svg
+|image_coat     = Coat of arms of Finland.svg
+|image_map = Location Finland EU Europe.png
+|map_caption = ᱤᱣᱨᱳᱯᱤᱭᱟᱹ ᱜᱟᱶᱛᱟ ᱵᱷᱩᱨᱮ ᱟᱨ ᱯᱷᱤᱱᱞᱟᱸᱰ ᱦᱟᱹᱨᱭᱟᱹᱲ ᱨᱚᱝ ᱟᱠᱟᱱᱟ
+|national_anthem = ''[[Maamme]]''{{spaces|2}}<small>([[ᱯᱷᱤᱱᱤᱥ ᱯᱟᱹᱨᱥᱤ|ᱯᱷᱤᱱᱤᱥ]])</small><br />''[[Maamme#Vårt land|Vårt land]]''{{spaces|2}}<small>([[ᱥᱤᱣᱰᱤᱥ ᱯᱟᱹᱨᱥᱤ|ᱥᱤᱣᱰᱤᱥ]])''<br />"ᱟᱵᱚᱶᱟᱜ ᱫᱷᱟᱹᱨᱛᱤ"</small>
+|official_languages   = [[ᱯᱷᱤᱱᱤᱥ ᱯᱟᱹᱨᱥᱤ|ᱯᱷᱤᱱᱤᱥ]], [[ᱥᱤᱣᱰᱤᱥ ᱯᱟᱹᱨᱥᱤ|ᱥᱤᱣᱰᱤᱥ]]
+|regional_languages   = [[ᱥᱟᱢᱤ ᱯᱟᱹᱨᱥᱤ|ᱥᱟᱢᱤ]]
+|demonym      = [[ᱯᱷᱤᱱᱥ, ᱯᱷᱤᱱᱤᱥ]] 
+|capital      = [[ᱦᱮᱞᱥᱤᱝᱠᱤ]]
+|latd=60 |latm=10 |latNS=N |longd=024 |longm=56 |longEW=E
+|largest_city    = [[ᱦᱮᱞᱥᱤᱝᱠᱤ]]
+|religion     = [[ᱞᱩᱛᱷᱮᱨᱱ]]
+|government_type    = ᱟᱫᱷᱟ ᱪᱟᱪᱞᱟᱣ ᱜᱟᱬᱟ ᱯᱚᱱᱚᱛ
+|leader_title1    = ᱫᱤᱥᱚᱢ ᱜᱚᱢᱠᱮ
+|leader_title2    = ᱢᱟᱨᱟᱝ ᱢᱚᱱᱛᱨᱤ
+|leader_title3    = ᱥᱚᱝᱥᱚᱫᱽ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ
+|leader_name1    =ᱛᱟᱨᱡᱟ ᱦᱟᱞᱮᱱᱤᱱ 
+|leader_name2    = ᱢᱟᱛᱤ ᱵᱟᱱᱚᱦᱟᱱᱤᱱ
+|leader_name3    = ᱥᱟᱣᱞᱤ ᱱᱤᱱᱚᱥᱛᱚ
+|accessionEUdate    = ᱑ ᱡᱟᱱᱩᱣᱟᱨᱤ ᱑᱙᱙᱕
+|area_rank     = ᱖᱔ ᱟᱱᱟᱜ
+|area_magnitude    = 1 E11
+|area_km2     = ᱓᱓᱘,᱔᱒᱔
+|area_sq_mi     = ᱑᱓᱐,᱕᱙᱖
+|percent_water    = ᱑᱐
+|population_estimate   = ᱕,᱓᱔᱐,᱗᱘᱓
+|population_estimate_rank = ᱑᱑᱑ ᱟᱱᱟᱜ
+|population_estimate_year = ᱒᱐᱐᱙
+|population_census   =᱕,᱑᱕᱕,᱐᱐᱐
+|population_census_year  = ᱒᱐᱐
+|population_density  = ᱑᱖
+|population_densitymi² = ᱔᱐
+|population_density_rank  = ᱒᱐᱑ ᱟᱱᱟᱜ
+|GDP_PPP      = $᱑᱙᱐ᱹ᱘᱖᱒ ᱵᱤᱞᱤᱭᱚᱱ
+|GDP_PPP_rank    = -
+|GDP_PPP_year    = ᱒᱐᱐᱘
+|GDP_PPP_per_capita   = $᱓᱖,᱒᱑᱗
+|GDP_PPP_per_capita_rank  = -
+|sovereignty_type   = ᱟᱹᱯᱱᱟᱹᱛ
+|sovereignty_note   = ᱨᱩᱥᱤᱭᱟᱱ ᱥᱟᱢᱨᱟᱡᱽ ᱠᱷᱚᱱ
+|established_event1   = ᱟᱹᱯᱱᱟᱹᱛᱮ
+|established_event2   = ᱵᱤᱠᱱᱟᱹᱣ
+|established_event3   = ᱢᱟᱱᱚᱛ
+|established_date1   = ᱒᱙ ᱢᱟᱨᱪ ᱑᱘᱐᱙
+|established_date2   = ᱖ ᱰᱤᱥᱮᱢᱵᱚᱨ ᱑᱙᱑᱗
+|established_date3   = ᱔ ᱡᱟᱱᱩᱣᱟᱨᱤ ᱑᱙᱑᱘
+| HDI_year = ᱒᱐᱑᱓<!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = decrease <!--increase/decrease/steady-->
+| HDI = ᱐ᱹ᱘᱗᱙ <!--number only-->
+| HDI_ref =|HDI_ref = <ref name="HDI">{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=2014 Human Development Report Summary |date=᱒᱐᱑᱔ |accessdate=᱒᱗ ᱡᱩᱞᱟᱭ ᱒᱐᱑᱔ |publisher=ᱡᱩᱢᱤᱫᱽ ᱯᱚᱱᱚᱛ ᱩᱛᱱᱟᱹᱣ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ | pages=᱒᱑-᱒᱕}}</ref>
+| HDI_rank = ᱒᱔ ᱟᱱᱟᱜ
+|currency     = [[ᱤᱣᱨᱳ]] ([[Euro sign|€]])²
+|currency_code    = EUR
+|country_code    = 
+|time_zone     = [[Eastern European Time|EET]]
+|utc_offset     = +2
+|time_zone_DST    = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST    = +3
+|cctld      = [[.fi]], [[.ax]] ³
+|calling_code    = ᱓᱕᱘
+|footnote1     = 
+|footnote2     = Before 2002: [[Finnish markka]]
+|footnote3     = The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+}}
+
+
 ᱯᱷᱤᱱᱞᱟᱸᱰ ᱫᱚ ᱮᱛᱚᱢ ᱤᱣᱨᱚᱯ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱫᱤᱥᱚᱢ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱤᱥᱚᱢ ᱨᱮᱱᱟᱜ ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱧᱩᱛᱩᱢ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ "ᱨᱤᱯᱚᱵᱽᱞᱤᱠ ᱚᱯᱷ ᱯᱦᱤᱱᱞᱟᱸᱰ" ᱾ ᱱᱚᱶᱟ ᱨᱮᱱᱟᱜ ᱯᱟᱪᱮ ᱥᱮᱦᱮᱦᱮᱰ ᱨᱮ ᱥᱩᱭᱰᱮᱱ, ᱥᱟᱢᱟᱝ ᱥᱮᱦᱮᱫ ᱨᱮ ᱱᱚᱨᱣᱮ, ᱥᱟᱢᱟᱝ ᱥᱮᱦᱮᱫ ᱨᱮ ᱨᱩᱥᱤᱭᱟ ᱟᱨ ᱠᱚᱧᱮ ᱥᱮᱦᱮᱫ ᱨᱮ ᱤᱥᱛᱚᱱᱤᱭᱟ ᱮᱢᱟᱱ ᱫᱤᱥᱚᱢ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱫᱤᱥᱚᱢ ᱨᱮᱱᱟᱜ ᱚᱥᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱯᱷᱤᱱᱞᱟᱸᱰ ᱫᱚ ᱤᱣᱨᱳᱯ ᱨᱮᱱᱟᱜ ᱤᱨᱟᱹᱞ ᱟᱱᱟᱜ ᱫᱤᱥᱚᱢ ᱠᱟᱱᱟ  ᱾ ᱢᱮᱱᱠᱦᱟᱱ ᱱᱚᱸᱰᱮᱱ ᱠᱚ ᱦᱚᱲᱮᱞ ᱫᱚ ᱡᱚᱛᱚ ᱨᱮ ᱕᱕ ᱞᱟᱠᱷ ᱜᱟᱱ ᱠᱚ ᱦᱩᱭᱩᱜᱼᱟ ᱾ ᱯᱷᱤᱱᱞᱟᱸᱰ ᱨᱮᱱᱟᱜ ᱨᱟᱡᱽᱜᱟᱲ ᱫᱚ ᱦᱮᱞᱥᱤᱝᱠᱤ ᱾
 
 == ᱱᱟᱜᱟᱢ ==
