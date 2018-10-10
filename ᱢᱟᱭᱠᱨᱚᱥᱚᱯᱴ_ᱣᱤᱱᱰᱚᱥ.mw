@@ -1,12 +1,12 @@
 {{Infobox OS
-| name = ᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ ᱣᱤᱱᱰᱚᱥ
+| name = ᱢᱟᱭᱠᱨᱳᱥᱚᱯᱴ ᱩᱭᱤᱱᱰᱳᱥ
 | logo = [[File:Windows_darkblue_2012_svg.svg|300px]]
 | screenshot = [[File:ᱣᱤᱱᱰᱚᱥ ᱑᱐.png|300px|]]
-| caption = ᱣᱤᱱᱰᱚᱥ ᱑᱐ ᱥᱠᱨᱤᱱᱥᱚᱴ
-| developer = [[ᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ]]
+| caption = ᱩᱭᱤᱱᱰᱳᱥ ᱑᱐ ᱥᱠᱨᱤᱱᱥᱚᱴ
+| developer = [[ᱢᱟᱭᱠᱨᱳᱥᱚᱯᱴ]]
 | released = {{Start date and years ago|1985|11|20}}, as version 1.0 (Unsupported)
 | language = ᱑᱓᱘ ᱜᱚᱴᱟᱝ ᱯᱟᱹᱨᱥᱤ<ref>{{cite web|url=http://msdn.microsoft.com/goglobal/ee461121#AvailableLanguagePacks |title=Listing of available Windows 7 language packs |publisher=Msdn.microsoft.com |date= |accessdate=April 5, 2014}}</ref>
-| package manager = [[ᱣᱤᱱᱰᱚᱥ ᱤᱱᱥᱴᱚᱞᱚᱨ]] (.msi), [[ᱣᱤᱱᱰᱚᱥ ᱥᱴᱚᱨ]] ([[APPX|.appx]])<ref>{{cite web |url=http://msdn.microsoft.com/en-us/library/windows/apps/hh464929.aspx |title=App packages and deployment (Windows Store apps) (Windows) |publisher=Msdn.microsoft.com |date= |accessdate=April 5, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140330050737/http://msdn.microsoft.com/en-us/library/windows/apps/hh464929.aspx |archivedate=March 30, 2014 |df=mdy-all }}</ref>
+| package manager = [[ᱩᱭᱤᱱᱰᱳᱥ ᱤᱱᱥᱴᱚᱞᱚᱨ]] (.msi), [[ᱩᱭᱤᱱᱰᱳᱥ ᱥᱴᱚᱨ]] ([[APPX|.appx]])<ref>{{cite web |url=http://msdn.microsoft.com/en-us/library/windows/apps/hh464929.aspx |title=App packages and deployment (Windows Store apps) (Windows) |publisher=Msdn.microsoft.com |date= |accessdate=April 5, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140330050737/http://msdn.microsoft.com/en-us/library/windows/apps/hh464929.aspx |archivedate=March 30, 2014 |df=mdy-all }}</ref>
 | ui = [[ᱣᱤᱱᱰᱚᱥ ᱥᱮᱞᱞ]]
 | license = [[Proprietary software|ᱯᱨᱚᱯᱨᱤᱭᱮᱴᱟᱨᱤ]] [[ᱵᱮᱯᱟᱨ ᱥᱚᱯᱴᱮᱭᱟᱨ]]
 | website = {{URL|windows.microsoft.com}}
