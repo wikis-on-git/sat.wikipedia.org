@@ -27,15 +27,12 @@
 | coordinates = {{coord|23|18|51|N|085|19|18|E|type:airport|display=inline,title}}
 | website = {{URL|http://www.bmia.com.my}}
 | metric-rwy = Y
-| r1-number = 14L/32R
-| r1-length-m = 4,124
+| r1-number = 13/31 <!--1,000 Passengers (at a time)-->
+| r1-length-m = 2,713
 | r1-surface = [[ᱟᱥᱯᱷᱟᱞᱴ ᱠᱚᱝᱠᱨᱤᱴ]]
-| r2-number = 14R/32L
-| r2-length-m = 4,056
+| r2-number = 14/32 <!--1,000 Passengers (at a time)-->
+| r2-length-m = 3,810
 | r2-surface = ᱟᱥᱯᱷᱟᱞᱴ ᱠᱚᱝᱠᱨᱤᱴ
-| r3-number = 15/33
-| r3-length-m = 4,056
-| r3-surface = ᱟᱥᱯᱷᱟᱞᱴ ᱠᱚᱝᱠᱨᱤᱴ
 | stat-year = 2017
 | stat1-header = ᱯᱟᱥᱮᱧᱡᱚᱨ
 | stat1-data = 58,554,627 ({{increase}} 11.2%)
