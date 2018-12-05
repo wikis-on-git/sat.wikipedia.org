@@ -1,33 +1,217 @@
-[[ᱨᱮᱫ:Flag_of_the_Philippines.svg|thumb|ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱨᱮᱱᱟᱜ ᱡᱷᱟᱹᱱᱰᱤ]]
-'''ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ''' ᱥᱚᱨᱠᱟᱨᱤ ᱞᱮᱠᱟᱛᱮ ᱫᱚ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱯᱨᱚᱡᱟᱛᱚᱱᱛᱨᱚ ᱠᱚ ᱢᱮᱛᱟᱜᱼᱟ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱠᱚᱸᱭᱮ-ᱯᱩᱨᱩᱵᱽ ᱮᱥᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱢᱤᱫᱼᱴᱮᱱ ᱫᱤᱥᱟᱹᱢ ᱠᱟᱱᱟ᱾ ᱱᱤᱭᱟᱹ ᱨᱮᱱᱟᱜ ᱨᱟᱡᱽᱫᱷᱟᱱᱤ ᱫᱚ [[ᱢᱮᱱᱤᱞᱟ]]᱾
-[[ᱨᱮᱫ:Coat_of_arms_of_the_Philippines.svg|thumb|Coat of arms of the Philippines]]
+{{Infobox country
+| conventional_long_name = Republic of the Philippines
+| common_name = the Philippines
+| native_name = {{native name|fil|Republika ng Pilipinas}}
+| image_flag = Flag of the Philippines.svg
+| image_coat = Coat of arms of the Philippines.svg
+| other_symbol = <div style="padding:0.3em;">[[File:Seal of the Philippines.svg|80px|Great Seal of the Philippines]]</div>{{native phrase|fil|[[Great Seal of the Philippines#Great Seal|Dakilang Sagisag ng Pilipinas]]|nolink=on}}<br />{{small|Great Seal of the Philippines}}
+| other_symbol_type = [[Coat of arms of the Philippines#Great Seal|Great Seal]]
+| national_motto = <br />"{{lang|fil|[[Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa]]}}"<ref name=ra8491>{{cite web|title=Republic act no. 8491 |url=http://www.gov.ph/1998/02/12/republic-act-no-8491/ |publisher=Republic of the Philippines |accessdate=March 8, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140308050740/http://www.gov.ph/1998/02/12/republic-act-no-8491/ |archivedate=March 8, 2014 |df= }}</ref><br />{{small|"For God, People, Nature, and Country"}}
+| national_anthem = ''{{lang|fil|[[Lupang Hinirang]]}}''<br />{{small|''Chosen Land''}}<br /><center>[[File:Lupang Hinirang instrumental.ogg]]</center>
+| image_map = PHL orthographic.svg
+| image_map2 = 
+| capital = [[Manila]]{{ref|a|a}}<br />{{small|{{Coord|14|35|N|120|58|E|type:city}}}}
+| largest_city = [[Quezon City]]<br />{{small|{{coord|14|38|N|121|02|E|display=inline}}}} <!--Although [[Davao City]] has the largest land area, the article on [[largest city]] says we should refer to the most populous city, which, {{As of|2006|lc=y}}, is [[Quezon City]]. See the discussion page for more information. Changing this information without citation would be reverted.-->
+| official_languages = {{ublist |item_style=white-space:nowrap;
+|[[Filipino language|Filipino]]
+|[[Philippine English|English]]
+|[[Philippine Sign Language|Filipino Sign Language]]{{ref|b|b}}
+}}
+| recognized_regional_languages = {{collapsible list
+  |title = [[Languages of the Philippines|19 languages]]
+  |[[Aklanon language|Aklanon]]
+  |[[Bikol languages|Bikol]]
+  |[[Cebuano language|Cebuano]]
+  |[[Chavacano]]
+  |[[Hiligaynon language|Hiligaynon]]
+  |[[Ibanag language|Ibanag]]
+  |[[Ilocano language|Ilocano]]
+  |[[Ivatan language|Ivatan]]
+  |[[Kapampangan language|Kapampangan]]
+  |[[Kinaray-a language|Kinaray-a]]
+  |[[Maguindanao language|Maguindanao]]
+  |[[Maranao language|Maranao]]
+  |[[Pangasinan language|Pangasinan]]
+  |[[Sambal language|Sambal]]
+  |[[Surigaonon language|Surigaonon]]
+  |[[Tagalog language|Tagalog]]
+  |[[Taūsug language|Taūsug]]
+  |[[Waray language|Waray]]
+  |[[Yakan language|Yakan]]<ref name="7 mother languages" />
+}}
+| languages_type = [[National language]]
+| languages = [[Filipino language|Filipino]]
+| languages2_type = [[Minority language|Auxiliary languages]]{{ref|c|c}}
+| languages2 = {{hlist|[[Philippine Spanish|Spanish]]|[[Arabic]]}}
+| ethnic_groups = {{unbulleted list
+<!-- per page 27 of the supporting source cited (Cebuanos, Ilongos, and Waray are covered by the Visayan grouping -- page 34 of the PDF) -->
+  |{{nowrap|{{#expr:100 * (10539816+9125637+7773655+3660645) / 92097978 round 1}}% [[Visayans|Visayan]]}}
+  |{{nowrap|{{#expr:100 * 25512089 / 92097978 round 1}}% [[Tagalog people|Tagalog]]}}
+  |{{nowrap|{{#expr:100 * 8987941 / 92097978 round 1}}% [[Ilocano people|Ilocano]]}}
+  |{{nowrap|{{#expr:100 * 6299283 / 92097978 round 1}}% [[Bicolano people|Bicolano]]}}
+  |{{nowrap|{{#expr:100 * 4737123 / 92097978 round 1}}% [[Moro people|Moro]]}}
+  |{{nowrap|{{#expr:100 * 2897239 / 92097978 round 1}}% [[Kapampangan people|Kapampangan]]}}
+  |{{nowrap|{{#expr:100 * 1586349 / 92097978 round 1}}% [[Igorot people|Igorot]]}}
+  |{{nowrap|{{#expr:100 * 1274895 / 92097978 round 1}}% [[Pangasinan people|Pangasinense]]}}
+  |{{nowrap|{{#expr:100 * 1146250 / 92097978 round 1}}% [[Chinese Filipino|Chinese]]}}
+  |{{nowrap|{{#expr:100 * 1054859 / 92097978 round 1}}% [[Zamboangueño people|Zamboangueño]]}}
+  |{{nowrap|8.3% [[Ethnic groups in the Philippines|others]]}}
+ }}
+| ethnic_groups_year = 2010{{Sfn|Philippine Statistics Authority|2014|pp=29–34}}
+| demonym = [[Filipinos|Filipino]]<br>{{small|(''masculine or neutral'')}}<br>Filipina<br>{{small|(''feminine'')}}<br>[[Pinoy]]<br>{{small|(''colloquial masculine'')}}<br>Pinay<br>{{small|(''colloquial feminine'')}}<br>[[Filipinos|Philippine]]<!-- "Philippine" is a demonym as it is used to identify natives or residents of a certain or specific place that are derived from the place name Philippines, i.e. Philippine-American War -- refer to Oxford definition of demonym(s). -->
+| government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[Constitution of the Philippines|constitutional]] [[republic]]
+| leader_title1 = [[President of the Philippines|President]]
+| leader_name1 = [[Rodrigo Duterte]]
+| leader_title2 = [[Vice President of the Philippines|Vice President]]
+| leader_name2 = [[Leni Robredo]]
+| leader_title3 = [[President of the Senate of the Philippines|Senate President]]
+| leader_name3 = [[Tito Sotto|Vicente Sotto III]]
+| leader_title4 = [[Speaker of the House of Representatives of the Philippines|House Speaker]]
+| leader_name4 = [[Gloria Macapagal Arroyo]]
+| leader_title5 = [[Chief Justice of the Supreme Court of the Philippines|Chief Justice]]
+| leader_name5 = ''Vacant''
+| legislature = [[Congress of the Philippines|Congress]]
+| upper_house = [[Senate of the Philippines|Senate]]
+| lower_house = [[House of Representatives of the Philippines|House of Representatives]]
+| sovereignty_type = [[Sovereignty of the Philippines|Formation of the republic]]
+| sovereignty_note = {{ref|f|f}}
+| established_event1 = [[Philippine Declaration of Independence|Independence from Spain declared]]
+| established_date1 = June 12, 1898
+| established_event2 = [[Treaty of Paris (1898)]] / Spanish cession{{ref|d|d}}
+| established_date2 = December 10, 1898
+| established_event3 = [[Malolos Constitution]] / [[First Philippine Republic]] {{ref|f|f}}
+| established_date3 = January 21, 1899
+| established_event4 = [[Tydings–McDuffie Act]]
+| established_date4 = March 24, 1934
+| established_event5 = [[Commonwealth of the Philippines]]
+| established_date5 = May 14, 1935
+| established_event6 = [[Treaty of Manila (1946)|Treaty of Manila / Independence from United States]] {{ref|e|e}}
+| established_date6 = July 4, 1946
+| established_event7 = [[Constitution of the Philippines|Current constitution]]
+| established_date7 = February 2, 1987
+| area_km2 = 300,000<ref name="psa.gov.ph">{{cite web|url=https://psa.gov.ph/content/philippine-population-density-based-2015-census-population|title=Philippine Population Density (Based on the 2015 Census of Population|date=September 1, 2016}}</ref><ref name="worldbank.org">{{cite web|url=http://databank.worldbank.org/data/reports.aspx?source=2&series=AG.SRF.TOTL.K2&country=SAU|title=World Development Indicators - DataBank|website=databank.worldbank.org}}</ref>
+| area_label = Total
+| area_rank = 72nd
+<!--|area_magnitude             = 1 E11-->| area_sq_mi = {{convert|{{data Philippines|pst2|total area}}|km2|sqmi|0|disp=output number only}} <!--Do not remove per [[WP:MOSNUM]]-->
+| percent_water = 0.61<ref name=CIAfactbook>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/rp.html |publisher=Central Intelligence Agency |title=East & Southeast Asia :: Philippines |website=The World Factbook |location=Washington, D.C.: Author |date=October 28, 2009 |accessdate=November 7, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20150719222229/https://www.cia.gov/library/publications/the-world-factbook/geos/rp.html |archivedate=July 19, 2015 |df= }}</ref>&nbsp;{{small|(inland waters)}}
+| area_label2 = [[Land area|Land]]
+| area_data2 = 300,000
+| population_estimate_year = 2018
+| population_estimate = 
+| population_census = 100,981,437<ref name="2015 census">{{cite web|url=https://www.psa.gov.ph/content/highlights-philippine-population-2015-census-population|title=Highlights of the Philippine Population  2015 Census of Population - Philippine Statistics Authority|website=www.psa.gov.ph}}</ref>
+| population_census_year = 2015
+| population_census_rank = 13th
+| population_density_km2 = 336
+| population_density_sq_mi = {{Data/popdens|Philippines|comma|areaunit=sqmi}}<!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 47th
+| GDP_PPP = $960.7 billion<ref name= imf03 />
+| GDP_PPP_year = 2018
+| GDP_PPP_rank = 27th
+| GDP_PPP_per_capita = $9,862<ref name=imf03 />
+| GDP_PPP_per_capita_rank = 119th
+| GDP_nominal = $371.8 billion<ref name="imf03">{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=30&pr.y=9&sy=2015&ey=2022&scsm=1&ssd=1&sort=country&ds=.&br=1&c=566&s=NGDPD,NGDPDPC&grp=0&a=|title=Report for Selected Countries and Subjects|website=www.imf.org}}</ref>
+| GDP_nominal_year = 2018
+| GDP_nominal_rank = 36th
+| GDP_nominal_per_capita = $3,541<ref name=imf03 />
+| GDP_nominal_per_capita_rank = 125th
+| Gini = 40.1 <!--number only-->
+| Gini_year = 2015
+| Gini_change = decrease <!--increase/decrease/steady-->
+| Gini_ref = <ref name="wb-gini">{{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=March 2, 2011}}</ref>
+| Gini_rank = 44th
+| HDI = 0.699 <!--number only-->
+| HDI_year = 2017 <!-- Please use the year to which the data refers, not the publication year-->
+| HDI_change = increase <!--increase/decrease/steady-->
+| HDI_ref = <ref>{{cite web|url=http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf|title=Human Development Indices and Indicators: 2018 Statistical update|publisher=United Nations Development Programme|date=15 September 2018|accessdate=15 September 2018}}</ref>
+| HDI_rank = 113th
+| currency = [[Philippine peso|Peso]] (₱)
+| currency_code = PHP
+| time_zone = [[Philippine Standard Time|PST]]
+| utc_offset = +8
+| utc_offset_DST = +8
+| time_zone_DST = not observed
+| date_format = {{unbulleted list |mm-dd-yyyy|dd-mm-yyyy ([[Anno Domini|AD]])}}
+| drives_on = right<ref>{{cite web |url=http://www.brianlucas.ca/roadside/ |title=Which side of the road do they drive on? |author=Lucas, Brian |date=August 2005 |accessdate=February 22, 2009 |publisher=}}</ref>
+| calling_code = [[+63]]
+| cctld = [[.ph]]
+| official_website = [https://www.gov.ph/ National Government Portal]<br />[http://www.officialgazette.gov.ph/ Official Gazette of the Republic of the Philippines]
+| footnote_a = {{note|a}} While Manila proper is designated as the nation's capital, the whole of [[Metro Manila|National Capital Region]] (NCR) is designated as [[seat of government]], hence the name of a region. This is because it has many national government institutions aside from Malacanang Palace and some agencies/institutions that are located within the capital city.<ref>{{cite web|title=Presidential Decree No. 940, s. 1976 |url=http://www.gov.ph/1976/05/29/presidential-decree-no-940-s-1976/ |archive-url=https://web.archive.org/web/19760529010101/http://www.gov.ph/1976/05/29/presidential-decree-no-940-s-1976/ |publisher=Malacanang |accessdate=April 4, 2015 |archivedate=May 29, 1976 |dead-url=yes |location=Manila |df= }}</ref>
+| footnote_b = {{note|b}} In Republic Act No. 11106, the Filipino Sign Language has been declared as national sign language of the Filipino deaf as well as the official sign language of government in all transactions involving the deaf.<ref>{{cite web |author=''Manila Bulletin'' |title=Filipino Sign Language declared as nat’l sign language of Filipino deaf |date=12 November 2018 |url=https://news.mb.com.ph/2018/11/12/filipino-sign-language-declared-as-natl-sign-language-of-filipino-deaf/?fbclid=IwAR0aL874gyWSW46G-fSQvmFtK8qkzLjKHxxMr32q8pz2unmNTBqy51r9t64 |page=89 |quote= |archivedate= |accessdate=12 November 2018}}</ref>
+| footnote_c = {{note|c}} The 1987 Philippine constitution specifies "Spanish and Arabic shall be promoted on a voluntary and optional basis."<ref name=OfficialLang />
+| footnote_d = {{note|d}} Filipino revolutionaries [[Philippine Declaration of Independence|declared independence]] from Spain on June 12, 1898, but Spain ceded the islands to the United States for $20&nbsp;million in the [[Treaty of Paris (1898)|Treaty of Paris]] on December 10, 1898 which eventually led to the [[Philippine–American War]].
+| footnote_e = {{note|e}} The United States of America recognized the independence of the Philippines on July 4, 1946, through the [[Treaty of Manila (1946)|Treaty of Manila]].<ref>{{Citation|url=http://untreaty.un.org/unts/1_60000/1/6/00000254.pdf|archiveurl=https://web.archive.org/web/20110723021900/http://untreaty.un.org/unts/1_60000/1/6/00000254.pdf|archivedate=July 23, 2011|format=PDF|title=Treaty of General Relations Between the United States of America and the Republic of the Philippines. Signed at Manila, on 4 July 1946|publisher=United Nations|accessdate=December 10, 2007}}</ref> This date was chosen because it corresponds to the U.S. [[Independence Day (United States)|Independence Day]], which was observed in the Philippines as [[Independence Day (Philippines)|Independence Day]] until May 12, 1962, when [[President of the Philippines|President]] [[Diosdado Macapagal]] issued Presidential Proclamation No. 28, shifting it to June 12, the date of [[Emilio Aguinaldo]]'s proclamation.<ref>{{cite web |title=Republic of the Philippines Independence Day |url=http://m.state.gov/md243684.htm |archive-url=https://web.archive.org/web/20150915021401/http://m.state.gov/md243684.htm |publisher=[[United States State Department]] |accessdate=July 30, 2015 |archivedate=September 15, 2015 |dead-url=yes }}</ref>
+| footnote_f = {{note|f}} In accordance with article 11 of the Revolutionary Government Decree of June 23, 1898, the [[Revolutionary Government of the Philippines|Malolos Congress]] selected a commission to draw up a draft [[constitution]] on September 17, 1898. The commission was composed of Hipólito Magsalin, Basilio Teodoro, José Albert, [[Joaquin Gonzalez (politician)|Joaquín González]], [[Gregorio S. Araneta|Gregorio Araneta]], Pablo Ocampo, Aguedo Velarde, Higinio Benitez, [[Tomas del Rosario|Tomás del Rosario]], [[Jose Alejandrino|José Alejandrino]], Alberto Barretto, José Ma. de la Viña, José Luna, [[Antonio Luna]], Mariano Abella, Juan Manday, [[Felipe Calderón y Roca|Felipe Calderón]], [[Arsenio Cruz-Herrera|Arsenio Cruz]] and Felipe Buencamino.<ref>{{cite book|last=Calderón|first=Felipe|title=Mis memorias sobre la revolución filipina: Segunda etapa, (1898 á 1901) |year=1907|publisher=Imp. de El Renacimiento|location=Manila|pages=234, 235; appendix, pp. 5–10}}</ref> They were all wealthy and well educated.<ref name=LOCPhil>{{cite book|author=Dolan, Ronald E.|title=Philippines, a country study|date=1983|publisher=Federal Research Division, Library of Congress|location=Washington, D.C.|isbn=978-0-8444-0748-7|edition=4th}}</ref>
+}}
+
+'''ᱯᱷᱤᱞᱤᱯᱤᱱᱥ''' (/ˈfɪləpiːnz/ (About this soundlisten) FIL-ə-peenz; Filipino: Pilipinas [ˌpɪlɪˈpinɐs] or Filipinas [ˌfɪlɪˈpinɐs]), ᱫᱚ ᱠᱚᱧᱮ-ᱥᱟᱢᱟᱝ ᱮᱥᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱢᱤᱫᱴᱮᱱ ᱫᱤᱥᱟᱹᱢ ᱠᱟᱱᱟ᱾ ᱢᱮᱱᱤᱞᱟ ᱫᱚ ᱱᱚᱣᱟ ᱫᱤᱥᱟᱹᱢ ᱨᱮᱱᱟᱜ ᱨᱟᱡᱽᱜᱟᱲ ᱠᱟᱱᱟ᱾
 
 == ᱱᱟᱜᱟᱢ ==
+ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮᱱ ᱥᱮᱫᱟᱭ ᱱᱮᱜᱽᱨᱤᱛᱳ ᱡᱟᱹᱛᱤ ᱠᱳ ᱓᱐ ᱦᱟᱡᱟᱨ ᱥᱮᱨᱢᱟ ᱞᱟᱦᱟᱨᱮ ᱵᱳᱨᱱᱤᱭᱳ ᱟᱨ ᱥᱩᱢᱟᱛᱨᱟ ᱫᱤᱯ ᱨᱮᱠᱚ ᱛᱟᱸᱦᱮᱸᱠᱟᱱᱟ᱾ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱠᱚᱧᱮ ᱠᱷᱚᱱ ᱢᱟᱞᱚᱭ ᱡᱟᱹᱛᱤ ᱨᱮᱱ ᱢᱟᱹᱱᱢᱤ ᱠᱳ ᱱᱚᱸᱰᱮ ᱦᱮᱡ ᱠᱳ ᱫᱷᱩᱨᱟᱹᱣ ᱞᱮᱱᱟ᱾ ᱢᱟᱞᱚᱭ ᱠᱚ ᱫᱚ ᱱᱚᱸᱰᱮ ᱵᱟᱨᱟᱝᱜᱮ ᱧᱩᱛᱩᱢ ᱛᱮᱠᱚ ᱵᱟᱰᱚᱭᱮᱛ ᱠᱩ ᱛᱟᱸᱦᱮᱸᱱᱟ᱾ ᱟᱨᱮ ᱥᱟᱭ ᱥᱮᱨᱢᱟ ᱥᱮᱡ ᱪᱤᱱᱟ ᱡᱟᱹᱛᱤ ᱨᱮᱱ ᱢᱟᱹᱱᱢᱤ ᱱᱚᱸᱰᱮ ᱦᱮᱡ ᱠᱟᱛᱮ ᱛᱟᱸᱦᱮᱸᱱ ᱠᱩ ᱫᱷᱩᱨᱟᱹᱣ ᱞᱮᱱᱟ᱾ ᱢᱟᱡᱷᱮ ᱢᱟᱡᱷᱮ ᱟᱨᱚᱵᱽ ᱠᱚ ᱦᱚᱸ ᱱᱚᱸᱰᱮ ᱟᱹᱠᱩᱣᱟᱜ ᱡᱟᱦᱟᱸᱡᱽ ᱠᱩ ᱵᱷᱤᱲᱟᱹᱣᱮᱛ ᱛᱟᱸᱦᱮᱸᱱᱟ᱾ ᱱᱩᱠᱩ ᱜᱮ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮᱱᱟᱜ ᱠᱚᱧᱮ ᱥᱮᱡ ᱤᱥᱞᱟᱢ ᱫᱷᱚᱨᱚᱢ ᱠᱚ ᱯᱟᱥᱱᱟᱣ ᱟᱠᱟᱫᱟ᱾ ᱜᱮᱞ ᱛᱩᱨᱩᱭ ᱥᱟᱭ ᱥᱮᱨᱢᱟ ᱥᱮᱡ ᱮᱥᱯᱮᱱᱤᱭᱳ ᱠᱩ ᱦᱤᱡᱩᱜ ᱞᱟᱦᱟᱨᱮ ᱢᱟᱞᱚᱭ ᱠᱩ ᱜᱮ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮᱱ ᱢᱩᱬᱩᱛ ᱡᱟᱹᱛᱤ ᱠᱩ ᱛᱟᱸᱦᱮᱸᱠᱟᱱᱟ᱾ 
 
-=== ᱤᱥᱯᱮᱱ ᱞᱟᱦᱟ ᱦᱟᱹᱴᱤᱧ ===
-ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱨᱮᱱ ᱥᱮᱫᱟᱭ ᱦᱚᱲ [ᱱᱤᱜᱨᱳ] ᱡᱟᱹᱛᱤ ᱠᱚ ᱫᱚ ᱓᱐,᱐᱐᱐ ᱥᱮᱨᱢᱟ ᱞᱟᱦᱟ ᱨᱮ [[ᱵᱳᱨᱱᱤᱣᱚ]] ᱟᱨ [[ᱥᱩᱢᱟᱛᱨᱟ]] ᱫᱷᱤᱯ ᱠᱷᱚᱱ ᱠᱩ ᱦᱮᱡ ᱞᱮᱱᱟ᱾ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱠᱚᱸᱭᱮ ᱠᱷᱚᱱ ᱢᱟᱞᱚᱭ ᱡᱟᱹᱛᱤ ᱨᱮᱱ ᱦᱚᱲ ᱦᱟᱹᱡᱩᱜ ᱠᱩ ᱮᱦᱚᱵ ᱠᱮᱫᱟ᱾ ᱢᱟᱞᱚᱭ ᱠᱩ ᱫᱚ ᱱᱚᱱᱰᱮ ᱵᱟᱨᱟᱝᱜᱮ ᱧᱤᱛᱩᱢ ᱛᱮ ᱠᱩ ᱩᱨᱩᱢᱟ᱾ ᱙ ᱥᱟᱭ ᱥᱮᱨᱢᱟ ᱠᱷᱚᱱ ᱪᱤᱱ ᱨᱮᱱ ᱵᱮᱯᱟᱨᱤ ᱠᱩ ᱱᱚᱱᱰᱮ ᱦᱟᱹᱡᱩᱜ ᱠᱩ ᱮᱦᱚᱵ ᱠᱮᱫᱟ ᱟᱨ ᱱᱚᱱᱰᱮ ᱜᱤ ᱛᱟᱦᱮᱱ ᱠᱩ ᱮᱦᱚᱵ ᱠᱮᱫᱟ᱾ ᱟᱫᱚᱢ ᱚᱠᱛᱮ ᱫᱚ ᱟᱨᱚᱵᱽ ᱨᱮᱱ ᱦᱚᱲᱟᱜ [[ᱫᱟᱜ ᱡᱟᱦᱟᱡᱽ]] ᱠᱩ ᱦᱚᱸ ᱱᱚᱱᱰᱮ ᱵᱷᱤᱲᱟᱹᱜ ᱠᱟᱱᱛᱟᱦᱮᱱᱟ᱾ ᱱᱩᱠᱩᱜᱤ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱨᱮᱱᱟᱜ ᱫᱟᱹᱠᱷᱤᱱ ᱨᱮ [[ᱤᱥᱞᱟᱢ ᱫᱷᱚᱨᱚᱢ]] ᱠᱩ ᱯᱟᱥᱱᱟᱣ ᱠᱮᱫᱟ᱾ ᱢᱮᱱᱠᱷᱟᱱ ᱑᱖ ᱥᱟᱭ ᱥᱮᱨᱢᱟ ᱨᱮ [[ᱤᱥᱯᱮᱱ]] ᱨᱮᱱ ᱦᱚᱲ ᱦᱟᱹᱡᱩᱜ ᱞᱟᱦᱟᱨᱮ ᱢᱟᱞᱚᱭ ᱡᱟᱹᱛᱤ ᱜᱤᱠᱩ ᱛᱟᱦᱮ ᱠᱟᱱᱟ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱨᱮᱱ ᱢᱩᱠᱷᱤᱭᱟᱹ ᱡᱟᱹᱛᱤ ᱫᱚ᱾
+ᱮᱥᱯᱮᱱ ᱨᱮᱱ ᱢᱟᱹᱱᱢᱤ ᱦᱮᱡ ᱠᱟᱛᱮ ᱱᱚᱸᱰᱮ ᱟᱭᱢᱟ ᱫᱤᱱ ᱜᱮᱠᱚ ᱥᱟᱥᱚᱱ ᱟᱠᱟᱫᱟ᱾ ᱟᱨ ᱤᱥᱟᱹᱭ ᱫᱷᱚᱨᱚᱢ ᱠᱩ ᱯᱟᱥᱱᱟᱣ ᱟᱠᱟᱫᱟ᱾ ᱑᱘᱙᱘ ᱥᱮᱨᱢᱟ ᱨᱮ ᱮᱥᱯᱮᱱ ᱟᱨ ᱢᱟᱨᱠᱤᱱ ᱠᱳᱣᱟᱜ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱨᱮ ᱮᱥᱯᱮᱱ ᱠᱳ ᱦᱟᱨᱟᱣ ᱞᱮᱱᱟ᱾ ᱚᱱᱚ ᱥᱮᱨᱢᱟ ᱜᱮ ᱑᱒ ᱡᱩᱱ ᱯᱷᱤᱞᱤᱯᱤᱱᱳ ᱱᱮᱛᱟ ᱮᱢᱤᱞᱤᱭᱳ ᱟᱜᱤᱱᱟᱞᱫᱳ ᱮᱥᱯᱮᱱ ᱠᱷᱚᱱ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱮ ᱪᱷᱟᱰᱟᱣ ᱠᱮᱫᱟ᱾
 
-=== ᱤᱥᱯᱮᱱ ᱦᱟᱹᱴᱤᱧ ===
-ᱯᱚᱨᱛᱩᱜᱤᱡᱽ ᱨᱮᱱ ᱞᱟᱹᱣᱠᱟᱹ ᱫᱟᱲᱟᱱ ᱦᱚᱲ [[ᱯᱷᱮᱨᱫᱤᱱᱟᱱᱫᱚ ᱢᱟᱜᱮᱞᱟᱱ]] ᱑᱕᱑᱒ ᱥᱮᱨᱢᱟ ᱨᱮ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱᱮ ᱥᱮᱴᱮᱨ ᱞᱮᱱᱟ᱾ ᱟᱨ ᱤᱥᱯᱮᱱ ᱨᱮᱱ ᱞᱮᱠᱟᱛᱮ ᱚᱱᱟ ᱫᱷᱤᱯᱮ ᱫᱟᱵᱤ ᱠᱮᱫᱟ᱾ ᱢᱮᱱᱠᱷᱟᱱ ᱩᱱᱤ ᱫᱚ ᱱᱚᱱᱰᱮ ᱟᱭᱢᱟ ᱫᱤᱱ ᱵᱟᱭ ᱛᱟᱦᱮ ᱠᱟᱱᱟ᱾ ᱛᱟᱭᱚᱢᱛᱮ ᱤᱥᱯᱮᱱ ᱨᱮᱱᱟᱜ ᱯᱨᱚᱵᱷᱟᱵᱽ ᱯᱟᱥᱱᱟᱜ ᱮᱦᱚᱵ ᱮᱱᱟ᱾ ᱟᱨ [[ᱤᱥᱟᱹᱭ ᱫᱷᱚᱨᱚᱢ]] ᱨᱮᱱᱟᱜ ᱮᱦᱚᱵ ᱦᱩᱭᱮᱱᱟ᱾
-
-᱑᱘᱑᱐ ᱥᱮᱨᱢᱟ ᱨᱮ  ᱮᱯᱮᱱ ᱠᱷᱚᱱ ᱯᱷᱩᱨᱜᱟᱹᱞ ᱞᱟᱦᱟ ᱦᱟᱹᱵᱤᱡ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱨᱮᱱᱟᱜ ᱫᱷᱤᱯ ᱠᱩ ᱫᱚ ᱤᱥᱯᱮᱱ ᱨᱮᱱᱟᱜ ᱩᱛᱟᱹᱨ ᱟᱢᱮᱨᱤᱠᱟ ᱴᱷᱮᱱ ᱛᱟᱦᱮ ᱠᱟᱱᱟ᱾ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱟᱨ ᱩᱛᱟᱹᱨ ᱟᱢᱮᱨᱤᱠᱟ ᱨᱮ ᱪᱟᱞᱟᱜ ᱦᱟᱹᱡᱩᱜ ᱛᱟᱦᱮ ᱠᱟᱱᱟ᱾ [[ᱞᱩᱥᱚᱱ ᱫᱷᱤᱯ]] ᱨᱮᱱᱟᱜ ᱢᱮᱱᱤᱞᱟ ᱥᱚᱦᱚᱨ ᱵᱮᱲᱦᱟᱭ ᱠᱟᱛᱮᱜ ᱤᱥᱯᱮᱱ ᱨᱮᱱᱟᱜ ᱩᱯᱚᱱᱤᱵᱮᱥ ᱛᱮᱭᱟᱨ ᱨᱟᱠᱟᱵ ᱮᱱᱟ᱾ ᱦᱚᱲ ᱠᱩ ᱵᱮᱡᱟᱭᱛᱮ ᱠᱮᱛᱷᱚᱞᱤᱠ ᱤᱥᱟᱹᱭ ᱨᱮ ᱠᱩ ᱩᱪᱟᱹᱲᱮᱱᱟ᱾ ᱢᱮᱱᱠᱷᱟᱱ ᱛᱟᱞᱟ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱟᱨ ᱞᱩᱥᱚᱱ ᱵᱟᱨᱦᱮ ᱨᱮ ᱡᱮᱞᱮᱠᱟ [[ᱢᱤᱱᱫᱟᱱᱟᱣ ᱫᱷᱤᱯ]] ᱨᱮ ᱫᱚ ᱤᱥᱯᱮᱱ ᱨᱮᱱᱟᱜ ᱯᱨᱚᱵᱷᱟᱵᱽ ᱠᱚᱢ ᱜᱤ ᱛᱟᱦᱮ ᱠᱟᱱᱟ᱾
-
-ᱡᱤᱞᱤᱧ ᱤᱥᱯᱮᱱ ᱥᱟᱥᱚᱱ ᱚᱠᱛᱮ ᱟᱭᱢᱟ ᱦᱩᱞ ᱦᱩᱭᱞᱮᱱᱟ᱾ ᱑᱙ ᱥᱟᱭ ᱥᱮᱨᱢᱟ ᱨᱮᱱᱟᱜ ᱢᱩᱪᱟᱹᱫ ᱥᱮᱡ ᱤᱣᱨᱳᱯ ᱨᱮ ᱚᱞᱚᱜ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱠᱩ ᱫᱚ ᱮᱥᱯᱮᱱ ᱥᱟᱥᱚᱱ ᱵᱤᱨᱩᱫᱽ ᱨᱮ ᱯᱨᱚᱛᱤᱵᱟᱫᱽ ᱠᱩ ᱮᱦᱚᱵ ᱠᱮᱫᱟ᱾ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱡᱟᱹᱛᱤᱠᱩ ᱛᱟᱞᱟᱨᱮ ᱡᱟᱛᱤᱭᱚᱛᱟᱵᱟᱫ ᱛᱮᱭᱟᱨ ᱨᱟᱠᱟᱵ ᱮᱱᱟ᱾ ᱑᱘᱙᱘ ᱥᱮᱨᱢᱟ ᱨᱮ ᱤᱥᱯᱮᱱ-ᱢᱟᱨᱠᱩᱱ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱨᱮ ᱢᱟᱨᱠᱤᱱ ᱠᱩ ᱫᱚ ᱢᱮᱱᱤᱞᱟ ᱩᱯᱚᱥᱟᱜᱚᱨ ᱨᱮ ᱤᱥᱯᱮᱱ ᱞᱟᱹᱣᱠᱟᱹ ᱥᱮᱱᱟ ᱠᱩ ᱦᱤᱨᱟᱹᱣ ᱠᱮᱫ ᱠᱩᱣᱟ᱾ ᱪᱮᱱ ᱨᱮᱱ ᱵᱚᱝᱥᱚ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱱᱮᱛᱟ [[ᱮᱢᱤᱞᱤᱣ ᱟᱜᱤᱱᱟᱞᱫᱳ]] ᱤᱱᱟᱹ ᱵᱚᱪᱷᱚᱨ ᱜᱤ ᱑᱒ ᱡᱩᱱ ᱯᱷᱤᱞᱤᱯᱟᱭᱤᱱ ᱤᱥᱯᱮᱱ ᱠᱷᱚᱱ ᱯᱷᱩᱨᱜᱟᱹᱞᱮ ᱜᱷᱚᱥᱚᱱᱟ ᱠᱮᱫᱟ᱾
-
-=== ᱢᱟᱨᱠᱤᱱ ᱦᱟᱹᱴᱤᱧ ===
-
-== ᱨᱟᱡᱱᱤᱛᱤ ==
-
-== ᱯᱨᱚᱥᱟᱥᱚᱱᱤᱠ ᱮᱞᱟᱠᱟ ᱠᱩ ==
+ᱮᱥᱯᱮᱱ ᱠᱩ ᱦᱟᱨᱟᱣ ᱛᱟᱭᱚᱢ ᱢᱟᱨᱠᱤᱱ ᱫᱚᱠᱷᱚᱞ ᱨᱮ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱦᱮᱡ ᱮᱱᱟ᱾ ᱑᱘᱙᱙ ᱥᱮᱨᱢᱟ ᱥᱮᱡ ᱯᱷᱤᱞᱤᱯᱤᱱᱳ ᱠᱩ ᱢᱟᱨᱠᱤᱱ ᱪᱮᱛᱟᱱ ᱵᱤᱫᱽᱨᱳᱦᱳ ᱠᱩ ᱮᱛᱦᱚᱵ ᱞᱮᱫᱟ᱾ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱠᱚᱭᱮᱠ ᱥᱮᱨᱢᱟ ᱢᱟᱨᱠᱤᱱ ᱯᱷᱤᱞᱤᱯᱤᱱᱳ ᱞᱟᱹᱲᱦᱟᱹᱭ ᱨᱮ ᱟᱭᱢᱟ ᱢᱟᱨᱠᱤᱱ ᱟᱨ ᱯᱷᱤᱞᱤᱯᱤᱱᱳ ᱢᱟᱹᱱᱢᱤ ᱠᱳ ᱜᱚᱡ ᱮᱱᱟ᱾ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱑᱙᱐᱒ ᱥᱮᱨᱢᱟ ᱥᱮᱡ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮ ᱥᱟᱹᱱᱛᱤ ᱦᱮᱡ ᱟᱠᱟᱱᱟ᱾
 
 == ᱚᱛᱱᱚ ==
+ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮᱱᱟᱜ ᱚᱛ ᱦᱟᱥᱟ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ 300,000 km<sup>2</sup>᱾ ᱗᱑᱐᱗ ᱜᱚᱴᱟᱝ ᱫᱤᱯ ᱱᱤᱭᱟᱹ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱫᱤᱥᱟᱹᱢ ᱫᱚ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱᱟ᱾ ᱑᱑ ᱜᱚᱴᱟᱝ ᱫᱤᱯ ᱜᱮ ᱢᱟᱨᱟᱝᱼᱟ᱾  
 
-== ᱢᱟᱱᱣᱟ ᱮᱞ ==
+== ᱢᱟᱹᱱᱢᱤ ᱮᱞ ==
+ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮ 100,981,437 ᱜᱟᱴᱟᱝ ᱢᱟᱹᱱᱢᱤ ᱢᱮᱱᱟᱜ ᱠᱳᱣᱟ᱾ 
 
-== ᱯᱷᱮᱰᱮᱛ ==
+== ᱯᱟᱹᱨᱥᱤ ==
+ᱛᱟᱜᱟᱞᱚᱜᱽ ᱟᱨ ᱤᱝᱨᱮᱡᱤ ᱯᱟᱹᱨᱥᱤ ᱜᱮ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮᱱᱟᱜ ᱥᱚᱨᱠᱟᱨᱤ ᱯᱟᱹᱨᱥᱤ ᱠᱟᱱᱟ᱾ ᱛᱟᱜᱟᱞᱚᱜᱽ ᱫᱚ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮᱱ ᱔᱐ ᱵᱷᱟᱜᱽ ᱢᱟᱹᱱᱢᱤ ᱠᱚ ᱵᱟᱰᱟᱭᱟ᱾ ᱕᱐ ᱵᱷᱟᱜᱽ ᱢᱟᱹᱱᱢᱤ ᱤᱝᱨᱮᱡᱤ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱠᱚ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾ ᱤᱱᱟᱹ ᱵᱟᱫᱽ ᱠᱟᱛᱮ ᱦᱚᱸ ᱯᱷᱤᱞᱤᱯᱤᱱᱥ ᱨᱮ ᱑᱐᱐ ᱪᱮᱛᱟᱱ ᱦᱩᱰᱤᱧ ᱦᱩᱰᱤᱧ ᱯᱟᱹᱨᱥᱤ ᱢᱮᱱᱟᱜᱼᱟ᱾ ᱱᱚᱣᱟᱠᱩ ᱯᱟᱹᱨᱥᱤ ᱵᱷᱤᱛᱨᱤᱨᱮ ᱥᱮᱵᱩᱭᱟᱱᱳ ᱯᱟᱹᱨᱥᱤ, ᱤᱞᱳᱠᱳᱱᱳ ᱯᱟᱹᱨᱥᱤ, ᱦᱤᱞᱤᱜᱮᱱᱚᱱ ᱯᱟᱹᱨᱥᱤ, ᱵᱤᱠᱳᱞᱟᱱᱳ ᱯᱟᱹᱨᱥᱤ ᱫᱚ ᱱᱟᱥᱮᱭᱟᱜ ᱢᱟᱨᱟᱝ ᱜᱮᱭᱟ᱾ ᱱᱤᱭᱟᱹᱠᱩ ᱵᱟᱫᱽ ᱠᱟᱛᱮ ᱦᱚᱸ ᱪᱤᱱᱟ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱦᱚᱸ ᱱᱚᱸᱰᱮᱱᱠᱩ ᱢᱟᱹᱱᱢᱤ ᱠᱟᱛᱷᱟ ᱠᱩ ᱨᱚᱲ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾
 
-* https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A8
-* https://en.wikipedia.org/wiki/Philippines
+== ᱟᱨᱦᱚᱸ ᱧᱮᱞᱢᱮ ==
+{{Portal|Philippines|Asia}}
 
-[[ᱛᱷᱚᱠ:ᱫᱤᱥᱟᱹᱢ]]
-[[ᱛᱷᱚᱠ:ᱮᱥᱤᱭᱟ ᱢᱚᱦᱟᱫᱮᱥ]] [[ᱛᱷᱚᱠ:ᱮᱥᱤᱭᱳ ᱪᱟᱸᱫᱚ ᱥᱟᱯᱟᱲᱟᱣ ᱒᱐᱑᱘]] [[ᱛᱷᱚᱠ:ᱥᱟᱯᱲᱟᱣ ᱵᱟᱝ ᱥᱟᱹᱛ ᱟᱠᱟᱱᱟ]]
+* [[:en:Outline_of_the_Philippines|Outline of the Philippines]]
+* [[:en:Culture_of_the_Philippines|Culture of the Philippines]]{{-}}
+
+== ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ ==
+{{Sister project links|voy=Philippines}}
+
+=== Government ===
+
+* [https://www.gov.ph Official website of the Republic of the Philippines (Official Gazette online)]
+* [https://www.senate.gov.ph/ Official website of the Senate of the Philippines]
+* [http://www.congress.gov.ph/ Official website of the House of Representatives of the Philippines]
+* [http://www.judiciary.gov.ph/ Official website of the Supreme Court of the Philippines]
+* [http://www.bsp.gov.ph/ Official website of Bangko Sentral ng Pilipinas (Central Bank of the Philippines)]
+* [http://www.neda.gov.ph/ Official website of the National Economic and Development Authority (NEDA)]
+* [http://www.pnp.gov.ph/ Official website of the Philippine National Police (PNP)]
+* [https://www.tourism.gov.ph Official website of the Department of Tourism]
+* [http://www.thephilippines.com/ The Philippines Online Tourism Guide]
+
+=== Trade ===
+
+* [http://wits.worldbank.org/countrysnapshot/en/PHL World Bank summary of trade statistics: Philippines]
+
+=== General information ===
+
+* [https://www.bbc.co.uk/news/world-asia-15521300 Philippines profile] from the [[BBC News]]
+* {{webarchive|url=https://web.archive.org/web/20110521230339/http://ucblibraries.colorado.edu/govpubs/for/philippines.htm|date=May 21, 2011|title=Philippines}} at UCB Libraries GovPubs
+* {{CIA World Factbook link|rp|Philippines}}
+* {{dmoz|Regional/Oceania/Philippines}}
+* [http://www.britannica.com/EBchecked/topic/456399/Philippines Philippines] at ''[[Encyclopædia Britannica]]''
+* {{OSM relation|443174}}
+* [http://www.noypi.ph/ Philippine News and Current Events]
+* [http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=PH Key Development Forecasts for the Philippines] from [[International Futures]]
+
+=== Books and articles ===
+
+* [http://www.gutenberg.org/browse/authors/b#a2296 History of the Philippine Islands] in many volumes, from [[Project Gutenberg]] (indexed under [[Emma Helen Blair]], the general editor)
+
+=== Wikimedia ===<!--Do not add commercial links or your website. Suggest them via the discussion page. Failure to do so will mean the deletion of your websites as spam.-->
+
+* [[metawiki:Wikimedia Philippines|Wikimedia Philippines]]
+* {{Wikiatlas|Philippines}}
+
+=== Other ===<!--Do not add commercial links or your website. Suggest them via the discussion page. Failure to do so will mean the deletion of your websites as spam.-->
+
+* [http://www.adb.org/ Asian Development Bank (ADB)]
+* [https://web.archive.org/web/20081217085143/http://filipiniana.net/ Filipinana.net – Free digital library and a research portal]
+* [http://www.wikimapia.org/#y=12554564&x=122915039&z=6&l=0&m=a WikiSatellite view of Philippines] at [[WikiMapia]]
+
+== ᱯᱷᱮᱰᱟᱛ ==
+[[ᱛᱷᱚᱠ:ᱫᱤᱥᱟᱹᱢ]] 
+[[ᱛᱷᱚᱠ:ᱮᱥᱤᱭᱳ ᱪᱟᱸᱫᱚ ᱥᱟᱯᱟᱲᱟᱣ ᱒᱐᱑᱘]] [[ᱛᱷᱚᱠ:ᱥᱟᱯᱲᱟᱣ ᱵᱟᱝ ᱥᱟᱹᱛ ᱟᱠᱟᱱᱟ]]
