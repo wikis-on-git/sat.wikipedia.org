@@ -131,7 +131,7 @@
 
 ==ᱚᱨᱡᱚ==
 ===ᱯᱩᱭᱞᱩ ᱫᱷᱟᱯ===
-====Pool A====
+===Pool A===
 {{#invoke:Sports table|main|style=WDL
 |update=complete
 |source=[https://www.worldcup2018.hockey/men/pools FIH]
@@ -145,9 +145,9 @@
 |win_ESP=0 |draw_ESP=2 |loss_ESP=1 |gf_ESP=6 |ga_ESP=7
 |win_FRA=1 |draw_FRA=1 |loss_FRA=1 |gf_FRA=7 |ga_FRA=6
 
-|name_ARG={{flag|ᱟᱨᱡᱮᱱᱴᱤᱱᱟ}}
-|name_NZL={{flag|ᱱᱭᱩᱡᱤᱞᱟᱸᱰ}}
-|name_ESP={{flag|ᱥᱯᱮᱱ}}
+|name_ARG={{fh|ARG}}
+|name_NZL={{fh|NZL}}
+|name_ESP={{fh|ESP}}
 |name_FRA={{fh|FRA}}
 
 <!--Table settings and rules-->
