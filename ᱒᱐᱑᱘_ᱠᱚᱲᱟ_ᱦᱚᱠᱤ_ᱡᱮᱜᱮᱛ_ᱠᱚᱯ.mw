@@ -531,5 +531,186 @@
 |umpires=
 }}
 
+===Second round===
+{{#invoke:RoundN|N16
+|widescore=yes|bold_winner=high
+|3rdplace=yes
+|skipmatch=1;3;5;7
+|omit_blanks=yes
+|RD1=Crossover
+|RD2=Quarterfinals
+|RD3=Semifinals
+|RD4=Final
+|Consol=Third place game
+<!--Date-Place/Team 1/Score 1/Team 2/Score 2 -->
+<!--play-offs  -->
+|10 December|{{fh|ENG}}||{{fh|NZL}}|
+|11 December|C2||D3|
+|10 December|{{fh|FRA}}||{{fh|CHN}}|
+|11 December|D2||C3|
+<!--quarterfinals-->
+|12 December|{{fh|ARG}}|||
+|13 December|D1|||
+|12 December|{{fh|AUS}}|||
+|13 December|C1|||
+<!--semifinals-->
+|15 December||||
+|15 December||||
+<!--final-->
+|16 December||||
+<!--third place-->
+|16 December||||
+}}
+
+====Crossover====
+{{fieldhockeybox
+|date=10 December 2018
+|time=16:45
+|team1={{fh-rt|ENG}}
+|score=
+|team2={{fh|NZL}}
+|report=[https://tms.fih.ch/matches/11183/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+----
+{{fieldhockeybox
+|date=10 December 2018
+|time=19:00
+|team1={{fh-rt|FRA}}
+|score=
+|team2={{fh|CHN}}
+|report=[https://tms.fih.ch/matches/11182/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+----
+{{fieldhockeybox
+|date=11 December 2018
+|time=16:45
+|team1=C2
+|score=
+|team2=D3
+|report=[https://tms.fih.ch/matches/11184/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+----
+{{fieldhockeybox
+|date=11 December 2018
+|time=19:00
+|team1=D2
+|score=
+|team2=C3
+|report=[https://tms.fih.ch/matches/11185/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+
+====Quarterfinals====
+{{fieldhockeybox
+|date=12 December 2018
+|time=16:45
+|team1={{fh-rt|ARG}}
+|score=
+|team2=WCO2
+|report=[https://tms.fih.ch/matches/11186/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+----
+{{fieldhockeybox
+|date=12 December 2018
+|time=19:00
+|team1={{fh-rt|AUS}}
+|score=
+|team2=WCO1
+|report=[https://tms.fih.ch/matches/11187/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+----
+{{fieldhockeybox
+|date=13 December 2018
+|time=16:45
+|team1=C1
+|score=
+|team2=WCO4
+|report=[https://tms.fih.ch/matches/11188/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+----
+{{fieldhockeybox
+|date=13 December 2018
+|time=19:00
+|team1=D1
+|score=
+|team2=WCO3
+|report=[https://tms.fih.ch/matches/11189/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+
+====Semifinals====
+{{fieldhockeybox
+|date=15 December 2018
+|time=16:00
+|team1=WQF1
+|score=
+|team2=WQF4
+|report=[https://tms.fih.ch/matches/11190/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+----
+{{fieldhockeybox
+|date=15 December 2018
+|time=18:30
+|team1=WQF2
+|score=
+|team2=WQF3
+|report=[https://tms.fih.ch/matches/11191/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+
+====Third place game====
+{{fieldhockeybox
+|date=16 December 2018
+|time=16:30
+|team1=LSF1
+|score=
+|team2=LSF2
+|report=[https://tms.fih.ch/matches/11192/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+
+====Final====
+{{fieldhockeybox
+|date=16 December 2018
+|time=19:00
+|team1=WSF1
+|score=
+|team2=WSF2
+|report=[https://tms.fih.ch/matches/11193/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+
+
 ==ᱥᱟᱹᱠᱷᱭᱟᱹᱛ==
 [[Category:᱒᱐᱑᱘ ᱠᱚᱲᱟ ᱦᱚᱠᱤ ᱡᱮᱜᱮᱛ ᱠᱚᱯ]]
