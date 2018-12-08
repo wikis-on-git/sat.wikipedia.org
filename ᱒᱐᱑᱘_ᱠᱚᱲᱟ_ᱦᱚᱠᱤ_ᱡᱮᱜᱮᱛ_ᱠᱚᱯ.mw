@@ -132,8 +132,104 @@
 ==ᱚᱨᱡᱚ==
 ===ᱯᱩᱭᱞᱩ ᱫᱷᱟᱯ===
 ====Pool A====
+{{#invoke:Sports table|main|style=WDL
+|update=complete
+|source=[https://www.worldcup2018.hockey/men/pools FIH]
 
+<!--Update team positions here-->
+|team1=ARG |team2=FRA |team3=NZL |team4=ESP
 
+<!--Update team results here and then (if needed positions above). Don't forget to update the date above (update parameter)-->
+|win_ARG=2 |draw_ARG=0 |loss_ARG=1 |gf_ARG=10|ga_ARG=8 
+|win_NZL=1 |draw_NZL=1 |loss_NZL=1 |gf_NZL=4 |ga_NZL=6 
+|win_ESP=0 |draw_ESP=2 |loss_ESP=1 |gf_ESP=6 |ga_ESP=7
+|win_FRA=1 |draw_FRA=1 |loss_FRA=1 |gf_FRA=7 |ga_FRA=6
+
+|name_ARG={{fh|ARG}}
+|name_NZL={{fh|NZL}}
+|name_ESP={{fh|ESP}}
+|name_FRA={{fh|FRA}}
+
+<!--Table settings and rules-->
+|class_rules = 1) points; 2) goal difference; 3) goals scored; 4) head-to-head result.<ref name= "Regulations">[http://www.fih.ch/files/Sport/Event%20Management/FIH%20Tournament%20Regulations%20-%20January%202015.pdf Regulations]</ref>
+
+<!--Update team qualifications here (defined below)-->
+|result1=PR |result2=A |result3=A |result4=E
+
+|res_col_header=Q
+|col_PR=green1 |text_PR=[[#Quarterfinals|Quarterfinals]]
+|col_A=yellow1 |text_A=[[#Crossover|Crossover]]
+|col_E=red1    |text_E=Eliminated
+}}
+
+{{fieldhockeybox
+|date=29 November 2018
+|time=17:00
+|team1={{fh-rt|ARG}}
+|score=4–3
+|team2={{fh|ESP}}
+|report=[https://tms.fih.ch/matches/11160/reports/matchreport Report]
+|goals1=[[Agustín Mazzilli|Mazzilli]] {{fhgoal|FG|4|FG|15}}<br />[[Gonzalo Peillat|Peillat]] {{fhgoal|PC|15+|PC|49}}
+|goals2=[[Enrique González (field hockey)|González]] {{fhgoal|FG|3}}<br />[[Josep Romeu|Romeu]] {{fhgoal|PC|14}}<br />[[Viçens Ruiz|Ruiz]] {{fhgoal|FG|35}}
+|umpires=Marcin Grochal (POL)<br />Javed Shaikh (IND)
+}}
+{{fieldhockeybox
+|date=29 November 2018
+|time=19:00
+|team1={{fh-rt|NZL}}
+|score=2–1
+|team2={{fh|FRA}}
+|report=[https://tms.fih.ch/matches/11161/reports/matchreport Report]
+|goals1=[[Kane Russell|Russell]] {{fhgoal|FG|16}}<br />[[Stephen Jenness|Jenness]] {{fhgoal|FG|56}}
+|goals2=[[Victor Charlet|Charlet]] {{fhgoal|PC|59}}
+|umpires=Martin Madden (SCO)<br />Peter Wright (RSA)
+}}
+----
+{{fieldhockeybox
+|date=3 December 2018
+|time=17:00
+|team1={{fh-rt|ESP}}
+|score=1–1
+|team2={{fh|FRA}}
+|report=[https://tms.fih.ch/matches/11168/reports/matchreport Report]
+|goals1=[[Álvaro Iglesias (field hockey)|Iglesias]] {{fhgoal|FG|48}}
+|goals2=[[Timothée Clément|Clément]] {{fhgoal|FG|6}}
+|umpires=Eric Koh (MAS)<br />Dan Barstow (ENG)
+}}
+{{fieldhockeybox
+|date=3 December 2018
+|time=19:00
+|team1={{fh-rt|NZL}}
+|score=0–3
+|team2={{fh|ARG}}
+|report=[https://tms.fih.ch/matches/11169/reports/matchreport Report]
+|goals1=
+|goals2=[[Agustín Mazzilli|Mazzilli]] {{fhgoal|FG|23}}<br />[[Lucas Vila|Vila]] {{fhgoal|FG|41}}<br />[[Lucas Martínez|Martínez]] {{fhgoal|PC|55}}
+|umpires=Ben Göntgen (GER)<br />Lim Hong Zhen (SGP)
+}}
+----
+{{fieldhockeybox
+|date=6 December 2018
+|time=17:00
+|team1={{fh-rt|ESP}}
+|score=2–2
+|team2={{fh|NZL}}
+|report=[https://tms.fih.ch/matches/11174/reports/matchreport Report]
+|goals1=[[Albert Beltrán|Beltrán]] {{fhgoal|FG|9}}<br />[[Álvaro Iglesias (field hockey)|Iglesias]] {{fhgoal|FG|27}}
+|goals2=[[Hayden Phillips (field hockey)|Phillips]] {{fhgoal|FG|50}}<br />[[Kane Russell|Russell]] {{fhgoal|PC|56}}
+|umpires=Peter Wright (RSA)<br />Raghu Prasad (IND)
+}}
+{{fieldhockeybox
+|date=6 December 2018
+|time=19:00
+|team1={{fh-rt|ARG}}
+|score=3–5
+|team2={{fh|FRA}}
+|report=[https://tms.fih.ch/matches/11175/reports/matchreport Report]
+|goals1=[[Lucas Martínez|Martínez]] {{fhgoal|FG|28}}<br />[[Gonzalo Peillat|Peillat]] {{fhgoal|PC|44|PC|48}}
+|goals2=[[Hugo Genestet|Genestet]] {{fhgoal|FG|18}}<br />[[Victor Charlet|Charlet]] {{fhgoal|PC|23}}<br />[[Aristide Coisne|Coisne]] {{fhgoal|FG|26}}<br />[[Gaspard Baumgarten|Baumgarten]] {{fhgoal|FG|30}}<br />[[François Goyet|Goyet]] {{fhgoal|FG|54}}
+|umpires=Eric Koh (MAS)<br />Jonas van't Hek (NED)
+}}
 
 ====Pool B====
 
