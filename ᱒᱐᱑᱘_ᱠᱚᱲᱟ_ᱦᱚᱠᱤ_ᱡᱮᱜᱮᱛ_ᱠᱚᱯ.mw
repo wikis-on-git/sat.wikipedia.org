@@ -232,6 +232,304 @@
 }}
 
 ====Pool B====
+{{#invoke:Sports table|main|style=WDL
+|update=complete
+|source=[https://www.worldcup2018.hockey/men/pools FIH]
+
+<!--Update team positions here-->
+|team1=AUS |team2=ENG |team3=CHN |team4=IRE
+
+<!--Update team results here and then (if needed positions above). Don't forget to update the date above (update parameter)-->
+|win_AUS=3 |draw_AUS=0 |loss_AUS=0 |gf_AUS=16|ga_AUS=1
+|win_CHN=0 |draw_CHN=2 |loss_CHN=1 |gf_CHN=3  |ga_CHN=14
+|win_ENG=1 |draw_ENG=1 |loss_ENG=1 |gf_ENG=6  |ga_ENG=7
+|win_IRE=0 |draw_IRE=1 |loss_IRE=2 |gf_IRE=4  |ga_IRE=7
+
+|name_AUS={{fh|AUS}}
+|name_CHN={{fh|CHN}}
+|name_ENG={{fh|ENG}}
+|name_IRE={{fh|IRE}}
+
+<!--Table settings and rules-->
+|class_rules = 1) points; 2) goal difference; 3) goals scored; 4) head-to-head result.<ref name= "Regulations" />
+
+<!--Update team qualifications here (defined below)-->
+|result1=PR |result2=A |result3=A |result4=E
+
+|res_col_header=Q
+|col_PR=green1 |text_PR=[[#Quarterfinals|Quarterfinals]]
+|col_A=yellow1 |text_A=[[#Crossover|Crossover]]
+|col_E=red1    |text_E=Eliminated
+}}
+
+{{fieldhockeybox
+|date=30 November 2018
+|time=17:00
+|team1={{fh-rt|AUS}}
+|score=2–1
+|team2={{fh|IRE}}
+|report=[https://tms.fih.ch/matches/11162/reports/matchreport Report]
+|goals1=[[Blake Govers|Govers]] {{fhgoal|PC|11}}<br />[[Timothy Brand|Brand]] {{fhgoal|FG|34}}
+|goals2=[[Shane O'Donoghue (field hockey)|O'Donoghue]] {{fhgoal|FG|13}}
+|umpires=Jonas van't Hek (NED)<br />Francisco Vásquez (ESP)
+}}
+{{fieldhockeybox
+|date=30 November 2018
+|time=19:00
+|team1={{fh-rt|ENG}}
+|score=2–2
+|team2={{fh|CHN}}
+|report=[https://tms.fih.ch/matches/11163/reports/matchreport Report]
+|goals1=[[Mark Gleghorne|Gleghorne]] {{fhgoal|PC|14}}<br />[[Liam Ansell|Ansell]] {{fhgoal|FG|48}}
+|goals2=[[Guo Xiaoping|Guo X.]] {{fhgoal|FG|5}}<br />[[Du Talake|Du]] {{fhgoal|PC|59}}
+|umpires=Eric Koh (MAS)<br />Gregory Uyttenhove (BEL)
+}}
+----
+{{fieldhockeybox
+|date=4 December 2018
+|time=17:00
+|team1={{fh-rt|ENG}}
+|score=0–3
+|team2={{fh|AUS}}
+|report=[https://tms.fih.ch/matches/11170/reports/matchreport Report]
+|goals1=
+|goals2=[[Jake Whetton|Whetton]] {{fhgoal|FG|47}}<br />[[Blake Govers|Govers]] {{fhgoal|FG|50}}<br />[[Corey Weyer|Weyer]] {{fhgoal|FG|56}}
+|umpires=Raghu Prasad (IND)<br />David Tomlinson (NZL)
+}}
+{{fieldhockeybox
+|date=4 December 2018
+|time=19:00
+|team1={{fh-rt|IRE}}
+|score=1–1
+|team2={{fh|CHN}}
+|report=[https://tms.fih.ch/matches/11171/reports/matchreport Report]
+|goals1=[[Alan Sothern|Sothern]] {{fhgoal|FG|44}}
+|goals2=[[Gou Jin|Guo J.]] {{fhgoal|PC|43}}
+|umpires=Simon Taylor (NZL)<br />Javed Shaikh (IND)
+}}
+----
+{{fieldhockeybox
+|date=7 December 2018
+|time=17:00
+|team1={{fh-rt|AUS}}
+|score=11–0
+|team2={{fh|CHN}}
+|report=[https://tms.fih.ch/matches/11176/reports/matchreport Report]
+|goals1=[[Blake Govers|Govers]] {{fhgoal|PC|10|PC|19|FG|34}}<br />[[Aran Zalewski|Zaleweski]] {{fhgoal|PC|15}}<br />[[Tom Craig (field hockey)|Craig]] {{fhgoal|FG|16}}<br />[[Jeremy Hayward|Hayward]] {{fhgoal|PC|22}}<br />[[Jake Whetton|Whetton]] {{fhgoal|FG|29}}<br />[[Tim Brand|Brand]] {{fhgoal|FG|33|FG|55}}<br />[[Dylan Wotherspoon|Wotherspoon]] {{fhgoal|FG|39}}<br />[[Flynn Ogilvie|Ogilvie]] {{fhgoal|FG|49}}
+|goals2=
+|umpires=Diego Barbas (ARG)<br />Lim Hong Zhen (SGP)
+}}
+{{fieldhockeybox
+|date=7 December 2018
+|time=19:00
+|team1={{fh-rt|IRE}}
+|score=2–4
+|team2={{fh|ENG}}
+|report=[https://tms.fih.ch/matches/11177/reports/matchreport Report]
+|goals1=[[Chris Cargo|Cargo]] {{fhgoal|FG|35}}<br />[[Shane O'Donoghue|O'Donoghue]] {{fhgoal|PC|37}}
+|goals2=[[David Condon (field hockey)|Condon]] {{fhgoal|FG|15}}<br />[[Liam Ansell|Ansell]] {{fhgoal|FG|37}}<br />[[James Gall (field hockey)|Gall]] {{fhgoal|FG|38}}<br />[[Mark Gleghorne|Gleghorne]] {{fhgoal|PC|60+}}
+|umpires=Marcin Grochal (POL)<br />Ben Göntgen (GER)
+}}
+
+====Pool C====
+{{#invoke:Sports table|main|style=WDL
+|update=2 December 2018
+|source=[https://www.worldcup2018.hockey/men/pools FIH]
+
+<!--Update team positions here-->
+|team1=IND |team2=BEL |team3=CAN |team4=RSA
+
+<!--Update team results here and then (if needed positions above). Don't forget to update the date above (update parameter)-->
+|win_IND=1 |draw_IND=1 |loss_IND=0 |gf_IND=7 |ga_IND=2 |status_IND=H
+|win_BEL=1 |draw_BEL=1 |loss_BEL=0 |gf_BEL=4 |ga_BEL=3 
+|win_CAN=0 |draw_CAN=1 |loss_CAN=1 |gf_CAN=2 |ga_CAN=3
+|win_RSA=0 |draw_RSA=1 |loss_RSA=1 |gf_RSA=1 |ga_RSA=6
+
+|name_BEL={{fh|BEL}}
+|name_IND={{fh|IND}}
+|name_CAN={{fh|CAN}}
+|name_RSA={{fh|RSA}}
+
+<!--Table settings and rules-->
+|class_rules = 1) points; 2) goal difference; 3) goals scored; 4) head-to-head result.<ref name= "Regulations" />
+
+<!--Update team qualifications here (defined below)-->
+|result1=PR |result2=A |result3=A |result4=E
+
+|res_col_header=Q
+|col_PR=green1 |text_PR=[[#Quarterfinals|Quarterfinals]]
+|col_A=yellow1 |text_A=[[#Crossover|Crossover]]
+|col_E=red1    |text_E=Eliminated
+}}
+
+{{fieldhockeybox
+|date=28 November 2018
+|time=17:00
+|team1={{fh-rt|BEL}}
+|score=2–1
+|team2={{fh|CAN}}
+|report=[https://tms.fih.ch/matches/11158/reports/matchreport Report]
+|goals1=[[Félix Denayer|Denayer]] {{fhgoal|FG|3}}<br />[[Thomas Briels|Briels]] {{fhgoal|FG|22}}
+|goals2=[[Mark Pearson (field hockey)|Pearson]] {{fhgoal|PC|48}}
+|umpires=Adam Kearns (AUS)<br />Lim Hong Zhen (SGP)
+}}
+{{fieldhockeybox
+|date=28 November 2018
+|time=19:00
+|team1={{fh-rt|IND}}
+|score=5–0
+|team2={{fh|RSA}}
+|report=[https://tms.fih.ch/matches/11159/reports/matchreport Report]
+|goals1=[[Mandeep Singh (field hockey)|Mand. Singh]] {{fhgoal|FG|10}}<br />[[Akashdeep Singh|A. Singh]] {{fhgoal|FG|12}}<br />[[Simranjeet Singh|S. Singh]] {{fhgoal|FG|43|PC|46}}<br />[[Lalit Upadhyay|Upadhyay]] {{fhgoal|FG|45}}
+|goals2=
+|umpires=Ben Göntgen (GER)<br />Diego Barbas (ARG)
+}}
+----
+{{fieldhockeybox
+|date=2 December 2018
+|time=17:00
+|team1={{fh-rt|CAN}}
+|score=1–1
+|team2={{fh|RSA}}
+|report=[https://tms.fih.ch/matches/11166/reports/matchreport Report]
+|goals1=[[Scott Tupper|Tupper]] {{fhgoal|PS|45}}
+|goals2=[[Nqobile Ntuli|Ntuli]] {{fhgoal|FG|43}}
+|umpires=Martin Madden (SCO)<br />Jonas van't Hek (NED)
+}}
+{{fieldhockeybox
+|date=2 December 2018
+|time=19:00
+|team1={{fh-rt|IND}}
+|score=2–2
+|team2={{fh|BEL}}
+|report=[https://tms.fih.ch/matches/11167/reports/matchreport Report]
+|goals1=[[Harmanpreet Singh|H. Singh]] {{fhgoal|PS|39}}<br />[[Simranjeet Singh|S. Singh]] {{fhgoal|FG|47}}
+|goals2=[[Alexander Hendrickx|Hendrickx]] {{fhgoal|PC|8}}<br />[[Simon Gougnard|Gougnard]] {{fhgoal|FG|56}}
+|umpires=Marcin Grochal (POL)<br />Francisco Vásquez (ESP)
+}}
+----
+{{fieldhockeybox
+|date=8 December 2018
+|time=17:00
+|team1={{fh-rt|BEL}}
+|score=
+|team2={{fh|RSA}}
+|report=[https://tms.fih.ch/matches/11178/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=Eric Koh (MAS)<br />David Tomlinson (NZL)
+}}
+{{fieldhockeybox
+|date=8 December 2018
+|time=19:00
+|team1={{fh-rt|CAN}}
+|score=
+|team2={{fh|IND}}
+|report=[https://tms.fih.ch/matches/11179/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=Dan Barstow (ENG)<br />Simon Taylor (NZL)
+}}
+
+====Pool D====
+{{#invoke:Sports table|main|style=WDL
+|update=5 December 2018
+|source=[https://www.worldcup2018.hockey/men/pools FIH]
+
+<!--Update team positions here-->
+|team1=GER |team2=NED |team3=PAK |team4=MAS
+
+<!--Update team results here and then (if needed positions above). Don't forget to update the date above (update parameter)-->
+|win_GER=2 |draw_GER=0 |loss_GER=0 |gf_GER=5 |ga_GER=1 |status_GER=T
+|win_NED=1 |draw_NED=0 |loss_NED=1 |gf_NED=8 |ga_NED=4
+|win_MAS=0 |draw_MAS=1 |loss_MAS=1 |gf_MAS=1 |ga_MAS=8
+|win_PAK=0 |draw_PAK=1 |loss_PAK=1 |gf_PAK=1 |ga_PAK=2
+
+|name_GER={{fh|GER}}
+|name_NED={{fh|NED}}
+|name_MAS={{fh|MAS}}
+|name_PAK={{fh|PAK}}
+
+<!--Table settings and rules-->
+|class_rules = 1) points; 2) goal difference; 3) goals scored; 4) head-to-head result.<ref name= "Regulations" />
+
+<!--Update team qualifications here (defined below)-->
+|result1=PR |result2=A |result3=A |result4=E
+
+|res_col_header=Q
+|col_PR=green1 |text_PR=[[#Quarterfinals|Quarterfinals]]
+|col_A=yellow1 |text_A=[[#Crossover|Crossover]]
+|col_E=red1    |text_E=Eliminated
+}}
+
+{{fieldhockeybox
+|date=1 December 2018
+|time=17:00
+|team1={{fh-rt|NED}}
+|score=7–0
+|team2={{fh|MAS}}
+|report=[https://tms.fih.ch/matches/11164/reports/matchreport Report]
+|goals1=[[Jeroen Hertzberger|Hertzberger]] {{fhgoal|FG|12|FG|29|FG|60}}<br />[[Mirco Pruyser|Pruyser]] {{fhgoal|FG|21}}<br />[[Mink van der Weerden|Van der Weerden]] {{fhgoal|PC|35}}<br />[[Robbert Kemperman|Kemperman]] {{fhgoal|FG|42}}<br />[[Thierry Brinkman|Brinkman]] {{fhgoal|PC|57}}
+|goals2=
+|umpires=Raghu Prasad (IND)<br />Simon Taylor (NZL)
+}}
+{{fieldhockeybox
+|date=1 December 2018
+|time=19:00
+|team1={{fh-rt|GER}}
+|score=1–0
+|team2={{fh|PAK}}
+|report=[https://tms.fih.ch/matches/11165/reports/matchreport Report]
+|goals1=[[Marco Miltkau|Miltkau]] {{fhgoal|FG|36}}
+|goals2=
+|umpires=Dan Barstow (ENG)<br />David Tomlinson (NZL)
+}}
+----
+{{fieldhockeybox
+|date=5 December 2018
+|time=17:00
+|team1={{fh-rt|GER}}
+|score=4–1
+|team2={{fh|NED}}
+|report=[https://tms.fih.ch/matches/11172/reports/matchreport Report]
+|goals1=[[Mathias Müller|Müller]] {{fhgoal|PC|30}}<br />[[Lukas Windfeder|Windfeder]] {{fhgoal|PC|52}}<br />[[Marco Miltkau|Miltkau]] {{fhgoal|FG|54}}<br />[[Christopher Rühr|Rühr]] {{fhgoal|PS|58}}
+|goals2=[[Valentin Verga|Verga]] {{fhgoal|FG|13}}
+|umpires=Peter Wright (RSA)<br />Adam Kearns (AUS)
+}}
+{{fieldhockeybox
+|date=5 December 2018
+|time=19:00
+|team1={{fh-rt|MAS}}
+|score=1–1
+|team2={{fh|PAK}}
+|report=[https://tms.fih.ch/matches/11173/reports/matchreport Report]
+|goals1=[[Faizal Saari|Faizal]] {{fhgoal|PC|55}}
+|goals2=[[Muhammad Atiq|Atiq]] {{fhgoal|FG|51}}
+|umpires=Gregory Uttenhove (BEL)<br />Diego Barbas (ARG)
+}}
+----
+{{fieldhockeybox
+|date=9 December 2018
+|time=17:00
+|team1={{fh-rt|MAS}}
+|score=
+|team2={{fh|GER}}
+|report=[https://tms.fih.ch/matches/11180/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
+{{fieldhockeybox
+|date=9 December 2018
+|time=19:00
+|team1={{fh-rt|NED}}
+|score=
+|team2={{fh|PAK}}
+|report=[https://tms.fih.ch/matches/11181/reports/matchreport Report]
+|goals1=
+|goals2=
+|umpires=
+}}
 
 ====Pool C====
 
