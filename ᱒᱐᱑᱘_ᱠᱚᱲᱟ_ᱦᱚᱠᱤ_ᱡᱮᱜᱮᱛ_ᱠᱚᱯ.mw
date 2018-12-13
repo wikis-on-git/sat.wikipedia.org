@@ -340,10 +340,10 @@
 |team1=IND |team2=BEL |team3=CAN |team4=RSA
 
 <!--Update team results here and then (if needed positions above). Don't forget to update the date above (update parameter)-->
-|win_IND=1 |draw_IND=1 |loss_IND=0 |gf_IND=7 |ga_IND=2 |status_IND=H
-|win_BEL=1 |draw_BEL=1 |loss_BEL=0 |gf_BEL=4 |ga_BEL=3 
-|win_CAN=0 |draw_CAN=1 |loss_CAN=1 |gf_CAN=2 |ga_CAN=3
-|win_RSA=0 |draw_RSA=1 |loss_RSA=1 |gf_RSA=1 |ga_RSA=6
+|win_IND=2 |draw_IND=1 |loss_IND=0 |gf_IND=12 |ga_IND=3 |status_IND=H
+|win_BEL=1 |draw_BEL=2 |loss_BEL=1 |gf_BEL=9 |ga_BEL=4 
+|win_CAN=0 |draw_CAN=1 |loss_CAN=2 |gf_CAN=3 |ga_CAN=8
+|win_RSA=0 |draw_RSA=1 |loss_RSA=2 |gf_RSA=2 |ga_RSA=11
 
 |name_BEL={{fh|BEL}}
 |name_IND={{fh|IND}}
