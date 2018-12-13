@@ -341,7 +341,7 @@
 
 <!--Update team results here and then (if needed positions above). Don't forget to update the date above (update parameter)-->
 |win_IND=2 |draw_IND=1 |loss_IND=0 |gf_IND=12 |ga_IND=3 |status_IND=H
-|win_BEL=2 |draw_BEL=1 |loss_BEL=1 |gf_BEL=9 |ga_BEL=4 
+|win_BEL=2 |draw_BEL=1 |loss_BEL=0 |gf_BEL=9 |ga_BEL=4 
 |win_CAN=0 |draw_CAN=1 |loss_CAN=2 |gf_CAN=3 |ga_CAN=8
 |win_RSA=0 |draw_RSA=1 |loss_RSA=2 |gf_RSA=2 |ga_RSA=11
 
