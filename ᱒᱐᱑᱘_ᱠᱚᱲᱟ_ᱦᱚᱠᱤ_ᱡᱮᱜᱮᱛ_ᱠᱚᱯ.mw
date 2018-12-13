@@ -440,10 +440,10 @@
 |team1=GER |team2=NED |team3=PAK |team4=MAS
 
 <!--Update team results here and then (if needed positions above). Don't forget to update the date above (update parameter)-->
-|win_GER=2 |draw_GER=0 |loss_GER=0 |gf_GER=5 |ga_GER=1 |status_GER=T
-|win_NED=1 |draw_NED=0 |loss_NED=1 |gf_NED=8 |ga_NED=4
-|win_MAS=0 |draw_MAS=1 |loss_MAS=1 |gf_MAS=1 |ga_MAS=8
-|win_PAK=0 |draw_PAK=1 |loss_PAK=1 |gf_PAK=1 |ga_PAK=2
+|win_GER=3 |draw_GER=0 |loss_GER=0 |gf_GER=10 |ga_GER=4 |status_GER=T
+|win_NED=2 |draw_NED=0 |loss_NED=1 |gf_NED=13 |ga_NED=5
+|win_PAK=0 |draw_PAK=1 |loss_PAK=2 |gf_PAK=2 |ga_PAK=7
+|win_MAS=0 |draw_MAS=1 |loss_MAS=2 |gf_MAS=4 |ga_MAS=13
 
 |name_GER={{fh|GER}}
 |name_NED={{fh|NED}}
