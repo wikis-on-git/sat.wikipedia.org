@@ -721,26 +721,26 @@
 {{#invoke:Sports table|main|style=WDL
 
 |source=[https://www.worldcup2018.hockey/men/pools FIH]
-|update=11 December 2018
+|update=complete
 
 |name_ARG={{fh|ARG}} |win_ARG=2 |draw_ARG=0 |loss_ARG=2 |gf_ARG=12|ga_ARG=11
-|name_AUS={{fh|AUS}} |win_AUS=3 |draw_AUS=0 |loss_AUS=0 |gf_AUS=16|ga_AUS=1
-|name_BEL={{fh|BEL}} |win_BEL=3 |draw_BEL=1 |loss_BEL=0 |gf_BEL=14|ga_BEL=4
+|name_AUS={{fh|AUS}} |win_AUS=5 |draw_AUS=1 |loss_AUS=0 |gf_AUS=29|ga_AUS=4
+|name_BEL={{fh|BEL}} |win_BEL=5 |draw_BEL=2 |loss_BEL=0 |gf_BEL=22|ga_BEL=5
 |name_CAN={{fh|CAN}} |win_CAN=0 |draw_CAN=1 |loss_CAN=3 |gf_CAN=3 |ga_CAN=13
 |name_CHN={{fh|CHN}} |win_CHN=0 |draw_CHN=2 |loss_CHN=2 |gf_CHN=3 |ga_CHN=15
-|name_ENG={{fh|ENG}} |win_ENG=2 |draw_ENG=1 |loss_ENG=1 |gf_ENG=8 |ga_ENG=7
+|name_ENG={{fh|ENG}} |win_ENG=3 |draw_ENG=1 |loss_ENG=3 |gf_ENG=12 |ga_ENG=23
 |name_FRA={{fh|FRA}} |win_FRA=2 |draw_FRA=1 |loss_FRA=2 |gf_FRA=8 |ga_FRA=9
 |name_GER={{fh|GER}} |win_GER=3 |draw_GER=0 |loss_GER=1 |gf_GER=11|ga_GER=6
 |name_IND={{fh|IND}} |win_IND=2 |draw_IND=1 |loss_IND=1 |gf_IND=13|ga_IND=5 |status_IND=H
 |name_IRE={{fh|IRE}} |win_IRE=0 |draw_IRE=1 |loss_IRE=2 |gf_IRE=4 |ga_IRE=7
 |name_MAS={{fh|MAS}} |win_MAS=0 |draw_MAS=1 |loss_MAS=2 |gf_MAS=4 |ga_MAS=13
-|name_NED={{fh|NED}} |win_NED=3 |draw_NED=0 |loss_NED=1 |gf_NED=18|ga_NED=5
+|name_NED={{fh|NED}} |win_NED=4 |draw_NED=2 |loss_NED=1 |gf_NED=22|ga_NED=8
 |name_NZL={{fh|NZL}} |win_NZL=1 |draw_NZL=1 |loss_NZL=2 |gf_NZL=4 |ga_NZL=8
 |name_PAK={{fh|PAK}} |win_PAK=0 |draw_PAK=1 |loss_PAK=3 |gf_PAK=2 |ga_PAK=12
 |name_RSA={{fh|RSA}} |win_RSA=0 |draw_RSA=1 |loss_RSA=2 |gf_RSA=2 |ga_RSA=11
 |name_ESP={{fh|ESP}} |win_ESP=0 |draw_ESP=2 |loss_ESP=1 |gf_ESP=6 |ga_ESP=7
 
-|team1= |team2= |team3= |team4= |team5=GER |team6=IND |team7=FRA |team8=ARG |team9=NZL |team10=CHN |team11=CAN |team12=PAK |team13=ESP |team14=IRE |team15=MAS |team16=RSA
+|team1=BEL |team2=NED |team3=AUS |team4=ENG |team5=GER |team6=IND |team7=ARG |team8=FRA |team9=NZL |team10=CHN |team11=CAN |team12=PAK |team13=ESP |team14=IRE |team15=MAS |team16=RSA
 |split4=yes |split8=yes|split12=yes
 
 |res_col_header=Final result
