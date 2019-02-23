@@ -21,7 +21,7 @@
 | pushpin_label_position = 
 | pushpin_map_alt = 
 | pushpin_map_caption = Location in Odisha, India
-| coordinates = {{coord|20|19|N|84|56|E|display=inline}} <!-- {{coord|latitude|longitude|type:city|display=inline,title}} -->
+| coordinates = {{coord|20|19|N|84|56|E|display=inline,title}} <!-- {{coord|latitude|longitude|type:city|display=inline,title}} -->
 | coor_pinpoint = 
 | coordinates_footnotes = 
 | subdivision_type = Country
