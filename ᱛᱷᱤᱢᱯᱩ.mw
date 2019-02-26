@@ -8,7 +8,7 @@
 |image_map              = Thimphu Bhutan location map.png
 |map_caption            = ᱛᱷᱤᱢᱯᱩ, ᱵᱦᱩᱴᱟᱱ
 |coordinates_region     = BT
-|subdivision_type       = ᱫᱤᱥᱟᱹᱢ
+|subdivision_type       = 
 |subdivision_name       = {{flag|Bhutan}}
 |subdivision_type1      = ᱡᱤᱞᱟᱹ
 |subdivision_name1      = ᱛᱷᱤᱢᱯᱩ ᱡᱤᱞᱟᱹ 
@@ -18,12 +18,10 @@
 |established_title      =
 |established_date       =
 |area_magnitude         ={{convert|830|ha|acre}}
-|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
-|population_as_of               = ୨୦୦୫
-|population_footnotes           =
-|population_note                =
-|population_total               = 79,185
-|population_density_km2         = 3029
+|unit_pref              =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|population_as_of       = ୨୦୦୫
+|population_total       = 79,185
+|population_density_km2 = 3029
 |timezone               =
 |latd=27|latm=28 |lats=00 |latNS=N
 |longd=89|longm=38 |longs= 30|longEW=E
