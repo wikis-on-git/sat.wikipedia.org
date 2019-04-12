@@ -1,7 +1,5 @@
 {{Infobox settlement
 | name                            = ᱢᱚᱦᱟᱨᱟᱥᱴᱨᱚ 
-| native_name                     = <!-- Please do not add any Indic script in this infobox, per WP:INDICSCRIPT policy. -->
-| native_name_lang                = 
 | image_skyline                   = {{Photomontage
 | photo1a      = Mahabaleshwar Pratapgad 023.jpg
 | photo1b      = Mumbai Train Station.jpg
@@ -17,17 +15,12 @@
 | border       = 0
 | color        = white 
 | foot_montage = ''ᱪᱮᱛᱟᱱ ᱠᱷᱚᱱ, ᱞᱮᱸᱜᱟ ᱠᱷᱚᱱ ᱡᱚᱡᱚᱢ:'' [[Pratapgad|ᱯᱨᱚᱛᱟᱯᱜᱚᱰ ᱠᱤᱞᱟ]] ( [[ᱢᱚᱦᱟᱵᱚᱞᱮᱥᱣᱚᱨ]] ᱥᱩᱨ [[ᱣᱮᱥᱴᱚᱨᱱ ᱜᱷᱟᱴᱥ]] ᱨᱮ, [[ᱪᱷᱚᱛᱨᱚᱯᱚᱛᱤ ᱥᱤᱵᱟᱡᱤ ᱢᱚᱦᱟᱨᱟᱡᱽ ᱴᱟᱨᱢᱤᱱᱚᱥ ᱨᱮᱞᱣᱮ ᱥᱴᱮᱥᱚᱱ]],  [[ᱯᱚᱫᱽᱢᱚᱯᱟᱱᱤ]] ᱯᱮᱱᱴᱤᱝ [[ᱚᱡᱚᱱᱛᱟ ᱠᱮᱵᱽᱥ]] ᱨᱮ, [[Kailasa temple, Ellora|ᱠᱚᱭᱞᱟᱥᱟ ᱢᱩᱫᱽᱨᱤ]]  [[ᱮᱨᱳᱨᱟ ᱠᱮᱵᱽᱥ]] ᱨᱮ, [[ᱫᱤ ᱜᱮᱴ ᱣᱮ ᱳᱯᱷ ᱤᱱᱰᱤᱭᱟ]], [[ᱛᱨᱤᱢᱩᱨᱛᱤ]]  [[ᱦᱟ.ᱛᱤ ᱜᱚᱸᱜᱷᱚᱨ]] ᱟᱜ ᱢᱩᱨᱛᱤ, [[Shaniwar Wada|ᱥᱚᱱᱤᱣᱚᱨ ᱣᱟᱰᱟ ᱯᱷᱚᱨᱴ]] ᱟᱨ [[ᱦᱟᱡᱩᱨ ᱥᱟᱦᱤᱵᱽ ᱱᱚᱱᱫᱤᱫᱽ]]}}
-| image_caption                   = 
 | image_seal                      = Seal of Maharashtra.png
 | seal_alt                        = Seal of Maharashtra
 | image_map                       = IN-MH.svg
-| map_alt                         = 
 | map_caption                     =ᱥᱤᱧᱚᱛ ᱨᱮ ᱢᱚᱦᱟᱨᱟᱥᱴᱨᱚ ᱨᱮᱭᱟᱜ ᱛᱷᱚᱱᱚᱛ
-| image_map1                      = 
-| map_caption1                    = 
-| coordinates                     = {{coord|18.97|72.820|region:IN-MH_type:adm1st|display=inline,title}}
+| coordinates                     = {{coord|18.97|72.820|region:IN-MH_type:adm1st|display=inline}}
 | coor_pinpoint                   = Mumbai
-| coordinates_footnotes           = 
 | subdivision_type                = [[ᱫᱤᱥᱚᱢ]]
 | subdivision_name                = [[ᱥᱤᱧᱚᱛ]]
 | established_title               = ᱜᱚᱲᱦᱚᱱ
@@ -64,9 +57,9 @@
 | demographics_type1              = GDP
 | demographics1_footnotes         =<ref name="prs-analysis-1819">{{cite web|title=Maharashtra Budget Analysis 2019–19|url=http://www.prsindia.org/uploads/media/State%20Budget%202018-19/Maharashtra%20Budget%20Analysis%202018-19.pdf|website=PRS Legislative Research|accessdate=2 June 2018|archive-url=https://web.archive.org/web/20180315003728/http://www.prsindia.org/uploads/media/State%20Budget%202018-19/Maharashtra%20Budget%20Analysis%202018-19.pdf|archive-date=15 March 2018|dead-url=yes|df=dmy-all}}</ref><ref name="economic-survey-1718">{{cite web |title=Economic Survey of Maharashtra 2017–18 |url=https://mahades.maharashtra.gov.in/files/publication/ESM_17_18_eng.pdf|publisher=Directorate of Economics and Statistics, Planning Department, Government of Maharashtra, India |accessdate=16 June 2018 |page=20 |date=|format=PDF}}</ref>
 | demographics1_title1            = [[List of Indian states and union territories by GDP|Total]] {{nobold|(2018–19)}}
-| demographics1_info1             = {{INRConvert|27.96|lc}}
+| demographics1_info1             = 27.96 ᱞᱟᱠ
 | demographics1_title2            = [[List of Indian states and union territories by GDP per capita|Per capita]] {{nobold|(2017–18)}}
-| demographics1_info2             = {{INRConvert|180596}}
+| demographics1_info2             = ᱑,᱘᱐,᱕᱙᱖
 | registration_plate              = [[List of RTO districts in India#MH—Maharashtra|MH]]
 | blank_name_sec1                 = {{nowrap|[[Official languages]]}}
 | blank_info_sec1                 = [[Marathi language|ᱢᱚᱨᱟᱴᱷᱤ]]<ref name="auto">{{Cite web|url=http://www.lawsofindia.org/pdf/maharashtra/1965/1965MH5.pdf|title=The Maharashtra Official Languages Act, 1964; Amendment Act, 2015|date=|website=lawsofindia.org|access-date=}}</ref><ref name=nclmanurep2010>{{cite web |url = http://www.nclm.nic.in/shared/linkimages/NCLM52ndReport.pdf |title = Report of the Commissioner for linguistic minorities: 52nd report (July 2014 to June 2015) |pages = 34–35 |publisher = Commissioner for Linguistic Minorities, Ministry of Minority Affairs, Government of India |accessdate = 16 February 2016 |df = dmy-all |archiveurl = https://web.archive.org/web/20171228171523/http://www.nclm.nic.in/shared/linkimages/NCLM52ndReport.pdf |archivedate = 28 December 2017}}</ref>
