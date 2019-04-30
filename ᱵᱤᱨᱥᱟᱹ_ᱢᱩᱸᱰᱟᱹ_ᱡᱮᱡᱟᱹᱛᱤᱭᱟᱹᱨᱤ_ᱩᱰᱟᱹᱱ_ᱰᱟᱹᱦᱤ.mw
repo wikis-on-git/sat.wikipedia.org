@@ -1,13 +1,13 @@
 {{Infobox airport
 |name = ᱵᱤᱨᱥᱟᱹ ᱢᱩᱸᱰᱟᱹ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ
 |nativename = 
-|image = File:Sultan Ismail Petra Airport, IATA, KBR, ICAO, WMKC.jpg
+|image = Ranchi Airport Night View.jpg
 |caption = ᱵᱤᱨᱥᱟᱹ ᱢᱩᱸᱰᱟᱹ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ
 |IATA = IXR
 |ICAO = VERC
 |type = ᱫᱤᱥᱣᱟᱹ
 |owner = [[ᱥᱤᱧᱚᱛ ᱥᱚᱨᱠᱟᱨ]]
-|operator = [[ᱤᱱᱰᱤᱭᱟ ᱮᱭᱟᱨᱯᱚᱴᱥ ᱦᱚᱞᱰᱤᱝᱥ ᱵᱮᱨᱦᱟᱰ]]
+|operator = [[Airports Authority of India]]
 |city-served = [[ᱨᱟᱺᱪᱤ]], [[ᱡᱷᱟᱨᱠᱷᱚᱸᱰ]], [[ᱥᱤᱧᱚᱛ]]
 |location = [[ᱦᱤᱰᱩ]], [[ᱨᱟᱺᱪᱤ]], [[ᱥᱤᱧᱚᱛ]]
 | timezone = [[Time in India|MST]]
@@ -15,11 +15,18 @@
 | elevation-f = 2148
 |coordinates = {{coord|23|18|51|N|085|19|18|E|type:airport|display=inline,title}}
 |website ={{URL|birsamundainternationalairport.com}}
-|r1-number = 13R/31L
-|r1-length-m =3,200
-|r1-surface = [[ᱟᱥᱯᱷᱟᱞᱴ]]
-|r2-number = 13L/31R
-|r2-length-m =3,600
+| r1-number           = 13/31 <!--1,000 Passengers (at a time)-->
+| r1-length-f         = 10,500
+| r1-length-m         = 3,200
+| r1-surface          = [[ᱟᱥᱯᱷᱟᱞᱴ]]
+| r2-number           = 31/13
+| r2-length-f         = 12,500
+| r2-length-m         = 3,600
+| r2-surface          = [[ᱟᱥᱯᱷᱟᱞᱴ]]
+| h1-number           = H1
+| h1-length-f         = 63
+| h1-length-m         = 19
+| h1-surface          = [[ᱟᱥᱯᱷᱟᱞᱴ]]
 |r2-surface = [[ᱟᱥᱯᱷᱟᱞᱴ]]
 |metric-rwy = y
 | stat-year = 2018
@@ -31,6 +38,57 @@
 | stat3-data = 4,743 ({{decrease}} %)
 |footnotes = ᱯᱷᱮᱰᱟᱛ: ᱚᱯᱷᱤᱥᱤᱭᱟᱞ ᱣᱮᱵᱥᱟᱭᱤᱴ}}
 
+'''ᱵᱤᱨᱥᱟᱹ ᱢᱩᱸᱰᱟᱹ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ (BMIA) (IATA: IXR, ICAO: VERC)''' ᱫᱚ ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱢᱩᱬᱩᱛ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱥᱟᱶᱛᱮ ᱠᱚᱸᱧᱮ ᱮᱥᱤᱭᱟ ᱟᱨ ᱡᱮᱜᱮᱛ ᱨᱮᱱᱟᱜ ᱧᱩᱢ ᱟᱱᱟᱜ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱡᱷᱟᱨᱠᱷᱚᱸᱰ ᱯᱚᱱᱚᱛ ᱨᱮᱱᱟᱜ ᱨᱟᱺᱪᱤ ᱧᱩᱛᱩᱢᱟᱱ ᱴᱷᱟᱶ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱰᱚ ᱨᱟᱺᱪᱤ ᱱᱟᱜᱟᱨ ᱛᱟᱞᱢᱟ ᱠᱷᱚᱱ ᱗ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+
+ᱱᱚᱶᱟ ᱫᱚ ᱡᱷᱟᱨᱠᱷᱚᱸᱰ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ ᱟᱨ ᱵᱷᱤᱲ ᱟᱱ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱾ ᱒᱐᱑᱘ ᱥᱟᱞᱮ ᱨᱮ ᱱᱚᱸᱰᱮ ᱑,᱗᱗᱘,᱓᱔᱙ ᱜᱚᱴᱟᱝ ᱯᱟᱥᱮᱧᱡᱚᱨ ᱠᱚ ᱦᱮᱡ ᱥᱮᱱ ᱟᱠᱟᱱᱟ ᱾ ᱞᱮᱠᱷᱟᱜᱩᱴ ᱯᱟᱥᱮᱧᱡᱚᱨ ᱴᱨᱟᱯᱷᱤᱠ ᱞᱮᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱫᱚ ᱑᱘ ᱫᱷᱟᱹᱲ ᱟᱱᱟᱜ ᱵᱷᱤᱲ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱾
+
+ᱱᱚᱶᱟ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱫᱚ ᱤᱱᱰᱤᱭᱟ ᱮᱭᱟᱨᱯᱚᱴᱥ ᱫᱟᱨᱟᱭ ᱛᱮ ᱛᱚᱨᱟᱣᱜ ᱠᱟᱱᱟ ᱥᱟᱶᱛᱮ ᱤᱱᱰᱤᱭᱟ ᱮᱭᱟᱨᱞᱟᱭᱤᱱᱥ, ᱢᱟᱥᱠᱟᱨᱜᱚ (MASkargo), ᱮᱭᱟᱨ ᱮᱥᱤᱭᱟ (AirAsia), ᱮᱭᱟᱨ ᱮᱥᱤᱭᱟ ᱮᱠᱥ (AirAsia X), ᱮᱭᱟᱨ ᱤᱱᱰᱤᱜᱚ (Indigo Air), ᱟᱨ ᱮᱥᱤᱭᱟ ᱠᱟᱨᱜᱚ ᱮᱠᱥᱯᱨᱮᱥ (AsiaCargo Express) ᱨᱮᱱᱟᱜ ᱢᱟᱨᱟᱝ ᱜᱦᱟᱨᱚᱡᱽ ᱠᱟᱱᱟ ᱾ ᱱᱟᱜᱟᱢ
+{{short description|Indian airport serving the city of Ranchi}}
+{{Use dmy dates|date=October 2018}}
+{{Use Indian English|date=October 2018}}
+{{Infobox airport
+| name                = Birsa Munda Airport
+| nativename-a         = 
+| image2              = Ranchi Airport Night View.jpg
+| image2-width        = 300
+| caption2            =  Birsa Munda, Ranchi
+| IATA                = IXR
+| ICAO                = VERC
+| type                = Public
+| owner               = 
+| operator            = [[Airports Authority of India]]
+| city-served         = [[Ranchi]]
+| hub                 = 
+| location            = Hinoo, Ranchi (adjacent to [[Hatia]])
+| elevation-f         = 2,120
+| elevation-m         = 646
+| metric-elev         = y
+| coordinates         = {{coord|23|18|51|N|085|19|18|E|type:airport|display=inline,title}}
+| website             = [https://www.aai.aero/en/airports/ranchi AAI page] 
+| pushpin_map         = India Jharkhand#India#Asia#World
+| pushpin_relief = 10
+| pushpin_mapsize     = 250
+| pushpin_map_caption =Location of airport in Ranchi, India
+| pushpin_label       ='''IXR'''
+| r1-number           = 13/31 <!--1,000 Passengers (at a time)-->
+| r1-length-f         = 10,500
+| r1-length-m         = 3,200
+| r1-surface          = [[Asphalt]]
+| h1-number           = H1
+| h1-length-f         = 63
+| h1-length-m         = 19
+| h1-surface          = [[Asphalt]]
+| stat1-header        = Passenger movements
+| stat1-data          = 1,778,349 {{increase}}71.7
+| stat-year           = April (2017) - March (2018)
+| footnotes           = Source: [[Airport Authority of India|AAI]]<ref>{{cite web|url=http://www.aai.aero/traffic_news/traffic_news_2014.jsp|format=jsp|title=TRAFFIC STATISTICS - DOMESTIC & INTERNATIONAL PASSENGERS|publisher=Aai.aero|accessdate=31 December 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20150103234103/http://www.aai.aero/traffic_news/traffic_news_2014.jsp|archivedate=3 January 2015|df=}}</ref>
+| stat2-header        = Aircraft movements
+| stat2-data          = 1,500,9
+| stat3-header        = Cargo tonnage
+| stat3-data          = 4,743
+| stat4-header        = 
+| stat4-data          = 
+}}
 '''ᱵᱤᱨᱥᱟᱹ ᱢᱩᱸᱰᱟᱹ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ (BMIA) (IATA: IXR, ICAO: VERC)''' ᱫᱚ ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱢᱩᱬᱩᱛ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱥᱟᱶᱛᱮ ᱠᱚᱸᱧᱮ ᱮᱥᱤᱭᱟ ᱟᱨ ᱡᱮᱜᱮᱛ ᱨᱮᱱᱟᱜ ᱧᱩᱢ ᱟᱱᱟᱜ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱡᱷᱟᱨᱠᱷᱚᱸᱰ ᱯᱚᱱᱚᱛ ᱨᱮᱱᱟᱜ ᱨᱟᱺᱪᱤ ᱧᱩᱛᱩᱢᱟᱱ ᱴᱷᱟᱶ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱰᱚ ᱨᱟᱺᱪᱤ ᱱᱟᱜᱟᱨ ᱛᱟᱞᱢᱟ ᱠᱷᱚᱱ ᱗ ᱠᱤᱞᱚᱢᱤᱴᱚᱨ ᱥᱟᱺᱜᱤᱧ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 
 ᱱᱚᱶᱟ ᱫᱚ ᱡᱷᱟᱨᱠᱷᱚᱸᱰ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ ᱟᱨ ᱵᱷᱤᱲ ᱟᱱ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱾ ᱒᱐᱑᱘ ᱥᱟᱞᱮ ᱨᱮ ᱱᱚᱸᱰᱮ ᱑,᱗᱗᱘,᱓᱔᱙ ᱜᱚᱴᱟᱝ ᱯᱟᱥᱮᱧᱡᱚᱨ ᱠᱚ ᱦᱮᱡ ᱥᱮᱱ ᱟᱠᱟᱱᱟ ᱾ ᱞᱮᱠᱷᱟᱜᱩᱴ ᱯᱟᱥᱮᱧᱡᱚᱨ ᱴᱨᱟᱯᱷᱤᱠ ᱞᱮᱠᱟᱛᱮ ᱱᱚᱶᱟ ᱫᱚ ᱑᱘ ᱫᱷᱟᱹᱲ ᱟᱱᱟᱜ ᱵᱷᱤᱲ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱠᱟᱱᱟ ᱾
