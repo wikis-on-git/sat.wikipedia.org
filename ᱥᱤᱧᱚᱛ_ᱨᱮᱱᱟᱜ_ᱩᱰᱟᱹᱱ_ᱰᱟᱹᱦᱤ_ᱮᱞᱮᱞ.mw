@@ -3,8 +3,8 @@
 ===[[ᱚᱨᱩᱱᱟᱪᱚᱞ ᱯᱨᱚᱫᱮᱥ]]===
 {|class="wikitable sortable"
 |-
-!style="width:30%;"|City Served
-!style="width:30%;"|Airport Name
+!style="width:30%;"|ᱥᱚᱦᱚᱨ ᱥᱟᱨᱣᱮᱫ
+!style="width:30%;"|ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱧᱩᱛᱩᱢ
 !style="width:10%;"|ICAO
 !style="width:10%;"|IATA
 !style="width:10%;"|Category
@@ -26,8 +26,8 @@
 ===[[ᱟᱥᱟᱢ ]]===
 {|class="wikitable sortable"
 |-
-!style="width:30%;"|City Served
-!style="width:30%;"|Airport Name
+!style="width:30%;"|ᱥᱚᱦᱚᱨ ᱥᱟᱨᱣᱮᱫ
+!style="width:30%;"|ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱧᱩᱛᱩᱢ
 !style="width:10%;"|ICAO
 !style="width:10%;"|IATA
 !style="width:10%;"|Category
@@ -57,8 +57,8 @@
 ===[[ᱵᱤᱦᱟᱨ]]===
 {|class="wikitable sortable"
 |-
-!style="width:30%;"|City Served
-!style="width:30%;"|Airport Name
+!style="width:30%;"|ᱥᱚᱦᱚᱨ ᱥᱟᱨᱣᱮᱫ
+!style="width:30%;"|ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱧᱩᱛᱩᱢ
 !style="width:10%;"|ICAO
 !style="width:10%;"|IATA
 !style="width:10%;"|Category
@@ -86,8 +86,8 @@
 ===[[ᱪᱷᱚᱛᱤᱥᱜᱚᱰ]]===
 {|class="wikitable sortable"
 |-
-!style="width:30%;"|City Served
-!style="width:30%;"|Airport Name
+!style="width:30%;"|ᱥᱚᱦᱚᱨ ᱥᱟᱨᱣᱮᱫ
+!style="width:30%;"|ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱧᱩᱛᱩᱢ
 !style="width:10%;"|ICAO
 !style="width:10%;"|IATA
 !style="width:10%;"|Category
@@ -95,19 +95,19 @@
 |-
 |[[ᱵᱤᱞᱟᱥᱯᱩᱨ ᱦᱚᱱᱚᱛ, ᱪᱷᱚᱛᱤᱥᱜᱚᱰ|ᱵᱤᱞᱟᱥᱯᱩᱨ]]|| style="background:ivory;"|[[ᱵᱤᱞᱟᱥᱯᱩᱨ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]||align=center|VEBU||align=center|PAB||style="background:#2F847C;"|Domestic||Flying School
 |-
-|[[ᱡᱟᱜᱫᱟᱞᱯᱩᱨ]]|| style="background:ivory;"|[[ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]||align=center|VE46||align=center|JGB||style="background:#2F847C;"|Domestic||style="background:#A0ACB8"|Closed
+|[[ᱡᱚᱜᱫᱚᱞᱯᱩᱨ]]|| style="background:ivory;"|[[ᱡᱚᱜᱫᱚᱞᱯᱩᱨ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]||align=center|VE46||align=center|JGB||style="background:#2F847C;"|Domestic||style="background:#A0ACB8"|Closed
 |-
 |rowspan=2|[[ᱨᱟᱭᱜᱚᱰ]]|| style="background:ivory;"|[[ᱨᱟᱭᱜᱚᱰ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]|| align="center" |VERH||align=center|—||style="background:#2F847C;"|Domestic||
 |-
 | style="background:ivory;" |OP Jindal Airport||align=center|—||align=center|—||Private||
 |-
-|[[Raipur]]||style="background:#ffe6b7;"|[[Raipur Airport|Swami Vivekananda Airport]]||align=center|VERP||align=center|RPR|| style="background:#2F847C;"|Domestic||Commercial
+|[[Raipur]]||style="background:#ffe6b7;"|[[ᱨᱟᱭᱯᱩᱨ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ|ᱥᱣᱟᱢᱤ ᱵᱷᱤᱵᱷᱮᱠᱟᱱᱟᱱᱰᱟ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]||align=center|VERP||align=center|RPR|| style="background:#2F847C;"|Domestic||Commercial
 |}
 
 ===[[ᱡᱷᱟᱨᱠᱷᱚᱸᱰ]]===
 {|class="wikitable sortable"
 |-
-!style="width:30%;"|ᱥᱚᱦᱚᱨ ᱥᱟᱨᱣᱤᱥ
+!style="width:30%;"|ᱥᱚᱦᱚᱨ ᱥᱟᱨᱣᱮᱫ
 !style="width:30%;"|ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱧᱩᱛᱩᱢ
 !style="width:10%;"|ICAO
 !style="width:10%;"|IATA
