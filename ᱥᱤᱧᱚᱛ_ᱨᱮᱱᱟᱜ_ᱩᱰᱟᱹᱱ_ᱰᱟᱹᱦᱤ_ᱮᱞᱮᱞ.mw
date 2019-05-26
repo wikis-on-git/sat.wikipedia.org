@@ -501,3 +501,16 @@
 |-
 |[[ᱛᱩᱨᱟ, ᱥᱤᱧᱚᱛ|ᱛᱩᱨᱟ]]||style="background:#ffe6b7;"|[[ᱵᱟᱞᱡᱮᱠ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]||align=center|VETU||align=center|TRU||style="background:#2F847C;"|Domestic||
 |}
+
+===[[ᱢᱤᱡᱚᱨᱟᱢ]]===
+{|class="wikitable sortable"
+|-
+!style="width:30%;"|City Served
+!style="width:30%;"|Airport Name
+!style="width:10%;"|ICAO
+!style="width:10%;"|IATA
+!style="width:10%;"|Category
+!style="width:10%;"|Role
+|-
+|[[ᱟᱭᱡᱚᱞ]]||style="background:#ffe6b7;"|[[ᱞᱮᱝᱯᱩᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]||align=center|VELP||align=center|AJL||style="background:#2F847C;"|Domestic||Commercial
+|}
