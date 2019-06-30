@@ -1,0 +1,66 @@
+{{prettyurl|Android}}
+{{Infobox OS
+| name                   = ᱟᱱᱰᱨᱚᱭᱮᱰ 
+| logo                   = [[File:Android robot.svg|100px]] [[File:Android logo.png]]
+| screenshot             = [[File:Android 4.3 Jelly Bean on Nexus.png|250px]]
+| caption                =  Android 4.3 "Jelly Bean" on Nexus
+| developer              = Google Inc, Open Handset Alliance, Android (operating system)#Android Open Source Project|Android Open Source Project
+| family                 = Linux
+| working_state          = Current
+| source_model           = [[open source software|Open Source]]
+| released               = {{start date|2008|9|20}}
+| latest_release_version = ᱘.᱐ (ᱳᱨᱤᱭᱳ) 
+| latest_release_date    = ᱚᱜᱚᱥᱴᱚ ᱒᱑, ᱒᱐᱑᱗
+| latest_preview_version = ᱘.᱑
+| latest_preview_date    =
+| frequently_updated     = Yes
+| marketing_target       =
+| language               =
+| programmed_in          = ᱠᱚᱴᱞᱤᱱ,[[C (programming language)|C]] (core),<ref>{{cite web |url=http://developer.android.com/guide/basics/what-is-android.html |title=What is Android? |work=Android Developers |publisher=Google |accessdate=2012-04-22}}</ref> [[Java (programming language)|Java]] (UI), [[C++]]
+| updatemodel            =
+| package_manager        = [[Google Play]] / [[APK (file format)|APK]]
+| supported_platforms    = [[ARM architecture|ARM]], [[MIPS architecture|MIPS]],
+| kernel_type            = [[Monolithic kernel|Monolithic]] ([[Android (operating system)#Linux|modified Linux kernel]])
+| ui                     = [[Graphical user interface|Graphical]]
+| license                = [[Apache License]] 2.0 <br />[[Linux kernel]] patches under [[GNU General Public License|GNU GPL]] v2<ref name="Licenses">{{cite web |url=http://source.android.com/source/licenses.html |title=Licenses |work=Android Open Source Project |publisher=Google |accessdate=2012-02-20}}</ref>
+| website                = {{URL|http://www.android.com/}}
+}}
+'''ᱟᱱᱰᱨᱤᱭᱮᱰ''' ᱵᱟᱝᱢᱟ ᱟᱱᱽᱫᱨᱚᱭᱮᱰ (IPA:/ˈændrɔɪd/) ᱫᱚ [[ᱞᱤᱱᱚᱠᱥ]]  ᱪᱮᱛᱟᱱ ᱨᱮ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱢᱤᱫ [[ᱢᱚᱵᱟᱭᱤᱞ]] ᱥᱚᱯᱴᱚᱭᱟᱨ ᱠᱟᱱᱟ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱢᱩᱬ ᱠᱟᱭᱛᱮ ᱥᱢᱟᱨᱴ ᱯᱷᱚᱱ ᱟᱨ ᱵᱟᱝᱢᱟ ᱴᱟᱵᱽᱞᱮᱴ ᱪᱟᱹᱞᱩᱭ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱚᱜ-ᱟ᱾ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱨᱟᱱᱟᱠᱟᱵ ᱫᱚ ᱒᱐᱐᱕ ᱥᱟᱞ ᱨᱮ [[ᱜᱩᱜᱚᱞ]] ᱮ ᱠᱚᱨᱟᱣ ᱞᱮᱜ-ᱟ ᱟᱨ ᱒᱐᱐᱗ ᱥᱟᱞ ᱚᱯᱚᱱ ᱦᱮᱱᱰᱥᱮᱴ [[ᱟᱞᱟᱭᱮᱱᱥ]] ᱢᱟᱬᱟᱝ ᱥᱮᱫ ᱮ ᱞᱟᱦᱟ ᱞᱮᱜ-ᱟ᱾ 
+== ᱱᱟᱜᱟᱢ ==
+ᱥᱮᱞᱮᱫ ᱫᱤᱥᱟᱹᱢ ᱟᱢᱮᱨᱤᱠᱟ ᱨᱮᱭᱟᱜ ᱯᱟᱞᱚ ᱚᱞᱴᱚ ᱨᱮ ᱟᱱᱰᱨᱚᱭᱮᱰ , Inc. ᱨᱮᱭᱟᱜ ᱮᱛᱚᱦᱚᱵ ᱫᱚ ᱦᱩᱭ ᱞᱮᱱᱟ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱯᱩᱭᱞᱩ ᱠᱟᱛᱮ ᱑ᱹ᱓ ᱵᱷᱚᱨᱥᱚᱱ ᱨᱮ ᱚᱰᱚᱠ ᱞᱮᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱚᱲ ᱟᱹᱰᱤ ᱠᱚ ᱠᱩᱥᱤᱭᱟᱫ ᱛᱟᱦᱮᱸᱫ ᱾ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱟᱹᱰᱤ ᱜᱟᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱚᱰᱚᱠ ᱮᱱᱟ᱾ 
+
+* ''' ᱒.᱒ ᱯᱷᱨᱚᱭᱚ'''
+* ''' ᱒.᱓ ᱡᱤᱝᱜᱚᱨᱵᱨᱮᱰ '''
+* '''᱓.୦ ᱦᱚᱱᱤᱠᱚᱢᱵᱽ'''
+* '''᱓.᱑ ᱦᱚᱱᱤᱠᱚᱢᱵᱽ''', 
+* '''᱓.᱒ ᱦᱚᱱᱤᱠᱚᱢᱵᱽ''',
+* '''᱔.୦ ᱟᱭᱤᱥᱠᱨᱤᱢ ᱥᱟᱱᱰᱣᱤᱪ''',
+*᱔.᱑ ᱡᱮᱞᱤᱵᱤᱱ
+*᱔.᱔ ᱠᱤᱴᱠᱟᱴ
+*᱕.୦ ᱞᱚᱞᱤᱯᱚᱯ
+*᱖.୦ ᱢᱟᱨᱥᱢᱮᱞᱚ
+*᱗.୦ ᱱᱚᱜᱷᱚᱴ
+*᱘.୦ ᱳᱨᱤᱭᱳ
+
+== ᱜᱩᱱ ==
+* ᱦᱮᱱᱰᱥᱮᱴ ᱞᱮ ᱟᱣᱩᱴ
+* ᱠᱚᱱᱮᱠᱴᱤᱵᱷᱤᱴᱤ
+* ᱢᱮᱥᱮᱡᱽ
+* ᱢᱤᱫ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱯᱟᱹᱨᱥᱤ
+* ᱣᱮᱵᱽ ᱵᱨᱟᱣᱡᱚᱨ
+* ᱡᱟᱵᱷᱟ ᱥᱠᱨᱤᱯᱴ
+* ᱢᱩᱰᱤᱭᱟ ᱥᱟᱯᱚᱨᱴ
+* ᱥᱴᱨᱤᱢᱤᱝ ᱢᱤᱰᱤᱭᱟ ᱥᱚᱯᱚᱨᱴ
+* ᱢᱚᱞᱴᱤ ᱴᱚᱪ
+* ᱵᱞᱩ ᱴᱩᱛᱷ
+* ᱵᱷᱤᱰᱤᱭᱳ ᱠᱚᱞᱤᱝ
+* ᱢᱚᱞᱴᱤ ᱴᱟᱥᱠᱤᱝ
+* ᱴᱮᱛᱷᱨᱤᱝ
+* ᱥᱠᱨᱤᱱ ᱠᱟᱯᱪᱚᱨ
+* ᱮᱠᱥᱴᱚᱨᱱᱟᱞ ᱢᱮᱢᱚᱨᱤ ᱥᱴᱚᱨᱮᱡᱽ
+
+== ᱥᱟᱹᱠᱷᱭᱟᱹᱛ ==
+<references/>
+
+
+[[ᱛᱷᱚᱠ:ᱢᱚᱵᱟᱭᱤᱞ ᱯᱷᱚᱱ]]
