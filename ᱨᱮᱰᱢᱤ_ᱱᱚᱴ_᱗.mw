@@ -48,6 +48,168 @@
 == ᱨᱤᱞᱤᱡ ==
 ᱵᱮᱤᱡᱤᱝ ᱨᱮ ᱨᱮᱰᱢᱤ ᱱᱚᱴ ᱗ ᱫᱚ ᱑᱕ ᱡᱟᱱᱩᱟᱨᱤ ᱒᱐᱑᱙ ᱨᱮ ᱯᱨᱩᱛᱷᱩᱢ ᱛᱷᱚᱨ ᱞᱟᱜᱤᱫ ᱛᱮ ᱚᱰᱚᱠ ᱞᱮᱟᱭ ᱾<ref>{{cite web|url=https://www.mi.com/redminote7/|title=红米Note 7|accessdate=|author=小米商城|date=|publisher=}}</ref><ref>{{cite web|url=https://www.ithome.com/0/404/929.htm|title=Redmi红米Note7正式发布：骁龙660/18个月质保，售999元起|accessdate=|author=远洋|date=2018-01-10|publisher=}}</ref><ref>{{cite web|url=https://tech.sina.com.cn/mobile/n/2019-01-10/doc-ihqfskcn5843446.shtml|title=红米Redmi Note 7发布：4800万摄像头 999元起售|accessdate=|author=新浪手机|date=|publisher=}}</ref> ᱥᱤᱧᱚᱛ ᱨᱮ ᱫᱚ ᱒᱘ ᱯᱷᱮᱵᱨᱩᱟᱨᱤ ᱒᱐᱑᱙ ᱨᱮ ᱦᱮᱡ ᱞᱮᱱᱟ ᱾<ref>{{cite web|url=https://www.xda-developers.com/xiaomi-redmi-note-7-pro-go-india-launch/|title=Xiaomi launches the Redmi Note 7 and Redmi Note 7 Pro in India, starting at ₹9,999 and ₹13,999|last=Siddiqui|first=Aamir|date=2019-02-28|website=xda-developers|archive-url=|archive-date=|dead-url=|access-date=2019-04-24}}</ref>
 
+== ᱥᱯᱮᱠᱥ ==
+{| class="wikitable" style="text-align: center;"
+|+Specification of different Redmi Note 7 variants
+| rowspan="2" |&nbsp;
+! colspan="3" |Redmi Note 7
+! rowspan="2" |Redmi Note 7S<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7s/specs/|title=Redmi Note 7S - Specifications - Mi India|website=www.mi.com}}</ref>
+! colspan="2" |Redmi Note 7 Pro
+|-
+!India
+Version<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7/specs/|title=Redmi Note 7 - Specifications - Mi India|website=www.mi.com}}</ref>
+!China
+Version<ref>{{cite web|url=https://www.mi.com/redminote7/specs/|title=红米Note 7 参数 - 小米商城|website=www.mi.com}}</ref>
+!Global
+Version<ref>{{cite web|url=https://www.mi.com/es/redmi-note-7/specs/|title=Especificaciones Redmi Note 7 &#124; Xiaomi España &#124; Mi.com - Xiaomi España|website=www.mi.com}}</ref><ref>{{cite web|url=https://www.mi.com/global/redmi-note-7/specs/|title=Mi Global Home|website=www.mi.com}}</ref><ref>{{cite web|url=https://www.mi.com/hk/redmi-note-7/specs/|title=Redmi Note Seven|website=www.mi.com}}</ref>
+!India
+Version<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7-pro/specs/|title=Redmi Note 7 Pro - Specifications - Mi India|website=www.mi.com}}</ref>
+!China
+Version<ref>{{cite web|url=https://www.mi.com/redminote7pro/specs/|title=Redmi Note 7 Pro 参数 - 小米商城|website=www.mi.com}}</ref>
+|-
+!SoC
+| colspan="4" |Qualcomm Snapdragon 660
+| colspan="2" |Qualcomm Snapdragon 675
+|-
+!CPU
+| colspan="4" |Octa-core 4 + 4 cores
+(4x 2.2&nbsp;GHz [[Kryo|Kryo 260]] Gold – Cortex-A73 derivative)
+(4x 1.8&nbsp;GHz [[Kryo|Kryo 260]] Silver – Cortex-A53 derivative)
+| colspan="2" |Octa-core 2 + 6 cores
+(2x 2.0&nbsp;GHz [[Kryo|Kryo 460]] Gold – Cortex-A76 derivative)
+(6x 1.7&nbsp;GHz [[Kryo|Kryo 460]] Silver – Cortex-A55 derivative)
+|-
+!GPU
+| colspan="4" |650&nbsp;MHz Adreno 512
+| colspan="2" |845&nbsp;MHz Adreno 612
+|-
+!Back main camera
+|12MP 1.25μm
+Sony [[Exmor|Exmor RS]] IMX486
+f/2.2
+| colspan="3" |48MP 0.8μm
+Samsung ISOCELL GM1
+f/1.8
+| colspan="2" |48MP 0.8μm
+Sony [[Exmor|Exmor RS]] IMX586
+f/1.8
+|-
+!Back secondary camera
+|2MP
+| colspan="5" |5MP (f/2.4)
+|-
+!Front camera
+| colspan="6" |13MP (f/2.0)
+|-
+! rowspan="2" |Storage options
+|3+32GB/
+4+64GB
+|3+32GB/
+4+64GB/
+6+64GB;
+<small>offline only:</small>
+4+128GB
+|3+32GB/
+4+64GB/
+4+128GB
+|3+32GB/
+4+64GB
+|4+64GB/
+6+128GB
+|6+128GB
+|-
+| colspan="6" |RAM: Dual channel LPDDR4x, ROM: eMMC 5.1
+|-
+!Screen
+| colspan="6" |6.3" 19.5:9 "dot notch" 2340x1080 FHD+ LCD; 409ppi
+|-
+!Battery
+| colspan="6" |4000mAh non-removable
+|-
+!Fast Charge
+|3A
+| colspan="5" |Quick Charge 4
+|-
+!Cellular network: GSM
+| colspan="6" |Band 2/3/5/8
+|-
+!Cellular network: WCDMA
+| colspan="2" |Band 1/2/5/8
+|Band 1/2/4/5/8
+| colspan="3" |Band 1/2/5/8
+|-
+!Cellular network: CDMA
+|{{N/A}}
+|BC0
+|colspan=3{{N/A}}
+|BC0
+|-
+!Cellular network: TD-SCDMA
+|{{N/A}}
+|Band 34/39
+|colspan=3{{N/A}}
+|Band 34/39
+|-
+!Cellular network: LTE-FDD
+|Band 1/3/5/8
+|Band 1/3/5/7/8
+|Band 1/2/3/4/5/7/8/20(/28)
+| colspan="2" |Band 1/3/5/8
+|Band 1/3/5/7/8
+|-
+!Cellular network: LTE-TDD
+|Band 40/41
+|Band 34/38/39/40/41
+100&nbsp;MHz
+|Band 38/40
+| colspan="2" |Band 40/41
+120&nbsp;MHz
+|Band 34/38/39/40/41
+100&nbsp;MHz
+|-
+!Wi-Fi
+| colspan="6" |2.4/5&nbsp;GHz IEEE 802.11a/b/g/n/ac
+|-
+!Radio
+| colspan="5" |?
+|FM
+|-
+!Bluetooth
+| colspan="6" |Bluetooth 5.0
+|-
+!Infrared
+| colspan="6" |Yes
+|-
+!VoLTE
+| colspan="6" |Yes
+|-
+!Audio
+| colspan="6" |3.5mm jack
+|-
+!USB
+| colspan="6" |Type C
+|-
+!Navigation
+| colspan="6" |GPS, A-GPS, GLONASS, BeiDou
+|-
+!Expansion card
+| colspan="6" |Dual sim DSDS 3-choose-2 4G+4G hybrid card tray; expandable storage with Micro SD card up to 256GB
+|-
+!Water resistance
+| colspan="3" |?
+| colspan="3" |P2i nano-coating splash resistant
+|-
+!Dimension
+| colspan="6" |159.21&nbsp;mm x 75.21&nbsp;mm x 8.1&nbsp;mm
+|-
+!Weight
+|185g
+| colspan="5" |186g
+|-
+!Software
+| colspan="6" |MIUI 10; Android 9
+|}
+
 ==ᱥᱟᱹᱠᱷᱭᱟᱹᱛ==
 {{ᱥᱟᱹᱠᱷᱭᱟᱹᱛ}}
 
