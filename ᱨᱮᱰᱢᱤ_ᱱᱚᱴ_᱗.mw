@@ -52,20 +52,15 @@
 {| class="wikitable" style="text-align: center;"
 |+Specification of different Redmi Note 7 variants
 | rowspan="2" |&nbsp;
-! colspan="3" |Redmi Note 7
-! rowspan="2" |Redmi Note 7S<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7s/specs/|title=Redmi Note 7S - Specifications - Mi India|website=www.mi.com}}</ref>
-! colspan="2" |Redmi Note 7 Pro
+! colspan="3" |ᱨᱮᱰᱢᱤ ᱱᱚᱴ ᱗
+! rowspan="2" |ᱨᱮᱰᱢᱤ ᱱᱚᱴ ᱗ ᱮᱥ<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7s/specs/|title=Redmi Note 7S - Specifications - Mi India|website=www.mi.com}}</ref>
+! colspan="2" |ᱨᱮᱰᱢᱤ ᱱᱚᱴ ᱗ ᱯᱨᱚ
 |-
-!India
-Version<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7/specs/|title=Redmi Note 7 - Specifications - Mi India|website=www.mi.com}}</ref>
-!China
-Version<ref>{{cite web|url=https://www.mi.com/redminote7/specs/|title=红米Note 7 参数 - 小米商城|website=www.mi.com}}</ref>
-!Global
-Version<ref>{{cite web|url=https://www.mi.com/es/redmi-note-7/specs/|title=Especificaciones Redmi Note 7 &#124; Xiaomi España &#124; Mi.com - Xiaomi España|website=www.mi.com}}</ref><ref>{{cite web|url=https://www.mi.com/global/redmi-note-7/specs/|title=Mi Global Home|website=www.mi.com}}</ref><ref>{{cite web|url=https://www.mi.com/hk/redmi-note-7/specs/|title=Redmi Note Seven|website=www.mi.com}}</ref>
-!India
-Version<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7-pro/specs/|title=Redmi Note 7 Pro - Specifications - Mi India|website=www.mi.com}}</ref>
-!China
-Version<ref>{{cite web|url=https://www.mi.com/redminote7pro/specs/|title=Redmi Note 7 Pro 参数 - 小米商城|website=www.mi.com}}</ref>
+!ᱥᱤᱧᱚᱴᱤᱭᱟ ᱵᱷᱚᱨᱥᱚᱱ<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7/specs/|title=Redmi Note 7 - Specifications - Mi India|website=www.mi.com}}</ref>
+!ᱰᱟᱤᱱᱟ ᱵᱷᱚᱨᱥᱚᱱ<ref>{{cite web|url=https://www.mi.com/redminote7/specs/|title=红米Note 7 参数 - 小米商城|website=www.mi.com}}</ref>
+!ᱡᱟᱜᱟᱛ ᱵᱷᱚᱨᱥᱚᱱ<ref>{{cite web|url=https://www.mi.com/es/redmi-note-7/specs/|title=Especificaciones Redmi Note 7 &#124; Xiaomi España &#124; Mi.com - Xiaomi España|website=www.mi.com}}</ref><ref>{{cite web|url=https://www.mi.com/global/redmi-note-7/specs/|title=Mi Global Home|website=www.mi.com}}</ref><ref>{{cite web|url=https://www.mi.com/hk/redmi-note-7/specs/|title=Redmi Note Seven|website=www.mi.com}}</ref>
+!ᱥᱤᱧᱚᱴᱤᱭᱟ ᱵᱷᱚᱨᱥᱚᱱ<ref>{{cite web|url=https://www.mi.com/in/redmi-note-7-pro/specs/|title=Redmi Note 7 Pro - Specifications - Mi India|website=www.mi.com}}</ref>
+!ᱰᱟᱤᱱᱟ ᱵᱷᱚᱨᱥᱚᱱ<ref>{{cite web|url=https://www.mi.com/redminote7pro/specs/|title=Redmi Note 7 Pro 参数 - 小米商城|website=www.mi.com}}</ref>
 |-
 !SoC
 | colspan="4" |Qualcomm Snapdragon 660
@@ -73,11 +68,11 @@ Version<ref>{{cite web|url=https://www.mi.com/redminote7pro/specs/|title=Redmi N
 |-
 !CPU
 | colspan="4" |Octa-core 4 + 4 cores
-(4x 2.2&nbsp;GHz [[Kryo|Kryo 260]] Gold – Cortex-A73 derivative)
-(4x 1.8&nbsp;GHz [[Kryo|Kryo 260]] Silver – Cortex-A53 derivative)
+(4x 2.2&nbsp;GHz Kryo 260 Gold – Cortex-A73 derivative)
+(4x 1.8&nbsp;GHz Kryo 260 Silver – Cortex-A53 derivative)
 | colspan="2" |Octa-core 2 + 6 cores
-(2x 2.0&nbsp;GHz [[Kryo|Kryo 460]] Gold – Cortex-A76 derivative)
-(6x 1.7&nbsp;GHz [[Kryo|Kryo 460]] Silver – Cortex-A55 derivative)
+(2x 2.0&nbsp;GHz Kryo 460 Gold – Cortex-A76 derivative)
+(6x 1.7&nbsp;GHz Kryo 460 Silver – Cortex-A55 derivative)
 |-
 !GPU
 | colspan="4" |650&nbsp;MHz Adreno 512
@@ -85,13 +80,13 @@ Version<ref>{{cite web|url=https://www.mi.com/redminote7pro/specs/|title=Redmi N
 |-
 !Back main camera
 |12MP 1.25μm
-Sony [[Exmor|Exmor RS]] IMX486
+Sony Exmor RS IMX486
 f/2.2
 | colspan="3" |48MP 0.8μm
 Samsung ISOCELL GM1
 f/1.8
 | colspan="2" |48MP 0.8μm
-Sony [[Exmor|Exmor RS]] IMX586
+Sony Exmor RS IMX586
 f/1.8
 |-
 !Back secondary camera
@@ -139,15 +134,15 @@ f/1.8
 | colspan="3" |Band 1/2/5/8
 |-
 !Cellular network: CDMA
-|{{N/A}}
+|ᱵᱟᱹᱪᱩᱜ 
 |BC0
-|colspan=3{{N/A}}
+|colspan=3 ᱵᱟᱹᱪᱩᱜ 
 |BC0
 |-
 !Cellular network: TD-SCDMA
-|{{N/A}}
+|ᱵᱟᱹᱪᱩᱜ 
 |Band 34/39
-|colspan=3{{N/A}}
+|colspan=3 ᱵᱟᱹᱪᱩᱜ 
 |Band 34/39
 |-
 !Cellular network: LTE-FDD
