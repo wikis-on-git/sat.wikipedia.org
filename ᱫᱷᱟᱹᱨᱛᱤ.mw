@@ -1,4 +1,90 @@
-[[File:The Earth seen from Apollo 17.jpg|thumb|ᱫᱷᱟ.ᱨᱛᱤ]]ᱥᱟᱺᱜᱤᱧ ᱦᱤᱥᱟ.ᱵᱽ ᱛᱮᱫᱚ ᱟᱵᱚ ᱫᱷᱟ.ᱨᱛᱤ ᱟᱜ ᱴᱷᱟᱶ ᱫᱚ ᱛᱮᱥᱟᱨ ᱴᱷᱟᱶ ᱨᱮ ᱾ ᱱᱚᱶᱟ ᱫᱷᱟ.ᱨᱛᱤ ᱫᱚ ᱢᱤᱫ ᱜᱨᱚᱦᱚ (planet) ᱠᱟᱱᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱜᱩᱞᱟ.ᱭ ᱜᱮᱭᱟ ᱾ ᱱᱚᱶᱟ ᱨᱮᱱᱟᱜ ᱮᱛᱚᱢ ᱟᱨ ᱠᱚᱧᱮ ᱯᱟᱦᱴᱟ ᱱᱟᱥᱮ ᱪᱚᱯᱚᱫ ᱜᱮᱭᱟ ᱾ ᱱᱚᱶᱟ ᱜᱩᱞᱟ.ᱭ ᱫᱷᱟ.ᱨᱛᱤ ᱫᱚ ᱟᱵᱚ ᱜᱚᱴᱟᱯᱟᱲᱟ ᱥᱚᱱᱟᱱ ᱜᱮᱵᱚᱱ ᱧᱮᱞ ᱧᱟᱢᱟ ᱾ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟ.ᱰᱤ ᱢᱟᱨᱟᱝ ᱜᱮ ᱠᱷᱟ.ᱛᱤᱨ ᱟᱵᱚ ᱫᱷᱟ.ᱨᱛᱤ ᱨᱮᱱᱟᱜ ᱟ.ᱰᱤ ᱠᱟ.ᱡ ᱚᱝᱜᱚᱥ ᱵᱚᱱ ᱧᱮᱞ ᱧᱟᱢᱟ ᱾ ᱚᱱᱟᱛᱮ ᱫᱷᱟ.ᱨᱛᱤ ᱪᱮ ᱚᱛ ᱨᱮᱱᱟᱜ ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟ.ᱜ ᱵᱷᱟᱜᱽ ᱟᱵᱚ ᱢᱤᱫ ᱫᱷᱟᱣ ᱛᱮᱵᱚ ᱧᱮᱞᱟ, ᱚᱱᱟ ᱫᱚ ᱥᱚᱢᱟᱱ ᱜᱮᱵᱚ ᱧᱮᱞᱟ ᱾
+{{Infobox planet
+<!---------------------------------------------------------------------------------------
+  This infobox has been formatted in the same way as those for other Solar System
+  planets and bodies, so please do not change it without discussion on the talkpage.
+ ---------------------------------------------------------------------------------------->
+| background = #f8f9fa
+| name   = Earth
+|adjectives =  Earthly, terrestrial 
+| symbol  = [[File:Earth symbol.svg|18px|Astronomical symbol of Earth]]
+| image   = The Earth seen from Apollo 17.jpg
+| image_alt ="[[The Blue Marble]]" photograph of Earth, taken by the ''[[Apollo 17]]'' mission. The Arabian peninsula, Africa and Madagascar lie in the upper half of the disc, whereas Antarctica is at the bottom.
+| caption  = ''[[The Blue Marble]]'', the first full-view photograph of the planet, was taken by [[Apollo 17]] astronauts en route to the Moon in 1972
+| alt_names = <!--{{ublist|style=padding-top:0.1em;|li_style=line-height:1.3em; |{{hlist|the Earth|the World}} |{{hlist|Blue Planet|[[The Blue Marble|Blue Marble]]|''[[Terra]]''|[[Gaia (mythology)|Gaia]]}} }}-->
+| epoch     = [[J2000.0|J2000]]<ref group="n" name="epoch"/>
+| aphelion   = {{convert|152100000|km|mi AU|comma=gaps|abbr=on|disp=x|<ref group="n" name="apsis"/><br /><small>(|)</small>}}
+| perihelion  = {{convert|147095000|km|mi AU|comma=gaps|abbr=on|disp=x|<ref group="n" name="apsis"/><br /><small>(|)</small>}}
+| semimajor   = {{convert|149598023|km|mi AU|comma=gaps|abbr=on|disp=x|<ref name="VSOP87"/><br /><small>(|)</small>}}
+| eccentricity = {{val|0.0167086}}<ref name="VSOP87"/>
+| period    = {{convert|365.256363004|d|years|comma=gaps|abbr=on|lk=out|disp=x|<ref name="IERS"/><br /><small>(|)</small>}}
+| avg_speed   = {{convert|29.78|km/s|km/h mph|comma=gaps|abbr=on|disp=x|<ref name="earth_fact_sheet"/><br /><small>(|)</small>}}
+| mean_anomaly = {{val|358.617|u=°}}
+| inclination  = {{ublist|class=nowrap |{{val|7.155|u=°}} to the [[Sun]]'s [[equator]]; |{{val|1.57869|u=°}}<ref name="Allen294"/> to [[invariable plane]]; |{{val|0.00005|u=°}} to J2000 [[ecliptic]]}}
+| asc_node   = {{val|-11.26064|u=°}}<ref name="earth_fact_sheet"/> to J2000 ecliptic
+| arg_peri   = {{val|114.20783|u=°}}<ref name="earth_fact_sheet"/>
+| satellites  =
+ {{unbulleted list
+ | 1 natural satellite: the [[Moon]]
+ | 5 [[quasi-satellite]]s
+ | >1 800 operational [[artificial satellite]]s<ref name="ucs"/>
+ | >16 000 [[space debris]]<ref group="n" name="space_debris"/>
+ }}
+| allsatellites = yes
+| mean_radius  = {{convert|6371.0|km|mi|comma=gaps|abbr=on|disp=x| <small>(|)</small>}}<ref name="hbcp2000"/>
+| equatorial_radius = {{convert|6378.1|km|mi|comma=gaps|abbr=on|disp=x| <small>(|)</small>}}<ref name=usno/><ref name="WGS-84"/>
+| polar_radius = {{convert|6356.8|km|mi|comma=gaps|abbr=on|disp=x| <small>(|)</small>}}<ref name="cazenave_ahrens1995"/>
+| flattening  = {{val|0.0033528}}<ref name="IERS2004"/><br />1/{{val|298.257222101}} ([[ETRS89]])
+| circumference =
+ {{unbulleted list |class=nowrap
+ | {{convert|40075.017|km|mi|comma=gaps|abbr=on|disp=x| <small>[[equator]]ial (|)</small>}}<ref name="WGS-84">[[World Geodetic System]] (''WGS-84''). [http://earth-info.nga.mil/GandG/wgs84/ Available online] from [[National Geospatial-Intelligence Agency]].</ref>
+ | {{convert|40007.86|km|mi|comma=gaps|abbr=on|disp=x| <small>[[meridional]] (|)</small>}}<ref name="WGS-84-2"/><ref name="circ">Earth's [[circumference]] is almost exactly 40,000 km because the metre was calibrated on this measurement—more specifically, 1/10-millionth of the distance between the poles and the equator.</ref>
+ }}
+| surface_area =
+ {{unbulleted list |class=nowrap
+ | {{convert|510072000|km2|sqmi|comma=gaps|abbr=on|disp=x| <small>(|)</small>}}<ref name="Pidwirny 2006_8"/><ref name="cia"/><ref group="n" name="surfacecover"/>
+ | {{convert|148940000|km2|sqmi|comma=gaps|abbr=on|disp=x| land <small>(|; 29.2%)</small>}}
+ | {{convert|361132000|km2|sqmi|comma=gaps|abbr=on|disp=x| water <small>(|; 70.8%)</small>}}
+ }}
+| volume    = [[Volume of the Earth|{{val|1.08321|e=12|u=km3}}]] <small>({{val|2.59876|e=11|u=cu mi}})</small><ref name="earth_fact_sheet"/>
+| mass     = {{val|5.97237|e=24|u=kg}} <small>({{val|1.31668|e=25|u=lb}})</small><ref name="Luzum2011" /> <br /> <small>({{val|3.0|e=-6|ul=solar mass}})</small>
+| density    = {{convert|5.514|g/cm3|lb/cuin|comma=gaps|abbr=on|disp=x| <small>(|)</small>}}<ref name="earth_fact_sheet"/>
+| surface_grav = {{convert|9.807|m/s2|ft/s2|comma=gaps|abbr=on|disp=x| <small>([[Gravity of Earth|{{val|1|u=''g''}}]]; |)</small>}}<ref name="NIST2008"/>
+| moment_of_inertia_factor = 0.3307<ref name="Williams1994"/>
+| escape_velocity = {{convert|11.186|km/s|km/h mph|comma=gaps|abbr=on|disp=x|<ref name="earth_fact_sheet"/> <br /> <small>(|)</small>}}
+| sidereal_day = {{longitem|{{val|0.99726968|u=d}}<ref name="Allen296"/> <br /> <small>(23h&nbsp;56m&nbsp;4.100s)</small>}}
+| rot_velocity = {{convert|1674.4|km/h|km/s km/h mph|order=out|comma=gaps|abbr=on|disp=x|<ref name="Cox2000"/> <br /> <small>(|)</small>}}
+| axial_tilt  = {{val|23.4392811|u=°}}<ref name="IERS"/>
+| albedo    = {{ublist|class=nowrap |0.367 [[Geometric albedo|geometric]]<ref name="earth_fact_sheet"/> |0.306 [[Bond albedo|Bond]]<ref name="earth_fact_sheet"/>}}
+| atmosphere  = yes
+| temp_name1  = [[Kelvin]]
+| min_temp_1  = 184&nbsp;K<ref name=asu_lowest_temp/>
+| mean_temp_1  = 288&nbsp;K<ref name=kinver20091210/>
+| max_temp_1  = 330&nbsp;K<ref name=asu_highest_temp/>
+| temp_name2  = Celsius
+| min_temp_2  = −89.2&nbsp;°C
+| mean_temp_2  = 14.9&nbsp;°C
+| max_temp_2  = 56.9&nbsp;°C
+| temp_name3  = Fahrenheit
+| min_temp_3  = −128.5&nbsp;°F
+| mean_temp_3  = 58.7&nbsp;°F
+| max_temp_3  = 134.3&nbsp;°F
+| surface_pressure = {{val|101.325|ul=kPa}} (at [[Sea level|MSL]])
+| atmosphere_composition =
+ {{unbulleted list |class=nowrap
+ | 78.08% [[nitrogen]] ({{chem2|N2}}; dry air)<ref name="earth_fact_sheet"/>
+ | 20.95% [[oxygen]] ({{chem2|O2}})
+ | ~&thinsp;1% [[water vapor]] <small>([[climate]] variable)</small>
+ | 0.9340% [[argon]]
+ | 0.0408% [[carbon dioxide]]<ref name="NOAA">{{cite web |url=https://www.esrl.noaa.gov/gmd/ccgg/trends/gl_trend.html |title=Trends in Atmospheric Carbon Dioxide: Recent Global {{chem2|CO2}} Trend |publisher=[[National Oceanic and Atmospheric Administration]] |website=[[Earth System Research Laboratory]] |date=26 July 2018 |archiveurl=https://web.archive.org/web/20180726210430/https://www.esrl.noaa.gov/gmd/ccgg/trends/gl_trend.html |archivedate=26 July 2018 |dead-url=no}}</ref>
+ | 0.00182% [[neon]]<ref name="earth_fact_sheet"/>
+ | 0.00052% [[helium]]
+ | 0.00017% [[methane]]
+ | 0.00011% [[krypton]]
+ | 0.00006% [[hydrogen]]
+ }}
+| note = no
+}}
+ᱥᱟᱺᱜᱤᱧ ᱦᱤᱥᱟ.ᱵᱽ ᱛᱮᱫᱚ ᱟᱵᱚ ᱫᱷᱟ.ᱨᱛᱤ ᱟᱜ ᱴᱷᱟᱶ ᱫᱚ ᱛᱮᱥᱟᱨ ᱴᱷᱟᱶ ᱨᱮ ᱾ ᱱᱚᱶᱟ ᱫᱷᱟ.ᱨᱛᱤ ᱫᱚ ᱢᱤᱫ ᱜᱨᱚᱦᱚ (planet) ᱠᱟᱱᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱜᱩᱞᱟ.ᱭ ᱜᱮᱭᱟ ᱾ ᱱᱚᱶᱟ ᱨᱮᱱᱟᱜ ᱮᱛᱚᱢ ᱟᱨ ᱠᱚᱧᱮ ᱯᱟᱦᱴᱟ ᱱᱟᱥᱮ ᱪᱚᱯᱚᱫ ᱜᱮᱭᱟ ᱾ ᱱᱚᱶᱟ ᱜᱩᱞᱟ.ᱭ ᱫᱷᱟ.ᱨᱛᱤ ᱫᱚ ᱟᱵᱚ ᱜᱚᱴᱟᱯᱟᱲᱟ ᱥᱚᱱᱟᱱ ᱜᱮᱵᱚᱱ ᱧᱮᱞ ᱧᱟᱢᱟ ᱾ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟ.ᱰᱤ ᱢᱟᱨᱟᱝ ᱜᱮ ᱠᱷᱟ.ᱛᱤᱨ ᱟᱵᱚ ᱫᱷᱟ.ᱨᱛᱤ ᱨᱮᱱᱟᱜ ᱟ.ᱰᱤ ᱠᱟ.ᱡ ᱚᱝᱜᱚᱥ ᱵᱚᱱ ᱧᱮᱞ ᱧᱟᱢᱟ ᱾ ᱚᱱᱟᱛᱮ ᱫᱷᱟ.ᱨᱛᱤ ᱪᱮ ᱚᱛ ᱨᱮᱱᱟᱜ ᱡᱟᱦᱟᱸ ᱛᱤᱱᱟ.ᱜ ᱵᱷᱟᱜᱽ ᱟᱵᱚ ᱢᱤᱫ ᱫᱷᱟᱣ ᱛᱮᱵᱚ ᱧᱮᱞᱟ, ᱚᱱᱟ ᱫᱚ ᱥᱚᱢᱟᱱ ᱜᱮᱵᱚ ᱧᱮᱞᱟ ᱾
 
 ᱥᱮᱫᱟᱭ ᱦᱟᱯᱲᱟᱢ ᱠᱚᱫᱚ ᱫᱷᱟ.ᱨᱛᱤ ᱥᱚᱢᱟᱱ ᱜᱮᱭᱟ ᱢᱮᱱᱛᱮ ᱠᱚ ᱵᱷᱟ.ᱵᱤ ᱞᱮᱜ-ᱟ ᱾ ᱢᱮᱱᱠᱷᱟᱱ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱟ.ᱰᱤ ᱜᱟᱱ ᱥᱟᱬᱮᱥᱤᱭᱟ. ᱠᱚ ᱫᱟ.ᱭᱠᱟ. ᱮᱢ ᱠᱟᱛᱮ ᱫᱷᱟ.ᱨᱛᱤ ᱫᱚ ᱜᱩᱞᱟ.ᱭ ᱜᱮᱭᱟ ᱢᱮᱱᱛᱮ ᱠᱚ ᱞᱟ.ᱭ ᱠᱮᱜ-ᱟ ᱾ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱥᱮᱨᱢᱟ ᱥᱟᱬᱮᱥᱤᱭᱟ. ᱠᱚ ᱥᱮᱨᱢᱟ ᱠᱷᱚᱱ ᱫᱷᱟ.ᱨᱛᱤ ᱠᱚ ᱯᱷᱚᱴᱚ ᱠᱮᱫ ᱛᱮ ᱥᱟ.ᱠᱷᱤ ᱠᱚ ᱮᱢ ᱠᱮᱜ-ᱟ ᱡᱮ ᱫᱷᱟ.ᱨᱛᱤ ᱫᱚ ᱜᱩᱞᱟ.ᱭ ᱜᱮᱭᱟ ᱾ 
 
