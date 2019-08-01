@@ -1,16 +1,15 @@
-{{Infobox settlement|ᱵᱤᱠᱟᱥ ᱪᱷᱮᱛᱨᱚ|ᱯᱩᱨᱵᱟᱱᱪᱚᱞ|ᱚᱱᱪᱚᱞ|ᱢᱮᱪᱤ|ᱡᱤᱞᱟ.|ᱡᱷᱟᱯᱟ
+{{Infobox settlement
 | official_name = ᱵᱤᱨᱛᱟᱢᱳᱰ ᱜᱚᱜᱚᱨᱯᱟᱞᱤᱠᱟ
 | nickname = ᱵᱤᱨᱛᱟᱢᱳᱰ
 | image_skyline = Birtamode_city_of_jhapa_district2.JPG
 | imagesize = 300px
 | image_caption = ᱵᱤᱨᱛᱟᱢᱳᱰ ᱢᱩᱠᱛᱤ ᱪᱳᱠ
-| image_flag = 
-| image_seal = 
-| mapsize = 
-| pushpin_map = nepal
-| pushpin_mapsize = 300px
-| pushpin_label_position = bottom
-| pushpin_map_caption = ᱵᱤᱨᱴᱟᱢᱳᱰ ᱨᱮ ᱢᱮᱱᱟᱜ ᱢᱩᱠᱛᱤ ᱪᱳᱠ
+|image_flag             =
+|image_seal             =
+|pushpin_map            = Nepal Province1#Nepal
+|mapsize                = 
+|map_caption            = ᱵᱤᱨᱴᱟᱢᱳᱰ ᱨᱮ ᱢᱮᱱᱟᱜ ᱢᱩᱠᱛᱤ ᱪᱳᱠ
+<!-- Location -->
 | subdivision_type = ᱫᱤᱥᱚᱢ
 | subdivision_name = {{flag|ᱱᱮᱯᱟᱞ}}
 | subdivision_type1 = ᱱᱮᱯᱟᱞ ᱨᱮᱱᱟᱜ ᱵᱤᱠᱟᱥ ᱪᱷᱮᱛᱨᱚ
@@ -19,35 +18,31 @@
 | subdivision_name2 = ᱢᱮᱪᱤ ᱚᱱᱪᱚᱞ
 | subdivision_type3 = ᱱᱮᱯᱟᱞ ᱨᱮᱱᱟᱜ ᱡᱤᱞᱟ.
 | subdivision_name3 = ᱡᱷᱟᱯᱟ ᱡᱤᱞᱟ.
+<!-- Politics -->
+|government_footnotes   =
+|government_type   = 
 | leader_title = ᱢᱮᱭᱚᱨ
 | leader_name = ᱫᱷᱩᱨᱣᱚ ᱠᱩᱢᱟᱨ ᱥᱮᱣᱟᱠᱳᱴᱤ
 | leader_title1 = ᱩᱯᱚᱢᱮᱭᱚᱨ
 | leader_name1 = ᱯᱚᱵᱤᱛᱨᱟ ᱢᱚᱦᱚᱛᱟᱨᱟ ᱯᱨᱚᱥᱟᱫ
-| area_total_sq_mi = 
-| area_total_km2 = <!-- Population   -->
-| population_as_of = नेपालको राष्ट्रिय जनगणना बि.स.२०६८
-| population_footnotes = <ref name="नेपालको राष्ट्रिय जनगणना २०६८ (गाविस तह)"/>
-| population_note = 
-| population_total = 60174(᱖᱐᱑᱖᱔)
-| population_density_km2 = auto
-| population_blank1_title = जातीयता
-| timezone = नेपालको प्रमाणिक समय
-| utc_offset = +५:४५
-| latd = 26
-| latm = 38
-| latNS = N
-| longd = 87
-| longm = 59
-| longEW = E
-| coor_pinpoint = बिर्तामोड
-| coordinates_display = title,inline
-| coordinates_type = region:NP_type:city_source:GNS-enwiki
-| elevation_m = 
-| postal_code_type = पोस्टल कोड
-| postal_code = ५७२०४
-| area_code_type = 
-| area_code = +९७७-२३
-| iso_code = 
-| website = www.birtamodmun.gov.np
-| footnotes = 
+|established_title      = <!-- Settled -->
+|established_date       =
+<!-- Area    -->
+|area_total_sq_mi       = 
+|area_total_km2         = 78.24
+|population_as_of       = 2011
+|population_total       = 80518
+|population_rank =6th (Province No. 1)
+|population_density_km2 = auto
+|timezone               = [[Nepal Standard Time|NST]]
+|utc_offset             = +05:45
+|coordinates            = {{coord|26|38|N|87|59|E|type:city_region:NP|display=inline,title}}
+|elevation_m            = 300
+|postal_code_type       = [[Postal code]]
+|postal_code            = 57204
+|area_code_type         =
+|area_code              = [[Telephone numbers in Nepal|023]]
+|iso_code               = 
+|website                = [http://www.birtamodmun.gov.np www.birtamodmun.gov.np]
+|footnotes              =
 }}
