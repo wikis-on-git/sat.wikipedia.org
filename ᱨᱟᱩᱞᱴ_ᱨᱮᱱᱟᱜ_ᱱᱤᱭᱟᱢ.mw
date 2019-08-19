@@ -3,15 +3,14 @@
 ( ᱡᱟᱦᱟᱱ ᱛᱟᱱᱩ ᱵᱤᱞᱭᱟᱱ ᱨᱮᱱᱟᱜ ᱵᱷᱟᱯ ᱫᱟᱜ ᱨᱮᱱᱟᱜ ᱟᱣᱟᱱᱢᱟᱱ  ᱣᱤᱞᱭᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜ ᱵᱤᱞᱟᱭ ᱨᱮᱱᱟᱜ ᱢᱮᱥᱟ- ᱯᱨᱟᱵᱷᱟᱡ ᱨᱮᱱᱟᱜ ᱵᱟᱨᱟᱵᱟᱨᱤ ᱛᱟᱦᱮᱱᱟ) ᱥᱚᱫᱚᱨ ᱢᱤᱫ ᱤᱥᱢᱟᱜᱟᱛᱤᱠ ᱱᱤᱭᱟᱢ ᱠᱟᱱᱟ ᱱᱚᱶᱟ ᱱᱤᱭᱟᱢ ᱞᱮᱠᱟᱛᱮ, ᱡᱟᱦᱟᱱ ᱛᱟᱯ ᱨᱮ ᱣᱟᱥᱯ ᱥᱤᱞ ᱥᱚᱞᱤᱰ ᱨᱮᱱᱟᱜ ᱵᱤᱞᱭᱚᱱ,<ref>F.-M. Raoult (1886) [https://books.google.com/books?id=KJJ1nuYLbl4C&pg=PA1430#v=onepage&q&f=false "Loi générale des tensions de vapeur des dissolvants"] (General law of vapor pressures of solvents), ''Comptes rendus'', '''104''' :  1430–1433.</ref> ᱵᱤᱞᱭᱚᱱ ᱨᱮ ᱥᱟᱱᱟᱢ ᱞᱮᱠᱟᱱᱟᱜ ᱟᱵᱭᱚᱵ ᱨᱮᱱᱟᱜ ᱚᱸᱥᱤᱠ ᱫᱟᱵᱟᱣ ᱵᱷᱟᱯ ᱫᱟᱵᱟᱣ ᱚᱱᱟ ᱥᱩᱫᱷ ᱟᱵᱭᱟᱵ ᱛᱮ ᱵᱷᱟᱯ ᱫᱟᱵᱟᱣ ᱟᱨ ᱱᱚᱶᱟ ᱨᱮ ᱢᱚᱞ-ᱟᱸᱥᱷ (mole fraction) ᱨᱮᱱᱟᱜ ᱜᱟᱵᱟᱬ ᱨᱮᱱᱟᱜ ᱵᱟᱨᱟᱵᱟᱨᱤ ᱛᱟᱦᱮᱱᱟ᱾
  
 ᱫᱚᱥᱟᱨ ᱟᱹᱲᱟᱹ ᱛᱮ,
-
-{\displaystyle p_{i}=x_{i}p_{i}^{o}}
-ᱡᱟᱦᱟᱸ {\displaystyle p_{i}^{o}} T ᱛᱟᱯ ᱨᱮ ᱥᱩᱫᱷ ᱟᱵᱭᱟᱵ ᱨᱮᱱᱟᱜ ᱵᱷᱟᱯ ᱫᱟᱵᱟᱣ᱾ 
+:<math>p_i = x_i p^o_i</math>
+ᱡᱟᱦᱟᱸᱨᱮ <math>p^o_i</math> ''T'' ᱛᱟᱯ ᱨᱮ ᱥᱩᱫᱷ ᱟᱵᱭᱟᱵ ᱨᱮᱱᱟᱜ ᱵᱷᱟᱯ ᱫᱟᱵᱟᱣ᱾ 
 
 ᱡᱚᱠᱷᱚᱱ ᱡᱟᱦᱟᱱ ᱵᱤᱞᱭᱚᱱ ᱨᱮᱱᱟᱜ ᱜᱷᱟᱴᱟᱠ ᱥᱟᱢᱭᱟᱣᱚᱥᱛᱷᱟ ᱨᱮ ᱥᱮᱴᱮᱨᱚᱜ ᱠᱟᱱᱟ ᱚᱱᱟ ᱚᱠᱛᱮ ᱨᱮ ᱱᱚᱶᱟ ᱵᱤᱞᱭᱟᱱ ᱨᱮᱱᱟᱜ ᱥᱟᱱᱟᱢ ᱵᱷᱟᱯ ᱫᱟᱵ ᱨᱟᱣᱩᱞᱴ ᱞᱟᱣ ᱱᱤᱭᱟᱢ ᱟᱨ ᱰᱟᱞᱴᱟᱱ ᱨᱮᱱᱟᱜ ᱚᱸᱥᱤᱠ ᱫᱟᱵ ᱨᱮᱱᱟᱜ ᱱᱤᱭᱟᱢ ᱢᱮᱥᱟ ᱠᱟᱛᱮᱜ ᱵᱟᱱᱟᱣ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱᱟᱜ ᱫᱟᱷᱹᱲ ᱥᱩᱛᱩᱨ ᱚᱰᱚᱠᱚᱜ-ᱟ᱾</ref> from Raoult's law, indicating an attractive interaction between the two components that has been described as a [[hydrogen bond]].<ref>
  
 [[File:Delta p-ru.svg|thumb|Delta p-ru]]
 
-{\displaystyle p=p_{\rm {A}}^{\star }x_{\rm {A}}+p_{\rm {B}}^{\star }x_{\rm {B}}+\cdots }.
+: <math> p = p_\text{A}^\star x_\text{A} + p_\text{B}^\star x_\text{B} + \cdots.</math>
 ᱡᱩᱫᱤ ᱵᱟᱨᱭᱟ ᱞᱤᱧᱣᱤᱰ ᱛᱮ ᱵᱟᱱᱟᱣ ᱨᱮᱱᱟᱜ ᱣᱟᱥᱯ ᱫᱟᱵ ᱮ ᱞᱮᱹᱭᱟ(ᱟᱨ ᱱᱚᱶᱟ ᱨᱮ ᱟᱨ ᱮᱴᱟᱜ ᱜᱮᱥ ᱵᱟᱝ ᱛᱟᱦᱮᱱ ᱢᱟ) ᱠᱷᱟᱱ ᱨᱟᱣᱩᱞᱴ ᱨᱮᱱᱟᱜ ᱱᱤᱭᱟᱢ ᱞᱮᱠᱟᱛᱮ ᱟᱫᱷᱟᱨ ᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱛᱮᱜ ᱱᱚᱶᱟ ᱵᱤᱞᱭᱟᱱ ᱨᱮᱱᱟᱜ ᱵᱷᱟᱯ ᱫᱟᱵ ᱨᱮᱱᱟᱜ ᱞᱮᱠᱷᱟ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ᱾ ᱱᱚᱶᱟ ᱵᱤᱞᱭᱟᱱ ᱨᱮᱱᱟᱜ ᱥᱟᱱᱟᱢ ᱵᱷᱟᱯ ᱫᱟᱵ
   {\displaystyle p} ᱵᱟᱱᱟᱨ ᱥᱚᱞᱤᱰ ᱨᱮᱱᱟᱜ ᱥᱩᱫᱷ ᱵᱷᱟᱯ ᱫᱟᱵ {\displaystyle p_{A}} ᱥᱮ {\displaystyle p_{B}} ᱨᱮᱱᱟᱜ ᱵᱷᱟᱨᱤᱛ ᱭᱚᱜᱭᱚ (weighted sum) ᱨᱮᱱᱟᱜ ᱵᱟᱨᱟᱵᱟᱨᱤ ᱦᱩᱭᱩᱜ ᱟ।  ᱚᱱᱟᱛᱮ ᱵᱟᱨᱭᱟ ᱥᱚᱞᱤᱰ A ᱟᱨ B  ᱨᱮᱱᱟᱜ ᱵᱤᱞᱭᱚᱱ ᱥᱮᱞᱮᱫ ᱵᱷᱟᱯ ᱫᱟᱵᱟᱣ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱᱟᱜ 
 
