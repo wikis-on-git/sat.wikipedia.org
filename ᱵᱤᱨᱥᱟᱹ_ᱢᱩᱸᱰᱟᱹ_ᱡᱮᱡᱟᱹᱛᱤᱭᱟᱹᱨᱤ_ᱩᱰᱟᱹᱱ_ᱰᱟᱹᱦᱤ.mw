@@ -59,34 +59,3 @@ image=
 == ᱥᱟᱹᱠᱷᱭᱟᱹᱛ ==
 
 == ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ ==
-
-{{Navbox
-|name  = ᱡᱮᱜᱮᱫ ᱨᱮ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ
-|state = {{{state|<noinclude>expanded</noinclude>}}}
-|title = [[ᱡᱮᱜᱮᱫ]] ᱨᱮ [[ᱡᱮᱜᱮᱫ ᱨᱮ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱨᱮᱱᱟᱜ ᱥᱩᱪᱤ|ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]] 
-|groupstyle = padding:0.35em 1.0em; line-height:1.1em;
-|evenstyle  = background:transparent;
-
-
-| group1 = [[:w:International airport|ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ]]
-| list1  = <div>
-<!---ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ location appended as <small> link if not already in its name/s--->
-{{nowrap begin}}
-[[ᱨᱟᱺᱪᱤ]] →'''[[ᱵᱤᱨᱥᱟᱹ ᱢᱩᱸᱰᱟᱹ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]'''{{•w}}
-</center>
-}}
-{{Navbox
-|name  = ᱥᱤᱧᱚᱛ ᱨᱮ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ
-|state = {{{state|<noinclude>expanded</noinclude>}}}
-|title = [[ᱥᱤᱧᱚᱛ]] ᱨᱮ [[ᱥᱤᱧᱚᱛ ᱨᱮ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ ᱨᱮᱱᱟᱜ ᱥᱩᱪᱤ|ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]] 
-|groupstyle = padding:0.35em 1.0em; line-height:1.1em;
-|evenstyle  = background:transparent;
-
-
-| group1 = [[:w:International airport|ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ]]
-| list1  = <div>
-<!---ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ location appended as <small> link if not already in its name/s--->
-{{nowrap begin}}
-[[ᱨᱟᱺᱪᱤ]] →'''[[ᱵᱤᱨᱥᱟᱹ ᱢᱩᱸᱰᱟᱹ ᱡᱮᱡᱟᱹᱛᱤᱭᱟᱹᱨᱤ ᱩᱰᱟᱹᱱ ᱰᱟᱹᱦᱤ]]'''{{•w}}
-</center>
-}}
