@@ -1,17 +1,23 @@
-{{small|Fever}}
-{{Infobox symptom
- |Name           = ᱨᱩᱣᱟ
- |Image          = Clinical thermometer 38.7.JPG
- |Caption        = ᱟᱱᱟᱞᱚᱜ ᱨᱩᱣᱟ. ᱡᱚᱠᱷᱟ ᱢᱮᱥᱤᱱ ᱞᱚᱞᱚᱭ ᱥᱚᱫᱚᱨ ᱮᱫ-ᱟ {{val|38.8|u=°c}} ᱟᱨ ᱵᱟᱝ {{val|101.8|u=°ଫା}} 
- |Field          = [[Infectious disease (medical specialty)|Infectious disease]], [[pediatrics]]
- |ICD10          = {{ICD10|R|50||r|50}}
- |ICD9           = {{ICD9|780.6}}
- |ICDO           =
- |OMIM           =
- |MedlinePlus    = 003090
- |eMedicineSubj  = med
- |eMedicineTopic = 785
- |DiseasesDB     = 18924
- |MeshID         = D005334
- |
+{{About|the medical condition}}
+{{Infobox medical condition (new) 
+| name          = Fever
+| synonyms      = Pyrexia, febrile response
+| image         = Clinical thermometer 38.7.JPG
+| caption       = An analog [[medical thermometer]] showing a temperature of {{val|38.7|u=°C}} or {{val|101.7|u=°F}}
+| field         = [[Infectious disease (medical specialty)|Infectious disease]], [[pediatrics]]
+| symptoms      = '''Initially''': [[shivering]], feeling [[cold]]<ref name=Peds2011/><br>'''Later''': [[flushed]], [[sweat]]ing<ref name=Sue2014/>
+| complications = [[Febrile seizure]]<ref name=CDC2010/>
+| onset         = 
+| duration      = 
+| types         = 
+| causes        = Increase in the body's temperature [[Human body temperature#Fever|set point]]<ref name=Kl2015/><ref name=Gar2012p375/>
+| risks         = 
+| diagnosis     = Temperature > between {{convert|37.5|and|38.3|C|F|1}}<ref name=NC08/><ref name=CC09/><!-- defined by template:HumanTemperature -->
+| differential  = [[Hyperthermia]]<ref name=NC08/>
+| prevention    = 
+| treatment     = Based on underlying cause, not required for fever itself<ref name=Peds2011/><ref name=Ric2015/>
+| medication    = [[Ibuprofen]], [[paracetamol]] (acetaminophen)<ref name=Ric2015/><ref name=Gar2012/>
+| prognosis     = 
+| frequency     = Common<ref name=Peds2011/><ref name=Ki2013/>
+| deaths        = 
 }}
