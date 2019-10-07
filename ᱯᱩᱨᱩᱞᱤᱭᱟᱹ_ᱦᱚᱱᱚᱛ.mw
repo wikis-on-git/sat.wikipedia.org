@@ -1,5 +1,5 @@
 {{Infobox Settlement
-|name                   ={{Purulia}} 
+|name                   = [[ᱯᱩᱨᱩᱞᱤᱭᱟᱹ]]
 |official_name          = 
 |other_name             =
 |native_name            =  
@@ -28,32 +28,29 @@
 |image_dot_map          =
 |dot_mapsize            =
 |dot_map_caption        =
-|dot_x =  |dot_y =
+|dot_x =  
+|dot_y =
 |pushpin_map            = 
 |pushpin_label_position = 
 |pushpin_map_caption    =
 |pushpin_mapsize        =
-
 |subdivision_type       = ᱫᱤᱥᱟ.ᱢ
-|subdivision_name       = {{ᱥᱤᱧᱚᱛ}}
+|subdivision_name       = [[ᱥᱤᱧᱚᱛ]]
 |subdivision_type1      = ᱯᱚᱱᱚᱛ
 |subdivision_name1      = [[ᱯᱩᱪᱪᱷᱤᱢ ᱵᱟᱝᱞᱟ]]
-|subdivision_type2      = ᱵᱤᱵᱷᱟᱜ
+|subdivision_type2      = ᱵᱤᱵᱷᱟᱜᱽ
 |subdivision_name2      = [[ᱢᱤᱫᱤᱱᱯᱩᱨ ᱵᱤᱵᱷᱟᱜ|ᱢᱤᱫᱤᱱᱯᱩᱨ]] 
 |subdivision_type3      = 
 |subdivision_name3      = 
 |subdivision_type4      = 
 |subdivision_name4      =
-
 |seat_type              = ᱵᱤᱫᱷᱟᱱᱥᱚᱵᱷᱟ ᱢᱟ.ᱪᱤ
 |seat                   = ᱵᱚᱞᱚᱨᱟᱢᱯᱩᱨ,ᱵᱟᱸᱫᱳᱣᱟᱱ,ᱯᱟᱲᱟ,ᱨᱚᱜᱷᱩᱱᱟᱛᱷᱯᱩᱨ,ᱠᱟ.ᱥᱤᱯᱩᱨ,ᱦᱩᱲᱟ,ᱢᱟᱱᱵᱟᱡᱟᱨ,ᱡᱷᱟᱞᱫᱟ,ᱡᱚᱭᱯᱩᱨ,ᱯᱩᱨᱩᱞᱤᱭᱟ.
 |parts_type             = 
-|parts_style            = <!-- =list (for list), coll (for collapsed list), para (for paragraph format)
-                               Default is list if up to 5 items, coll if more than 5-->
+|parts_style            =
 |parts                  = 
 |p1                     =
 |p2                     =
-
 |government_footnotes   = 
 |government_type        = 
 |leader_title           = ᱡᱮᱞᱟ ᱥᱟᱥᱚᱠ
@@ -62,7 +59,6 @@
 |leader_name1           = 
 |established_title      =  
 |established_date       =
-
 |area_magnitude         = 
 |unit_pref                =Imperial
 |area_footnotes           =
@@ -73,7 +69,6 @@
 |area_land_sq_mi          =
 |area_water_sq_mi         =
 |area_water_percent       =
-
 |elevation_footnotes    =  
 |elevation_m            = 
 |elevation_ft           =
@@ -81,22 +76,16 @@
 |elevation_max_ft           =
 |elevation_min_m            = 
 |elevation_min_ft           =
-
 |population_as_of               = ᱒᱐᱑᱑
 |population_footnotes           =
 |population_note                =
 |population_total               = ᱒᱕,᱓᱖,᱕᱑᱖
 |population_density_km2         = 
 |population_density_sq_mi       =
-
 |timezone               = ᱥᱤᱧᱚᱛᱤᱭᱟ. ᱚᱠᱛᱚ
 |utc_offset             = +᱕:᱓᱐
 |timezone_DST           = 
 |utc_offset_DST         = 
-|coor_type              = 
-|latd=23.19  |latm= |lats= |latNS=N 
-|longd=86.22 |longm= |longs= |longEW=E
-
 |postal_code_type       =  PIN
 |postal_code            = 
 |area_code              = 
