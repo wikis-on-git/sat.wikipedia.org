@@ -9,12 +9,12 @@
 | settlement_type                 = [[Autonomous administrative division|Administrative Territory]]
 | image_flag                      = Flag of Azad Kashmir.svg
 | image_skyline                   = {{Photomontage
-| photo1a = View From Sharda Fort, Azad Jammu & Kashmir, Pakistan.jpg
-| photo2a = Heavens unleashed Neelum valley.jpg
+| photo1a =
+| photo2a = 
 | photo2b =
-| photo3a = Arang Khel, AJK, Pakistan.jpg
-| photo3b = KN004.jpg
-| photo4a = A view of Pallandri city and Cadet Collage Pallandri..jpg
+| photo3a = 
+| photo3b = 
+| photo4a = 
 | size = 250
 | position = center
 | spacing = Number indicating width of spacing between the images (default: 1)
@@ -23,7 +23,7 @@
 | color_border = Color of border surrounding the montage (default: black)
 | text =
 | text_background = Color of background behind text (default: #F8F8FF)
-| foot_montage = Top left to right: [[Sharda, Azad Kashmir|Sharda]], [[Neelum Valley]], [[Arang Kel]], [[Banjosa Lake]] and [[Sudhanoti District]]
+| foot_montage = 
 }}
 | image_alt                       =
 | image_caption                   =
