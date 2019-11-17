@@ -39,7 +39,68 @@
 ==ᱧᱮᱞ ᱡᱚᱝ ᱴᱷᱟᱶ==
 ==ᱟᱹᱫᱤᱵᱟᱹᱥᱤ==
 ==ᱯᱩᱱᱟᱹᱭ ᱴᱷᱟᱶ ==
-==ᱦᱚᱭ ᱦᱥᱤᱫ==
+==ᱦᱚᱭ ᱦᱤᱥᱤᱫ==
+{{Weather box|width=auto
+| metric first = yes
+| single line  = yes
+| location     = Ziarat
+
+| Jan high C = 5.3
+| Feb high C = 7.7
+| Mar high C = 12.8
+| Apr high C = 18.5
+| May high C = 23.6
+| Jun high C = 28.2
+| Jul high C = 29.6
+| Aug high C = 29.0
+| Sep high C = 26.0
+| Oct high C = 20.0
+| Nov high C = 14.0
+| Dec high C = 8.9
+
+| Jan mean C = -0.8
+| Feb mean C = 1.5
+| Mar mean C = 6.4
+| Apr mean C = 11.7
+| May mean C = 16.1
+| Jun mean C = 20.2
+| Jul mean C = 22.1
+| Aug mean C = 21.3
+| Sep mean C = 17.5
+| Oct mean C = 11.5
+| Nov mean C = 6.4
+| Dec mean C = 2.0
+
+| Jan low C = -6.8
+| Feb low C = -4.7
+| Mar low C = 0.1
+| Apr low C = 4.9
+| May low C = 8.7
+| Jun low C = 12.3
+| Jul low C = 14.6
+| Aug low C = 13.6
+| Sep low C = 9.1
+| Oct low C = 3.1
+| Nov low C = -1.2
+| Dec low C = -4.9
+
+| precipitation colour = green
+| Jan precipitation mm = 46
+| Feb precipitation mm = 49
+| Mar precipitation mm = 43
+| Apr precipitation mm = 25
+| May precipitation mm = 20
+| Jun precipitation mm = 6
+| Jul precipitation mm = 29
+| Aug precipitation mm = 21
+| Sep precipitation mm = 3
+| Oct precipitation mm = 4
+| Nov precipitation mm = 8
+| Dec precipitation mm = 29
+
+| source 1 = ''Climate-Data.org'', altitude: 2519m<ref name="Climate-Data.org"/>
+}}
+
 ==ᱚᱛᱞᱟᱲᱟᱣ==
 ==ᱟᱨᱦᱚᱸ ᱧᱮᱞ ᱢᱮ==
 {{Portal|Pakistan}}
