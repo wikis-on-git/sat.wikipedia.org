@@ -1,16 +1,23 @@
-{{Infobox disease
- | Name           = ᱜᱤᱫᱽᱨᱟᱹ ᱟᱬᱜᱚ ᱛᱟᱭᱚᱢ ᱢᱟᱭᱟᱢ ᱞᱤᱸᱡᱤᱜ
- | Image          = NASG rocket girl photo.jpg
- | Caption        = ᱱᱚᱱ-ᱱᱤᱣᱢᱟᱴᱤᱠ ᱟᱱᱴᱤ-ᱥᱚᱠ ᱜᱟᱨᱢᱮᱸᱴ (NASG)
- | DiseasesDB     = 
- | ICD10          = {{ICD10|O|72||o|60}}
- | ICD9           = {{ICD9|666}}
- | ICDO           = 
- | OMIM           = 
- | MedlinePlus    = 
- | eMedicineSubj  = article
- | eMedicineTopic = 275038
- | MeshID         = D006473
+{{Infobox medical condition (new)
+| name            = Postpartum bleeding
+| synonyms        = Postpartum hemorrhage
+| image           = NASG rocket girl photo.jpg
+| caption         = A [[non-pneumatic anti-shock garment]] (NASG)
+| field           = [[Obstetrics]]
+| symptoms        = Loss of lots of blood after [[childbirth]], [[tachycardia|increased heart rate]], [[postural hypotension|feeling faint upon standing]], increased breath rate<ref name=Lyn2006/><ref name=Week2015/>
+| complications   = 
+| onset           = 
+| duration        = 
+| causes          = [[uterine atony|Poor contraction of the uterus]], [[Retained placenta|not all the placenta removed]], tear of the [[uterus]], poor [[blood clotting]]<ref name=Week2015/>
+| risks           = [[Anemia]], [[Asian people|Asian ethnicity]], more than one baby, [[obesity]], age older than 40 years<ref name=Week2015/>
+| diagnosis       = 
+| differential    = 
+| prevention      = [[Oxytocin]], [[misoprostol]]<ref name=Week2015/>
+| treatment       = Intravenous fluids, [[non-pneumatic anti-shock garment]], [[blood transfusion]]s, [[ergotamine]], [[tranexamic acid]]<ref name=Week2015/><ref name=Lancet2017/>
+| medication      = 
+| prognosis       = 3% risk of death (developing world)<ref name=Week2015/>
+| frequency       = 8.7 million (global)<ref name=GBD2015Pre/> / 1.2% of births (developing world)<ref name=Week2015/>
+| deaths          = 83,100 (2015)<ref name=GBD2015De>{{cite journal|last1=GBD 2015 Mortality and Causes of Death|first1=Collaborators.|title=Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015.|journal=Lancet|date=8 October 2016|volume=388|issue=10053|pages=1459–1544|pmid=27733281|doi=10.1016/s0140-6736(16)31012-1|pmc=5388903}}</ref>
 }}
 <!-- ᱪᱮᱫ ᱟᱨ ᱚᱠᱟᱞᱮᱠᱟ-->
 
