@@ -1,0 +1,33 @@
+{{About|the web browser|the operating system|Chrome OS|5=Chrome (disambiguation)}}
+{{pp-semi-indef}}
+{{Short description|Web browser developed by Google}}
+{{Use mdy dates|date=June 2019}}
+{{Infobox web browser
+| name = Google Chrome
+| logo = Google Chrome for Android Icon 2016.svg
+| screenshot = File:Google Chrome on Windows 10 screenshot.png
+| developer = [[Google LLC]]
+| released = {{start date and age|2008|9|2}}
+| ver layout = stacked
+| programming language = [[C (programming language)|C]], [[C++]], [[Java (programming language)|Java]] (Android app only), [[JavaScript]], [[Python (programming language)|Python]]<ref>{{cite web|title=Chromium (Google Chrome)|url=http://www.ohloh.net/p/chrome/analyses/latest|work=Ohloh.net|access-date=February 8, 2012}}</ref><ref>{{cite web |url=https://chromium.googlesource.com/chromium/src/+/master/styleguide/styleguide.md |title=Chromium coding style |author=<!--Not stated--> |date= |website=Google Open Source |publisher= |access-date=March 29, 2017}}</ref><ref>{{cite web|url=http://www.lextrait.com/Vincent/implementations.html |title=The Programming Languages Beacon, v10.0 |first=Vincent |last=Lextrait |date=January 2010 |accessdate=March 14, 2010 |url-status=dead |archiveurl=https://archive.is/20120530/http://www.lextrait.com/Vincent/implementations.html |archivedate=May 30, 2012  }}</ref>
+| operating system = {{Plainlist|
+* [[Android (operating system)|Android]] [[Android KitKat|KitKat]] and later<ref>{{cite web|url= https://www.xda-developers.com/google-chrome-android-dropping-support-android-4-1-4-3-jelly-bean/ |title= Google Chrome for Android is dropping support for Android 4.1-4.3 Jelly Bean |publisher= [[XDA Developers]] |date= October 5, 2018 |accessdate= December 10, 2018}}</ref>
+* [[Chrome OS]]
+* [[iOS 11]] or later<ref name="iOSlatest">{{cite web| url = https://itunes.apple.com/app/chrome/id535886823 | title = Chrome for iOS}}</ref>
+* [[Linux]]
+* [[OS X Yosemite|macOS 10.10]] or later
+* [[Windows 7]] or later
+}}
+| included with = {{Plainlist|
+* [[Android (operating system)|Android Jelly Bean]] or later
+* [[Chrome OS]]
+}}
+| engines = [[Blink (browser engine)|Blink]] ([[WebKit]] on iOS), [[V8 (JavaScript engine)|V8]]
+| platform = [[IA-32]], [[x86-64]], [[ARMv7]], [[ARMv8-A]]
+| language count = 103
+| language footnote = <ref>{{Cite web |url=https://support.google.com/googleplay/android-developer/table/4419860? |title=Supported languages |website=Google Play Console Help |access-date=December 18, 2015}}</ref>
+| language = 
+| genre = [[Web browser]], [[mobile browser]]
+| license = [[Proprietary software|Proprietary]] [[freeware]], based on open source components.<ref name=TOS>{{cite web|url=https://www.google.com/intl/en/chrome/browser/privacy/eula_text.html|title=Google Chrome Terms of Service}}</ref><ref group=note>Chrome's [[WebKit]] & [[Blink (browser engine)|Blink]] layout engines and its [[V8 (JavaScript engine)|V8 JavaScript engine]] are each [[free and open-source software]], while its other components are each either open-source or [[Proprietary software|proprietary]]. However, section 9 of [https://www.google.com/intl/en/chrome/browser/privacy/eula_text.html Google Chrome's Terms of Service] designates the whole package as proprietary [[freeware]].</ref>
+| website = {{URL|https://www.google.com/chrome/}}
+}}
