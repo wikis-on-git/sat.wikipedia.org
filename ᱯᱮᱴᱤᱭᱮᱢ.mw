@@ -1,0 +1,37 @@
+{{distinguish|Paym}}
+{{short description|Indian financial technology company}}
+{{Use dmy dates|date=November 2019}}
+{{Use Indian English|date=November 2019}}
+{{Infobox website
+| name = Paytm, LLC
+| logo = Paytm logo.png
+| logo_size = 200px
+| company_type = [[Private company|Private]]
+| founded = {{start date and age|2010|8}}
+| founder = [[Vijay Shekhar Sharma]]
+| location = B-121, Sector 5, [[Noida]], [[Uttar Pradesh]]
+| country = [[India]]
+| coordinates = {{coord|28|35|28.5|N|77|19|12.3|E|display=inline,title}}
+| industry = [[E-commerce]]<br />[[Finance]]
+| services = {{hlist|[[Payment system]]s|[[digital wallet]]s|[[mobile payment]]s|[[banking]]|[[online shopping]]}}
+| products = {{ubl|[[Paytm#Paytm Mall|Paytm Mall]]|[[Paytm Payments Bank]]|Paytm Money|Gamepind|Paytm Smart Retail}}
+| key_people = [[Vijay Shekhar Sharma]] {{small|([[CEO]]) and ([[President (corporate title)|President]])}}<br />Ajay Shekhar Sharma {{small|([[Vice president]])}}
+| owner = <!-- or:
+| owners           = -->
+| revenue = {{loss}} {{INRConvert|3579|c}} (FY 2019)<ref>{{Cite web|url=https://www.livemint.com/companies/start-ups/paytm-s-losses-almost-triple-to-4-217-cr-in-fy19-as-expenses-rise-1568051301932.html|title=Paytm’s losses almost triple to ₹4,217 cr in FY19 as expenses rise|first=Deepti|last=Chaudhary|date=9 September 2019|website=Livemint}}</ref>
+| parent = [[Alibaba Group]] (42%)<br /> [[One97 Communications Ltd.]] (38%) <br />[[Softbank]] (20%)<ref>{{cite news|url=https://economictimes.com/small-biz/startups/newsbuzz/warren-buffett-in-talks-for-a-slice-of-paytm/articleshow/65556465.cms
+|title='Oracle of Omaha,' Warren Buffett in talks for a slice of Paytm|work=Madhavi Chanchani|publisher=[[The Economic Times]]|date=2018-08-27|access-date=2019-09-29}}</ref>
+| website = 
+{{URL|https://paytm.com}} {{small|(Global)}}<br />{{URL|https://paytm.in}} {{small|(IN)}}<br />{{URL|https://paytm.ca}} {{small|(CA)}}
+| area_served = Worldwide
+| registration = Required
+| type = [[Financial service]]<br />[[Online shopping]]<br />[[Payment systems]]
+| launched = {{start date and age|2010|8}}
+| language = [[Multilingual]]
+| programming_language= [[C++]], [[JavaScript]], [[D (programming language)|D]]
+| advertising = Yes
+| current_status = Active
+| alexa = {{increase}} 594 {{small|{{nowrap|(Global, {{as of|2019|11|27|alt=November 2019}})}}}}<ref name="alexa">{{cite web |url=http://www.alexa.com/siteinfo/paytm.com |title=Paytm.com Site Overview |publisher= [[Alexa Internet]] |accessdate=2019-11-27}}</ref><br /> {{increase}} 56 {{small|{{nowrap|(India, {{as of|2019|11|27|alt=November 2019}})}}}}<ref name=alexa/>
+| users = {{increase}} 350 Million (FY 2019)<ref>{{Cite news|url=https://www.thehindubusinessline.com/info-tech/paytm-achieves-gtv-of-over-50-billion-in-fy19-clocks-55-billion-transactions/article27505146.ece |title=Paytm achieves of GTV growth over $50 billion in (FY2019), clocks 5.5 billion transactions|publisher=[[The Hindu]]|date=2019-06-05|access-date=2019-09-30}}</ref>
+| native_clients = [[Android (operating system)|Android]]<br/>[[iOS]]<br/>[[Microsoft Windows|Windows]]
+}}
