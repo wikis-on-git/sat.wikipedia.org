@@ -1,0 +1,154 @@
+ᱥᱟᱹᱨᱤ '''ᱨᱚᱸ''' ᱰᱤᱯᱴᱮᱨᱟ (ᱰᱤ=ᱫᱤ,ᱴᱮᱨᱚᱱ=ᱥᱟᱶ) ᱫᱚ ᱢᱤᱫᱞᱮᱠᱟᱱ [[ᱛᱤᱡᱩ]] ᱠᱟᱱᱟ ᱠᱚ᱾ ᱡᱟᱦᱟ ᱫᱚ ᱢᱮᱥᱚᱛᱷᱚᱨᱟᱥᱮᱠ ᱵᱟᱨ ᱜᱚᱴᱮᱜ ᱤᱞ ᱢᱮᱱᱟᱜ ᱛᱟᱠᱚᱣᱟ᱾ ᱟᱨ ᱢᱮᱴᱚᱨᱟᱥᱮᱠ ᱠᱷᱚᱱ ᱛᱟᱭᱚᱢ ᱤᱞ ᱨᱮᱱᱟᱜ ᱵᱟᱨᱭᱟ ᱦᱮᱞᱴᱮᱭᱟᱨ (en:halteres) ᱢᱮᱱᱟᱜ-ᱟ᱾
+ 
+=== Relationships to other insects ===
+Dipterans are [[endopterygote]]s, insects that undergo radical metamorphosis. They belong to the Mecopterida, alongside the [[Mecoptera]], [[Siphonaptera]], [[Lepidoptera]] and [[Trichoptera]].<ref>{{cite journal |doi=10.1186/1471-2148-14-52 |pmid=24646345 |pmc=4000048 |title=The evolutionary history of holometabolous insects inferred from transcriptome-based phylogeny and comprehensive morphological data |journal=BMC Evolutionary Biology |volume=14 |issue=1 |pages=52 |year=2014 |last1=Peters |first1=Ralph S. |last2=Meusemann |first2=Karen |last3=Petersen |first3=Malte |last4=Mayer |first4=Christoph |last5=Wilbrandt |first5=Jeanne |last6=Ziesmann |first6=Tanja |last7=Donath |first7=Alexander |last8=Kjer |first8=Karl M. |last9=Aspöck |first9=Ulrike |last10=Aspöck |first10=Horst |last11=Aberer |first11=Andre |last12=Stamatakis |first12=Alexandros |last13=Friedrich |first13=Frank |last14=Hünefeld |first14=Frank |last15=Niehuis |first15=Oliver |last16=Beutel |first16=Rolf G. |last17=Misof |first17=Bernhard}}</ref><ref>{{cite web |url=http://www.taxonomy.nl/Taxonomicon/TaxonTree.aspx?id=102510 |title=Taxon: Superorder Antliophora |website=The Taxonomicon |accessdate=21 August 2007}}</ref> The possession of a single pair of wings distinguishes most true flies from other insects with "fly" in their names. However, some true flies such as [[Hippoboscidae]] (louse flies) have become secondarily wingless.<ref>{{cite book |author=Hutson, A. M. |year=1984 |title=Diptera: Keds, flat-flies & bat-flies (Hippoboscidae & Nycteribiidae) |page=84 |publisher=[[Royal Entomological Society of London]] |series=[[R.E.S Handbooks|Handbooks for the Identification of British Insects]] |volume=10 pt 7}}</ref>
+
+The [[cladogram]] represents the current consensus view.<ref>{{cite web |url=http://tolweb.org/Endopterygota/8243 |title=Endopterygota Insects with complete metamorphosis |last2=Wiegmann |first2=Brian |website=Tree of Life |last1=Yeates |first1=David K. |accessdate=24 May 2016}}</ref>
+
+{{clade
+ |label1=part of [[Endopterygota]]
+ |1={{clade
+  |label1=Mecopterida
+  |1={{clade
+    |label1=Antliophora
+    |1={{clade 
+     |1='''Diptera''' [[File:Common house fly, Musca domestica.jpg|100px]]
+     |2={{clade
+       |1=[[Mecoptera]] (scorpionflies, hangingflies, 400 [[Species|spp]].) (exc. Boreidae) [[File:Gunzesrieder Tal Insekt 3.jpg|70px]]
+       |2={{clade
+         |1=[[Boreidae]] (snow scorpionflies, 30 spp.) [[File:Boreus hiemalis2 detail.jpg|70px]]
+         |2=[[Siphonaptera]] (fleas, 2500 spp.) [[File:Pulex irritans female ZSM.jpg|50px]]
+        }}
+      }}
+     }}
+    |2={{clade
+     |1=[[Trichoptera]] (caddisflies) [[File:Sericostoma.personatum.jpg|70px]] 
+     |2=[[Lepidoptera]] (butterflies and moths) [[File:Tyria jacobaeae-lo.jpg|40px]]
+     }}
+   }}
+  |2=[[Hymenoptera]] (sawflies, wasps, ants, bees) [[File:AD2009Sep09 Vespula germanica 03.jpg|70px]] 
+  }}
+}}
+
+[[File:Lutzomyia adiketis.jpg|thumb|right|upright=0.7 |Fossil [[nematocera]]n in Dominican amber. Sandfly, ''[[Lutzomyia adiketis]]'' ([[Psychodidae]]), [[Early Miocene]], c. 20 million years ago]]
+
+===Relationships between fly subgroups and families===
+[[File:Fossil insect Diptera, Brachycera in Baltic amber. Age 50 Mill. years (the Lower Eocene).jpg|thumb|left|upright=0.7 |Fossil [[brachycera]]n in [[Baltic amber]]. [[Lower Eocene]], c. 50 million years ago]]
+
+The first true dipterans known are from the [[Middle Triassic]] (around 240 million years ago), and they became widespread during the Middle and [[Late Triassic]].<ref>{{cite book |last1=Blagoderov |first1=V. A. |last2=Lukashevich |first2=E. D. |last3=Mostovski |first3=M. B. |editor1-last=Rasnitsyn |editor1-first=A. P. |editor2-last=Quicke |editor2-first=D. L. J. |year=2002 |title=History of Insects |chapter=Order Diptera Linné, 1758. The true flies |publisher=[[Kluwer Academic Publishers]] |isbn=978-1-4020-0026-3 |chapter-url=http://palaeoentomolog.ru/New/diptera.html}}</ref> [[Flowering plant|Modern flowering plants]] did not appear until the [[Cretaceous]] (around 140 million years ago), so the original dipterans must have had a different source of nutrition other than [[nectar]]. Based on the attraction of many modern fly groups to shiny droplets, it has been suggested that they may have fed on [[Honeydew (secretion)|honeydew]] produced by [[Homoptera|sap-sucking bugs]] which were abundant at the time, and dipteran mouthparts are well-adapted to softening and lapping up the crusted residues.<ref>{{cite journal |author1=Downes, William L. Jr. |author2=Dahlem, Gregory A. |year=1987 |title= Keys to the Evolution of Diptera: Role of Homoptera |journal=Environmental Entomology |volume=16 |issue=4 |pages=847–854 |doi=10.1093/ee/16.4.847 }}</ref> The [[basal clade]]s in the Diptera include the [[Deuterophlebiidae]] and the enigmatic [[Nymphomyiidae]].<ref name="Wiegmann2011">{{cite journal |last=Wiegmann |first=B. M. |year=2011 |title=Episodic radiations in the fly tree of life |journal=[[Proceedings of the National Academy of Sciences|PNAS]] |volume=108 |issue=14 |pages=5690–5695 |doi=10.1073/pnas.1012675108 |first2=M. D. |last3=Winkler |first3=I. S. |last4=Barr |first4=N. B. |last5=Kim |first5=J.-W. |last6=Lambkin |first6=C. |last7=Bertone |first7=M. A. |last8=Cassel |first8=B. K. |last9=Bayless |first9=K. M. |last10=Heimberg |first10=A. M. |last11=Wheeler |first11=B. M. |last12=Peterson |first12=K. J. |last13=Pape |first13=T. |last14=Sinclair |first14=B. J. |last15=Skevington |first15=J. H. |last16=Blagoderov |first16=V. |last17=Caravas |first17=J. |last18=Kutty |first18=S. N. |last19=Schmidt-Ott |first19=U. |last20=Kampmeier |first20=G. E. |last21=Thompson |first21=F. C. |last22=Grimaldi |first22=D. A. |last23=Beckenbach |first23=A. T. |last24=Courtney |first24=G. W. |last25=Friedrich |first25=M. |last26=Meier |first26=R. |last27=Yeates |first27=D. K. |pmid=21402926 |pmc=3078341 |display-authors=8 |last2=Trautwein |bibcode=2011PNAS..108.5690W}}</ref> Three episodes of [[evolutionary radiation]] are thought to have occurred based on the fossil record. Many new species of lower Diptera developed in the [[Triassic]], about 220 million years ago. Many lower Brachycera appeared in the [[Jurassic]], some 180 million years ago. A third radiation took place among the [[Schizophora]] at the start of the [[Paleogene]], 66 million years ago.<ref name="Wiegmann2011" />
+
+The phylogenetic position of Diptera has been controversial. The monophyly of [[Holometabolism|holometabolous]] insects has long been accepted, with the main orders being established as Lepidoptera, Coleoptera, Hymenoptera and Diptera, and it is the relationships between these groups which has caused difficulties. Diptera is widely thought to be a member of [[Mecopterida]], along with Lepidoptera (butterflies and moths), Trichoptera (caddisflies), Siphonaptera (fleas), Mecoptera (scorpionflies) and possibly [[Strepsiptera]] (twisted-wing flies). Diptera has been grouped with Siphonaptera and Mecoptera in the Antliophora, but this has not been confirmed by molecular studies.<ref>{{cite book |author1=Wiegmann,Brian |author2=Yeates, David K. |title=The Evolutionary Biology of Flies |url=https://books.google.com/books?id=rElP5sNn6IYC |year=2012 |publisher=Columbia University Press |isbn=978-0-231-50170-5 |pages=4–6}}</ref>
+
+Diptera were traditionally broken down into two suborders, [[Nematocera]] and [[Brachycera]], distinguished by the differences in antennae. The Nematocera are identified by their elongated bodies and many-segmented, often feathery antennae as represented by mosquitoes and crane flies. The Brachycera have rounder bodies and much shorter antennae.<ref>B.B. Rohdendorf. 1964. Trans. Inst. Paleont., Acad. Sci. USSR, Moscow, v. 100</ref><ref name=TOL>{{cite web |last1=Wiegmann |first1=Brian M. |last2=Yeates |first2=David K. |title=Diptera True Flies |url=http://tolweb.org/Diptera/8226 |website=Tree of Life |date=29 November 2007 |accessdate=25 May 2016}}</ref> Subsequent studies have identified the Nematocera as being non-monophyletic with modern phylogenies placing the Brachycera within grades of groups formerly placed in the Nematocera. The construction of a phylogenetic tree has been the subject of ongoing research. The following cladogram is based on the FLYTREE project.<ref name=Wiegmann2011 /><ref>{{cite web |last1=Yeates |first1=David K. |last2=Meier |first2=Rudolf |last3=Wiegmann |first3=Brian |title=Phylogeny of True Flies (Diptera): A 250 Million Year Old Success Story in Terrestrial Diversification |url=http://wwx.inhs.illinois.edu/research/flytree/flyphylogeny/ |website=Flytree |accessdate=24 May 2016}}</ref><ref>{{Cite web |url=http://wwx.inhs.illinois.edu/research/flytree/flyphylogeny/ |title=FLYTREE |date= |website= |publisher=Illinois Natural History Survey |access-date=2016-07-22}}</ref>{{clade | style=font-size:100%;line-height:75%;
+ |label1=[[Nematocera]]
+ |1={{clade 
+  |1={{clade 
+    |1=[[Ptychopteromorpha]] (phantom and primitive crane-flies) [[File:Ptychoptera_contaminata.jpg|60px]]
+    |2=[[Culicomorpha]] (mosquitoes) [[File:AnophelesGambiaemosquito.jpg|55px]]
+   }}
+  |2={{clade
+    |1=[[Blephariceromorpha]] (net-winged midges, etc) [[File:Imago of Blepharicera fasciata as Asthenia fasciata in Westwood 1842, plate 94.png|60px]]
+    |2={{clade
+     |1=[[Bibionomorpha]] (gnats) [[File:Bibio marci02.jpg|55px]]
+     |2={{clade
+       |1=[[Psychodomorpha]] (drain flies, sand flies, etc) [[File:Clogmia Albipunctata or moth fly.jpg|55px]]
+       |2={{clade
+        |1=[[Tipuloidea]] (crane flies) [[File:Tipula submarmorata, Abergwynant, North Wales, May 2015 (23422515666).jpg|65px]]
+        |label2=[[Brachycera]]
+        |2={{clade
+          |label1=[[Tabanomorpha|Tab]]
+          |1={{clade
+           |1=[[Stratiomyomorpha]] (soldier flies, etc) [[File:Hermetia illucens Black soldier fly edit1.jpg|66px]]
+           |2={{clade
+             |1=[[Xylophagomorpha]] (stink flies, etc) [[File:Stinkfliege Coenomyia ferruginea male.jpg|55px]]
+             |2=[[Tabanomorpha]] (horse flies, snipe flies, etc) [[File:Tabanus bromius01.jpg|66px]]
+            }}
+           }}
+          |label2=[[Muscomorpha|Mus]]
+          |2={{clade
+           |1=[[Nemestrinoidea]]
+           |2={{clade
+             |1=[[Asiloidea]] (robber flies, bee flies, etc) [[File:Asilidae June 2011-1.jpg|66px]]
+             |label2=[[Eremoneura|Ere]]
+             |2={{clade
+              |1=[[Empidoidea]] (dance flies, etc) [[File:Empis.tessellata.male.jpg|35px]]
+              |label2=[[Cyclorrhapha|Cyc]]
+              |2={{clade
+                |1=[[Aschiza]] (in part)
+                |2={{clade
+                 |1=[[Phoroidea]] (flat-footed flies, etc) [[File:Polyporivora-picta-Platypezid-fly-20111015a.jpg|55px]]
+                 |2={{clade
+                   |1=[[Syrphoidea]] (hoverflies) [[File:Mosca cernidora de la grosella.jpg|55px]]
+                   |label2=[[Schizophora|Sch]]
+                   |2={{clade
+                    |label1=[[Calyptratae|Cal]]
+                    |1={{clade
+                      |1=[[Hippoboscoidea]] (louse flies, etc) [[File:CrataerhinaPallida.jpg|55px]]
+                      |2={{clade
+                       |1=[[Muscoidea]] (house flies, dung flies, etc) [[File:Musca domestica housefly.jpg|55px]]
+                       |2=[[Oestroidea]] (blow flies, flesh flies, etc) [[File:Sarcophaga Bercaea2.jpg|55px]]
+                       }}
+                     }}
+                    |2=[[Acalyptratae]] (marsh flies, etc) [[File:Marsh fly01.jpg|55px]]
+                    }}
+                  }}
+                 }}
+               }}
+              }}
+            }}
+           }}
+         }}
+        }}
+      }}
+     }}
+   }}
+  }}
+}}
+
+<small>''Abbreviations used in the cladogram:''
+* Cal=[[Calyptratae]]
+* Cyc=[[Cyclorrhapha]] 
+* Ere=[[Eremoneura]] 
+* Mus=[[Muscomorpha]]
+* Sch=[[Schizophora]] 
+* Tab=[[Tabanomorpha]]
+</small>
+
+== ᱯᱷᱮᱵᱟᱛ ==
+{{Wikiquote|Flies}}
+{{Commons category|Diptera}}
+{{Wikispecies |Diptera}}
+{{Wikisource1911Enc|Fly}}
+
+'''General'''
+* [https://web.archive.org/web/20100405091526/http://www.diptera.org/ The Systema Dipterorum Database site]
+* [http://www.diptera.info The Diptera.info portal with galleries and discussion forums]
+* [http://wwx.inhs.illinois.edu/research/flytree/ FLYTREE – dipteran phylogeny]
+* [http://www.dipteristsforum.org.uk/ The Dipterists Forum] – The Society for the study of flies
+* [http://bugguide.net/node/view/55 BugGuide]
+* [http://hbs.bishopmuseum.org/fossilcat/ The World Catalog of Fossil Diptera]
+* [http://tolweb.org/tree?group=Diptera The Tree of Life Project]
+
+'''Anatomy'''
+* [https://web.archive.org/web/20120118040549/http://www.ces.csiro.au/biology/fly/fly.html Fly: Anatomical Atlas] at CSIRO
+* [http://www.drawwing.org/insects/diptera Drawing Wing venation]
+'''Describers'''
+* [http://hbs.bishopmuseum.org/publications/pdf/tr51.pdf Authors of fly names]
+* [https://web.archive.org/web/20100405091526/http://www.diptera.org/ Systema Dipterorum Nomenclator]
+
+{{Diptera}}
+{{Orders of Insects}}
+{{Insects in culture}}
+{{Taxonbar|from=Q25312}}
+{{Authority control}}
+
+[[Category:Flies|.]]
+[[Category:Diptera by classification| ]]
+<!-- [[Category:Pollinators]] not all pollinators -->
+[[Category:Taxa named by Carl Linnaeus]]
+[[Category:Anisian first appearances]]
+[[Category:Extant Middle Triassic first appearances]]
+[[Category:Triassic insects]]
+[[Category:Triassic animals of North America]]
+[[Category:Triassic animals of South America]]
+[[Category:Insects in culture]]
