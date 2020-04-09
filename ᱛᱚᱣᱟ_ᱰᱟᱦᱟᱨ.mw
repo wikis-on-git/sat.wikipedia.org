@@ -1,0 +1,40 @@
+{{Infobox
+| title=Milky Way Galaxy
+| image = [[File:ESO-VLT-Laser-phot-33a-07.jpg|300px]]
+| caption = {{longitem|
+The [[Galactic Center]] as seen from [[Earth]]'s night sky (the laser creates a [[Laser guide star|guide-star]] for the telescope)|style=padding: 4px 0;}}
+| titlestyle=background: #30D5C8;
+| headerstyle=background:
+| belowstyle=background: #30D5C8;
+| labelstyle=background: inherit;
+| header1=Observation data
+| label2=[[Galaxy morphological classification|Type]]
+| data2=Sb, Sbc, or SB(rs)bc<ref name=ssr100_1_129/><ref>{{cite web|first1=Hartmut |last1=Frommert |first2=Christine |last2=Kronberg |date=August 26, 2005 |url=http://messier.seds.org/more/mw_type.html |title=Classification of the Milky Way Galaxy |accessdate=May 30, 2015 |work=SEDS |url-status=live |archiveurl=https://web.archive.org/web/20150531031937/http://messier.seds.org/more/mw_type.html |archivedate=May 31, 2015 }}</ref> ([[barred spiral galaxy]])
+| label3=[[Diameter]]
+| data3={{Convert|1.5–2.3|Mly|kpc|abbr=on|lk=on}}<ref name=croswell2020>{{cite web |first1=Ken |last1=Croswell |date=March 23, 2020 |url=https://www.sciencenews.org/article/astronomers-have-found-edge-milky-way-size |title=Astronomers have found the edge of the Milky Way at last |accessdate=March 27, 2020 |url-status=live |archive-url=https://web.archive.org/web/20200324214927/https://www.sciencenews.org/article/astronomers-have-found-edge-milky-way-size |archive-date=March 24, 2020 }}</ref>
+| label4=Thickness of thin stellar disk
+| data4=≈{{Convert|2|kly|kpc|abbr=on|lk=off|sigfig=1}}<ref name="ask-astro"/><ref name="Rix_Bovy" />
+| label6=Number of stars
+| data6={{nowrap|100–400 billion [(1–4)×10<sup>11</sup>]}}<ref name=odenwald/>
+| label7=
+| data7=
+| label8=Mass
+| data8=0.8–1.5{{e|12}}&nbsp;{{solar mass|link=yes}}<ref name="McMillan2011"/><ref name="McMillan2016"/><ref name="Kafle2012"/><ref name="Kafle2014"/>
+| label9=Angular momentum
+| data9=≈{{val|1|e=67|u=J s}}<ref>{{cite web|last1=Karachentsev |first1=Igor |title=Double Galaxies §7.1 |url=https://ned.ipac.caltech.edu/level5/Sept02/Keel/Keel7.html |website=ned.ipac.caltech.edu |publisher=Izdatel'stvo Nauka |accessdate=April 5, 2015 |url-status=live |archiveurl=https://web.archive.org/web/20160304054350/https://ned.ipac.caltech.edu/level5/Sept02/Keel/Keel7.html |archivedate=March 4, 2016 }}</ref>
+| label10=Sun's distance to [[Galactic Center]]
+| data10={{convert|26.4|±|1.0|kly|kpc|abbr=on|lk=off}}<ref name="apj692_2_1075"/><ref name="boehle2016"/><ref name="Gillessen2016"/>{{additional citation needed|date=October 2019}}
+| label11=Sun's [[Galactic Year|Galactic rotation period]]
+| data11=240&nbsp;[[Myr]]<ref name="sparke_gallagher"/>
+| label12=[[Density wave theory|Spiral pattern rotation period]]
+| data12=220–360&nbsp;Myr<ref name=rotation_pattern_speeds/>
+| label13=[[Barred spiral galaxy|Bar pattern]] rotation period
+| data13=100–120&nbsp;Myr<ref name=rotation_pattern_speeds/>
+| label14=Speed relative to [[Cosmic microwave background|CMB]] [[rest frame]]
+| data14={{nowrap|552.2 ± 5.5 km/s}}<ref name=COBE1993 />
+| below=See also: [[Galaxy]], [[List of galaxies]]
+| label15=Escape velocity at Sun's position
+| data15=550 km/s<ref name="Kafle2014"/>
+| label16=Dark matter density at Sun's position
+| data16=0.0088{{sup sub|+0.0024 |−0.0018}} {{solar mass|link=yes}}<nowiki/>pc{{sup|−3}} or 0.35{{sup sub|+0.08|−0.07}} GeV cm{{sup|−3}}<ref name="Kafle2014"/>
+}}
