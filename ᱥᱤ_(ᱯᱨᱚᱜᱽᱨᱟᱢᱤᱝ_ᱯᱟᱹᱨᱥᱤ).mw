@@ -1,0 +1,27 @@
+'''ᱥᱤ ᱯᱨᱚᱜᱽᱨᱟᱢᱤᱝ ᱯᱟᱹᱨᱥᱤ''' (''C Programming Language'') ᱫᱚ ᱢᱤᱫ ᱪᱮᱛᱟᱱ ᱞᱮᱵᱚᱞ ᱨᱮᱱᱟᱜ ᱯᱨᱚᱽᱨᱟᱢᱤᱝ ᱯᱟᱹᱨᱥᱤ ᱠᱟᱱᱟ ᱾ ᱡᱟᱦᱟᱸ ᱫᱚ ᱯᱩᱭᱞᱩ ᱑᱙᱖᱙ ᱠᱷᱚᱱ ᱑᱙᱗᱓ ᱥᱟᱹᱦᱤᱛ ᱢᱟᱹᱫᱽ ᱨᱮ [[ᱰᱮᱱᱤᱥ ᱨᱤᱪᱤ]] ᱦᱚᱛᱮᱛᱮ ''ᱵᱮᱞᱞ ᱞᱮᱵᱽ'' ᱨᱮ ᱵᱮᱱᱟᱣ ᱞᱮᱫ ᱛᱟᱦᱮᱸᱫ ᱾ 
+{{^|
+'''ସି ପ୍ରୋଗ୍ରାମିଂ ଭାଷା''' ଏକ ଉଚ୍ଚ ସ୍ତରିୟ [[ପ୍ରୋଗ୍ରାମିଂ ଭାଷା]] ଯାହାର ପ୍ରାଥମିକ ବିକାସ ଡେନିସ ରୀଚିଦ୍ୱାରା ୧୯୬୯ ଏବଂ ୧୯୭୩ ମଧ୍ୟରେ ବେଲ ପ୍ରୟଗଶାଳା କରାଯାଇଥିଲା।<ref name="chistory" /> ସି ପ୍ରୋଗ୍ରାମିଂ ଭାଷାର ରୁପରେଖା ଏପରି ଅଛି ଯାହା ଦ୍ୱାର ଏହାକୁ 'ଯନ୍ତ୍ର ଅନୁଦେଶ'(''Machine Instruction'') ସ‌ହିତ ଭାଲ ଭାବରେ ପ୍ରତିଚିତ୍ରଣ କରିହେବ ଏହି କାରଣରୁ [[ସିଷ୍ଟମ ସଫ୍ଟ‌ୱେର]] ଯେପରିକି 'ୟୁନିକ୍ସ ଅପରେଟିଙ୍ଗ ସିଷ୍ଟମକୁ'(''UNIX Operating System'') ଅତ୍ୟଧିକ ଭାବରେ ସି ପ୍ରୋଗ୍ରାମିଂ ଭାଷାରେ ଲେଖାଯାଇଛି।<ref name="AutoTX-1" />
+
+ସି ପ୍ରୋଗ୍ରାମିଂ ଭାଷା ଏକ ବ୍ୟାପକ ଭାବରେ ବ୍ୟବ‌ହାର କରାଯାଉଥିବା ଲୋକପ୍ରିୟ ପ୍ରୋଗ୍ରାମିଂ ଭାଷା।<ref name="AutoTX-2" /> ସି ପ୍ରୋଗ୍ରାମିଂ ଭାଷାର ପ୍ରଭାବ ବିଭିନ୍ନ ନୁତନ ପ୍ରୋଗ୍ରାମିଂ ଭାଷା ଯେପରିକି [[ସି++ (ପ୍ରୋଗ୍ରାମିଂ ଭାଷା)|ସି++(''C++'')]], [[ଜାଭା (ପ୍ରୋଗ୍ରାମିଂ ଭାଷା)|ଜାଭା(''Java'')]], [[ସି# (ପ୍ରୋଗ୍ରାମିଂ ଭାଷା)|ସି#(''C#'')]], [[ପାଇଥନ୍ (ପ୍ରୋଗ୍ରାମିଂ ଭାଷା)|ପାଇଥନ୍(''Python'')]] ଏବଂ [[ପର୍ଲ୍ (ପ୍ରୋଗ୍ରାମିଂ ଭାଷା)|ପର୍ଲ୍(''Perl'')]] ଆଦି ଉପରେ ଦେଖାଯାଏ। 
+== ଆଧାର ==
+{{Reflist|30em|refs=
+<ref name="dottcl_2">{{cite web |url=http://cm.bell-labs.com/cm/cs/who/dmr/chist.html |title=The Development of the C Language |quote=Thompson had made a brief attempt to produce a system coded in an early version of C—before structures—in 1972, but gave up the effort. |last=Ritchie |first=Dennis M. |authorlink=Dennis Ritchie |date=January 1993 |accessdate=1 January 2008}}</ref>
+<ref name="dottcl">{{cite web |url=http://cm.bell-labs.com/cm/cs/who/dmr/chist.html |title=The Development of the C Language |quote=The scheme of type composition adopted by C owes considerable debt to Algol 68, although it did not, perhaps, emerge in a form that Algol's adherents would approve of. |last=Ritchie |first=Dennis M. |authorlink=Dennis Ritchie |date=January 1993 |accessdate=1 January 2008}}</ref>
+<ref name="vinsp">{{cite web|title=Verilog HDL (and C)|url=http://cs.anu.edu.au/courses/ENGN3213/lectures/lecture6_VERILOG_2010.pdf|date=2010-06-03|accessdate=2013-08-19|publisher=The Research School of Computer Science at the Australian National University|quote=1980s: ; Verilog first introduced ; Verilog inspired by the C programming language}}</ref>
+<ref name="chistory">{{cite web | url=http://cm.bell-labs.com/who/dmr/chist.html | title=The History of the C Programming Language | author=Dennis M. Ritchie | accessdate=February 26, 2014}}</ref>
+<ref name="AutoTX-1">{{cite web |url=http://archive.adaic.com/docs/reports/lawlis/k.htm |title=Guidelines for Choosing a Computer Language: Support for the Visionary Organization |date=August 1997 |last=Lawlis |first=Patricia K. |publisher=Ada Information Clearinghouse |accessdate=18 July 2006}}</ref>
+<ref name="AutoTX-2">{{cite web |url=http://www.langpop.com/ | title=Programming Language Popularity |year=2009 |accessdate=16 January 2009}}</ref>
+}}
+
+
+== ବାହାର ଲିଙ୍କ ==
+{{Sister project links|v = Topic:C|commons = C (programming language)|b = C programming language|voy = no|s = no|wikt = no}}
+* [http://www.open-std.org/jtc1/sc22/wg14/ ISO C Working Group official website]
+* [http://www.c-faq.com/ comp.lang.c Frequently Asked Questions]
+* [http://www.open-std.org/JTC1/SC22/WG14/www/standards ISO/IEC 9899]. Official C99 documents.
+* [http://flash-gordon.me.uk/ansi.c.txt ''ANSI C Standard'' (ANSI X3J11/88-090)] (Published 13 May 1988), [http://groups.google.com/group/comp.lang.c/msg/20b174b18cdd919d?hl=en Third Public Review]
+* [http://www.scribd.com/doc/16306895/Draft-ANSI-C-Rationale ''ANSI C Rationale'' (ANSI X3J11/88-151)] (Published 18 November 1988)
+* {{PDFlink|[http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf C99 with Technical corrigenda TC1, TC2, and TC3 included]|3.61&nbsp;MB}}
+* [http://cm.bell-labs.com/cm/cs/who/dmr/chist.html A History of C by Dennis Richie]
+
+}}
