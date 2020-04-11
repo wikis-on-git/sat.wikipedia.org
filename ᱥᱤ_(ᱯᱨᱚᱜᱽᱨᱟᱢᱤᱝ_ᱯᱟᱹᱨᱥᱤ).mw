@@ -9,9 +9,9 @@
 
 == ᱥᱟᱹᱠᱷᱭᱟᱹᱛ ==
 {{Reflist|30em|refs=
-<ref name="dottcl_2">{{cite web |url=http://cm.bell-labs.com/cm/cs/who/dmr/chist.html |title=The Development of the C Language |quote=Thompson had made a brief attempt to produce a system coded in an early version of C—before structures—in 1972, but gave up the effort. |last=Ritchie |first=Dennis M. |authorlink=Dennis Ritchie |date=January 1993 |accessdate=1 January 2008}}</ref>
-<ref name="dottcl">{{cite web |url=http://cm.bell-labs.com/cm/cs/who/dmr/chist.html |title=The Development of the C Language |quote=The scheme of type composition adopted by C owes considerable debt to Algol 68, although it did not, perhaps, emerge in a form that Algol's adherents would approve of. |last=Ritchie |first=Dennis M. |authorlink=Dennis Ritchie |date=January 1993 |accessdate=1 January 2008}}</ref>
+<ref name="chistory">{{cite web | url=http://cm.bell-labs.com/who/dmr/chist.html | title=The History of the C Programming Language | author=Dennis M. Ritchie | accessdate=February 26, 2014}}</ref>
 }}
+
 
 == ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ ==
 {{Sister project links|v = Topic:C|commons = C (programming language)|b = C programming language|voy = no|s = no|wikt = no}}
