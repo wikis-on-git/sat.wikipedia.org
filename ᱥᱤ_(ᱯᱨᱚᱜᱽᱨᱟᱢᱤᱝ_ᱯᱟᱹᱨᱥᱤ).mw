@@ -11,12 +11,7 @@
 {{Reflist|30em|refs=
 <ref name="dottcl_2">{{cite web |url=http://cm.bell-labs.com/cm/cs/who/dmr/chist.html |title=The Development of the C Language |quote=Thompson had made a brief attempt to produce a system coded in an early version of C—before structures—in 1972, but gave up the effort. |last=Ritchie |first=Dennis M. |authorlink=Dennis Ritchie |date=January 1993 |accessdate=1 January 2008}}</ref>
 <ref name="dottcl">{{cite web |url=http://cm.bell-labs.com/cm/cs/who/dmr/chist.html |title=The Development of the C Language |quote=The scheme of type composition adopted by C owes considerable debt to Algol 68, although it did not, perhaps, emerge in a form that Algol's adherents would approve of. |last=Ritchie |first=Dennis M. |authorlink=Dennis Ritchie |date=January 1993 |accessdate=1 January 2008}}</ref>
-<ref name="vinsp">{{cite web|title=Verilog HDL (and C)|url=http://cs.anu.edu.au/courses/ENGN3213/lectures/lecture6_VERILOG_2010.pdf|date=2010-06-03|accessdate=2013-08-19|publisher=The Research School of Computer Science at the Australian National University|quote=1980s: ; Verilog first introduced ; Verilog inspired by the C programming language}}</ref>
-<ref name="chistory">{{cite web | url=http://cm.bell-labs.com/who/dmr/chist.html | title=The History of the C Programming Language | author=Dennis M. Ritchie | accessdate=February 26, 2014}}</ref>
-<ref name="AutoTX-1">{{cite web |url=http://archive.adaic.com/docs/reports/lawlis/k.htm |title=Guidelines for Choosing a Computer Language: Support for the Visionary Organization |date=August 1997 |last=Lawlis |first=Patricia K. |publisher=Ada Information Clearinghouse |accessdate=18 July 2006}}</ref>
-<ref name="AutoTX-2">{{cite web |url=http://www.langpop.com/ | title=Programming Language Popularity |year=2009 |accessdate=16 January 2009}}</ref>
 }}
-
 
 == ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ ==
 {{Sister project links|v = Topic:C|commons = C (programming language)|b = C programming language|voy = no|s = no|wikt = no}}
