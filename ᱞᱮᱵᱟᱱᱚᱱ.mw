@@ -1,5 +1,5 @@
 {{Infobox country
-| conventional_long_name                = ᱞᱮᱵᱟᱱᱚᱱ ᱫᱤᱥᱣᱟᱹ ᱨᱟᱡᱽ
+| conventional_long_name                = ᱞᱮᱵᱟᱱᱚᱱ ᱫᱤᱥᱣᱟᱹᱨᱟᱡᱽ
 | common_name                = ᱞᱮᱵᱟᱱᱚᱱ
 | native_name                = {{vunblist|item_style=font-size:88%; |{{native name|ar|الجمهورية اللبنانية|italics=off}}<br />}}<small>''{{transl|ar|al-Jumhūrīyah al-Lubnānīyah}}''</small>
 | image_flag                = Flag of Lebanon.svg
@@ -15,21 +15,21 @@
 | languages_type                = ᱫᱮᱥᱤ
 | recognised_languages                = 
 | demonym                = ᱞᱮᱵᱟᱱᱤᱥ
-| government_type                = ᱫᱤᱥᱣᱟᱹ ᱨᱟᱡᱽ<ref name="constitution">{{cite web |title=The Lebanese Constitution |publisher=Presidency of Lebanon |url=http://presidency.gov.lb/English/LebaneseSystem/Documents/Lebanese%20Constitution.pdf |accessdate=20 August 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20120119201440/http://presidency.gov.lb/English/LebaneseSystem/Documents/Lebanese%20Constitution.pdf |archivedate=19 January 2012  }}</ref>
+| government_type                = ᱫᱤᱥᱣᱟᱹᱨᱟᱡᱽ<ref name="constitution">{{cite web |title=The Lebanese Constitution |publisher=Presidency of Lebanon |url=http://presidency.gov.lb/English/LebaneseSystem/Documents/Lebanese%20Constitution.pdf |accessdate=20 August 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20120119201440/http://presidency.gov.lb/English/LebaneseSystem/Documents/Lebanese%20Constitution.pdf |archivedate=19 January 2012  }}</ref>
 | leader_title1                = ᱫᱤᱥᱚᱢ ᱜᱚᱢᱠᱮ
 | leader_name1                = ᱢᱟᱭᱠᱮᱞ ᱟᱣᱩᱱ
 | leader_title2                = ᱢᱟᱨᱟᱝ ᱢᱚᱱᱛᱨᱤ
 | leader_name2                = ᱥᱟᱫᱽ ᱦᱟᱨᱤᱨᱤ
 | leader_title3                = ᱫᱤᱥᱚᱢ ᱫᱚᱨᱵᱟᱨ ᱯᱟᱨᱥᱮᱛ 
 | leader_name3                = ᱱᱟᱵᱤᱦ ᱵᱮᱨᱨᱤ
-| legislature                = ᱫᱤᱥᱥᱚᱚᱢ ᱫᱚᱨᱵᱟᱨ
+| legislature                = ᱫᱤᱥᱚᱢ ᱫᱚᱨᱵᱟᱨ
 | established_event1                = ᱢᱟᱨᱟᱝ ᱞᱮᱵᱟᱱᱚᱱ
 | established_date1                = ᱑ ᱥᱮᱯᱴᱮᱢᱵᱚᱨ ᱑᱙᱒᱐
-| established_event2                = ᱥᱝᱵᱤᱫᱷᱟᱱ
+| established_event2                = ᱥᱚᱝᱵᱤᱫᱷᱟᱱ
 | established_date2                = ᱒᱓ ᱢᱮ ᱑᱙᱒᱖
-| established_event3                = ᱯᱷᱩᱨᱜᱟᱹᱞ ᱟᱝᱜᱚᱚᱪ
-| established_date3                = ᱒᱒ ᱱᱚᱵᱮᱢᱵᱚᱨ ᱑᱙᱔᱓
-| established_event4                = ᱯᱷᱨᱮᱧᱪ ᱨᱮ ᱥᱥᱤᱨᱭᱟ ᱟᱨᱞᱮᱵᱟᱱᱚᱱ ᱯᱷᱩᱨᱜᱟᱹᱞ ᱟᱹᱱ
+| established_event3                = ᱯᱷᱩᱨᱜᱟᱹᱞ ᱟᱝᱜᱚᱪ
+| established_date3                = ᱒᱒ ᱱᱚᱵᱷᱮᱢᱵᱚᱨ ᱑᱙᱔᱓
+| established_event4                = ᱯᱷᱨᱮᱧᱪ ᱨᱮ ᱥᱤᱨᱤᱭᱟ ᱟᱨ ᱞᱮᱵᱟᱱᱚᱱ ᱯᱷᱩᱨᱜᱟᱹᱞ ᱟᱹᱱ
 | established_date4                = ᱒᱔ ᱚᱠᱴᱚᱵᱚᱨ ᱑᱙᱔᱕
 | established_event5                = 
 | established_date5                = ᱑᱗ ᱮᱯᱨᱤᱞ ᱑᱙᱔᱖
@@ -82,7 +82,8 @@
 | religion                = {{unbulleted list|54% [[Islam in Lebanon|Muslim]]|40.4% [[Christianity in Lebanon|Christian]]|5.6% [[Druze in Lebanon|Druze]]}}
 | today                = 
 }}
-'''ᱞᱮᱵᱟᱱᱚᱣᱚ''' ᱟ.ᱭᱫᱟ.ᱨᱤ ᱨᱩᱯ ᱛᱮ ᱞᱮᱵᱱᱚᱱ ᱫᱤᱥᱣᱟ.ᱨᱟᱡᱽ ᱯᱟᱪᱷᱮ ᱮᱥᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱞᱫᱤᱥᱣᱟ. ᱨᱟᱡᱽ ᱠᱟᱱᱟ. ᱯᱟᱪᱷᱮ ᱮᱥᱤᱭᱟ ᱨᱮ ᱵᱷᱩ-ᱢᱚᱫᱷᱚ ᱡᱟᱞᱟ ᱯᱩᱨᱤ ᱠᱷᱚᱱ ᱥᱟᱢᱟᱝ ᱨᱮ ᱢᱮᱱᱟᱜ ᱢᱤᱫ ᱴᱮᱱ ᱫᱤᱥᱚᱢ ᱠᱟᱱᱟ| ᱱᱚᱣᱟ ᱨᱮᱭᱟᱜ ᱠᱚᱭᱮ ᱟᱨ ᱥᱟᱢᱟᱝ ᱨᱮᱫᱚ ᱥᱮᱨᱤᱭᱟ ᱟᱨ ᱮᱛᱚᱢ ᱨᱮᱫᱚ ᱤᱥᱨᱟᱭᱮᱞ ᱫᱤᱥᱚᱢ ᱢᱮᱱᱟᱜ- ᱟ। ᱵᱷᱩ ᱢᱚᱫᱫᱷᱚ ᱜᱟᱢᱵᱽᱞᱟ ᱟᱨ ᱟᱨᱚᱵᱽ ᱨᱮᱭᱟᱜ ᱵᱷᱤᱛᱨᱤ ᱵᱷᱟᱜᱽ ᱨᱮ ᱥᱟᱠᱚ ᱞᱮᱠᱟ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱫᱤᱥᱚᱢ ᱨᱮᱭᱟᱜ ᱱᱟᱜᱟᱢ ᱥᱚᱨᱮᱥ ᱟᱨ ᱢᱮᱥᱟᱞ ᱜᱮᱭᱟ| ᱱᱚᱣᱟ ᱡᱟᱭᱜᱟ ᱯᱷᱤᱱᱤᱥᱤᱭᱟᱱ ᱠᱚ ᱟ.ᱰᱤ ᱥᱮᱫᱟᱭ (᱒᱕᱐᱐ ᱢᱟ.ᱥᱤᱢᱟᱲᱟᱝ - ᱕᱓᱙ ᱢᱟ.ᱥᱤᱢᱟᱲᱟᱝ) ᱞᱟᱭ ᱞᱟᱠᱪᱟᱨ ᱮᱮᱭᱟᱜ ᱴᱷᱟ:ᱭ ᱛᱟᱦᱮ ᱠᱟᱱ ᱛᱟᱠᱚᱣᱟ ᱡᱟᱦᱟ ᱠᱷᱚᱱ ᱜᱟᱭᱟᱱ ᱨᱮᱭᱟᱜ ᱦᱩᱰᱤᱧ ᱦᱩᱰᱤᱧ ᱩᱛᱷᱱᱟ.ᱣ ᱦᱩᱭ ᱟᱠᱟᱱ| ᱱᱤᱭᱟ. ᱛᱟᱭᱚᱢ ᱯᱷᱟᱨᱥᱤ, ᱭᱩᱱᱟᱱᱤ, ᱨᱳᱢᱟᱱ, ᱟᱨᱚᱵᱽ ᱟᱨ ᱩᱥᱢᱟᱱᱤ ᱛᱩᱲᱩᱠ ᱠᱚᱣᱟᱜ ᱜᱚᱵᱚᱞ ᱨᱮ ᱦᱮᱡ ᱞᱮᱱ ᱛᱟᱭᱚᱢ ᱛᱮ ᱯᱷᱨᱟᱱᱥ ᱟᱜ ᱜᱚᱵᱚᱞ ᱨᱮᱦᱚ ᱦᱮᱡ ᱞᱮᱱᱟ|  ᱱᱚᱣᱟ ᱠᱚ ᱠᱷᱟ.ᱛᱤᱨ ᱛᱮ ᱫᱤᱥᱚᱢ ᱨᱮᱭᱟᱜ ᱫᱷᱚᱨᱚᱢ ᱟᱨ ᱡᱟᱛᱤᱭᱚ ᱵᱷᱮᱱᱮᱜᱟᱨ ᱩᱯᱨᱩᱢ ᱩᱫᱩᱜᱚᱜ ᱠᱟᱱᱟ|<ref>{{cite book |last=McGowen |first=Afaf Sabeh |editor-last=Collelo |editor-first=Thomas |title=Lebanon: A Country Study |chapter=Historical Setting |series=Area Handbook Series |edition=3rd |location=Washington, D.C. |publisher=The Division |publication-date=1989 |oclc=18907889 |url=http://hdl.loc.gov/loc.gdc/cntrystd.lb |accessdate=24 July 2009}}</ref> 
+'''ᱞᱮᱵᱟᱱᱚᱣᱚ''' ᱟ.ᱭᱫᱟ.ᱨᱤ ᱨᱩᱯ ᱛᱮ ᱞᱮᱵᱱᱚᱱ ᱫᱤᱥᱣᱟ.ᱨᱟᱡᱽ ᱯᱟᱪᱷᱮ ᱮᱥᱤᱭᱟ ᱨᱮᱭᱟᱜ ᱫᱤᱥᱣᱟ.ᱨᱟᱡᱽ ᱠᱟᱱᱟ. ᱯᱟᱪᱷᱮ ᱮᱥᱤᱭᱟ ᱨᱮ ᱵᱷᱩ-ᱢᱚᱫᱷᱚ ᱡᱟᱞᱟ ᱯᱩᱨᱤ ᱠᱷᱚᱱ ᱥᱟᱢᱟᱝ ᱨᱮ ᱢᱮᱱᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱤᱥᱚᱢ ᱠᱟᱱᱟ| ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱠᱚᱧᱮ ᱟᱨ ᱥᱟᱢᱟᱝ ᱨᱮᱫᱚ ᱥᱮᱨᱤᱭᱟ ᱟᱨ ᱮᱛᱚᱢ ᱨᱮ ᱫᱚ ᱤᱥᱨᱟᱭᱮᱞ ᱫᱤᱥᱚᱢ ᱢᱮᱱᱟᱜᱼᱟ । ᱵᱷᱩ ᱢᱚᱫᱫᱷᱚ ᱜᱟᱢᱵᱽᱞᱟ ᱟᱨ ᱟᱨᱚᱵᱽ ᱨᱮᱭᱟᱜ ᱵᱷᱤᱛᱨᱤ ᱵᱷᱟᱜᱽ ᱨᱮ ᱥᱟᱠᱚ ᱞᱮᱠᱟ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱ ᱫᱤᱥᱚᱢ ᱨᱮᱭᱟᱜ ᱱᱟᱜᱟᱢ ᱥᱚᱨᱮᱥ ᱟᱨ ᱧᱩᱛᱩᱢᱟᱱ ᱜᱮᱭᱟ| ᱱᱚᱶᱟ ᱡᱟᱭᱜᱟ ᱯᱷᱤᱱᱤᱥᱤᱭᱟᱱ ᱠᱚ ᱟ.ᱰᱤ ᱥᱮᱫᱟᱭ (᱒᱕᱐᱐ ᱢᱟ.ᱥᱤ ᱢᱟᱲᱟᱝ - ᱕᱓᱙ ᱢᱟ.ᱥᱤᱢᱟᱲᱟᱝ) ᱞᱟᱹᱭ ᱞᱟᱠᱪᱟᱨ ᱮᱭᱟᱜ ᱴᱷᱟᱸᱶ ᱛᱟᱦᱮᱸ ᱠᱟᱱ ᱛᱟᱠᱚᱣᱟ ᱡᱟᱦᱟ ᱠᱷᱚᱱ ᱜᱟᱭᱟᱱ ᱨᱮᱭᱟᱜ ᱦᱩᱰᱤᱧ ᱦᱩᱰᱤᱧ ᱩᱛᱷᱱᱟ.ᱣ ᱦᱩᱭ ᱟᱠᱟᱱ| ᱱᱚᱶᱟ ᱛᱟᱭᱚᱢ ᱯᱷᱟᱨᱥᱤ, ᱭᱩᱱᱟᱱᱤ, ᱨᱳᱢᱟᱱ, ᱟᱨᱚᱵᱽ ᱟᱨ ᱩᱥᱢᱟᱱᱤ ᱛᱩᱲᱩᱠ ᱠᱚᱣᱟᱜ ᱜᱚᱵᱚᱞ ᱨᱮ ᱦᱮᱡ ᱞᱮᱱ ᱛᱟᱭᱚᱢ ᱛᱮ ᱯᱷᱨᱟᱱᱥ ᱟᱜ ᱜᱚᱵᱚᱞ ᱨᱮ ᱦᱚᱸ ᱦᱮᱡ ᱞᱮᱱᱟ|  ᱱᱚᱶᱟ ᱠᱚ ᱠᱷᱟ.ᱛᱤᱨ ᱛᱮ ᱫᱤᱥᱚᱢ ᱨᱮᱭᱟᱜ ᱫᱷᱚᱨᱚᱢ ᱟᱨ ᱡᱟᱛᱤᱭᱚ ᱵᱷᱮᱱᱮᱜᱟᱨ ᱩᱯᱨᱩᱢ ᱩᱫᱩᱜᱚᱜ ᱠᱟᱱᱟ|<ref>{{cite book |last=McGowen |first=Afaf Sabeh |editor-last=Collelo |editor-first=Thomas |title=Lebanon: A Country Study |chapter=Historical Setting |series=Area Handbook Series |edition=3rd |location=Washington, D.C. |publisher=The Division |publication-date=1989 |oclc=18907889 |url=http://hdl.loc.gov/loc.gdc/cntrystd.lb |accessdate=24 July 2009}}</ref>
+
 ==ᱨᱟᱡᱟᱨᱤ==
 ᱱᱚᱣᱟ ᱫᱤᱥᱚᱢ ᱨᱮ ᱖᱐% ᱥᱟᱭ ᱠᱟᱲᱟ ᱦᱚᱲ ᱢᱩᱥᱞᱟ. ᱠᱟᱱᱟ ᱠᱚ, ᱩᱱᱠᱩ ᱢᱩᱫᱽ ᱨᱮ ᱥᱤᱭᱟ ᱟᱨ ᱥᱩᱱᱱᱤ ᱠᱚᱣᱟᱜ ᱞᱮᱠᱷᱟ ᱟᱢᱫᱟᱡᱽ ᱵᱟᱨᱟᱵᱟᱨᱤ ᱜᱮᱭᱟ ᱟᱨ ᱟᱢᱫᱟᱡᱽ ᱓᱘ ᱦᱤ'ᱥ ᱤᱥᱟ.ᱭ  ᱦᱚᱲ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ| ᱑᱙᱔᱓ ᱥᱮᱨᱢᱟ ᱨᱮ ᱯᱷᱨᱟᱱᱥ ᱠᱷᱚᱱ ᱯᱷᱩᱨᱜᱟ.ᱞ ᱧᱟᱢ ᱠᱟᱛᱮ ᱱᱚᱱᱰᱮ ᱚᱲᱟᱜ ᱛᱩᱯᱩᱱ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ ᱟᱨ ᱒᱐᱐᱖ ᱥᱮᱨᱢᱟ ᱨᱮ ᱤᱥᱨᱟᱭᱮᱞ ᱥᱟᱶ ᱞᱟ.ᱲᱦᱟ.ᱭ ᱦᱩᱭ ᱞᱮᱱᱟ। ᱱᱚᱱᱰᱮ ᱴᱤᱫ ᱵᱤᱥᱮᱥ ᱛᱷᱚᱠ ᱨᱮᱱᱟᱜ ᱥᱚᱨᱠᱟᱨ ᱥᱟᱥᱚᱱ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ, ᱡᱟᱦᱟ ᱨᱮ ᱫᱤᱥᱚᱢ ᱜᱚᱢᱠᱮ ᱫᱚ ᱤᱥᱟ.ᱭ ᱛᱟᱦᱮᱱ ᱦᱩᱭᱩᱜ-ᱟ, ᱢᱟᱨᱟᱝ ᱢᱚᱱᱛᱟᱨᱤ ᱢᱤᱫᱴᱮᱱ ᱥᱩᱱᱱᱤ ᱢᱩᱥᱞᱟ., ᱵᱟᱪᱱᱟᱣ ᱟᱠᱟᱱ ᱠᱚ ᱢᱩᱫᱽ ᱠᱷᱚᱱ ᱥᱤᱭᱟ ᱢᱩᱥᱞᱟ. ᱯᱟᱨᱥᱮᱛ ᱟᱨ ᱳᱯ ᱢᱟᱨᱟᱝ ᱢᱚᱱᱛᱟᱨᱤ ᱢᱤᱫᱴᱮᱱ ᱜᱨᱤᱠ ᱥᱮᱨᱣᱟ ᱫᱷᱚᱨᱚᱢ ᱨᱮᱱ ᱦᱩᱭᱩᱜ ᱡᱟᱨᱩᱲᱟ| ᱮᱨᱟᱵᱤ ᱱᱚᱱᱰᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟ.ᱲᱛᱤ ᱨᱚᱨᱚᱲ ᱟᱨ ᱥᱟᱝᱵᱤᱫᱷᱟᱱᱤᱠ ᱯᱟ.ᱨᱥᱤ ᱠᱟᱱᱟ|
 ==ᱢᱩᱥᱠᱟ. ᱠᱚᱣᱟᱜ ᱥᱟᱥᱚᱱ ==
