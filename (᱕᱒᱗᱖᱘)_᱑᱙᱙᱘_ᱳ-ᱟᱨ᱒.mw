@@ -59,4 +59,132 @@
 }}
 
 == ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web
+  |type       = 2020-03-09 last obs.
+  |title      = JPL Small-Body Database Browser: 52768 (1998 OR2)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2052768;cad=1
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 7 March 2020}}</ref>
+
+<ref name="MPC-object">{{cite web
+  |title      = 52768 (1998 OR2)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=52768
+  |accessdate = 7 March 2020}}</ref>
+
+<ref name="MPC-PHA-list">{{cite web
+  |title      = List of the Potentially Hazardous Asteroids (PHAs)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/iau/lists/t_phas.html
+  |accessdate = 24 January 2018}}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (52768) 
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=52768%7C
+  |accessdate = 7 March 2020}}</ref>
+
+<ref name="Koehn-2014">{{Cite journal
+  |display-authors = 6
+  |first1     = Bruce W. |last1 = Koehn
+  |first2     = Edward G. |last2 = Bowell
+  |first3     = Brian A. |last3 = Skiff
+  |first4     = Jason J. |last4 = Sanborn
+  |first5     = Kyle P. |last5 = McLelland
+  |first6     = Petr |last6 = Pravec
+  |first7     = Brian D. |last7 = Warner
+  |date       = October 2014
+  |title      = Lowell Observatory Near-Earth Asteroid Photometric Survey (NEAPS) - 2009 January through 2009 June
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2014MPBu...41..286K
+  |journal    = The Minor Planet Bulletin
+  |volume     = 41
+  |issue      = 4
+  |pages      = 286–300
+  |issn       = 1052-8091
+  |bibcode    = 2014MPBu...41..286K
+  |access-date= 24 January 2018}}</ref>
+
+<ref name="Betzler-2009c">{{Cite journal
+  |first1     = Alberto Silva |last1 = Betzler
+  |first2     = Alberto Brum |last2 = Novaes
+  |date       = October 2009
+  |title      = Photometric Observations of 1998 OR2, 1999 AQ10, and 2008 TC3
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2009MPBu...36..145B
+  |journal    = The Minor Planet Bulletin
+  |volume     = 36
+  |issue      = 4
+  |pages      = 145–147
+  |issn       = 1052-8091
+  |bibcode    = 2009MPBu...36..145B
+  |access-date= 24 January 2018}}</ref>
+
+<ref name="Thomas-2014">{{cite journal
+  |first1     = Cristina A. |last1 = Thomas
+  |first2     = Joshua P. |last2 = Emery
+  |first3     = David E. |last3 = Trilling
+  |first4     = Marco |last4 = Delbó
+  |first5     = Joseph L. |last5 = Hora
+  |first6     = Michael |last6 = Mueller
+  |date       = January 2014
+  |title      = Physical characterization of Warm Spitzer-observed near-Earth objects
+  |url        = https://arxiv.org/pdf/1310.2000.pdf
+  |journal    = Icarus
+  |volume     = 228
+  |pages      = 217–246
+  |bibcode    = 2014Icar..228..217T
+  |doi        = 10.1016/j.icarus.2013.10.004
+  |arxiv      = 1310.2000
+  |access-date= 24 January 2018}}</ref>
+
+<ref name="Veres-2015">{{cite journal
+  |display-authors = 6
+  |first1     = Peter |last1 = Veres
+  |first2     = Robert |last2 = Jedicke
+  |first3     = Alan |last3 = Fitzsimmons
+  |first4     = Larry |last4 = Denneau
+  |first5     = Mikael |last5 = Granvik
+  |first6     = Bryce |last6 = Bolin
+  |first7     = Serge |last7 = Chastel
+  |first8     = Richard J. |last8 = Wainscoat
+  |first9     = William S. |last9 = Burgett
+  |first10    = Kenneth C. |last10 = Chambers
+  |first11    = Heather |last11 = Flewelling
+  |first12    = Nick |last12 = Kaiser
+  |first13    = Eugen A. |last13 = Magnier
+  |first14    = Jeff S. |last14 = Morgan
+  |first15    = Paul A. |last15 = Price
+  |first16    = John L. |last16 = Tonry
+  |first17    = Christopher |last17 = Waters
+  |date       = November 2015
+  |title      = Absolute magnitudes and slope parameters for 250,000 asteroids observed by Pan-STARRS PS1 - Preliminary results
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015Icar..261...34V
+  |journal    = Icarus
+  |volume     = 261
+  |pages      = 34–47
+  |bibcode    = 2015Icar..261...34V
+  |doi        = 10.1016/j.icarus.2015.08.007
+  |arxiv      = 1506.00762
+  |access-date= 24 January 2018}}</ref>
+
+<ref name="naic">{{cite news
+  |title      = Arecibo Continues Operations through Pandemic to Observe Potentially Hazardous Asteroid 1998 OR2
+  |url        = http://www.naic.edu/~pradar/press/1998OR2.php
+  |first      = A. K. |last = Virkki
+  |work       = Planetary Radar Science Group
+  |publisher  = NAIC-Arecibo Observatory
+  |date       = 23 April 2020
+  |accessdate = 23 April 2020}}</ref>
+
+<ref name="ucf">{{cite news
+  |title      = Asteroid Visiting Earth's Neighborhood Brings its Own Face Mask
+  |url        = https://www.ucf.edu/news/asteroid-visiting-earths-neighborhood-brings-its-own-face-mask/
+  |first      = Zenaida Gonzalez |last = Kotala
+  |work       = UCF Today
+  |publisher  = University of Central Florida
+  |date       = 23 April 2020
+  |accessdate = 23 April 2020}}</ref>
+}} <!-- end of reflist -->
+
 == ᱯᱷᱮᱵᱟᱛ ==
