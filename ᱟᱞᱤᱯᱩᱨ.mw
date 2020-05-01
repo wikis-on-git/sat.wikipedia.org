@@ -84,7 +84,7 @@
 {{OSM Location map           <!--There are only two essential parameters: -->
 | coord = {{coord|22.5248|88.3312}}  <!--lat and long coordinates for middle of the map -->
 | zoom = 14                         <!--zoom 0=whole world, 18=a street.-->
-| label = ᱟᱞᱤᱯᱩᱨ
+| label = Alipore
 | mark-coord = {{coord|22.5248|88.3312}}
 | label-pos = right
 | float = left
