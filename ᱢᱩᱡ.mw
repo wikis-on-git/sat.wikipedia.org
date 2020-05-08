@@ -1,0 +1,83 @@
+{{automatic taxobox
+| name = ᱢᱩᱡ
+| fossil_range = {{fossilrange|100|0|earliest=140|refs=<ref name=phyl2006 />}} Late [[Albian]]&nbsp;– [[Holocene|Present]]
+| image = Fire ants 01.jpg
+| image_caption = A group of [[fire ant]]s
+| display_parents = 2
+| taxon = Formicidae
+| authority = [[Pierre André Latreille|Latreille]], 1809
+| type_species = ''[[Formica rufa]]''
+| type_species_authority = [[Carl Linnaeus|Linnaeus]], [[Systema Naturae|1761]]
+| subdivision_ranks = [[List of ant subfamilies|Subfamilies]]
+| subdivision = * [[Agroecomyrmecinae]]
+* [[Amblyoponinae]] (incl. "[[Apomyrminae]]")
+* [[Aneuretinae]]
+* {{extinct}}[[Brownimeciinae]]
+* [[Dolichoderinae]]
+* [[Dorylinae]]
+* [[Ectatomminae]]
+* {{extinct}}[[Formiciinae]]
+* [[Formicinae]]
+* {{extinct}}[[Haidomyrmecinae]]
+* [[Heteroponerinae]]
+* [[Leptanillinae]]
+* [[Martialinae]]
+* [[Myrmeciinae]] (incl. "[[Nothomyrmeciinae]]")
+* [[Myrmicinae]]
+* [[Paraponerinae]]
+* [[Ponerinae]]
+* [[Proceratiinae]]
+* [[Pseudomyrmecinae]]
+* {{extinct}}[[Sphecomyrminae]]
+{{hidden|headerstyle=background:#D3D3A4; text-size:90%;|[[Cladogram]] of<br> subfamilies|
+{{clade|style=font-size:75%;line-height:75%
+   |1={{clade
+      |1=[[Martialinae]]
+      |2=[[Leptanillinae]]
+      |3=[[Amblyoponinae]]
+      |4=[[Paraponerinae]]
+      |5=[[Agroecomyrmecinae]]
+      |6=[[Ponerinae]]
+      |7=[[Proceratiinae]]
+      |8={{clade
+         |1={{clade
+            |1={{clade
+               |1=Ecitoninae‡
+               |2=Aenictinae‡
+               |3={{clade
+                  |1=[[Dorylini]]‡
+                  |2=Aenictogitoninae‡
+                  }}
+               }}
+             |2=Cerapachyinae‡*|state2=double
+             |3=Leptanilloidinae‡
+             }}
+         |2={{clade
+            |1={{clade
+               |1={{clade
+                  |1=[[Dolichoderinae]]
+                  |2=[[Aneuretinae]]
+                  }}
+               |2={{clade
+                  |1=[[Pseudomyrmecinae]]
+                  |2=[[Myrmeciinae]]
+                  }}
+               }}
+            |2={{clade
+               |1={{clade
+                  |1=[[Ectatomminae]]
+                  |2=[[Heteroponerinae]]
+                  }}
+               |2=[[Myrmicinae]]
+               |3=[[Formicinae]]
+               }}
+            }}
+         }}
+      }}
+   }}
+<small>A [[phylogeny]] of the extant ant [[subfamily|subfamilies]].<ref name=Ward>{{cite journal |last=Ward | first = Philip S |title=Phylogeny, classification, and species-level taxonomy of ants (Hymenoptera: Formicidae) | journal = [[Zootaxa]] | volume = 1668 | year=2007 |pages=549–563| url=http://www.mapress.com/zootaxa/2007f/zt01668p563.pdf | doi = 10.11646/zootaxa.1668.1.26 }}</ref><ref name=martialis>{{cite journal | vauthors = Rabeling C, Brown JM, Verhaagh M | title = Newly discovered sister lineage sheds light on early ant evolution | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 105 | issue = 39 | pages = 14913–7 | date = September 2008 | pmid = 18794530 | pmc = 2567467 | doi = 10.1073/pnas.0806187105 | bibcode = 2008PNAS..10514913R }}</ref><br />
+<nowiki>*</nowiki>Cerapachyinae is [[paraphyletic]]<br>
+‡ The previous dorylomorph subfamilies were synonymized under [[Dorylinae]] by Brady ''et al.'' in 2014<ref name="Brady_et_al_2014">{{cite journal | vauthors = Brady SG, Fisher BL, Schultz TR, Ward PS | title = The rise of army ants and their relatives: diversification of specialized predatory doryline ants | journal = BMC Evolutionary Biology | volume = 14 | issue =  | pages = 93 | date = May 2014 | pmid = 24886136 | pmc = 4021219 | doi = 10.1186/1471-2148-14-93 | jstor =  }}</ref></small>
+}}
+}}
+'''ᱢᱩᱡ''' ᱫᱚ Formicidae ᱜᱷᱟᱸᱨᱚᱡ ᱨᱮᱱ ᱢᱤᱫ ᱨᱚᱠᱚᱢ ᱛᱤᱡᱩ ᱠᱟᱱᱟᱠᱩ᱾
