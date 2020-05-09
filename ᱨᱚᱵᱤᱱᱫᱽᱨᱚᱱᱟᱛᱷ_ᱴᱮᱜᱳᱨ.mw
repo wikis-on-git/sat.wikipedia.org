@@ -1,34 +1,86 @@
-{| class="wikitable floatright" style="width: 100px"
-|-
-| colspan="2" | <gallery caption="ᱨᱚᱵᱤᱱᱫᱨᱚᱱᱟᱛᱷ ᱴᱷᱟᱠᱩᱨ" widths="365" heights="480">
-File:Rabindranath Tagore unknown location.jpg
-</gallery>
-|-
-! ᱧᱩᱛᱩᱢ !! ᱨᱚᱵᱤᱱᱫᱨᱚᱱᱟᱛᱷ ᱴᱷᱟᱠᱩᱨ
-|-
-! colspan="3" style="background: #00FA1A;" | ᱡᱤᱭᱚᱱ
-|-
-! ᱡᱟᱱᱟᱢ ᱢᱟᱺᱦᱤᱛ
-| ᱗ ᱢᱮ ᱑᱘᱖᱑
-|-
-! ᱜᱩᱨ ᱢᱟᱺᱦᱤᱛ
-| ᱗ ᱚᱜᱚᱥᱴ ᱑᱙᱔᱑
-|-
-! ᱜᱩᱱ
-| Writer, song composer, <br>playwright, essayist, painter
-|-
-!ᱧᱩᱛᱩᱢᱟᱱ ᱚᱱᱚᱞ
-|
-*ᱜᱤᱛᱟᱧᱡᱚᱞᱤ
-*ᱡᱚᱱᱚ ᱜᱚᱬᱚ ᱢᱚᱱᱚ 
-*ᱨᱚᱵᱤᱱᱫᱨᱚ ᱥᱚᱝᱜᱤᱛ
-*ᱟᱢᱟᱨ ᱥᱚᱱᱟᱨ ᱵᱟᱝᱞᱟ
-|-
-! colspan="4" style="background: #00FA1A;" | ᱥᱩᱦᱤ
-|-
-! colspan="5" | [[File:Rabindranath Tagore Signature.svg]]
-|}
-
+{{Infobox writer
+| honorific_prefix = <!-- Do not add any styles/titles here per [[WP:NCIN]] -->
+| honorific suffix = <!-- Do not add any styles/titles here per [[WP:NCIN]] -->
+| name             = ᱨᱚᱵᱤᱱᱫᱽᱨᱚᱱᱟᱛᱷ ᱴᱮᱜᱳᱨ 
+| birth_name       = Robindronath Thakur<ref name="Nasrin"/>
+| pseudonym        = Bhanu Singha Thakur (Bhonita)
+| native_name_lang = bn
+| image            = Rabindranath Tagore unknown location.jpg
+| alt              = Late-middle-aged bearded man in Grey robes sitting on a chair looks to the right with serene composure.
+| caption          = Tagore (c. 1925)
+| birth_date       = {{Birth date|df=yes|1861|05|07}}
+| birth_place      = [[Kolkata|Calcutta]], [[Bengal Presidency]], [[British Raj|British India]] (present-day [[Kolkata]], West Bengal, [[India]])<ref name="nobelfacts">{{cite web|url=https://www.nobelprize.org/nobel_prizes/literature/laureates/1913/tagore-facts.html|title=Rabindranath Tagore – Facts|publisher=Nobel Foundation}}</ref>
+| death_date       = {{Death date and age|df=yes|1941|08|07|1861|05|07}}
+| death_place      = Calcutta, Bengal Presidency, British India (present-day Kolkata, West Bengal, India)<ref name="nobelfacts"/>
+| resting_place    = Cremated at [[Nimtala crematorium]], Calcutta, British India; Ashes scattered in the Ganges River.
+| alma_mater       = [[University College London]]<br>(no degree)<!-- DO NOT remove "no degree" word because he failed to complete his degrees, therefore it must be mentioned.-->   
+| occupation       = {{hlist|Writer|composer|playwright|essayist|painter}}
+| language         = {{hlist|[[Bengali language|Bengali]] | English}}
+| nationality      = 
+| period           = [[Bengali Renaissance|Bengal Renaissance]]
+| movement         = [[Contextual Modernism]]
+| notableworks     = {{hlist|[[Gitanjali]]|[[Gora (novel)|Gora]]|[[The Home and the World|Ghare-Baire]]|[[Jana Gana Mana]]|[[Rabindra Sangeet]]|[[Amar Shonar Bangla]]}} ([[Works of Rabindranath Tagore|other works]])
+| spouse           = {{marriage|[[Mrinalini Devi]]|1883|1902}}
+| children         = {{hlist|Renuka Tagore|Shamindranath Tagore|Meera Tagore|[[Rathindranath Tagore]]|Madhurilata Tagore}}
+| relatives        = [[Tagore family]]   
+| awards           = {{awd|[[Nobel Prize in Literature]]|1913}}<!-- do not add image icons such as nobel peace, see [[:Template:Infobox writer]] -->
+| signature        = Rabindranath Tagore Signature.svg
+| signature_alt    = Close-up on a Bengali word handwritten with angular, jaunty letters.
+}}
+{{Location map+ | India West Bengal
+| caption = Locations of places associated with Rabindranath Tagore
+| alt = Locations of places associated with Rabindranath Tagore
+|width = 
+| places =
+  {{Location map~ | India West Bengal
+    | label = Santiniketan
+    | position = top
+    | marksize = 10
+    | link = Santiniketan
+    | lat_deg = 23.68
+    | lon_deg = 87.68
+  }}
+  {{Location map~ | India West Bengal
+    | label = Shilaidaha 
+    | position = top
+    | marksize = 10
+    | link = Shilaidaha
+    | lat_deg = 23.9199
+    | lon_deg = 89.2200
+  }}
+  {{Location map~ | India West Bengal
+    | label = Patishar
+    | position = top
+    | marksize = 10
+    | link = Patishar
+    | lat_deg = 24.616924 
+    | lon_deg = 89.089374
+  }}
+  {{Location map~ | India West Bengal
+    | label = Shahzadpur
+    |position = top
+    | marksize = 10
+    | link = Shahzadpur
+    | lat_deg = 24.175419 
+    | lon_deg = 89.594101
+  }}
+  {{Location map~ | India West Bengal
+    | label = Jorasanko, Kolkata
+    | position = top
+    | marksize = 10
+    | link = Jorasanko Thakur Bari
+    | lat_deg = 22.5850
+    | lon_deg = 88.3592
+  }}
+ {{Location map~ | India West Bengal
+    | label =  Dakkhindihi
+    |position = top
+    | marksize = 10
+    | link = Rabindra Complex
+    | lat_deg = 22.9898125
+    | lon_deg = 89.4574988
+  }}
+}}
 '''ᱨᱚᱵᱤᱱᱫᱽᱨᱚᱱᱟᱛᱷ ᱴᱮᱜᱳᱨ''' ᱫᱚ ᱗ ᱢᱮ ᱑᱘᱖᱑ ᱥᱟᱞᱮᱨᱮ ᱠᱚᱞᱠᱟᱛᱟ ᱨᱮ ᱢᱤᱫ ᱠᱤᱥᱟ.ᱬ ᱵᱮᱸᱜᱚᱞᱤ ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱭ ᱡᱟᱱᱟᱢ ᱞᱮᱱᱟ ᱾ 
 
 ᱟᱡ ᱵᱟᱵᱟᱦᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱫᱮᱵᱮᱸᱫᱽᱨᱚ ᱱᱟᱛᱷ ᱴᱮᱜᱳᱨ ᱟᱨ ᱟᱭᱳᱣᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱥᱟᱨᱚᱫᱟ ᱫᱮᱵᱤ ᱢᱮᱱᱛᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾
