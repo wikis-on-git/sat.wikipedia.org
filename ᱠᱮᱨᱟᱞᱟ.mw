@@ -1,13 +1,26 @@
-{{Infobox state
-<!-- See Template:Infobox settlement for additional fields and descriptions -->
-| official_name           = ᱠᱮᱨᱚᱲ
-| native_name             = കേരളം
-| native_name_lang        =  [[ᱢᱟᱞᱟᱭᱟᱞᱟᱢ ᱯᱟᱹᱨᱥᱤ|ᱢᱟᱞᱟᱭᱟᱞᱟᱢ]]
+{{Infobox settlement
+| name                            = ᱠᱮᱨᱚᱲ
+| native_name             
+= കേരളം
+| native_name_lang        
+= [[ᱢᱟᱞᱟᱭᱟᱞᱟᱢ ᱯᱟᱹᱨᱥᱤ|ᱢᱟᱞᱟᱭᱟᱞᱟᱢ]]
 | type                    = ᱯᱚᱱᱚᱛ
-| image_skyline           =  
-| image_alt               = 
-| image_caption           =   
-| image_seal              = Seal of Kerala greyscale.jpg
+| image_blank_emblem              = Emblem of Kerala state Vector.svg
+| blank_emblem_size               = 100px
+| blank_emblem_type               = [[Emblem of Kerala|Emblem]]
+| image_skyline                   = {{Photomontage
+ | photo1a = Niyamasabha.jpg
+ | photo2a = Boat Beauty W.jpg
+ | photo2b = Kochi International Marina, Bolgatty Island, Kerala, India.jpg
+ | photo3a = The View of the Athirapally Falls during the onset of Monsoon.jpg
+ | photo3b = 01KovalamBeach&Kerala.jpg
+ | photo4a =രുസ്വവ4.jpg
+ | spacing                   = 1
+ | color_border              = white
+ | color                     = white
+ | size                      = 280
+ | foot_montage = Clockwise from top:<br />[[Niyamasabha Mandiram]], [[Kochi Marina|Kochi International Marina]],<br /> [[Kovalam]] Beach, [[Kathakali]] performer, [[Athirappilly Falls]], [[Houseboat]]
+ }}
 | seal_alt                =  
 | image_map               = India Kerala locator map.svg
 | map_alt                 = 
@@ -25,7 +38,7 @@
 | subdivision_name        = {{flag|ᱥᱤᱧᱚᱛ}}
 | established_title       = ᱛᱷᱟᱯᱚᱱ
 | established_date        = ᱑ ᱱᱚᱵᱷᱮᱢᱵᱚᱨ ᱑᱙᱕᱖
-| parts_type              = ᱡᱤᱞᱞᱟᱹ 
+| parts_type              = ᱦᱚᱱᱚᱛ 
 | parts_style             = para
 | p1                      = ᱑᱔
 | seat_type               = ᱨᱟᱡᱽᱜᱟᱲ
@@ -34,7 +47,7 @@
 | government_footnotes    = 
 | leader_title            =  ᱯᱚᱱᱚᱛ ᱜᱚᱢᱠᱮ
 | leader_name             = ᱮᱢ ᱚ ᱮᱪ ᱯᱷᱟᱨᱩᱠ
-| leader_title1           =  ᱥᱤᱨᱹᱢᱚᱱᱛᱨᱤ
+| leader_title1           = ᱥᱤᱨᱟᱹ ᱢᱚᱱᱛᱨᱤ
 | leader_name1            = ᱚᱢᱮᱱ ᱪᱚᱱᱰᱤ
 | leader_title2           = ᱱᱟᱭᱯᱟᱞᱤᱠᱟ
 | leader_name2            = ᱑᱔᱑ ᱢᱟᱹᱪᱤ
@@ -65,7 +78,8 @@
 | website                 = [http://kerala.gov.in kerala.gov.in]
 | footnotes               = 
 }}
-'''ᱠᱮᱨᱟᱞᱟ''' ᱥᱮ '''ᱠᱮᱨᱟᱞ''' , '''ᱠᱮᱨᱮᱞᱟ'''ᱫᱚ ᱥᱤᱧᱩᱛ ᱫᱤᱥᱣᱟ. ᱨᱟᱡᱽ  ᱨᱮᱱᱟᱜ ᱢᱤᱫᱴᱮᱱ ᱯᱚᱱᱚᱛ ᱠᱟᱱᱟ| ᱱᱚᱣᱟ ᱫᱚ ᱥᱤᱧᱩᱛ ᱨᱮᱱᱟᱜ ᱮᱛᱚᱢ - ᱯᱟᱪᱷᱮ ᱯᱟᱥᱴᱟ ᱨᱮᱱᱟᱜ ᱯᱚᱱᱚᱛ ᱠᱟᱱᱟ। ᱠᱮᱨᱟᱞᱟ ᱨᱮᱭᱟᱜ ᱯᱟᱪᱷᱮ ᱯᱟᱥᱴᱟ ᱨᱮᱫᱚ ᱟᱨᱚᱵᱽ ᱫᱚᱨᱭᱟ ᱢᱮᱱᱟᱜ-ᱟ।
+
+'''ᱠᱮᱨᱟᱞᱟ''' ᱥᱮ '''ᱠᱮᱨᱟᱞ''' , '''ᱠᱮᱨᱮᱞᱟ'''ᱫᱚ ᱥᱤᱧᱚᱛ ᱫᱤᱥᱣᱟ. ᱨᱟᱡᱽ  ᱨᱮᱱᱟᱜ ᱢᱤᱫᱴᱮᱝ ᱯᱚᱱᱚᱛ ᱠᱟᱱᱟ ᱾ ᱱᱚᱣᱟ ᱫᱚ ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱮᱛᱚᱢ - ᱯᱟᱪᱷᱮ ᱯᱟᱥᱴᱟ ᱨᱮᱱᱟᱜ ᱯᱚᱱᱚᱛ ᱠᱟᱱᱟ । ᱠᱮᱨᱟᱞᱟ ᱨᱮᱭᱟᱜ ᱯᱟᱪᱷᱮ ᱯᱟᱥᱴᱟ ᱨᱮᱫᱚ ᱟᱨᱚᱵᱽ ᱫᱚᱨᱭᱟ ᱢᱮᱱᱟᱜ-ᱟ ।
 
 ᱛᱟᱢᱤᱞ ᱯᱚᱱᱚᱛ ᱥᱟᱢᱟᱝ ᱱᱟᱠᱷᱟ ᱨᱮ ᱟᱨ ᱮᱛᱚᱢ ᱱᱟᱠᱷᱟ ᱨᱮ ᱠᱟᱨᱱᱟᱴᱟᱠᱟ ᱯᱚᱱᱚᱛ ᱢᱮᱱᱟᱜ-ᱟ। ᱯᱚᱱᱚᱛ ᱨᱮᱭᱟᱜ ᱨᱟᱡᱽ ᱜᱟᱲ ᱫᱚ ᱛᱤᱨᱩᱵᱟᱱᱫᱨᱟᱢ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱠᱚᱪᱤ ᱜᱮ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱢᱟᱨᱟᱝ ᱦᱚᱲ ᱞᱮᱠᱷᱟ ᱣᱟᱱᱟᱜ ᱯᱚᱱᱚᱛ ᱠᱟᱱᱟ। ᱠᱮᱨᱟᱞᱟ ᱨᱮᱭᱟᱜ ᱚᱛ ᱦᱟᱥᱟ ᱨᱮᱭᱟᱜ ᱢᱩᱴ ᱞᱮᱠᱷᱟ ᱡᱚᱠᱷᱟ ᱫᱚ ᱑᱕,᱐᱐᱕ ᱢᱟᱭᱤᱞ ᱠᱟᱱᱟ।
 
