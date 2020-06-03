@@ -1,0 +1,52 @@
+{{Drugbox
+| drug_name         = ᱞᱤᱛᱷᱤᱭᱚᱢ
+| IUPAC_name        = Lithium(1+)
+| image             = Lithium-carbonate2DCSD.svg
+| width             = 
+| alt               = 2D chemical structure of lithium carbonate
+| caption           = [[Lithium carbonate]]
+
+<!-- Clinical data -->
+| tradename         = Many<ref name=brands/>
+| class             = [[Mood stabilizer]]
+| Drugs.com         = {{drugs.com|monograph|lithium-salts}}
+| MedlinePlus       = a681039
+| DailyMedID        = Lithium
+| pregnancy_AU      = D
+| pregnancy_US      = D
+| pregnancy_category= 
+| legal_AU          = S4
+| legal_CA          = Rx-only
+| legal_UK          = POM
+| legal_US          = Rx-only
+| legal_status      = 
+| routes_of_administration = by mouth, [[parenteral]]
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = depends on formulation
+| protein_bound     = None
+| metabolism        = Kidney
+| elimination_half-life = 24&nbsp;h, 36&nbsp;h (elderly)<ref name=AHFS2015/>
+| excretion         = >95% [[kidney]]
+
+<!-- Identifiers -->
+| CAS_number        = 7439-93-2
+| ATCvet            = 
+| ATC_prefix        = N05
+| ATC_suffix        = AN01
+| PubChem           = 28486
+| DrugBank          = DB01356
+|  ChemSpiderID = 26502
+|  ChEBI = 49713
+| UNII = 8H8Z5UER66
+
+<!-- Chemical data -->
+| chemical_formula  = {{chem|Li|+}}
+| molecular_weight  = 6.941 g/mol
+| smiles = [Li+]
+| StdInChI = 1S/Li/q+1
+| StdInChIKey = HBBGRARXTFLTSG-UHFFFAOYSA-N
+|type=|licence_EU=|licence_US=|image2=Lithium-carbonate-xtal-1979-Mercury-3D-sf.png}}
+<!-- Definition and medical uses -->
+==ᱥᱟᱹᱠᱷᱭᱟᱹᱛ==
+{{ᱥᱟᱹᱠᱷᱭᱟᱹᱛ}}
