@@ -1,0 +1,15 @@
+{{Infobox battery
+|image=File:Nokia Battery.jpg
+|caption= A Li-ion battery from a [[Nokia 3310]] [[mobile phone]].
+|EtoW={{nowrap|100–265 [[Watt hour|W·h]]/[[kg]]}}<ref name="PanaLI"/><ref name="greencarcongress" />
+{{nowrap|(0.36–0.875 MJ/kg)}}
+|EtoS={{nowrap|250–693 [[Watt hour|W·h]]/[[Liter|L]]}}<ref>{{cite web |url=https://www.orbtronic.com/content/NCR18650B-Datasheet-Panasonic-Specifications.pdf |title=NCR18650B |publisher=Panasonic |accessdate=7 October 2016 |archive-url=https://web.archive.org/web/20180817085228/https://na.industrial.panasonic.com/sites/default/pidsa/files/ncr18650b.pdf |archive-date=17 August 2018 |url-status=dead }}</ref><ref>{{cite web |url=https://cdn.shopify.com/s/files/1/0674/3651/files/panasonic-ncr18650-ga-spec-sheet.pdf |title=NCR18650GA |accessdate=2 July 2017}}</ref>
+{{nowrap|(0.90–2.43 MJ/L)}}
+|PtoW={{nowrap|~250 – ~340 W/kg}}<ref name="PanaLI"/>
+|CtoDE=80–90%<ref name="PHEV1">Valøen, Lars Ole and Shoesmith, Mark I. (2007). [https://web.archive.org/web/20090326150713/http://www.pluginhighway.ca/PHEV2007/proceedings/PluginHwy_PHEV2007_PaperReviewed_Valoen.pdf The effect of PHEV and HEV duty cycles on battery and battery pack performance] (PDF). 2007 Plug-in Highway Electric Vehicle Conference: ''Proceedings''. Retrieved 11 June 2010.</ref>
+|EtoCP={{nowrap|6.4 [[Watt hour|Wh]]/[[United States dollar|US$]]}}<ref name="Bloomberg">{{cite web |url= https://about.bnef.com/blog/battery-pack-prices-fall-as-market-ramps-up-with-market-average-at-156-kwh-in-2019/ |title= Battery Pack Prices Fall As Market Ramps Up With Market Average At $156/kWh In 2019|date=3 December 2019 |access-date=17 December 2019 |publisher=Bloomberg New Energy Finance}}</ref>
+|SDR=0.35% to 2.5% per month depending on state of charge<ref name=Redondo/><!--when full. Near zero when partial-->
+|CD={{nowrap|400–1,200 [[Battery cycle|cycles]]}}
+<ref>[http://www.thermoanalytics.com/support/publications/batterytypesdoc.html Battery Types and Characteristics for HEV] {{webarchive|url=https://web.archive.org/web/20150520021436/http://www.thermoanalytics.com/support/publications/batterytypesdoc.html |date=20 May 2015 }} ThermoAnalytics, Inc., 2007. Retrieved 11 June 2010.</ref>
+|NomV={{nowrap|3.6 / 3.7 / 3.8 / 3.85 [[Volts|V]],}} {{nowrap|LiFePO4 3.2 [[Volts|V]]}}
+}}
