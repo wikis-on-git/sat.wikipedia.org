@@ -1,0 +1,79 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 476992822
+| Name = Lithium carbonate
+| ImageSize = 150px
+| ImageFile1 = Lithium-carbonate-xtal-1979-Mercury-3D-sf.png
+| ImageSize1 = 200px
+| ImageFile2 = [[File:2.svg|x35px|2]] [[File:Li+.svg|x35px|Structure of Li<sup>+</sup>-Ions]] [[File:Carbonat-Ion.svg|100px|Structure of Carbonate]]
+| ImageName = Lithium carbonate
+| IUPACName = Lithium carbonate
+| OtherNames = Dilithium carbonate, Carbolith, Cibalith-S, Duralith, Eskalith, Lithane, Lithizine, Lithobid, Lithonate, Lithotabs Priadel, [[Zabuyelite]]
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10654
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2BMD2GNA4V
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200826
+| InChI = 1/CH2O3.2Li/c2-1(3)4;;/h(H2,2,3,4);;/q;2*+1/p-2
+| InChIKey = XGZVUEUWXADBQD-NUQVWONBAY
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 6504
+| SMILES = [Li+].[Li+].[O-]C([O-])=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/CH2O3.2Li/c2-1(3)4;;/h(H2,2,3,4);;/q;2*+1/p-2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XGZVUEUWXADBQD-UHFFFAOYSA-L
+| CASNo = 554-13-2
+| CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 11125
+| RTECS = OJ5800000
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00801
+ }}
+|Section2={{Chembox Properties
+| Formula = {{chem|Li|2|CO|3}}
+| MolarMass = 73.89 g/mol
+| Appearance = Odorless white powder
+| Density = 2.11{{nbsp}}g/cm<sup>3</sup>
+| MeltingPtC = 723
+| BoilingPtC = 1310
+| BoilingPt_notes = <br>Decomposes from ~1300&nbsp;°C
+| Solubility = {{ubl
+ | 1.54{{nbsp}}g/100{{nnbsp}}mL (0{{nbsp}}°C)
+ | 1.43{{nbsp}}g/100{{nnbsp}}mL (10{{nbsp}}°C)
+ | 1.29{{nbsp}}g/100{{nnbsp}}mL (25{{nbsp}}°C)
+ | 1.08{{nbsp}}g/100{{nnbsp}}mL (40{{nbsp}}°C)
+ | 0.69{{nbsp}}g/100{{nnbsp}}mL (100{{nbsp}}°C)<ref name=sioc>{{cite book|last = Seidell|first = Atherton|last2 = Linke|first2 = William F.|year = 1952|title = Solubilities of Inorganic and Organic Compounds|publisher = Van Nostrand}}</ref>
+ }}
+| SolubleOther = Insoluble in [[acetone]], [[ammonia]], [[ethanol|alcohol]]<ref name=chemister />
+| RefractIndex = 1.428<ref>Pradyot Patnaik. ''Handbook of Inorganic Chemicals''. McGraw-Hill, 2002, {{ISBN|0-07-049439-8}}</ref>
+| Viscosity = {{ubl
+ | 4.64{{nbsp}}cP (777{{nbsp}}°C)
+ | 3.36{{nbsp}}cP (817{{nbsp}}°C)<ref name=chemister />
+ }}
+| MagSus = −27.0·10<sup>−6</sup>{{nbsp}}cm<sup>3</sup>/mol
+ }}
+|Section4={{Chembox Thermochemistry
+| DeltaGf = −1132.4{{nbsp}}kJ/mol<ref name=chemister>{{cite web|url=http://chemister.ru/Database/properties-en.php?dbid=1&id=608 |title=lithium carbonate |website=Chemister.ru |date=2007-03-19 |accessdate=2017-01-02}}</ref>
+| DeltaHf = −1215.6{{nbsp}}kJ/mol<ref name=chemister />
+| DeltaHc =
+| Entropy = 90.37{{nbsp}}J/mol·K<ref name=chemister />
+| HeatCapacity = 97.4{{nbsp}}J/mol·K<ref name=chemister />
+ }}
+|Section7={{Chembox Hazards
+| GHSPictograms = {{GHS07}}<ref name="sigma">{{Sigma-Aldrich|id=752843|name=Lithium carbonate|accessdate=2014-06-03}}</ref>
+| GHSSignalWord = Warning
+| HPhrases = {{H-phrases|302|319}}<ref name="sigma" />
+| PPhrases = {{P-phrases|305+351+338}}<ref name="sigma" />
+| ExternalSDS = [http://www.inchem.org/documents/icsc/icsc/eics1109.htm ICSC 1109]
+| MainHazards = Irritant
+| FlashPt = Non-flammable
+| LD50 = 525 mg/kg (oral, rat)<ref>{{cite web|author=Michael Chambers |url=http://chem.sis.nlm.nih.gov/chemidplus/rn/554-13-2 |title=ChemIDplus - 554-13-2 - XGZVUEUWXADBQD-UHFFFAOYSA-L - Lithium carbonate [USAN:USP:JAN&#93; - Similar structures search, synonyms, formulas, resource links, and other chemical information |website=Chem.sis.nlm.nih.gov |date= |accessdate=2017-01-02}}</ref>
+ }}
+|Section8={{Chembox Related
+| OtherCations = [[Sodium carbonate]]<br> [[Potassium carbonate]]<br> [[Rubidium carbonate]]<br> [[Caesium carbonate]]
+ }}
+}}
