@@ -1,94 +1,59 @@
-{{Geobox | River
-<!-- *** Name section *** -->  
-| name                        = ᱥᱳᱥᱤ
-| other_name                  = ᱥᱚᱯᱛᱚᱠᱳᱥᱤ(Saptakoshi)
-| other_name1                 =
-<!-- *** Image *** --->
-| image                       = Bhote Kosi in Nepal.jpg
-| image_size                  = 250 
-| image_caption               = नेपालमा सुख्खा याममा [[भोटेकोशी नदी]]को दृश्य
-<!-- *** Etymology *** --->
-| etymology                   = 
-<!-- *** Country etc. *** -->
-| country                      = [[ᱪᱤᱱ]]
-| country1                     = [[ᱱᱮᱯᱟᱞ]]
-| country2                     = [[ᱵᱷᱟᱨᱚᱛ]]
-| state                       = [[:en:Shigatse Prefecture|सिगात्से]]
-| state1                      = [[ᱡᱚᱱᱚᱠᱯᱩᱨ]], 
-ᱥᱚᱜᱚᱨᱢᱟᱛᱷᱟ,                       
-ᱠᱳᱥᱤ,
-ᱢᱮᱪᱤ 
-| state2                      = [[ᱵᱤᱦᱟᱨ]]
-| region                      = ᱛᱤᱵᱵᱚᱛ
-| region1                     = ᱯᱩᱨᱵᱟᱱᱪᱚᱞ
-| region2                     = ᱩᱛᱛᱚᱨ ᱯᱨᱚᱫᱮᱥ
-| district                    = 
-| district1                   = 
-| city                        = [[ᱵᱤᱨᱟᱴᱱᱚᱜᱚᱨ]],ᱤᱴᱚᱦᱚᱨᱤ
-| city1                       = [[ᱯᱩᱨᱱᱤᱭᱟ]], ᱠᱚᱴᱤᱦᱟᱨ
-
-| landmark                    = 
-| landmark1                   = 
-<!-- *** Geography *** -->
-| length                      = 720 
-| watershed                   = 61000
-| watershed_round             = 0
-| discharge_location          = 
-| discharge_average           = 6981
-| discharge_max               = 
-| discharge_min               = 
-| discharge_note              =
-| discharge1_location         = 
-| discharge1                  = 
-<!-- *** Source *** -->
-| source_name                 = [[सुनकोशी नदी|सुनकोशी]], [[अरुण]] र [[तमोर नदी|तमोर]] बाट सप्तकोशी
-| source_location             = त्रिबेणीघाट
-| source_district             =  
-| source_region               =  
-| source_state                =  
-| source_country              = नेपाल
-| source_lat_d                = 26
-| source_lat_m                = 54
-| source_lat_s                = 47
-| source_lat_NS               = N
-| source_long_d               = 87
-| source_long_m               = 09
-| source_long_s               = 25
-| source_long_EW              = E
-| source_elevation            = 
-| source_length               = 
-<!-- *** Mouth *** -->
-| mouth_name                  = गङ्गा
-| mouth_location              = [[कुर्सेला]] नजिक
-| mouth_district              =
-| mouth_region                =
-| mouth_state                 = बिहार
-| mouth_country               = भारत
-| mouth_lat_d                 = 25
-| mouth_lat_m                 = 24
-| mouth_lat_s                 = 43
-| mouth_lat_NS                = N
-| mouth_long_d                = 87
-| mouth_long_m                = 15
-| mouth_long_s                = 32
-| mouth_long_EW               =E
-| mouth_elevation             = 
-<!-- *** Tributaries *** -->
-| tributary_left              = अरूण
-| tributary_left1             = तमोर 
-| tributary_right             =   दुधकोशी
-| tributary_right1            = तामाकोशी 
-| tributary_right2            =  [[लिखू नदी|लिखू]]
-| tributary_right3            = [[इन्द्रावती नदी, नेपाल|इन्द्रावती]]
-| tributary_right4            =सुनकोशी
-<!-- *** Free fields *** -->
-| free_name                   =  
-| free_value                  = 
-<!-- *** Map section *** -->
-| map                         = River Ganges and tributaries.png
-| map_size                    =  
-| map_locator =
-| map_locator_x = 80
-| map_locator_y =  30
-| map_caption                 =
+{{Use dmy dates|date=March 2013}}
+{{More citations needed|date=March 2012}}
+{{Infobox river
+| name               =ᱠᱳᱥᱤ (कोसी)
+| name_native        = 
+| name_native_lang   = 
+| name_other         = ᱥᱚᱯᱛᱚᱠᱳᱥᱤ (सप्तकोसी)
+| name_etymology     = 
+<!---------------------- IMAGE & MAP -->
+| image              = Bhote Kosi in Nepal.jpg
+| image_size         = 
+| image_caption      = ᱵᱷᱳᱴᱮ ᱠᱳᱥᱤ ᱚᱛ ᱨᱚᱦᱚᱲ  ᱚᱠᱛᱮ ᱨᱮ . It is one of the tributaries of Koshi river.
+| map                = River Ganges and tributaries.png
+| map_size           = 
+| map_caption        = Map of the River Ganges and tributaries
+| pushpin_map        = India
+| pushpin_map_size   = 
+| pushpin_map_caption= Location of the mouth in India
+<!---------------------- LOCATION -->
+| subdivision_type1  = Country
+| subdivision_name1  = [[ᱪᱤᱱ]], [[ᱱᱮᱯᱟᱞ]], [[ᱵᱷᱟᱨᱚᱛ]]
+| subdivision_type2  = State
+| subdivision_name2  = ᱛᱤᱵᱵᱚᱛ, [[ᱯᱨᱚᱫᱮᱥᱦ ᱮᱞ ᱑]], [[ᱵᱤᱦᱟᱨ]]
+| subdivision_type3  = Region
+| subdivision_name3  = [[Tibet]], [[Province No. 1|Province No. 1, Nepal]], [[North India|North-Central India]], [[East India]]
+| subdivision_type4  = 
+| subdivision_name4  = 
+| subdivision_type5  = Cities
+| subdivision_name5  = Supaul (Bhaptiyahi), [[Purnia]], [[Katihar]]
+<!---------------------- PHYSICAL CHARACTERISTICS -->
+| length             = {{convert|729|km|mi|abbr=on}} 
+| width_min          = 
+| width_avg          = 
+| width_max          = 
+| depth_min          = 
+| depth_avg          = 
+| depth_max          = 
+| discharge1_location= 
+| discharge1_min     = 
+| discharge1_avg     = {{convert|2166|m3/s|cuft/s|abbr=on}}
+| discharge1_max     = 
+<!---------------------- BASIN FEATURES -->
+| source1            = [[Sun Kosi|Sun Koshi]], [[Arun River, Tibet-Nepal|Arun]] and [[Tamur River|Tamor]] form Saptakoshi
+| source1_location   = [[Triveni, Nepal|Tribenighat]], [[Nepal]]
+| source1_coordinates= {{coord|26|54|47|N|87|09|25|E|display=inline}}
+| source1_elevation  = 
+| mouth              = [[Ganges]]
+| mouth_location     = near [[Kursela]], [[Bihar]], [[India]]
+| mouth_coordinates  = {{coord|25|24|43|N|87|15|32|E|display=inline,title}}
+| mouth_elevation    = 
+| progression        = 
+| river_system       = 
+| basin_size         = {{convert|74500|km2|abbr=on}}
+| tributaries_left   = 
+| tributaries_right  = 
+| custom_label       = 
+| custom_data        = 
+| extra              = 
 }}
