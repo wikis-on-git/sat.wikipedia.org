@@ -1,0 +1,120 @@
+{{Infobox planet
+| name = Mercury
+| symbol = [[File:Mercury symbol.svg|18px|Astronomical symbol of Mercury]]
+| image = Mercury in color - Prockter07-edit1.jpg
+| caption = Imaged in enhanced color by ''[[MESSENGER]]'' in 2008
+| background = #f8f9fa
+| orbit_ref = <ref name="horizons" />
+| epoch = [[J2000]]
+| aphelion =
+  {{plainlist |
+* {{val|0.466697|u=AU}} 
+* 69,816,900&nbsp;km
+  }}
+| perihelion =
+  {{plainlist |
+* {{val|0.307499|u=AU}}
+* 46,001,200&nbsp;km
+  }}
+| semimajor =
+  {{plainlist |
+* {{val|0.387098|u=AU}}
+* 57,909,050&nbsp;km
+  }}
+| eccentricity = {{val|0.205630}}<ref name="fact" />
+| period =
+  {{plainlist |
+* {{val|87.9691|u=day}}
+* {{val|0.240846|u=[[julian year (astronomy)|yr]]}}
+* 0.5 Mercury [[solar day]]
+  }}
+| synodic_period = 115.88&nbsp;d<ref name="fact" />
+| avg_speed = 47.362&nbsp;km/s<ref name="fact" />
+| inclination =
+  {{plainlist |
+* 7.005° to [[ecliptic]]
+* 3.38° to [[Sun]]'s [[equator]]
+* 6.34° to [[invariable plane]]<ref name="meanplane" />
+  }}
+| asc_node = 48.331°
+| arg_peri = 29.124°
+| mean_anomaly = 174.796°
+| satellites = None
+| allsatellites=yes
+| mean_diameter = {{val|4880|u=km}}
+| mean_radius =
+  {{plainlist |
+* {{nowrap|{{val|fmt=commas|2439.7|1.0|u=km}}}}<ref name="nasa" /><ref name="Seidelmann2007" />
+* {{val|0.3829}} Earths
+  }}
+| flattening = 0.0000 [https://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html]
+| surface_area =
+  {{plainlist |
+* {{val|7.48|e=7|u=km2}}<ref name="nasa" />
+* 0.147 Earths
+  }}
+| volume =
+  {{plainlist |
+* {{val|6.083|e=10|u=km3}}<ref name="nasa" />
+* 0.056 Earths
+  }}
+| mass =
+  {{plainlist |
+* {{val|3.3011|e=23|u=kg}}<ref name="Mazarico2014" />
+* 0.055 Earths
+  }}
+| density = {{val|5.427|u=g/cm3}}<ref name="nasa" />
+| surface_grav =
+  {{plainlist |
+* {{val|3.7|u=m/s2}}
+* 0.38 [[g-force|g]]<ref name="nasa" />
+  }}
+| moment_of_inertia_factor = {{val|0.346|0.014}}<ref name="Margot2012" />
+| escape_velocity = 4.25&nbsp;km/s<ref name="nasa" />
+| sidereal_day =
+  {{plainlist |
+* {{val|58.646|u=d}}
+* {{val|1407.5|u=h}}<ref name="nasa" />
+  }}
+| rot_velocity = {{convert|10.892|km/h|m/s|abbr=on}}
+| axial_tilt = {{nowrap|2.04′ ± 0.08′}} (to orbit)<ref name="Margot2012" /><br />(0.034°)<ref name="fact" />
+| right_asc_north_pole =
+  {{plainlist |
+* {{RA|18|44|2}}
+* 281.01°<ref name="fact" />
+  }}
+| declination = 61.45°<ref name="fact" />
+| albedo =
+  {{plainlist |
+* 0.088 ([[Bond albedo|Bond]])<ref name="Mallama" />
+* 0.142 ([[Geometric albedo|geom.]])<ref name="MallamaMercury" />
+  }}
+| magnitude = −2.48 to +7.25<ref name="Mallama_and_Hilton" />
+| angular_size = 4.5–13″<ref name="fact" />
+| temp_name1 = 0°N, 0°W <ref name="vasa">{{cite journal |title=Near-Surface Temperatures on Mercury and the Moon and the Stability of Polar Ice Deposits |first1=Ashwin R. |last1=Vasavada |first2=David A. |last2=Paige |first3=Stephen E. |last3=Wood |date=February 19, 1999 |url=http://www.gps.caltech.edu/classes/ge151/references/vasavada_et_al_1999.pdf |journal=Icarus |volume=141 |pages=179–193 |id=Figure 3 with the "TWO model"; Figure 5 for pole |bibcode=1999Icar..141..179V |doi=10.1006/icar.1999.6175 |issue=2}}</ref>
+| min_temp_1 = 100 K <!-- (-173 °C) -->
+| mean_temp_1 = 340 K <!-- (67 °C) -->
+| max_temp_1 = 700 K <!-- (427 °C) -->
+| temp_name2 = 85°N, 0°W<ref name="vasa" />
+| min_temp_2 = 80 K <!-- (-193 °C) -->
+| mean_temp_2 = 200 K <!-- (-73 °C) -->
+| max_temp_2 = 380 K <!-- (106.85 °C) -->
+<!---| temp_name3 = 90°N<ref name="vasa" /> |min_temp3=180K |mean_temp3=180K | max_temp_3 = 180 K (−93 °C) -->
+| pronounced = {{IPAc-en|audio=en-us-Mercury.ogg|ˈ|m|ɜːr|k|j|ʊr|i}}
+| adjectives = Mercurian {{IPAc-en|m|ər|ˈ|k|jʊər|i|ə|n}},<ref>{{Lexico|Mercurian}}</ref><br>Mercurial {{IPAc-en|m|ər|ˈ|k|jʊər|i|ə|l}}<ref>{{Lexico|Mercurial}}</ref>
+| atmosphere = yes
+| surface_pressure = trace (≲ 0.5&nbsp;nPa)
+| atmosphere_ref=<ref name="fact2015">{{cite web |title=Mercury Fact Sheet |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html |publisher=NASA |accessdate=January 27, 2016 |archiveurl=https://web.archive.org/web/20151106171436/http://nssdc.gsfc.nasa.gov/planetary/factsheet/mercuryfact.html |archivedate=November 6, 2015 |date=December 22, 2015}}</ref><ref name="Britannica.com">{{Cite encyclopedia |title=Mercury – The-atmosphere |encyclopedia=[[Encyclopædia Britannica]] |url=https://www.britannica.com/place/Mercury-planet/The-atmosphere}}</ref>
+| atmosphere_composition =
+  {{plainlist |
+* atomic [[oxygen]]
+* [[sodium]]
+* [[magnesium]]
+* atomic [[hydrogen]]
+* [[potassium]]
+* [[calcium]]
+* [[helium]]
+* Trace amounts of [[iron]], [[aluminium]], [[argon]], [[dinitrogen]], [[dioxygen]], [[carbon dioxide]], [[water vapor]], [[xenon]], [[krypton]], and [[neon]]
+  }}
+
+}}
