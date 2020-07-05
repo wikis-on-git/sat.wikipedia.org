@@ -1,3 +1,47 @@
+{{Infobox Continent
+|title          = Africa
+|image          = {{Switcher|[[File:Africa (orthographic projection).svg|frameless]]|Show national borders|[[File:Africa (orthographic projection) blank.svg|frameless]]|Hide national borders|default=1}}
+|area           = {{convert|30,370,000|km2|sqmi|abbr=on}} &nbsp;([[List of continents by area|2nd]])
+|population     = {{UN_Population|Africa}}{{UN_Population|ref}} ({{UN_Population|Year}}; [[List of continents by population|2nd]])
+|density        = {{pop density|1100000000|30221532|km2|sqmi}}
+|GDP_nominal    = $2.45 trillion (2019; [[List of continents by GDP (nominal)|5th]])<ref name=IMF_Data/>
+|GDP_PPP        = $7.16 trillion (2019; 5th)<ref name=IMF_Data/>
+|GDP_per_capita = $1,930 (2019; [[List of continents by GDP (nominal)#GDP per capita (nominal) by continents|6th]])<ref name=IMF_Data>{{cite web|title=IMF (WEO April 2019 Edition) GDP nominal and PPP data – international dollar|url=https://www.imf.org/external/datamapper/datasets/WEO/1}}</ref> 
+|demonym        = [[List of ethnic groups of Africa|African]]
+|countries      = 54+2 (disputed) 
+|list_countries = List of sovereign states and dependent territories in Africa
+|dependencies   = {{Collapsible list
+|list_style     = text-align:left;
+|title          = [[List of African dependencies#External territories|External]] (3)
+| 1 = {{Flag|British Indian Ocean Territory}} | 2 = {{flag|French Southern and Antarctic Lands|name=French Southern Territories}} | 3 = {{flag|Saint Helena, Ascension and Tristan da Cunha}} 
+ }}
+ {{Collapsible list
+|list_style     = text-align:left;
+|title          = [[List of African dependencies#Internal territories|Internal]] (9+1 disputed)
+| 1 = {{flag|Azores}} | 2 = {{flag|Canary Islands}} | 3 = {{flag|Ceuta}} | 4 = {{flag|Madeira}} | 5 = {{flag|Mayotte|local}} | 6 = {{flag|Melilla}} | 7 = {{flagdeco|Spain}} [[Plazas de soberanía]] | 8 = {{flagdeco|South Africa}} [[Prince Edward Islands]] | 9 = {{flag|Réunion|local}} | 10 = ''{{flagdeco|Morocco}} [[Southern Provinces]]''
+ }}
+|languages      = [[Languages of Africa|1250–3000 native languages]]
+|time           = [[UTC-1]] to [[UTC+4]]
+|cities         = [[List of urban agglomerations in Africa|Largest urban areas]]:<!--
+ -->{{hlist
+|item_style=white-space:break;
+|[[Cairo]]
+|[[Lagos]]
+|[[Kinshasa]]
+|[[Johannesburg]]
+|[[Luanda]]
+|[[Khartoum]]
+|[[Dar es Salaam]]
+|[[Abidjan]]
+|[[Alexandria]]
+|[[Nairobi]]
+|[[Cape Town]]
+|[[Kano]]
+|[[Dakar]]
+|[[Casablanca]]
+|[[Addis Ababa]]}}
+}}
+
 [[File:LocationAfrica.png|thumb|ᱟᱯᱷᱨᱤᱠᱟ]]
 
 [[File:Colonial Africa 1913 map.svg|thumb|Colonial Africa 1913 map]]
