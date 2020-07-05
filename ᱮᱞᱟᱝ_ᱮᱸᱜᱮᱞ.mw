@@ -119,6 +119,23 @@
 
 }}
 
+== ᱛᱩᱠᱱᱟᱹ == 
+{{multiple image
+| align     = center
+| direction = horizontal
+| header            = Size comparison with other Solar System objects
+| header_align      = center
+| image1    = Mercury, Earth size comparison.jpg
+| width1    = 197
+| caption1  = Mercury, [[Earth]]
+| image2    = Terrestrial planet sizes.jpg
+| width2    = 325
+| caption2  = ᱮᱞᱟᱝ ᱮᱸᱜᱮᱞ, [[Venus]], [[ᱫᱷᱟᱹᱨᱛᱤ]], [[Mars]]
+| image3    = 1e6m comparison Mars Mercury Moon Pluto Haumea - no transparency.png
+| width3    = {{#expr: (139 * 300 / 240) round 0}}
+| caption3  = Back row: [[Mars]], ᱮᱞᱟᱝ ᱮᱸᱜᱮᱞ<br />Front: [[ᱪᱟᱸᱫᱚ]], [[Pluto]], [[Haumea]]
+}}
+{{clear}}
 == ᱠᱷᱟᱴᱚ ᱵᱤᱪᱟᱹᱨ==
 {{reflist |group=lower-alpha |refs=
 
