@@ -1,0 +1,100 @@
+{{Infobox planet
+| name                   = Saturn
+| symbol                 = [[File:Saturn symbol.svg|x25px]]
+| image                  = Saturn during Equinox.jpg
+| caption                = Pictured in natural color approaching [[equinox]], photographed by ''[[Cassini–Huygens|Cassini]]'' in July 2008; the dot in the bottom left corner is [[Titan (moon)|Titan]]
+| background             = #f8f9fa
+| pronounced             = {{IPAc-en|audio=en-us-Saturn.ogg|ˈ|s|æ|t|ər|n}}<ref name="walter2003"/>
+| named_after            = [[Saturn (mythology)|Saturn]]
+| adjectives             = Saturnian {{IPAc-en|s|ə|ˈ|t|ɜr|n|i|ə|n}},<ref>{{OED|Saturnian}}</ref> Cronian<ref>{{Cite web|url = http://solarsystem.nasa.gov/multimedia/downloads/Small_RPS_Report.pdf|title = Enabling Exploration with Small Radioisotope Power Systems|date = September 2004|access-date = 26 January 2016|website = |publisher = NASA|last = |first = |archive-url = https://web.archive.org/web/20161222125722/http://solarsystem.nasa.gov/multimedia/downloads/Small_RPS_Report.pdf|archive-date = 22 December 2016|url-status = dead}}</ref> / Kronian<ref>{{cite journal | last1 = Müller | first1 =  | display-authors = etal | year = 2010 | title = Azimuthal plasma flow in the Kronian magnetosphere | url = | journal = Journal of Geophysical Research | volume = 115 | issue = | page = A08203 }}</ref> {{IPAc-en|'|k|r|ou|n|i|@|n}}<ref>{{OED|Cronian}}</ref>
+| orbit_ref              = <ref name="fact" />
+| epoch                  = [[J2000.0]]
+| aphelion               = {{convert|1514.50|e6km|AU|4|abbr=unit}}
+| perihelion             = {{convert|1352.55|e6km|AU|4|abbr=unit}}
+| semimajor              = {{convert|1433.53|e6km|AU|4|abbr=unit}}
+| eccentricity           = {{val|0.0565}}
+| period                 = 
+  {{plainlist |
+* {{val|29.4571|u=[[Julian year (astronomy)|yr]]}}
+* {{val|fmt=commas|10759.22|u=days}}
+* {{val|fmt=commas|24491.07}} Saturnian [[solar day]]s<ref name="CSeligman" />
+  }}
+| synodic_period         = 378.09 days
+| avg_speed              = {{convert|9.68|km/s|mi/s|sigfig=3|abbr=unit}}
+| mean_anomaly           = {{val|317.020|u=°}}<ref name="VSOP87" />
+| inclination            = 
+  {{plainlist |
+* {{val|2.485|u=°}} to [[ecliptic]]<ref name="VSOP87" />
+* {{val|5.51|u=°}} to [[Sun]]'s [[equator]]<ref name="VSOP87" />
+* {{val|0.93|u=°}} to [[invariable plane]]<ref name="meanplane" />
+  }}
+| asc_node               = {{val|113.665|u=°}}
+| arg_peri               = {{val|339.392|u=°}}<ref name="VSOP87" />
+| satellites             = [[moons of Saturn|82]] with formal designations; innumerable additional [[moonlet]]s.<ref name=fact />
+| physical_ref           = <ref name="fact" />
+| mean_radius            = {{convert|58232|km|mi|0|abbr=unit}}<ref group=lower-alpha name=1bar />
+| equatorial_radius      = 
+  {{plainlist |
+* {{convert|60268|km|mi|0|abbr=unit}}<ref group=lower-alpha name=1bar>Refers to the level of 1 bar atmospheric pressure</ref>
+* {{val|9.449}} Earths
+  }}
+| polar_radius           = 
+  {{plainlist |
+* {{convert|54364|km|mi|0|abbr=unit}}<ref group=lower-alpha name=1bar />
+* {{val|8.552|u=Earths}}
+  }}
+| flattening             = {{val|0.09796}}
+| surface_area           = 
+  {{plainlist |
+* {{convert|4.27e10|km2|sqmi|abbr=unit}}<ref name="nasafact" /><ref group=lower-alpha name=1bar />
+* {{val|83.703|u=Earths}}
+  }}
+| volume                 = 
+  {{plainlist |
+* {{convert|8.2713e14|km3|cumi|abbr=unit}}<ref group=lower-alpha name=1bar />
+* {{val|763.59|u=Earths}}
+  }}
+| mass                   = 
+  {{plainlist |
+* {{val|5.6834e26|u=kg}}
+* {{val|95.159|u=Earths}}
+  }}
+| density                = {{convert|0.687|g/cm3|lk=on|abbr=unit}}<ref group=lower-alpha name=1bar_b>Based on the volume within the level of 1 bar atmospheric pressure</ref> {{small|(less than water)}}
+| surface_grav           = 
+  {{plainlist |
+* {{convert|10.44|m/s2|lk=on|abbr=unit}}<ref group=lower-alpha name=1bar />
+* 1.065 ''[[g-force|g]]''
+  }}
+| moment_of_inertia_factor = {{val|0.22|}}<ref name="Fortney2018">{{cite book|last1= Fortney|first1= J.J.|last2= Helled|first2= R.|last3= Nettlemann|first3= N.|last4= Stevenson|first4= D.J.|last5= Marley|first5= M.S.|last6= Hubbard|first6= W.B.|last7= Iess|first7= L.|editor1= Baines, K.H.|editor2= Flasar, F.M.|editor3= Krupp, N.|editor4= Stallard, T.|title= Saturn in the 21st Century|chapter= The Interior of Saturn|chapter-url= https://books.google.com/books?id=p358DwAAQBAJ&pg=PA51 |pages= 44–68|date=6 December 2018|publisher= Cambridge University Press|isbn= 978-1-108-68393-7}}</ref>
+| escape_velocity        = {{convert|35.5|km/s|mi/s|abbr=unit}}<ref group=lower-alpha name=1bar />
+| sidereal_day           = <span class="nowrap">{{RA|10|33|38}} {{+-|{{RA||1|52}}|{{RA||1|19}}}}&thinsp;</span><ref name="NASA-20190118">{{cite news |last1=McCartney |first1=Gretchen |last2=Wendel |first2=JoAnna |title=Scientists Finally Know What Time It Is on Saturn |url=https://www.jpl.nasa.gov/news/news.php?feature=731 |date=18 January 2019 |work=[[NASA]] |accessdate=18 January 2019 }}</ref><ref name="APJ-20190117">{{cite journal |author=Mankovich, Christopher |display-authors=etal |title=Cassini Ring Seismology as a Probe of Saturn's Interior. I. Rigid Rotation |date=17 January 2019 |journal=[[The Astrophysical Journal]] |volume=871 |pages=1 |number=1 |doi=10.3847/1538-4357/aaf798 |arxiv=1805.10286 |bibcode=2019ApJ...871....1M }}</ref>
+| rot_velocity           = {{convert|9.87|km/s|mi/s km/h|abbr=unit}}<ref group=lower-alpha name=1bar />
+| axial_tilt             = 26.73° {{small|(to orbit)}}
+| right_asc_north_pole   = 40.589°; {{RA|2|42|21}}
+| declination            = 83.537°
+| albedo                 = 
+  {{plainlist |
+* 0.342 ([[Bond albedo|Bond]])<ref name="Hanel_et_al"/>
+* 0.499 ([[Geometric albedo|geometric]])<ref name="Mallama_et_al"/>
+  }}
+| temp_name1             = 1 [[bar (unit)|bar]]
+| mean_temp_1            = {{convert|134|K|C|0|lk=on}}
+| temp_name2             = 0.1 [[bar (unit)|bar]]
+| mean_temp_2            = {{convert|84|K|C|0|lk=on}}
+| magnitude              = −0.55<ref name="Mallama_and_Hilton" /> to +1.17<ref name="Mallama_and_Hilton"/>
+| angular_size           = 14.5″ to 20.1″ (excludes rings)
+| atmosphere_ref         = <ref name="fact" />
+| surface_pressure       = 140&nbsp;kPa<ref>{{cite web |title=On The Atmospheres Of Different Planets |first=Robin |last=Knecht |date=24 October 2005 |url=http://www.tp.umu.se/space/Proj_05/Robin.K.pdf |access-date=14 October 2017 |archive-url=https://web.archive.org/web/20171014234631/http://www.tp.umu.se/space/Proj_05/Robin.K.pdf |archive-date=14 October 2017 |url-status=dead }}</ref>
+| scale_height           = {{convert|59.5|km|mi|abbr=unit}}
+| atmosphere_composition = {{aligned table|cols=2
+| {{val|96.3|2.4|u=%}} |[[hydrogen]] ({{chem2|H2}})
+| {{val|3.25|2.4|u=%}} |[[helium]] ({{chem2|He}})
+| {{val|0.45|0.2|u=%}} |[[methane]] ({{chem2|CH4}})
+| {{val|0.0125|0.0075|u=%}} |[[ammonia]] ({{chem2|NH3}})
+| {{val|0.0110|0.0058|u=%}} |[[hydrogen deuteride]] (HD)
+| {{val|0.0007|0.00015|u=%|fmt=none}} |[[ethane]] ({{chem2|C2H6}})
+}}'''Ices''':
+* [[ammonia]] ({{chem2|NH3}})
+* [[water]] ({{chem2|H2O}})
+* [[ammonium hydrosulfide]] ({{chem2|NH4SH}})
+}}
