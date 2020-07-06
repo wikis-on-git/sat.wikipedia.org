@@ -1,0 +1,76 @@
+{{Infobox planet
+| name = Uranus
+| symbol = [[File:{{#property:P367}}|25px]]
+| image = Uranus2.jpg
+| caption = Photographed as a featureless disc by {{nowrap|''[[Voyager 2]]''}} in 1986
+| background = #f8f9fa
+| discoverer = [[{{#property:P61}}]]
+| discovered = {{#time:j F Y|{{#property:P575}}}}
+| orbit_ref =
+<ref name="VSOP87" />{{efn | These are the mean elements from VSOP87, together with derived quantities.}}
+| epoch = [[J2000]]
+| aphelion = {{val|20.11|ul=AU}}<br />({{nowrap|{{val|fmt=dots|3008|u=Gm}}}})
+| perihelion = {{val|18.33|u=AU}}<br />({{nowrap|{{val|fmt=dots|2742|u=Gm}}}})
+| semimajor = {{val|19.2184|u=AU}}<br />({{nowrap|{{val|fmt=commas|2875.04|u=Gm}}}})
+| eccentricity = {{val|0.046381}}
+| period =
+ {{plainlist |
+* {{val|84.0205|u=[[julian year (astronomy)|yr]]}}
+* {{nowrap|{{val|fmt=commas|30688.5|u=days}}}}<ref name="nasafact" />
+* {{nowrap|{{val|fmt=commas|42718}}}} Uranian [[solar day]]s<ref name="CSeligman" />
+ }}
+| synodic_period = 369.66&nbsp;days<ref name="fact" />
+| avg_speed = 6.80&nbsp;km/s<ref name="fact" />
+| inclination = {{val|0.773|u=°}} to [[ecliptic]]<br />6.48° to [[Sun]]'s [[equator]]<br />1.02° to [[invariable plane]]<ref name="meanplane" />
+| asc_node = {{val|74.006|u=°}}
+| arg_peri = {{val|96.998857|u=°}}
+| mean_anomaly = {{val|142.238600|u=°}}
+| satellites = [[Moons of Uranus|27]]
+| flattening = {{val|0.0229|0.0008}}{{efn | Calculated using data from Seidelmann, 2007.<ref name="Seidelmann Archinal A'hearn et al. 2007" /> }}
+| equatorial_radius = {{nowrap|{{val|fmt=commas|25559|4|u=km}}}}<br />4.007&nbsp;Earths<ref name="Seidelmann Archinal A'hearn et al. 2007" />{{efn|name=atmospheric pressure}}
+| polar_radius = {{nowrap|{{val|fmt=commas|24973|20|u=km}}}}<br />3.929&nbsp;Earths<ref name="Seidelmann Archinal A'hearn et al. 2007" />{{efn|name=atmospheric pressure}}
+| mean_radius = {{nowrap|{{val|fmt=commas|25362|7|u=km}}}}<ref name="Seidelmann Archinal A'hearn et al. 2007" />{{efn|name=atmospheric pressure}}
+| circumference = {{nowrap|{{val|fmt=commas|159354.1|u=km}}}}<ref name="nasafact" />
+| surface_area = {{val|8.1156|e=9|u=km2}}<ref name="nasafact" />{{efn|name=atmospheric pressure}} <br /> 15.91&nbsp;Earths
+| volume = {{val|6.833|e=13|u=km3}}<ref name="fact" />{{efn|name=atmospheric pressure}} <br /> 63.086&nbsp;Earths
+| mass = {{val|8.6810|0.0013|e=25|u=kg}} <br /> 14.536&nbsp;Earths<ref name="Jacobson Campbell et al. 1992" /> <br />
+[[standard gravitational parameter|GM]]={{nowrap|{{val|fmt=commas|5793939|13|u=km<sup>3</sup>/s<sup>2</sup>}}}}
+| density = {{val|1.27|u=g/cm3}}<ref name="fact" />{{efn|name=atmospheric pressure2}}
+| surface_grav = {{val|8.69|ul=m/s2}}<ref name="fact" />{{efn|name=atmospheric pressure}}<br />0.886&nbsp;[[g-force|g]]
+| moment_of_inertia_factor = {{val|0.23|}}<ref name="PS15">{{cite book |last2=Lissauer |first2=Jack J. |last1=de Pater |first1=Imke |title=Planetary Sciences |date=2015 |url=https://books.google.com/books?id=stFpBgAAQBAJ&pg=PA250 |page=250 |publisher=Cambridge University Press |location=New York |isbn=978-0521853712 |edition=2nd updated}}</ref> (estimate)
+| escape_velocity = 21.3&nbsp;km/s<ref name="fact" />{{efn|name=atmospheric pressure}}
+| sidereal_day = {{val|-0.71833|u=day}} ([[retrograde motion|retrograde]])<br /> {{nowrap|17 [[hour|h]] 14 min 24 [[second|s]]}}<ref name="Seidelmann Archinal A'hearn et al. 2007" />
+| rot_velocity = 2.59&nbsp;km/s <br /> 9,320&nbsp;km/h
+| axial_tilt = 97.77° (to orbit)<ref name="fact"/>
+| right_asc_north_pole = {{RA|17|9|15}}<br />257.311°<ref name="Seidelmann Archinal A'hearn et al. 2007" />
+| declination = −15.175°<ref name="Seidelmann Archinal A'hearn et al. 2007" />
+| albedo = 0.300 ([[Bond albedo|Bond]])<ref name="Pearl_et_al_Uranus"/><br />0.488 ([[Geometric albedo|geom.]])<ref name="Mallama_et_al"/>| magnitude =5.38<ref name="Mallama_and_Hilton" /> to 6.03<ref name=" Mallama_and_Hilton" />
+| angular_size = 3.3″ to 4.1″<ref name="fact" />
+| temp_name1 = 1&nbsp;[[bar (unit)|bar]] level<ref name="Podolak Weizman et al. 1995" />
+| min_temp_1 =
+| mean_temp_1 = {{convert|76|K|C}}
+| max_temp_1 =
+| temp_name2 = 0.1&nbsp;bar<br />([[tropopause]])<ref name="Lunine 1993" />
+| min_temp_2 = 47&nbsp;K
+| mean_temp_2 = 53&nbsp;K
+| max_temp_2 = 57&nbsp;K
+| pronounced = {{IPAc-en|audio=uranus.ogg|ˈ|jʊər|ə|n|ə|s}} or {{IPAc-en|audio=en-us-Uranus.ogg|j|ʊ|ˈ|r|eɪ|n|ə|s}}<ref name="OED" /><ref name="BBCOUP" />
+| adjectives = Uranian {{IPAc-en|j|ʊ|ˈ|r|eɪ|n|i|ə|n}}<ref>{{OED|Uranian}}</ref>
+| named_after = the Latin form ''Ūranus'' of the Greek god [[Uranus (mythology)|Οὐρανός]] ''Ouranos''
+| atmosphere = yes
+| atmosphere_ref =
+<ref name="Lunine 1993" /><ref name="Lindal Lyons et al. 1987" /><ref name="Conrath Gautier et al. 1987" />{{efn | Calculation of He, H<sub>2</sub> and CH<sub>4</sub> molar fractions is based on a 2.3% mixing ratio of methane to hydrogen and the 15/85 He/H<sub>2</sub> proportions measured at the tropopause. }}
+| scale_height = 27.7&nbsp;km<ref name="fact" />
+| atmosphere_composition = ''(Below 1.3 bar)''<br />
+'''Gases''':
+* 83&nbsp;±&nbsp;3% [[hydrogen]] ({{chem2|H2}})
+* 15&nbsp;±&nbsp;3% [[helium]] (He)
+* 2.3% [[methane]] ({{chem2|CH4}})
+* 0.009%&nbsp;(0.007–0.015%) [[hydrogen deuteride]] (HD)
+* [[hydrogen sulfide]] ({{chem2|H2S}})<ref>{{cite journal |title=Detection of hydrogen sulfide above the clouds in Uranus's atmosphere |journal=Nature Astronomy |volume=2 |issue=5 |pages=420–427 |first1=Patrick G. J. |last1=Irwin |first2=Daniel |last2=Toledo |first3=Ryan |last3=Garland |first4=Nicholas A. |last4=Teanby |first5=Leigh N. |last5=Fletcher |first6=Glenn A. |last6=Orton |first7=Bruno |last7=Bézard |display-authors=1 |date=23 April 2018 |doi=10.1038/s41550-018-0432-1|bibcode=2018NatAs...2..420I |hdl=2381/42547 |url=https://lra.le.ac.uk/bitstream/2381/42547/2/uranus_nature9.pdf }}</ref>
+'''Ices''':
+* [[ammonia]] ({{chem2|NH3}})
+* [[water (molecule)|water]] ({{chem2|H2O}})
+* [[ammonium hydrosulfide]] ({{chem2|NH4SH}})
+* [[methane hydrate]]
+}}
