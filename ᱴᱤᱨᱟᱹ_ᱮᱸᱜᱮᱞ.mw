@@ -1,0 +1,116 @@
+{{Infobox planet
+| name = Venus
+| symbol = [[File:Venus symbol.svg|25px|alt=The Venusian symbol, a circle with a small equal-armed cross beneath it|Astronomical symbol of Venus]]
+| image = PIA23791-Venus-NewlyProcessedView-20200608.jpg
+| caption = A real-color image taken by ''[[Mariner 10]]'' in newly processed view (8 June 2020); the surface is obscured by thick [[sulfuric acid]] clouds
+<!---| image = Venus-real color.jpg
+| image_alt=Venus in approximately true colour, a nearly uniform pale cream, although the image has been processed to bring out details.<ref name="Lakdawalla2009">{{cite web |url=http://www.planetary.org/blog/article/00002105/ |title=Venus Looks More Boring Than You Think It Does |work=The Planetary Society |first=Emily |last=Lakdawalla |date=21 September 2009 |accessdate=4 December 2011}}</ref> The planet's disc is about three-quarters illuminated; almost no variation or detail can be seen in the clouds
+| caption = A real-colour image taken by ''[[Mariner 10]]'' in 1974 processed from two filters; the surface is obscured by thick [[sulfuric acid]] clouds--->
+| background = #f8f9fa
+| orbit_ref =<ref name="fact" /><ref name="horizons" />
+| epoch = [[J2000]]
+| aphelion =
+  {{plainlist |
+* {{val|0.728213|ul=AU}}
+* {{nowrap|{{val|fmt=commas|108939000|u=km}}}}
+  }}
+| perihelion =
+  {{plainlist |
+* {{val|0.718440|u=AU}}
+* {{nowrap|{{val|fmt=commas|107477000|u=km}}}}
+  }}
+| semimajor =
+  {{plainlist |
+* {{val|0.723332|u=AU}}
+* {{nowrap|{{val|fmt=commas|108208000|u=km}}}}
+  }}
+| eccentricity = 0.006772<ref name="VSOP87" />
+| period =
+  {{plainlist |
+* {{val|224.701|u=day}}<ref name="fact" />
+* {{val|0.615198|u=[[julian year (astronomy)|yr]]}}
+* 1.92 Venus [[solar day]]
+  }}
+| synodic_period = 583.92 days<ref name="fact" />
+| avg_speed = 35.02&nbsp;km/s
+| inclination =
+  {{plainlist |
+* {{val|3.39458|u=°}} to [[ecliptic]]
+* 3.86° to [[Sun]]'s [[equator]]
+* 2.19° to [[invariable plane]]<ref name="meanplane" />
+  }}
+| asc_node = 76.680°<ref name="VSOP87" />
+| arg_peri = 54.884°
+| mean_anomaly = 50.115°
+| satellites = None
+| allsatellites=yes
+| mean_radius =
+  {{plainlist |
+* {{nowrap|{{val|fmt=commas|6051.8|1.0|u=km}}}}<ref name="Seidelmann2007" />
+* {{val|0.9499|u=Earths}}
+  }}
+| flattening = 0<ref name="Seidelmann2007" />
+| surface_area =
+  {{plainlist |
+* {{val|4.6023|e=8|u=km2}}
+* 0.902 Earths
+  }}
+| volume =
+  {{plainlist |
+* {{val|9.2843|e=11|u=km3}}
+* 0.866 Earths
+  }}
+| mass =
+  {{plainlist |
+* {{val|4.8675|e=24|u=kg}}<ref name="Konopliv1999" />
+* 0.815 Earths
+  }}
+| density = {{val|5.243|u=g/cm3}}
+| surface_grav =
+  {{plainlist |
+* {{val|8.87|u=m/s2}}
+* {{nowrap|0.904 ''[[g-force|g]]''}}
+  }}
+| escape_velocity = {{convert|10.36|km/s|abbr=on}}<ref>{{cite web |url=http://ssd.jpl.nasa.gov/?planet_phys_par |title=Planets and Pluto: Physical Characteristics |publisher=[[NASA]] |date=5 November 2008 |accessdate=26 August 2015}}</ref>
+| sidereal_day = {{val|-243.025|u=day}} <small>([[Retrograde motion|retrograde]])</small><ref name="fact" />
+| rot_velocity = {{convert|6.52|km/h|m/s|abbr=on}}<!--Since rot. vel. = circumference/sidereal day, and circumference is 2πr, rot. vel. = 2π6051km/243.025*24h = 6.52 km/h-->
+| axial_tilt = 2.64° <small>(for [[Retrograde motion|retrograde]] rotation)</small><br />177.36° (to orbit)<ref name=fact/><ref group=note>Defining the rotation as retrograde, as done by NASA space missions and the USGS, puts [[Ishtar Terra]] in the northern hemisphere and makes the axial tilt 2.64°. Following the [[right-hand rule]] for prograde rotation puts Ishtar Terra in the southern hemisphere and makes the axial tilt 177.36°.</ref>
+| right_asc_north_pole =
+  {{plainlist |
+* {{RA|18|11|2}}
+* 272.76°<ref name="iauwg_ccrsps2000" />
+  }}
+| declination = 67.16°
+| albedo =
+  {{plainlist |
+* 0.689 ([[Geometric albedo|geometric]])<ref name="Mallama_et_al"/>
+* 0.76 ([[Bond albedo|Bond]])<ref name="Haus_et_al"/>
+  }}
+| magnitude = −4.92 to −2.98<ref name=" Mallama_and_Hilton" />
+| angular_size = {{nowrap|9.7″–66.0″}}<ref name="fact" />
+| temp_name1 = [[Kelvin]]
+| mean_temp_1 = 737&nbsp;K<ref name="fact" />
+| temp_name2 = [[Celsius]]
+| mean_temp_2 = 464&nbsp;°C
+| temp_name3 = [[Fahrenheit]]
+| mean_temp_3 = 867&nbsp;°F
+| pronounced = {{IPAc-en|audio=en-us-Venus.ogg|ˈ|v|iː|n|ə|s}}
+| adjectives = {{nowrap|[[Venusian (disambiguation)|Venusian]] {{IPAc-en|v|ᵻ|ˈ|nj|uː|z|i|ə|n|,_|-|ʒ|ə|n}},<ref>{{Lexico|Venusian}}<br>{{MW|Venusian}}</ref>}} rarely [[Cytherean]] {{IPAc-en|s|ɪ|θ|ə|'|r|iː|ə|n}} [see]<ref>{{OED|Cytherean}}</ref> or Venerean / Venerian {{IPAc-en|v|ᵻ|ˈ|n|ɪər|i|ə|n}}<ref>{{OED|Venerean, Venerian}}</ref> 
+| atmosphere = yes
+| atmosphere_ref  = <ref name="fact" />
+| surface_pressure = 92&nbsp;[[bar (unit)|bar]] (9.2&nbsp;[[Pascal (unit)|MPa]])<br /> 91 [[atmosphere (unit)|atm]]
+| atmosphere_composition = 
+  {{plainlist | 
+* 96.5% [[carbon dioxide]]
+* 3.5% [[nitrogen]]
+* 0.015% [[sulfur dioxide]]
+* 0.0070% [[argon]]
+* 0.0020% [[water vapour]]
+* 0.0017% [[carbon monoxide]]
+* 0.0012% [[helium]]
+* 0.0007% [[neon]]
+* Trace [[carbonyl sulfide]]
+* Trace [[hydrogen chloride]]
+* Trace [[hydrogen fluoride]]
+  }}
+}}
