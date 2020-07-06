@@ -1,0 +1,53 @@
+{{automatic taxobox
+| name = Animals
+| display_parents = 6
+| taxon = Animalia
+| authority = [[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]
+| fossil_range = [[Cryogenian]] – present, {{Long fossil range |665|0}}
+| image = <imagemap>
+File:Animal diversity.png |300px
+
+rect 0 0 118 86 [[Echinoderm]]
+rect 0 86 118 172 [[Cnidaria]]
+rect 0 172 118 258 [[Bivalve]]
+rect 0 258 118 344 [[Tardigrade]]
+rect 0 344 118 430 [[Crustacean]]
+rect 0 430 118 516 [[Arachnid]]
+
+rect 118 0 236 86 [[Sponge]]
+rect 118 86 236 172 [[Insect]]
+rect 118 172 236 258 [[Mammal]]
+rect 118 258 236 344 [[Bryozoa]]
+rect 118 344 236 430 [[Acanthocephala]]
+rect 118 430 236 620 [[Flatworm]]
+
+rect 236 0 354 86 [[Cephalopod]]
+rect 236 86 354 172 [[Annelid]]
+rect 236 172 354 258 [[Tunicate]]
+rect 236 258 354 344 [[Fish]]
+rect 236 344 354 430 [[Bird]]
+rect 236 430 354 620 [[Phoronida]]
+</imagemap>
+| image_upright = 1.4
+| subdivision_ranks = Major divisions
+| subdivision = {{Collapse top|title=Major animal taxa |left=yes|padding=0|border=0|border2=0|bg=clear|bg2=clear}}
+* [[Porifera]]
+* Subkingdom [[Eumetazoa]]
+** [[Ctenophora]]
+** [[Placozoa]]
+** [[Cnidaria]]
+** †[[Trilobozoa]]
+** [[Bilateria]] (unranked)
+*** †''[[Kimberella]]''
+*** [[Xenacoelomorpha]]
+*** †[[Proarticulata]]
+*** [[Nephrozoa]] (unranked)
+**** Superphylum [[Deuterostomia]]
+**** [[Protostomia]] (unranked)
+***** Superphylum [[Ecdysozoa]]
+***** Superphylum [[Lophotrochozoa]]
+
+{{Collapse bottom}}
+| synonyms = * Metazoa
+* Choanoblastaea
+}}
