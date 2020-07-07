@@ -49,6 +49,94 @@
 '''ᱯᱩᱸᱪᱷ ᱦᱚᱱᱚᱛ''' [[ᱥᱤᱧᱚᱛ|ᱥᱤᱧᱚᱛᱤᱭᱟᱹ]] [[ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱯᱚᱱᱚᱛ ᱟᱨ ᱛᱟᱞᱢᱟ ᱥᱟᱥᱚᱱᱮᱫ ᱮᱞᱟᱠᱟ|ᱛᱟᱞᱢᱟ ᱥᱟᱥᱚᱱᱮᱫ ᱮᱞᱟᱠᱟ]] [[ᱡᱟᱹᱢᱢᱩ ᱟᱨ ᱠᱟᱹᱥᱢᱤᱨ (ᱛᱟᱞᱢᱟ ᱥᱟᱥᱚᱱᱮᱫ ᱮᱞᱟᱠᱟ)|ᱡᱟᱹᱢᱢᱩ ᱟᱨ ᱠᱟᱹᱥᱢᱤᱨ]] ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱦᱚᱱᱚᱛ ᱠᱟᱱᱟ᱾ ᱦᱚᱱᱚᱛ ᱨᱮᱱᱟᱜ ᱥᱟᱥᱚᱱᱤᱭᱟᱹ ᱛᱟᱞᱢᱟ [[ᱯᱩᱸᱪᱷ]] ᱥᱚᱦᱚᱨ ᱠᱟᱱᱟ᱾ ᱱᱚᱣᱟ ᱦᱚᱱᱚᱛ ᱨᱮᱱᱟᱜ ᱯᱮ ᱥᱮᱫ (ᱮᱛᱚᱢ, ᱯᱟᱪᱮ ᱟᱨ ᱠᱚᱧᱮ) [[ᱞᱟᱭᱤᱱ ᱚᱯᱷ ᱠᱚᱱᱴᱨᱚᱞ]] ᱛᱮ ᱵᱮᱨᱦᱟᱭ ᱮᱥᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ᱾ ᱥᱤᱧᱚᱛ-ᱯᱟᱠᱤᱥᱛᱟᱱ ᱢᱩᱫ [[ᱥᱤᱧᱚᱛ-ᱯᱟᱠᱤᱥᱛᱟᱱ ᱞᱟᱹᱰᱷᱟᱹᱭ|᱑᱙᱔᱗ᱼ᱔᱘ ᱞᱟᱹᱰᱷᱟᱹᱭ]] ᱨᱮ ᱱᱚᱣᱟ ᱦᱚᱱᱚᱛ ᱵᱟᱨ ᱦᱟᱹᱴᱤᱝ ᱨᱮ ᱦᱟᱹᱴᱤᱝ ᱞᱮᱱᱟ᱾ ᱢᱤᱫ ᱴᱮᱱ ᱯᱟᱠᱤᱥᱛᱟᱱ ᱨᱮ ᱪᱟᱞᱟᱣ ᱮᱱᱟ ᱟᱨ ᱢᱤᱫ ᱩᱱ ᱚᱠᱛᱚ ᱨᱮᱱᱟᱜ ᱥᱤᱧᱚᱛᱤᱭᱟᱹ ᱯᱚᱱᱚᱛ ᱡᱟᱹᱢᱢᱩ ᱟᱨ ᱠᱟᱹᱥᱢᱤᱨ ᱨᱮ ᱥᱮᱞᱮᱫ ᱞᱮᱱᱟ᱾
 
 ==ᱥᱟᱥᱚᱱᱤᱭᱟᱹ ᱴᱚᱴᱷᱟ==
+{{OSM Location map
+| coord = {{coord|33.7|74.24}}   <!-- Map center -->
+| float = right
+| zoom = 9
+| width = 275 
+| height = 275
+| caption = <center>Poonch district tehsils</center>
+| nolabels = 1
+| map-data = Q2983134
+<!-- Poonch -->
+| mark-coord1 = {{coord|33.7670|74.0957}}
+| mark1 = Red pog.svg
+| mark-size1 = 10
+| label1 = Poonch
+| labela1 =
+| labelb1 = (Haveli)
+| label-size1 = 12 
+| label-color1 = hard red
+| label-pos1 = top | label-offset-x1 = 0 | label-offset-y1 = 20
+| mark-title1 = Poonch
+| mark-image1 =
+| mark-description1 = Haveli tehsil
+<!-- Mandi -->
+| mark-coord2 = {{coord|33.7972|74.2551}}
+| mark2 = Red pog.svg 
+| mark-size2 = 8
+| label2 = Mandi
+| label-size2 = 12 
+| label-color2 = hard red
+| label-pos2 = right |label-offset-x2 = 0 |label-offset-y2 = 0
+| mark-title2 = Mandi
+| mark-image2 =
+| mark-description2 = Mandi tehsil
+<!-- Surankote -->
+| mark-coord3 = {{coord|33.640579|74.262051}}
+| mark3 = Red pog.svg
+| mark-size3 = 8
+| label3 = Surankote
+| label-size3 = 12 
+| label-color3 = hard red
+| label-pos3 = top |label-offset-x3 = 0 |label-offset-y3 = 0
+| mark-title3 = Surankote
+| mark-image3 =
+| mark-description3 = Surankote tehsil
+<!-- Mendhar  -->
+| mark-coord4 = {{coord|33.604852|74.142988}}
+| mark4 = Red pog.svg
+| mark-size4 = 8
+| label4 = Mendhar
+| label-size4 = 12 
+| label-color4 = hard red
+| label-pos4 = right |label-offset-x4 = 0 |label-offset-y4 = 0
+| mark-title4 = Mendhar
+| mark-image4 =
+| mark-description4 = Mendhar tehsil
+<!-- Mankote -->
+| mark-coord5 = {{coord|33.594368|74.097104}}
+| mark5 = Red pog.svg
+| mark-size5 = 8
+| label5 = Mankote
+| label-size5 = 12 
+| label-color5 = hard red
+| label-pos5 = left |label-offset-x5 = 0 |label-offset-y5 = 0
+| mark-title5 = Mankote
+| mark-image5 =
+| mark-description5 = Mankote tehsil
+<!-- Bala Kote -->
+| mark-coord6 = {{coord|33.501455|74.180174}}
+| mark6 = Red pog.svg
+| mark-size6 = 8
+| label6 = Bala Kote
+| label-size6 = 12
+| label-color6 = hard red
+| label-pos6 = right |label-offset-x6 = 0 |label-offset-y6 = 0
+| mark-title6 = Bala Kote
+| mark-image6=
+| mark-description6= Bala Kote tehsil
+}}
+
+ᱯᱩᱸᱪᱷ ᱦᱚᱱᱚᱛ ᱨᱮᱱᱟᱜ ᱥᱟᱥᱚᱱᱤᱭᱟᱹ ᱨᱟᱡᱽᱜᱟᱲ [[ᱯᱩᱸᱪᱷ]] ᱥᱚᱦᱚᱨ᱾ ᱨᱟᱦᱩᱞ ᱭᱟᱫᱚᱵ ᱦᱚᱱᱚᱛ ᱨᱮᱱ ᱧᱤᱛᱚᱜᱤᱜ ᱦᱚᱱᱚᱛ ᱠᱚᱢᱤᱥᱚᱱᱟᱨ ᱠᱟᱱᱟᱭ᱾ ᱡᱟᱹᱢᱢᱩ ᱟᱨ ᱠᱟᱹᱥᱢᱤᱨ ᱱᱚᱣᱟ ᱯᱩᱸᱪᱷ ᱦᱚᱱᱚᱛ ᱧᱤᱛ ᱦᱟᱹᱵᱤᱫ ᱛᱩᱨᱩᱭ ᱜᱚᱴᱟᱝ ᱛᱚᱦᱚᱥᱤᱞ ᱨᱮ ᱦᱟᱹᱴᱤᱝ ᱢᱮᱱᱟᱜᱼᱟ᱾ ᱱᱚᱣᱟ ᱠᱚ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱺ
+*ᱦᱟᱵᱷᱮᱞᱤ ᱛᱚᱦᱚᱥᱤᱞ
+*ᱢᱟᱱᱰᱤ ᱛᱚᱦᱚᱥᱤᱞ
+*ᱢᱮᱱᱫᱷᱟᱨ ᱛᱚᱦᱚᱥᱤᱞ
+*ᱥᱩᱨᱟᱱᱠᱳᱴ ᱛᱚᱦᱚᱥᱤᱞ
+*ᱢᱟᱱᱠᱳᱴ ᱛᱚᱦᱚᱥᱤᱞ
+*ᱵᱟᱞᱟᱠᱳᱴ ᱛᱚᱦᱚᱥᱤᱞ
+
+ᱥᱟᱱᱟᱢ ᱛᱚᱦᱚᱥᱤᱞ ᱨᱮᱜᱮ ᱛᱚᱦᱚᱥᱤᱞᱟᱨ ᱢᱮᱱᱟᱭᱟ ᱡᱟᱦᱟᱭ ᱫᱚ ᱱᱚᱣᱟ ᱨᱮᱱᱤᱡ ᱥᱟᱥᱚᱱᱤᱭᱟᱹ ᱠᱟᱱᱟᱭ᱾ ᱦᱚᱱᱚᱛ ᱟᱨᱦᱚ ᱜᱮᱞᱢᱤᱫ ᱵᱚᱱᱚᱛ ᱨᱮ ᱦᱟᱹᱴᱤᱝ ᱢᱮᱱᱟᱜᱼᱟ᱾ ᱵᱚᱱᱚᱛ ᱠᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱺ ᱯᱩᱸᱪᱷ, ᱢᱟᱱᱫᱤ, ᱞᱳᱨᱟᱱ, ᱥᱟᱛᱷᱨᱟ, ᱢᱮᱱᱫᱟᱜ, ᱢᱟᱱᱠᱳᱴ ᱵᱟᱞᱟᱠᱳᱴ, ᱥᱩᱨᱟᱱᱠᱳᱴ ᱟᱨ ᱵᱩᱯᱷᱞᱤᱭᱟᱡᱽ ᱾ ᱱᱚᱣᱟ ᱠᱚ ᱵᱚᱱᱚᱛ ᱨᱮᱱ ᱥᱟᱥᱚᱱᱤᱭᱟᱹ ᱫᱚ ᱵᱚᱱᱚᱛ ᱰᱮᱵᱷᱞᱚᱵᱷᱢᱮᱱᱴ ᱚᱯᱷᱤᱥᱟᱨ (ᱵᱤᱰᱤᱳ) ᱾ ᱵᱟᱵᱚᱱ ᱟᱵᱟᱨ ᱟᱭᱢᱟ ᱯᱚᱧᱪᱟᱭᱮᱛ ᱨᱮ ᱦᱟᱹᱴᱤᱝ ᱢᱮᱱᱟᱜᱼᱟ᱾
 
 ==ᱠᱟᱹᱣᱰᱤᱟᱹᱨᱤ==
 
