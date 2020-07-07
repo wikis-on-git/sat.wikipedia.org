@@ -54,6 +54,165 @@
 ==ᱱᱟᱜᱟᱢ==
 
 ==ᱚᱛᱱᱚᱜ==
+{{OSM Location map
+| coord = {{coord|33.3|74.4}}   <!-- Map center -->
+| float = left
+| zoom = 9
+| width = 350
+| height = 350
+| caption = <center>ᱨᱟᱡᱳᱣᱨᱤ ᱦᱚᱱᱚᱛ</center>
+| nolabels = 1
+| map-data = Q544279
+<!-- Thanamandi -->
+| mark-coord1 = {{coord|33.539|74.369}}
+| mark1 = Red pog.svg
+| mark-size1 = 10
+| label1 = Thanamandi
+| label-size1 = 12 
+| label-color1 = hard red
+| label-pos1 = top | label-offset-x1 = 0 | label-offset-y1 = 0
+| mark-title1 = Thanamandi
+| mark-image1 =
+| mark-description1 = tehsil headquarters
+<!-- Darhal -->
+| mark-coord2 = {{coord|33.484|74.411}}
+| mark2 = Red pog.svg 
+| mark-size2 = 8
+| label2 = Darhal
+| label-size2 = 12 
+| label-color2 = hard red
+| label-pos2 = right |label-offset-x2 = 0 |label-offset-y2 = 0
+| mark-title2 = Darhal
+| mark-image2 =
+| mark-description2 = tehsil headquarters
+<!-- Rajouri -->
+| mark-coord3 = {{coord|33.382|74.325}}
+| mark3 = Red pog.svg
+| mark-size3 = 8
+| label3 = Rajouri
+| label-size3 = 12 
+| label-color3 = hard red
+| label-pos3 = bottom |label-offset-x3 = 0 |label-offset-y3 = 0
+| mark-title3 = Rajouri
+| mark-image3 =
+| mark-description3 = district and tehsil headquarters
+<!-- Budhal  -->
+| mark-coord4 = {{coord| 33.375|74.647}}
+| mark4 = Red pog.svg
+| mark-size4 = 8
+| label4 = Budhal
+| label-size4 = 12 
+| label-color4 = hard red
+| label-pos4 = top |label-offset-x4 = 0 |label-offset-y4 = 0
+| mark-title4 = Budhal
+| mark-image4 =
+| mark-description4 = tehsil headquarters
+<!-- Naushera -->
+| mark-coord5 = {{coord|33.158|74.241}}
+| mark5 = Red pog.svg
+| mark-size5 = 8
+| label5 = Naushera
+| label-size5 = 12 
+| label-color5 = hard red
+| label-pos5 = top |label-offset-x5 = -10 |label-offset-y5 = 0
+| mark-title5 = Naushera
+| mark-image5 =
+| mark-description5 = tehsil headquarters
+<!-- Kalakote -->
+| mark-coord6 = {{coord|33.216|74.419}}
+| mark6 = Red pog.svg
+| mark-size6 = 8
+| label6 = Kalakote
+| label-size6 = 12
+| label-color6 = hard red
+| label-pos6 = right |label-offset-x6 = 0 |label-offset-y6 = 0
+| mark-title6 = Kalakote
+| mark-image6=
+| mark-description6= tehsil headquarters
+<!-- Sunderbani -->
+| mark-coord8 = {{coord|33.059|74.488}} 
+| mark8 = Red pog.svg
+| mark-size8 = 8
+| label8 = Sunderbani
+| label-size8 = 12
+| label-color8 = dark red
+| label-pos8 = right |label-offset-x8 = 0 |label-offset-y8 = 0
+| mark-title8 = Sunderbani
+| mark-image8=
+| mark-description8= tehsil headquarters
+<!-- Rajouri Tawi river -->
+| mark-coord12 = {{coord|33.4708|74.3371}}
+| mark12 = AS-rzeka-icon.svg
+| mark-size12 = 11
+| label12 = Rajouri Tawi
+| label-size12 = 11
+| label-color12 = hard blue
+| label-pos12 = top |label-offset-x12 = 0 |label-offset-y12 = 0
+| mark-title12 = Rajouri Tawi river
+| mark-image12=
+| mark-description12=
+<!-- Naushera Tawi river -->
+| mark-coord13 = {{coord|33.1173|74.3144}}
+| mark13 = AS-rzeka-icon.svg
+| mark-size13 = 11
+| label13 = Naushera Tawi
+| label-size13 = 11
+| label-color13 = hard blue
+| label-pos13 = right |label-offset-x13 = 0 |label-offset-y13 = 0
+| mark-title13 = Naushera Tawi river
+| mark-image13=
+| mark-description13= later course of Rajouri Tawi
+<!-- Ansi river -->
+| mark-coord14 = {{coord|33.3557|74.6168}}
+| mark14 = AS-rzeka-icon.svg
+| mark-size14 = 11
+| label14 = Ansi river
+| label-size14 = 11
+| label-color14 = hard blue
+| label-pos14 = bottom |label-offset-x14 = 0 |label-offset-y14 = 0
+| mark-title14 = Ansi river
+| mark-image14=
+| mark-description14=
+<!-- Taindhar range -->
+| mark-coord15 = {{coord|33.175|74.320}}
+| mark15 = Geobox Mountain Range.svg
+| mark-size15 = 11
+| label15 = Tain Dhar
+| label-size15 = 11
+| label-color15 = black
+| label-pos15 = right |label-offset-x15 = 0 |label-offset-y15 = 0
+| mark-title15 = Tain Dhar range
+| mark-image15=
+| mark-description15=
+<!-- Kotidhar range -->
+| mark-coord16 = {{coord|33.183|74.114}}
+| mark16 = Geobox Mountain Range.svg
+| mark-size16 = 10
+| label16 = Koti Dhar
+| label-size16 = 11
+| label-color16 = black
+| label-pos16 = left |label-offset-x16 = 0 |label-offset-y16 = 0
+| mark-title16 = Koti Dhar range
+| mark-image16=
+| mark-description16=
+<!-- Kalidhar range -->
+| mark-coord17 = {{coord|32.991|74.425}}
+| mark17 = Geobox Mountain Range.svg
+| mark-size17 = 11
+| label17 = Kali Dhar
+| label-size17 = 11
+| label-color17 = black
+| label-pos17 = right |label-offset-x17 = 0 |label-offset-y17 = 0
+| mark-title17 = Kali Dhar range
+| mark-image17=
+| mark-description17=
+}}
+
+ᱨᱟᱡᱳᱣᱨᱤ ᱦᱚᱱᱚᱛ ᱨᱮᱱᱟᱜ ᱯᱟᱪᱮ ᱥᱮᱫ [[ᱯᱟᱠᱤᱥᱛᱟᱱ]] ᱥᱟᱥᱚᱱᱮᱫ [[ᱟᱡᱟᱫᱽ ᱠᱟᱥᱢᱤᱨ]] ᱨᱮᱱᱟᱜ [[ᱠᱚᱴᱞᱤ ᱦᱚᱱᱚᱛ]] ᱮᱛᱚᱢ ᱥᱮᱫ ᱥᱤᱧᱚᱛᱤᱭᱟᱹ ᱦᱚᱱᱚᱛ [[ᱯᱩᱧᱪᱷ ᱦᱚᱱᱚᱛ|ᱯᱩᱧᱪᱷ]], ᱥᱟᱢᱟᱝ ᱥᱮᱫ [[ᱨᱤᱭᱟᱥᱤ ᱦᱚᱱᱚᱛ]] ᱟᱨ ᱠᱚᱧᱮ ᱥᱮᱫ [[ᱢᱤᱨᱯᱩᱨ ᱦᱚᱱᱚᱛ|ᱢᱤᱨᱯᱩᱨ]] ᱟᱨ [[ᱡᱟᱹᱢᱢᱩ ᱦᱚᱱᱚᱛ|ᱡᱟᱹᱢᱢᱩ]] ᱦᱚᱱᱚᱛ ᱢᱮᱱᱟᱜᱼᱟ᱾ 
+
+ᱨᱟᱡᱳᱣᱨᱤ ᱦᱚᱱᱚᱛ ᱨᱮᱱᱟᱜ ᱮᱛᱚᱢ ᱥᱮᱫ ᱨᱷᱟᱱᱟᱢᱟᱱᱰᱤ ᱟᱨ ᱫᱟᱨᱦᱟᱞ ᱛᱚᱦᱚᱥᱤᱞ ᱨᱮ ᱯᱤᱨ ᱯᱟᱧᱡᱟᱞ ᱵᱩᱨᱩᱢᱟᱞᱟ ᱢᱮᱱᱟᱜᱼᱟ᱾ ᱨᱟᱡᱳᱣᱨᱤ ᱨᱮᱱᱟᱜ ᱛᱟᱣᱤ ᱜᱟᱰᱟ (ᱱᱟᱣᱥᱮᱨᱟ ᱛᱟᱣᱤ ᱦᱚᱠᱚ ᱢᱮᱛᱟᱜᱼᱟ) ᱟᱨ ᱚᱱᱟ ᱨᱮᱱᱟᱜ ᱟᱭᱢᱟ ᱪᱟᱸᱜᱟ ᱱᱟᱹᱭ ᱵᱩᱨᱩ ᱵᱮᱰᱟ ᱠᱚᱛᱮ ᱟᱛᱳ ᱟᱠᱟᱱ ᱛᱮ ᱱᱚᱰᱮ ᱛᱟᱦᱮ ᱞᱮᱠᱟᱱ ᱡᱟᱭᱜᱟ ᱵᱮᱱᱟᱣ ᱟᱠᱟᱱᱟ᱾ ᱟᱱᱥᱤ ᱜᱟᱰᱟ ᱡᱷᱚᱱ ᱱᱚᱱᱠᱟ ᱜᱮ ᱵᱩᱫᱷᱚᱞ ᱛᱚᱦᱚᱥᱤᱞ ᱫᱟᱜ ᱧᱟᱢᱟᱜ ᱠᱟᱱᱟ᱾ ᱠᱚᱧᱮ ᱥᱮᱫ ᱛᱟᱤᱱ ᱫᱷᱚᱨ ᱟᱨ ᱠᱟᱞᱤ ᱫᱷᱚᱨ ᱵᱩᱨᱩᱢᱟᱞᱟ (ᱵᱟᱨᱦᱮ ᱦᱮᱢᱟᱞᱵᱩᱨᱩ ᱴᱚᱴᱷᱟ) ᱛᱟᱞᱟ ᱢᱤᱫ ᱚᱥᱟᱨ ᱵᱮᱰᱟ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟ ᱫᱚ ᱱᱟᱣᱥᱮᱨᱟ ᱵᱮᱰᱟ ᱟᱨ ᱵᱟᱝ ᱞᱟᱢᱼᱠᱷᱩᱭᱨᱟᱛᱛᱟ ᱵᱮᱰᱟ ᱠᱚ ᱢᱮᱛᱟᱜ ᱠᱟᱱᱟ᱾ ᱱᱚᱣᱟ ᱠᱤᱱ ᱵᱟᱨᱭᱟ ᱵᱩᱨᱩᱢᱟᱞᱟ ᱛᱟᱞᱟᱨᱮ ᱢᱤᱫ ᱯᱷᱮᱰ ᱵᱩᱨᱩᱢᱟᱞᱟ ᱢᱮᱱᱟᱜᱼᱟ, ᱱᱚᱣᱟ ᱫᱚ ᱠᱳᱴᱤ ᱫᱷᱚᱨ ᱠᱚ ᱢᱮᱛᱟᱜ ᱠᱟᱱᱟ ᱡᱟᱦᱟ ᱫᱚ ᱱᱚᱣᱟ ᱵᱮᱰᱟ ᱵᱟᱨᱭᱟ ᱦᱟᱹᱴᱤᱝ ᱨᱮᱭ ᱦᱟᱹᱴᱤᱝ ᱟᱠᱟᱫᱟ᱾ ᱥᱤᱧᱚᱛᱤᱭᱟᱹ ᱥᱟᱥᱚᱱᱮᱫ ᱠᱟᱹᱥᱢᱤᱨ ᱟᱨ ᱯᱟᱠᱤᱥᱛᱟᱱ ᱥᱟᱥᱚᱱᱮᱫ ᱠᱟᱹᱥᱢᱤᱨ ᱛᱟᱞᱟ ᱞᱟᱭᱤᱱ ᱚᱯᱷ ᱠᱚᱱᱴᱨᱚᱞ ᱠᱟᱞᱤ ᱫᱷᱚᱨ ᱵᱩᱨᱩᱢᱟᱞᱟ ᱥᱮᱫ ᱛᱮ ᱟᱨ ᱵᱟᱹᱨᱛᱤ ᱠᱳᱴᱤ ᱫᱷᱚᱨ ᱵᱩᱨᱩᱢᱟᱞᱟ ᱛᱟᱞᱟ ᱛᱮ ᱪᱟᱞᱟᱣ ᱟᱠᱟᱱᱟ᱾
+
+ᱠᱟᱹᱥᱢᱤᱨ ᱵᱮᱰᱟ ᱨᱮᱱᱟᱜ ᱢᱟᱬᱮ ᱢᱩᱜᱷᱳᱞ ᱰᱟᱦᱟᱨ (ᱨᱳᱰ) ᱵᱷᱤᱢᱵᱚᱨ ᱠᱷᱚᱱ ᱨᱟᱠᱟᱯ ᱠᱟᱛᱮᱡᱽ ᱱᱟᱣᱥᱮᱨᱟ ᱟᱨ ᱨᱟᱡᱳᱣᱨᱤ ᱥᱚᱦᱚᱨ ᱥᱮᱫ ᱛᱮ ᱯᱤᱨ ᱯᱟᱧᱡᱟᱞ ᱯᱟᱥ ᱛᱮ ᱪᱟᱞᱟᱣ ᱟᱠᱟᱱᱟ᱾ ᱱᱮᱛᱟᱨ ᱫᱤᱱ ᱱᱚᱣᱟ ᱫᱚ ᱞᱟᱭᱤᱱ ᱚᱯᱷ ᱠᱚᱱᱴᱨᱚᱞ ᱦᱚᱛᱮᱛᱮ ᱜᱮᱫ ᱢᱮᱱᱟᱜᱼᱟ᱾ ᱚᱱᱟ ᱥᱟᱶ ᱥᱩᱱᱫᱚᱨᱵᱟᱱᱤ ᱟᱨ ᱠᱳᱴᱞᱤ ᱢᱤᱫ ᱨᱮᱱᱟᱜ ᱰᱟᱦᱟᱨ ᱦᱚ ᱜᱮᱫ ᱜᱮᱭᱟ, ᱱᱚᱣᱟ ᱫᱚ ᱞᱟᱢᱼᱠᱷᱩᱭᱨᱟᱛᱛᱟ ᱵᱮᱰᱟ ᱨᱮ ᱵᱮᱵᱦᱟᱨᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱱᱟ᱾
 
 ==ᱥᱟᱥᱚᱱᱤᱭᱟᱹ ᱴᱚᱴᱷᱟ==
 
