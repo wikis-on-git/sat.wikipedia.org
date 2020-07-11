@@ -1,0 +1,37 @@
+{{short description|Mobile Application for coronavirus contact tracing in India}}
+{{Use Indian English|date=April 2020}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox software
+| name                   = Aarogya Setu
+| logo                   = Aarogya Setu App Logo.png
+| logo size              = 120px
+| logo caption           = Aarogya Setu's Logo
+| screenshot             = Aarogya Setu App.jpg
+| screenshot size        = 150px
+| caption                = Screenshot of user registration page
+| developer              = [[National Informatics Centre]], [[Government of India]]
+| released               = {{Start date and age|2020|04|df=yes}}
+| discontinued           = <!--Set to yes if software is discontinued, otherwise omit. -->
+| ver layout             = <!-- simple (default) or stacked -->
+| latest release version = 1.2.2 (Android)<ref>[https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_US Latest version on Google Play Store]</ref><br>1.8 (iPhone)<ref>[https://apps.apple.com/in/app/aarogyasetu/id1505825357 Latest verison on Apple App Store]</ref>
+| latest release date    = {{Start date and age|2020|05|31|df=yes}} (Android) <br> {{Start date and age|2020|05|18|df=yes}} (iPhone)
+| latest preview date    = <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| repo                   = {{URL|github.com/nic-delhi/AarogyaSetu_Android}}
+| license                = [[Apache License 2.0]]
+| programming language   = [[Kotlin (programming language)|Kotlin]] and [[Java (programming language)|Java]]
+| operating system       = {{Plainlist|
+*[[Google Play]]
+*[[App Store (iOS)|App Store]]
+*[[Interactive voice response|1921 Aarogya Setu IVRS]]
+*[[KaiOS]]}}
+| included with          = 
+| size                   = 4.0MB (Android App).
+| language               =[[Hindi]]<br>[[English language|English]]<br>[[Tamil language|Tamil]]<br>[[Telugu language|Telugu]]<br>[[Kannada language|Kannada]]<br>[[Malayalam language|Malayalam]]<br>[[Punjabi language|Punjabi]]<br>[[Bengali language|Bengali]]<br>[[Odia Language|Odia]]<br>[[Gujarati language|Gujarati]]<br>[[Marathi language|Marathi]]<br>[[Assamese language|Assamese]]
+| language count         = 12
+| language footnote      = 
+| genre                  = Health care
+| alexa                  = 
+| website                = {{URL|www.aarogyasetu.gov.in}}
+| standard               = 
+| AsOf                   = 
+}}
