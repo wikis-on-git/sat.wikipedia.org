@@ -1,3 +1,28 @@
+{{Infobox website
+| name = Wikipedia
+| logo = [[File:Wikipedia-v2-logo.svg|150px|frameless|An incomplete sphere made of large, white, jigsaw puzzle pieces. Each puzzle piece contains one glyph from a different writing system, with each glyph written in black.]]<br />[[File:Wikipedia wordmark.svg|200px|The Wikipedia wordmark which displays the name Wikipedia, written in all caps. The{{nbsp}}''W'' and the{{nbsp}}''A'' are the same height and both are taller than the other letters which are also all the same height.]]
+| logocaption = The [[Wikipedia logo|logo of Wikipedia]], a globe featuring [[glyph]]s from various [[writing system]]s
+| screenshot = Wikipedia Main Page.png{{!}}border
+| screenshot_alt = Main page of the English Wikipedia
+| caption = [[Main Page]] of the English Wikipedia on July 23, 2018.
+| collapsible = yes
+| url = {{official url}}
+| commercial = No
+| type = [[Online encyclopedia]]
+| registration = Optional<ref group=note>Registration is required for certain tasks such as editing [[protected page]]s, creating pages in the English Wikipedia and uploading files.</ref>
+| language = 285 languages
+| num_users = [[List of Wikipedias#Grand total|>{{formatnum:{{#expr:{{NUMBEROF|ACTIVEUSERS|total}}-{{NUMBEROF|ACTIVEUSERS|mo}}-{{NUMBEROF|ACTIVEUSERS|ng}}-{{NUMBEROF|ACTIVEUSERS|cho}}-{{NUMBEROF|ACTIVEUSERS|kj}}-{{NUMBEROF|ACTIVEUSERS|mh}}-{{NUMBEROF|ACTIVEUSERS|ho}}-{{NUMBEROF|ACTIVEUSERS|ii}}-{{NUMBEROF|ACTIVEUSERS|aa}}-{{NUMBEROF|ACTIVEUSERS|mus}}-{{NUMBEROF|ACTIVEUSERS|hz}}-{{NUMBEROF|ACTIVEUSERS|kr}}}}}}]] active users<ref group=note>To be considered [[Special:ActiveUsers|active]], a user must make at least one edit or other action in a given month.</ref> and [[List of Wikipedias#Grand total|>{{formatnum:{{#expr:{{NUMBEROF|USERS|total}}-{{NUMBEROF|USERS|mo}}-{{NUMBEROF|USERS|ng}}-{{NUMBEROF|USERS|cho}}-{{NUMBEROF|USERS|kj}}-{{NUMBEROF|USERS|mh}}-{{NUMBEROF|USERS|ho}}-{{NUMBEROF|USERS|ii}}-{{NUMBEROF|USERS|aa}}-{{NUMBEROF|USERS|mus}}-{{NUMBEROF|USERS|hz}}-{{NUMBEROF|USERS|kr}}}}}}]] registered users<br />1,145 administrators ([[English Wikipedia|English]])
+| country_of_origin = [[United States]]
+| owner = [[Wikimedia Foundation]]
+| author = [[Jimmy Wales]]<br />[[Larry Sanger]]<ref name="Sidener"/>
+| founder = 
+| launch_date = {{Start date and age|mf=yes|2001|1|15}}
+| alexa = {{Steady}} 13 {{nowrap|(Global, {{as of|2020|07|17|alt=July 2020}})}}<ref name="alexasiteinfo">{{Cite web|url=https://www.alexa.com/siteinfo/wikipedia.org|title=wikipedia.org Competitive Analysis, Marketing Mix and Traffic—Alexa|website=www.alexa.com|access-date=July 17, 2020}}</ref>
+| oclc = 52075003
+| current_status = Active
+| programming_language = [[LAMP (software bundle)|LAMP]] platform<ref name="roadchap">{{cite web |url= https://rogchap.com/2011/09/06/top-40-website-programming-languages/ |title= Top 40 Website Programming Languages |website= rogchap.com |author= Chapman, Roger |date= September 6, 2011 |accessdate= September 6, 2011 |url-status=dead |archiveurl = https://web.archive.org/web/20130922015103/http://rogchap.com/2011/09/06/top-40-website-programming-languages/ |archivedate= September 22, 2013}}</ref>
+| content_license = {{Nowrap|[[Creative Commons licenses|CC Attribution / Share-Alike]] 3.0}}<br />Most text is also dual-licensed under [[GFDL]]; media licensing varies
+}}
 [[ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ]] ᱫᱚ ᱢᱤᱫ ᱨᱟᱲᱟ ᱜᱮᱭᱟᱱ ᱯᱩᱛᱷᱤ ᱠᱟᱱᱟ, ᱟᱭᱢᱟ ᱦᱚᱲ (ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ) ᱠᱚᱣᱟᱜ ᱥᱚᱯᱚᱦᱚᱫ ᱛᱮ ᱚᱞᱚᱜ ᱠᱟᱱᱟ ᱾
 ᱱᱚᱣᱟᱫᱚ ᱱᱟᱥᱮ ᱵᱷᱮᱜᱟᱨ ᱫᱷᱟᱨᱟ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱟᱱᱟ, ᱜᱚᱲᱚ ᱜᱚᱯᱚᱲᱚ ᱛᱮ ᱛᱮᱭᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱯᱲᱟᱣ ᱟᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ [[Wiki|ᱣᱤᱠᱤ]] ᱢᱮᱱᱛᱮ ᱵᱚᱱ ᱢᱮᱛᱟᱜ ᱠᱟᱱᱟ ᱾
 
