@@ -1,0 +1,31 @@
+{{Documentation subpage}}
+{{High-risk|250,000+}}
+
+This is an auxiliary [[Help:Template|template]] that allows one to encode "<code>||</code>" (two pipes or [[vertical bar]]s) within template parameters.  If it is '''unnecessary''' to get a "<code>||</code>", it is better to use "<code>&amp;#124;&amp;#124;</code>".  However the "<code>||</code>" delimiter for a [[Wikipedia:Manual of Style/Tables|Wiki table]] has to be [[:Category:Character-substitution templates|escaped by a template]] if it is used within a template.
+
+== Notes ==
+
+There is usually no such problem with "<code>!!</code>" (exclamation marks).  This problem only affects "<code>||</code>" (vertical bars) in conjunction with the [[m:Help:Parameter default]] mechanism within tables. However, in table rows starting with "<code>!</code>" there can be problems with "<code>!!</code>" being interpreted as a cell separator. Try replacing it with "<code>&amp;#33;&amp;#33;</code>".
+
+This template cannot be [[Wikipedia:Substitution|substituted]].
+
+== Parameters ==
+
+<TemplateData>{
+  "description": "Escapes double pipe characters within template parameters",
+  "params": {}
+}</TemplateData>
+
+== See also ==
+* [[m:Help:Template#A parameter value containing a pipe character]]
+* {{tlx|(!}} Open table
+* {{tlx|!}} this is not a template but a "magic word" see [[mw:Help:Magic words#Other]] and {{tim|!}} 
+* {{tlx|!-}} Start of a table row
+* {{tlx|!)}} Close table
+*[[Help:Conditional tables]]
+
+<includeonly>{{Sandbox other||
+[[Category:Character-substitution templates]]
+[[Category:Templates with partial table wikitext]]
+[[Category:Template namespace templates]]
+}}</includeonly>
