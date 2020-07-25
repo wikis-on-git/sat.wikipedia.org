@@ -467,6 +467,327 @@ The table below lists the language editions of Wikipedia roughly sorted by the n
 }}
 
 <!-- When a site is "closed" please update https://commons.wikimedia.org/wiki/Data:Wikipedia_statistics/config.tab used for calculating statistics -->
+=== ᱱᱚᱴᱠᱚ ===
+* The "'''Total'''" column refers to the number of pages in ''all'' namespaces, including both '''articles''' (the [[Wikipedia:What is an article?|official article count]] of each wiki) and '''non-articles''' (user pages, images, talk pages, "project" pages, categories, re-directs, and templates).
+* "'''Active users'''" are registered users who have made at least one edit in the last thirty days.
+* "'''Images'''" is the number of locally uploaded files. Note that some large Wikipedias don't use local images and rely on [[Wikimedia Commons|Commons]] completely, so the value 0 is not an error.
+* The "'''[[m:Wikipedia article depth|Depth]]'''" column ('''Edits/Articles × Non-Articles/Articles × [1−Stub-ratio]''') is a rough indicator of a Wikipedia's quality, showing how frequently its articles are updated. It does not refer to ''academic'' quality.
+* [[Lsjbot]], a bot run by Sverker Johansson, is responsible for much of the growth of the second and third largest Wikipedias, the Cebuano and the [[Swedish Wikipedia]]s, respectively, as well as the rapid growth of the [[Waray Wikipedia]].
+* The statistics are derived from [[mw:API:Siteinfo|API:Siteinfo]] and updated at [[:Commons:Data:Wikipedia statistics/data.tab]] every six hours and displayed with {{tlx|NUMBEROF}} and {{tlx|WP7}}.
+
+{{#invoke: AutosortTable| create | class = wikitable sortable | style= text-align:right; | separator = -- | order = 2 | numeric = 2 | descending = 2, 5, 6, 7, 8, 9, 10, 11, 12 | hidden = 2
+| header = --Language--Language (local)--Wiki--Articles--Total--Edits--Admins--Users--Active users--Images--Depth
+| {{WP7|af|Afrikaans}}
+| {{WP7|als|Alemannic}}
+| {{WP7|ang|Anglo-Saxon}}
+| {{WP7|bar|Bavarian}}
+| {{WP7|da|Danish}}
+| {{WP7c|de|German|Deutsche Sprache}}
+| {{WP7c|en|English|English language}}
+| {{WP7|fo|Faroese}}
+| {{WP7|frr|North Frisian}}
+| {{WP7|fy|West Frisian}}
+| {{WP7a|got|Gothic}}
+| {{WP7|is|Icelandic}}
+| {{WP7|ksh|Ripuarian}}
+| {{WP7|lb|Luxembourgish}}
+| {{WP7|li|Limburgish}}
+| {{WP7|nds|Low Saxon}}
+| {{WP7|nds-nl|Dutch Low Saxon}}
+| {{WP7|nl|Dutch}}
+| {{WP7|nn|Norwegian (Nynorsk)}}
+| {{WP7|no|Norwegian (Bokmål)}}
+| {{WP7|pdc|Pennsylvania German}}
+| {{WP7|pfl|Palatinate German}}
+| {{WP7|sco|Scots}}
+| {{WP7b|simple|Simple English|Basic English}}
+| {{WP7|stq|Saterland Frisian}}
+| {{WP7|sv|Swedish}}
+| {{WP7|vls|West Flemish}}
+| {{WP7|yi|Yiddish}}
+| {{WP7|zea|Zeelandic}}
+| {{WP7|an|Aragonese}}
+| {{WP7|ast|Asturian}}
+| {{WP7|ca|Catalan}}
+| {{WP7|co|Corsican}}
+| {{WP7|eml|Emilian-Romagnol}}
+| {{WP7c|es|Spanish|Idioma español}}
+| {{WP7|ext|Extremaduran}}
+| {{WP7|fr|French}}
+| {{WP7|frp|Franco-Provençal}}
+| {{WP7|fur|Friulian}}
+| {{WP7|gl|Galician}}
+| {{WP7c|it|Italian|Lingua italiana}}
+| {{WP7|la|Latin}}
+| {{WP7|lad|Ladino}}
+| {{WP7b|lij|Ligurian|Ligurian (Romance language)}}
+| {{WP7|lmo|Lombard}}
+| {{WP7|mwl|Mirandese}}
+| {{WP7|nap|Neapolitan}}
+| {{WP7|nrm|Norman}}
+| {{WP7|oc|Occitan}}
+| {{WP7|pcd|Picard}}
+| {{WP7c|pt|Portuguese|Língua portuguesa}}
+| {{WP7|pms|Piedmontese}}
+| {{WP7|ro|Romanian}}
+| {{WP7|roa-rup|Aromanian}}
+| {{WP7|rm|Romansh}}
+| {{WP7|roa-tara|Tarantino}}
+| {{WP7|sc|Sardinian}}
+| {{WP7|scn|Sicilian}}
+| {{WP7|vec|Venetian}}
+| {{WP7|wa|Walloon}}
+| {{WP7|be|Belarusian}}
+| {{WP7|be-tarask|Belarusian (Taraškievica)}}
+| {{WP7|bg|Bulgarian}}
+| {{WP7|bs|Bosnian}}
+| {{WP7|cs|Czech}}
+| {{WP7|csb|Kashubian}}
+| {{WP7|cu|Old Church Slavonic}}
+| {{WP7|dsb|Lower Sorbian}}
+| {{WP7|hr|Croatian}}
+| {{WP7|hsb|Upper Sorbian}}
+| {{WP7|mk|Macedonian}}
+| {{WP7|pl|Polish}}
+| {{WP7|ru|Russian}}
+| {{WP7|rue|Rusyn}}
+| {{WP7|sh|Serbo-Croatian}}
+| {{WP7|sl|Slovenian}}
+| {{WP7|sr|Serbian}}
+| {{WP7|sk|Slovak}}
+| {{WP7|szl|Silesian}}
+| {{WP7|uk|Ukrainian}}
+| {{WP7|bcl|Central Bicolano}}
+| {{WP7c|ceb|Cebuano|Sinugboanon}}
+| {{WP7c|ilo|Ilocano|Pagsasao nga Ilokano}}
+| {{WP7|pag|Pangasinan}}
+| {{WP7|pam|Kapampangan}}
+| {{WP7c|tl|Tagalog|Wikang Tagalog}}
+| {{WP7|war|Waray}}
+| {{WP7|km|Khmer}}
+| {{WP7|vi|Vietnamese}}
+| {{WP7|ja|Japanese}}
+| {{WP7|ace|Acehnese}}
+| {{WP7|map-bms|Banyumasan}}
+| {{WP7|bug|Buginese}}
+| {{WP7|bjn|Banjar}}
+| {{WP7a|ch|Chamorro}}
+| {{WP7|id|Indonesian}}
+| {{WP7|jv|Javanese}}
+| {{WP7|min|Minangkabau}}
+| {{WP7|ms|Malay}}
+| {{WP7|su|Sundanese}}
+| {{WP7|cdo|Min Dong}}
+| {{WP7|gan|Gan}}
+| {{WP7|hak|Hakka}}
+| {{WP7|wuu|Wu}}
+| {{WP7|zh|Chinese}}
+| {{WP7|zh-classical|Classical Chinese}}
+| {{WP7|zh-min-nan|Min Nan}}
+| {{WP7|zh-yue|Cantonese}}
+| {{WP7|az|Azerbaijani}}
+| {{WP7|azb|Southern Azerbaijani}}
+| {{WP7|ba|Bashkir}}
+| {{WP7|crh|Crimean Tatar}}
+| {{WP7|cv|Chuvash}}
+| {{WP7|gag|Gagauz}}
+| {{WP7|kaa|Karakalpak}}
+| {{WP7|kk|Kazakh}}
+| {{WP7|krc|Karachay-Balkar}}
+| {{WP7|ky|Kirghiz|Кыргызча}}
+| {{WP7|sah|Sakha}}
+| {{WP7|tk|Turkmen}}
+| {{WP7|tr|Turkish}}
+| {{WP7|tt|Tatar}}
+| {{WP7|tyv|Tuvan}}
+| {{WP7|ug|Uyghur}}
+| {{WP7|uz|Uzbek}}
+| {{WP7|ar|Arabic}}
+| {{WP7|he|Hebrew}}
+| {{WP7|am|Amharic}}
+| {{WP7|arz|Egyptian Arabic}}
+| {{WP7|mt|Maltese}}
+| {{WP7|arc|Aramaic}}
+| {{WP7a|ti|Tigrinya}}
+| {{WP7|ckb|Kurdish (Sorani)}}
+| {{WP7|diq|Zazaki}}
+| {{WP7|fa|Persian}}
+| {{WP7|glk|Gilaki}}
+| {{WP7|lrc|Northern Luri}}
+| {{WP7|ku|Kurdish (Kurmanji)}}
+| {{WP7|mzn|Mazandarani}}
+| {{WP7|os|Ossetian}}
+| {{WP7|ps|Pashto}}
+| {{WP7|tg|Tajik}}
+| {{WP7|fi|Finnish}}
+| {{WP7|et|Estonian}}
+| {{WP7|se|Northern Sami}}
+| {{WP7|mrj|Hill Mari}}
+| {{WP7|fiu-vro|Võro}}
+| {{WP7|kv|Komi}}
+| {{WP7|koi|Komi-Permyak}}
+| {{WP7|udm|Udmurt}}
+| {{WP7|mhr|Meadow Mari}}
+| {{WP7|vep|Vepsian}}
+| {{WP7|myv|Erzya}}
+| {{WP7|mdf|Moksha}}
+| {{WP7|as|Assamese}}
+| {{WP7|bpy|Bishnupriya Manipuri}}
+| {{WP7|bh|Bhojpuri}}
+| {{WP7|bn|Bengali}}
+| {{WP7|dv|Divehi}}
+| {{WP7|gom|Konkani}}
+| {{WP7|gu|Gujarati}}
+| {{WP7|hi|Hindi}}
+| {{WP7|hif|Fiji Hindi}}
+| {{WP7|mr|Marathi}}
+| {{WP7a|ks|Kashmiri}}
+| {{WP7|ne|Nepali}}
+| {{WP7a|dty|Doteli}}
+| {{WP7|or|Odia}}
+| {{WP7|pa|Eastern Punjabi}}
+| {{WP7|pi|Pali}}
+| {{WP7b|pnb|Western Punjabi|Standard Pakistani Punjabi}}
+| {{WP7|rmy|Romani}}
+| {{WP7|mai|Maithili}}
+| {{WP7|sa|Sanskrit}}
+| {{WP7|sd|Sindhi}}
+| {{WP7|si|Sinhalese}}
+| {{WP7|ur|Urdu}}
+| {{WP7|eo|Esperanto}}
+| {{WP7|ia|Interlingua}}
+| {{WP7|ie|Interlingue}}
+| {{WP7|io|Ido}}
+| {{WP7|jbo|Lojban}}
+| {{WP7|nov|Novial}}
+| {{WP7|vo|Volapük}}
+| {{WP7|ko|Korean}}
+| {{WP7|hu|Hungarian}}
+| {{WP7|lt|Lithuanian}}
+| {{WP7|ltg|Latgalian}}
+| {{WP7|lv|Latvian}}
+| {{WP7|bat-smg|Samogitian}}
+| {{WP7|eu|Basque}}
+| {{WP7|kn|Kannada}}
+| {{WP7|ml|Malayalam}}
+| {{WP7|ta|Tamil}}
+| {{WP7|te|Telugu}}
+| {{WP7|br|Breton}}
+| {{WP7|cy|Welsh}}
+| {{WP7|ga|Irish}}
+| {{WP7|gd|Scottish Gaelic}}
+| {{WP7|gv|Manx}}
+| {{WP7|kw|Cornish}}
+| {{WP7|hy|Armenian}}
+| {{WP7b|bo|Tibetan|Standard Tibetan}}
+| {{WP7a|dz|Dzongkha}}
+| {{WP7|my|Burmese}}
+| {{WP7|new|Newar}}
+| {{WP7|el|Greek}}
+| {{WP7a|pnt|Pontic}}
+| {{WP7|ka|Georgian}}
+| {{WP7|xmf|Mingrelian}}
+| {{WP7|lo|Lao}}
+| {{WP7|th|Thai}}
+| {{WP7|za|Zhuang}}
+| {{WP7|av|Avar}}
+| {{WP7|ce|Chechen}}
+| {{WP7|lez|Lezgian}}
+| {{WP7|lbe|Lak}}
+| {{WP7|mg|Malagasy}}
+| {{WP7b|ht|Haitian|Haitian Creole language}}
+| {{WP7|pap|Papiamentu}}
+| {{WP7|cbk-zam|Chavacano}}
+| {{WP7|sq|Albanian}}
+| {{WP7|kg|Kongo}}
+| {{WP7|ki|Kikuyu}}
+| {{WP7|ln|Lingala}}
+| {{WP7|lg|Luganda}}
+| {{WP7|nso|Northern Sotho}}
+| {{WP7a|ny|Chichewa}}
+| {{WP7a|rn|Kirundi}}
+| {{WP7|rw|Kinyarwanda}}
+| {{WP7|sn|Shona}}
+| {{WP7a|ss|Swati}}
+| {{WP7|sw|Swahili}}
+| {{WP7|tn|Tswana}}
+| {{WP7a|st|Sesotho}}
+| {{WP7a|ts|Tsonga}}
+| {{WP7|tum|Tumbuka}}
+| {{WP7a|ve|Venda}}
+| {{WP7|xh|Xhosa}}
+| {{WP7|zu|Zulu}}
+| {{WP7|yo|Yoruba}}
+| {{WP7|qu|Quechua}}
+| {{WP7|bxr|Buryat}}
+| {{WP7|mn|Mongolian}}
+| {{WP7|xal|Kalmyk}}
+| {{WP7|haw|Hawaiian}}
+| {{WP7|mi|Maori}}
+| {{WP7|sm|Samoan}}
+| {{WP7|to|Tongan}}
+| {{WP7|ty|Tahitian}}
+| {{WP7|nah|Nahuatl}}
+| {{WP7|om|Oromo}}
+| {{WP7|so|Somali}}
+| {{WP7|ay|Aymara}}
+| {{WP7a|bi|Bislama}}
+| {{WP7a|pih|Norfolk}}
+| {{WP7|srn|Sranan}}
+| {{WP7|tpi|Tok Pisin}}
+| {{WP7|gn|Guarani}}
+| {{WP7|nv|Navajo}}
+| {{WP7|ab|Abkhazian}}
+| {{WP7|kbd|Kabardian}}
+| {{WP7|kab|Kabyle}}
+| {{WP7a|ik|Inupiak}}
+| {{WP7a|iu|Inuktitut}}
+| {{WP7|kl|Greenlandic}}
+| {{WP7|ha|Hausa}}
+| {{WP7|tet|Tetum}}
+| {{WP7|na|Nauruan}}
+| {{WP7a|ff|Fula}}
+| {{WP7|wo|Wolof}}
+| {{WP7a|ak|Akan}}
+| {{WP7a|ee|Ewe}}
+| {{WP7|tw|Twi}}
+| {{WP7|ig|Igbo}}
+| {{WP7|chy|Cheyenne}}
+| {{WP7a|cr|Cree}}
+| {{WP7|chr|Cherokee}}
+| {{WP7a|bm|Bambara}}
+| {{WP7a|fj|Fijian}}
+| {{WP7a|sg|Sango}}
+| {{WP7a|aa|Afar}}
+| {{WP7a|hz|Herero}}
+| {{WP7a|ho|Hiri Motu}}
+| {{WP7a|kr|Kanuri}}
+| {{WP7a|mus|Muscogee}}
+| {{WP7a|ng|Ndonga}}
+| {{WP7a|kj|Kuanyama}}
+| {{WP7a|ady|Adyghe}}
+| {{WP7a|cho|Choctaw}}
+| {{WP7a|mh|Marshallese}}
+| {{WP7a|ii|Nuosu}}
+| {{WP7|jam|Jamaican Patois}}
+| {{WP7a|tcy|Tulu}}
+| {{WP7a|olo|Livvi-Karelian}}
+| {{WP7a|din|Dinka}}
+| {{WP7a|kbp|Kabiye}}
+| {{WP7a|atj|Atikamekw}}
+| {{WP7a|lfn|Lingua Franca Nova}}
+| {{WP7a|inh|Ingush}}
+| {{WP7a|gor|Gorontalo}}
+| {{WP7a|sat|Santali}}
+| {{WP7a|shn|Shan}}
+| {{WP7a|hyw|Western Armenian}}
+| {{WP7a|nqo|N'Ko}}
+| {{WP7a|ban|Balinese}}
+| {{WP7a|mnw|Mon}}
+| {{WP7a|szy|Sakizaya}}
+| {{WP7a|awa|Awadhi}}
+| {{WP7a|gcr|Guianan Creole}}
+}}
 
 == ᱟᱨᱦᱚᱸ ᱧᱮᱞ ==
 == ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ ==
