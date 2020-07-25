@@ -1,6 +1,151 @@
 ᱱᱤᱭᱟᱹ ᱫᱚ [[ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ]] ᱨᱮᱱᱟᱜ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱨᱮᱱᱟᱜ ᱛᱩᱢᱟᱸᱞ ᱠᱟᱱᱟ᱾ ᱯᱷᱮᱵᱽᱨᱩᱭᱟᱨᱤ ᱪᱟᱸᱫᱚ ᱒᱐᱑᱖ ᱥᱮᱨᱢᱟ ᱫᱷᱟᱹᱵᱤᱡᱽ ᱛᱮ ᱒᱙᱒ ᱜᱚᱴᱟᱝ ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ ᱡᱚᱲᱟᱣ ᱟᱠᱟᱱᱟ, ᱚᱱᱟ ᱛᱟᱞᱟᱨᱮ ᱒᱘᱑ ᱜᱚᱴᱟᱝ ᱫᱤᱱᱟᱸᱢ ᱟᱠᱴᱤᱵᱷ ᱢᱮᱱᱟᱜ-ᱟ᱾
 == ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ ᱛᱩᱢᱟᱸᱞ ᱠᱚᱨᱰ ==
 ᱟᱨᱦᱚᱸ ᱧᱮᱞ ᱢᱮ, [[ᱣᱤᱠᱤᱢᱤᱰᱤᱭᱟ ᱯᱷᱟᱣᱰᱣᱥᱚᱱ]]
+{{Pie chart
+| caption = '''Distribution of the {{formatnum: {{#expr:{{NUMBEROF|ARTICLES|total}}-{{NUMBEROF|ARTICLES|mo}}-{{NUMBEROF|ARTICLES|ng}}-{{NUMBEROF|ARTICLES|cho}}-{{NUMBEROF|ARTICLES|kj}}-{{NUMBEROF|ARTICLES|mh}}-{{NUMBEROF|ARTICLES|ho}}-{{NUMBEROF|ARTICLES|ii}}-{{NUMBEROF|ARTICLES|aa}}-{{NUMBEROF|ARTICLES|mus}}-{{NUMBEROF|ARTICLES|hz}}-{{NUMBEROF|ARTICLES|kr}}}}}} articles in different language editions (as of {{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}})''';<ref name="meta.wikimedia">[[:m:List of Wikipedias|List of Wikipedias – Meta]]</ref> the majority of the articles in Swedish, Cebuano, and Waray were created by [[Lsjbot]].<ref>{{Cite web|url=https://stats.wikimedia.org/EN/BotActivityMatrixCreates.htm|title=Wikipedia Statistics - Bot article creations only|website=stats.wikimedia.org|access-date=2019-07-03}}</ref>
+| other = yes
+| label1  = {{Wikipedia rank by size/WP|1}}
+| value1  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|1}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color1 = #666666
+| label2  = {{Wikipedia rank by size/WP|2}}
+| value2  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|2}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color2 = #E69F00
+| label3  = {{Wikipedia rank by size/WP|3}}
+| value3  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|3}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color3 = #56B4E9
+| label4  = {{Wikipedia rank by size/WP|4}}
+| value4  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|4}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color4 = #009E73
+| label5  = {{Wikipedia rank by size/WP|5}}
+| value5  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|5}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color5 = #F0E442
+| label6  = {{Wikipedia rank by size/WP|6}}
+| value6  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|6}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color6 = #0072B2
+| label7  = {{Wikipedia rank by size/WP|7}}
+| value7  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|7}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color7 = #D55E00
+| label8  = {{Wikipedia rank by size/WP|8}}
+| value8  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|8}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color8 = #CC79A7
+| label9  = {{Wikipedia rank by size/WP|9}}
+| value9  = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|9}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color9 = #33CC99
+| label10 = {{Wikipedia rank by size/WP|10}}
+| value10 = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|10}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color10 = #333333
+| label11 = {{Wikipedia rank by size/WP|11}}
+| value11 = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|11}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color11 = #9A459A
+| label12 = {{Wikipedia rank by size/WP|12}}
+| value12 = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|12}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color12 = #A60D14
+| label13 = {{Wikipedia rank by size/WP|13}}
+| value13 = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|13}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color13 = #FF82AA
+| label14 = {{Wikipedia rank by size/WP|14}}
+| value14 = {{#expr:{{NUMBEROF|ARTICLES|{{Wikipedia rank by size|14}}}}/{{NUMBEROF|ARTICLES|total}}*100 round 1}}
+| color14 = #167432
+<!--| value10 = {{#expr:{{NUMBEROF|ARTICLES|total}}-({{Wikipedia rank by size/WP|1}}+{{Wikipedia rank by size/WP|2}}+{{Wikipedia rank by size/WP|3}}+{{Wikipedia rank by size/WP|4}}+{{Wikipedia rank by size/WP|5}}+{{Wikipedia rank by size/WP|6}}+{{Wikipedia rank by size/WP|7}}+{{Wikipedia rank by size/WP|8}}+{{Wikipedia rank by size/WP|9}})}}-->
+}}
+{{See also|Wikimedia Foundation#Wikimedia projects}}
+Each Wikipedia has a code, which is used as a subdomain below wikipedia.org. Interlanguage links are sorted by that code.  The codes represent the language codes defined by [[ISO 639-1]] and [[ISO 639-3]], and the decision of which language code to use is usually determined by the [[IETF language tag]] policy.  Wikipedias also vary by how thinly they slice dialects and variants; for example, the English Wikipedia includes most modern varieties of English (American English, British English, Indian English, South African English, etc.), but does not include other related languages such as [[Scots language|Scots]] or [[Anglo-Saxon language|Anglo-Saxon]], both of which have separate Wikipedias. The Spanish Wikipedia includes both [[Castilian Spanish|Peninsular Castilian]] and [[Latin American Spanish]]; Malay Wikipedia includes a large number of Malay languages; and so on.
+
+Differences between the ISO mappings and Wikipedia codes include:
+{| class="wikitable sortable"
+! WP code
+! WP edition 
+! {{nowrap|ISO 639}}
+! Notes
+|----
+| [[:sq:|sq]]
+| [[Albanian language|Albanian]]
+|''multiple''
+|'sq' is the ISO code for the Albanian macrolanguage, which includes four individual languages.
+|----
+| [[:als:|als]]
+| [[Alemannic German|Alemannic]]
+| gsw
+|'als' is the ISO code for [[Tosk Albanian]].<ref>{{Cite web|url=http://www.sil.org/iso639-3/codes.asp|title=ISO 639 code tables|website=www.sil.org|accessdate=9 March 2018}}</ref><br/>Alemannic Wikipedia covers several dialects: 'gsw' for [[Swiss German]], [[Alemannic German]], and [[Alsatian language|Alsatian]]; 'gct' for [[Colonia Tovar dialect]]; 'swg' for [[Swabian German]], and 'wae' for [[Walser German]]
+|----
+| [[:roa-rup:|roa-rup]]
+| [[Aromanian language|Aromanian]]
+| rup
+|'roa' is the ISO code for Romance (Other).
+|----
+| [[:map-bms:|map-bms]]
+| [[Banyumasan language|Banyumasan]]
+| ''none''
+|'map' is the ISO code for Austronesian (Other).
+|----
+| [[:nds-nl:|nds-nl]]
+| [[Dutch Low Saxon]]
+| ''multiple''
+|In ISO, nds is '[[West Low German|Low Saxon]]', restricted to Germany in Ethnologue.<br/>The various subdivisions of Dutch Low Saxon have separate ISO codes.
+|----
+| [[:bh:|bh]]
+| [[Bihari languages|Bihari]]
+| bih
+|ISO code 'bih' is a macrolanguage which includes [[Bhojpuri]] (bho), [[Maithili language|Maithili]] (mai), [[Magahi]] (mag), and nine others.<ref>{{Cite news|url=http://www.ethnologue.com/show_family.asp?subid=90424|title=Browse by Language Family|work=Ethnologue|accessdate=9 March 2018}}</ref><br/>Bihari Wikipedia excludes [[Maithili language|Maithili]] ([[:mai:|mai]]) and [[Fiji Hindi]] ([[:hif:|hif]]) which exist as independent Wikipedias.
+|----
+| [[:zh-yue:|zh-yue]]
+| [[Cantonese language|Cantonese]]
+| yue
+| ''zh'' is the ISO 639-1 code for Chinese in general.
+|----
+| [[:zh-classical:|zh-classical]]
+| [[Classical Chinese]]
+| lzh
+| As above.
+|----
+| [[:ms:|ms]]
+| [[Malay language|Malay]]
+| ms
+| ISO collective code 'ms' is a macrolanguage that includes more than [[Malayan languages|30 individual languages and dialects]]. However, the wiki excludes [[Indonesian language|Indonesian]] because [[Indonesian Wikipedia]] ([[:id:|id]]) exists independently.
+|----
+| [[:zh-min-nan:|zh-min-nan]]
+| [[Min Nan]]
+| nan
+| Same as the "zh" languages. Not written in [[Chinese characters]], but uses [[Pe̍h-ōe-jī]] or a derived romanization. ''hak'' does the same.
+|----
+| [[:no:|no]]
+| [[Bokmål|Norwegian Bokmål]]
+| nb, nob
+|ISO uses ''no'' for Norwegian in general. (Norwegian Nynorsk is at 'nn' in both ISO and Wikipedia.)
+|----
+| [[:ksh:|ksh]]
+| [[Ripuarian language|Ripuarian]]
+|''none''
+|ISO ksh is for the [[Kölsch language]], the most prominent dialect of the Ripuarian language group.  The other variants (e.g. the [[Aachen dialect]]) do not have ISO codes.
+|----
+| [[:bat-smg:|bat-smg]]
+| [[Samogitian dialect|Samogitian]]
+| sgs
+|'bat' is the ISO code for Baltic (Other).
+|----
+| [[:simple:|simple]]
+| [[Basic English|Simple English]]
+|''none''
+|
+|----
+| [[:roa-tara:|roa-tara]]
+| [[Tarantino language|Tarantino]]
+|''none''
+|'roa' is the ISO code for Romance (Other). [[Neapolitan language|Neapolitan]] in general is ''nap''.
+|----
+| [[:fiu-vro:|fiu-vro]]
+| [[Võro language|Võro]]
+| vro
+| ''fiu'' is the ISO code for [[Finno-Ugric languages]].
+|----
+| [[:cbk-zam:|cbk-zam]]
+| [[Chavacano|Zamboanga Chavacano]]
+|''none''
+|ISO cbk is for the Chavacano language.  The individual variants do not have ISO codes.
+|}
+
+Additionally, Wikipedias vary in [[orthography]] at times. [[Chinese Wikipedia]] automatically translates from modern [[Mandarin Chinese]] into five standard forms: Mainland China and Singapore in [[simplified Chinese]] characters, and Taiwan, Hong Kong, and Macau in [[traditional Chinese]] characters.  [[Belarusian language|Belarusian]], however, has a separate Wikipedia for the 'normative' orthography (be) and [[Taraškievica]] (be-tarask).
+
 == ᱛᱟᱹᱞᱤᱠᱟᱠᱚ ==
 == ᱟᱨᱦᱚᱸ ᱧᱮᱞ ==
 == ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ ==
