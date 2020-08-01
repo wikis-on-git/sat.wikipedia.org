@@ -1,80 +1,86 @@
 {{Infobox settlement
-<!--See the table at Infobox settlement for all fields and descriptions of usage-->
-<!-- Basic info  -->
-|name                   = ᱤᱦᱚᱦᱚᱨᱤ
-|other_name             =
-|native_name            = ᱤᱦᱚᱦᱚᱨᱤ
-|nickname               =
-|settlement_type        = ᱩᱯᱚᱢᱚᱦᱟᱱᱚᱜᱚᱨᱯᱟᱞᱤᱠᱟ 
-|motto                  = ᱦᱟᱹᱭᱨᱟᱹᱲ,ᱥᱟᱱᱛᱚ 
-<!-- images and maps  -->
-|image_skyline          = Itahari,_Sunsari.jpg
-|image_caption          = ᱤᱦᱚᱦᱚᱨᱤ ᱩᱯᱚᱢᱚᱦᱟᱱᱚᱜᱚᱨᱯᱟᱞᱤᱠᱟ 
-|image_flag             =
-|image_seal             =
-|image_map              = <!-- NepalSunsariDistrictmap.png -->
-|mapsize                = 300px
-|map_caption            = ᱥᱩᱱᱥᱚᱨᱤ ᱡᱤᱞᱟᱹ ᱨᱮᱱᱟᱜ ᱪᱤᱛᱟᱹᱨ ᱨᱮ ᱤᱴᱚᱦᱚᱨᱤ ᱩᱯᱚᱢᱚᱦᱟᱱᱚᱜᱚᱨᱯᱟᱞᱤᱠᱟ 
-|pushpin_map            =Nepal <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
-|pushpin_label_position = bottom
-|pushpin_mapsize        = 300
-|pushpin_map_caption    = नेपालमा रहेको इटहरी उपमहानगरपालिका
-<!-- Location -->
-|subdivision_type       = देश
-|subdivision_name       = {{flag|ᱱᱮᱯᱟᱞ}}
-|subdivision_type1      = [[ᱱᱮᱯᱟᱞ ᱨᱮᱱᱟᱜ ᱚᱧᱪᱚᱞ ᱠᱚ|ᱚᱧᱪᱚᱞ]]
-|subdivision_name1      = [[ᱠᱳᱥᱤ ᱚᱧᱪᱚᱞ]]
-|subdivision_type2      = [[नेपालका जिल्लाहरू|जिल्ला]]
-|subdivision_name2      = [[सुनसरी जिल्ला]]
-|<!-- Politics -->
-|government_footnotes   =
-|government_type        = इटहरी उपमहानगरपालिका
-|leader_title           = [[मेयर]]
-|leader_name            = द्वारिकलाल चौधरी
-|leader_title1          = [[उपमेयर|उप मेयर]]
-|leader_name1           = लक्ष्मी गौतम
-|established_title      = उपमहानगरपालिका घोषित
-|established_date       = वि.स. २०७१ मङ्सिर १७
-<!-- Area    -->
-|unit_pref                =  <!--Enter: Imperial, if Imperial (metric) is desired-->
-|area_footnotes           =
-|area_total_km2           = 87.3301 <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
-
-<!-- Population   -->
-|population_as_of               = सन् २०११
-|population_footnotes           =
-|population_note                =
-|population_total               = १,४१,५१७
-|population_density_km2         = auto
-|population_density_sq_mi       =
-|population_metro               =
-|population_density_metro_km2   =
-|population_density_metro_sq_mi =
-|population_urban               =
-|population_density_urban_km2   =
-|population_density_urban_sq_mi =
-|population_blank1_title        = Ethnicities
-|population_blank1              = 
-|population_blank2_title        = धर्मावलम्बी
-|population_blank2              =[[हिन्दू धर्म|हिन्दू]], [[बुद्ध धर्म|बौद्ध]]
-<!-- General information  -->
-|timezone               = [[नेपालको प्रमाणिक समय]]
-|utc_offset             = +५:४५
-|timezone_DST           =
-|utc_offset_DST         =
-|latd= 26|latm = 40|latNS = N
-|longd= 87|longm = 17|longEW = E
-|coordinates_display = inline,title
-|coordinates_type = type:city(41210)_region:NP
-|elevation_footnotes    = <!--for references: use <ref> </ref> tags-->
-|elevation_m            =
-<!-- Area/postal codes & others -->
-|postal_code_type       = पोस्टल कोड
-|postal_code            = ५६७०५
-|area_code              = ०२५
-|blank_name             =
-|blank_info             =
-|website                =[http://itaharimun.gov.np/ itaharimun.gov.np]
-|footnotes              = 
+| name                            = ᱤᱴᱚᱦᱚᱨᱤ
+| native_name                     = <!-- Please do not add any Indic script in this infobox, per WP:INDICSCRIPT policy. -->
+| other_name                      = 
+| settlement_type                 = ᱤᱴᱚᱦᱚᱨᱤ ᱩᱯᱚᱢᱚᱦᱟᱱᱚᱜᱚᱨᱯᱟᱞᱤᱠᱟ
+| motto                           = 
+| image_skyline                   = Itahari,_Sunsari.jpg
+| imagesize                       = 300px
+| image_caption                   = Itahari
+| image_flag                      = 
+| flag_size                       = 150px
+| image_seal                      = 
+| image_map                       = <!-- NepalSunsariDistrictmap.png -->
+| mapsize                         = 340px
+| map_caption                     = Map of Sunsari District. Itahari is shaded in light blue second from top.
+| pushpin_map                     = Nepal Province1#Nepal <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+| pushpin_label_position          = bottom
+| pushpin_mapsize                 = 300
+| pushpin_map_caption             = Location of Itahari in [[Province No. 1]]
+| coordinates                     = {{coord|26|40|N|87|17|E|type:city(41210)_region:NP|display=inline,title}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Nepal}}
+| subdivision_type1               = 
+| subdivision_name1               = 
+| subdivision_type2               = [[Provinces of Nepal|Province]]
+| subdivision_name2               = [[Province No. 1]]
+| subdivision_type3               = [[Districts of Nepal|District]]
+| subdivision_name3               = [[Sunsari District]]
+| subdivision_type4               = Wards
+| subdivision_name4               = 20
+| established_title               = Settled
+| established_date                = -
+| government_type                 = 
+| leader_title                    = [[Mayor]]
+| leader_name                     = Sila Mahatara
+<nowiki>(Communist Party|NCP]])</nowiki>
+| leader_title1                   = [[Deputy Mayor]]
+| leader_name1                    = Laxmi Gautam ([[Nepal Communist Party|NCP]])
+<!-- Area    --------------------->| area_magnitude                  = 
+| unit_pref                       = Imperial <!--Enter: Imperial, if Imperial  (metric) is desired-->
+| area_footnotes                  = 
+| area_total_km2                  = 93.78 <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2                   = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2                  = 
+| area_total_sq_mi                = 
+| area_land_sq_mi                 = 
+| area_water_sq_mi                = 
+| area_water_percent              = 
+| area_urban_km2                  = 
+| area_urban_sq_mi                = 
+| area_metro_km2                  = 
+| area_metro_sq_mi                = 
+| area_blank1_title               = 
+| area_blank1_km2                 = 
+| area_blank1_sq_mi               = <!-- Population   -->
+| population_as_of                = 2011
+| population_footnotes            = 
+| population_total                = 140,517
+| population_density_km2          = 1609.03
+| population_density_sq_mi        = 
+| population_metro                = 
+| population_density_metro_sq_mi  = 
+| population_urban                = 
+| population_density_urban_km2    = 
+| population_density_urban_sq_mi  = 
+| population_rank                 = 2nd (Province No. 1)<br />12th (Nepal)
+<!-- General information  -->| population_density_blank1_km2   = 
+| population_density_blank1_sq_mi = 
+| population_density_metro_km2    = 
+| demographics_type1              = Languages
+| demographics1_title1            = Official
+| demographics1_info1             = [[Nepali language|Nepali]] 
+<!-- General information  --------------->| timezone                        = [[Nepal Standard Time|NST]]
+| utc_offset                      = +5:45
+| timezone_DST                    = 
+| utc_offset_DST                  = 
+| elevation_footnotes             = <!--for references: use <ref> tags-->
+<!-- Area/postal codes & others -->| postal_code_type                = [[Postal Code]]
+| postal_code                     = 56705
+| area_code                       = 025
+| blank_name                      = [[Köppen climate classification|Climate]]
+| blank_info                      = [[Humid subtropical climate|Cwa]]
+| website                         = {{URL|http://itaharimun.gov.np}}
+| official_name                   = 
 }}
 ᱤᱴᱚᱦᱚᱨᱤ ᱩᱯᱢᱚᱦᱟᱱᱜᱚᱯᱟᱞᱤᱠᱟ ᱥᱩᱱᱥᱚᱨᱤ ᱨᱮ ᱢᱮᱱᱟᱜ ᱢᱤᱫᱴᱮᱱ ᱩᱯᱢᱚᱦᱟᱱᱜᱚᱯᱟᱞᱤᱠᱟ ᱠᱟᱱᱟ ᱾ ᱱᱤᱭᱳ ᱞᱚᱜᱚᱱ ᱞᱟᱦᱟᱱᱛᱤ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱯᱩᱨᱩᱵ ᱱᱮᱯᱟᱞ ᱨᱮᱭᱟᱜ ᱵᱮᱯᱟᱨᱤᱠ ᱟᱨ ᱭᱟᱛᱟᱭᱟᱛ(Transportation) ᱨᱮᱭᱟᱜ ᱠᱮᱱᱫᱽᱨᱚᱵᱤᱱᱫᱩ ᱠᱟᱱᱟ ᱾ ᱱᱤᱭᱳ  ᱥᱚᱦᱚᱨ ᱫᱷᱚᱨᱟᱱ ᱥᱚᱦᱚᱨ ᱨᱮᱭᱟᱜ ᱫᱚᱠᱷᱪᱷᱤᱱ ᱨᱮ ᱟᱨ ᱵᱤᱨᱟᱴᱱᱚᱜᱚᱨ ᱠᱷᱚᱱ ᱩᱛᱟ.ᱨ ᱨᱮ ᱢᱮᱱᱟᱜ-ᱟ ᱾ ᱱᱚ°ᱰᱮ ᱚᱧᱪᱚᱞ ᱭᱟᱛᱟᱭᱟᱛ ᱞᱟᱨᱭᱚᱞᱚᱭ, ᱮᱨᱮᱭᱟ ᱴᱨᱟᱯᱷᱮᱠ, ᱚᱠᱷᱛᱤᱭᱟᱨ ᱫᱩᱨᱩᱯᱚᱭᱳᱜ ᱚᱱᱩᱥᱚᱱᱫᱷᱟᱱ ᱨᱮᱭᱟᱜ ᱠᱚᱨᱭᱟᱞᱚᱭ ᱥᱟᱶᱛᱮ ᱤᱞᱟᱠᱟ ᱥᱛᱚᱨᱤᱭᱚ ᱠᱟᱨᱭᱟᱞᱚᱭ ᱠᱚ ᱢᱮᱱᱟ-ᱟ ᱾ ᱥᱟᱶᱛᱮ ᱱᱤᱭᱳ ᱥᱚᱦᱚᱨ ᱨᱮ ᱠᱟᱴᱷᱢᱟᱱᱰᱳ ᱛᱟᱭᱚᱢ ᱨᱮᱱᱟᱜ ᱥᱤᱨᱢᱟ ᱛᱤᱭᱳᱜ ᱩᱥᱩᱞ-ᱩᱥᱩᱞ ᱫᱩᱞᱟᱱ ᱛᱳᱰᱟᱠ ᱧᱮᱞ ᱧᱟᱢᱚ- ᱟ ᱾ ᱱᱤᱭᱳ ᱥᱚᱦᱚᱨ ᱨᱮᱭᱟᱜ ᱞᱳᱠᱯᱨᱤᱭᱛᱟ ᱛᱮᱜᱮ ᱥᱚᱦᱚᱠᱟᱨᱤ ᱥᱚᱸᱥᱛᱷᱟ ᱠᱚ ᱟᱯᱷᱱᱟᱨᱟᱜ ᱠᱟᱨᱭᱟᱞᱚᱭ ᱵᱮᱱᱟᱣ ᱥᱟᱱᱟᱭᱮᱫ ᱠᱚᱣᱟ ᱾ ᱱᱮᱯᱟᱞ ᱴᱮᱞᱤᱵᱷᱤᱡᱚᱱ ᱦᱚ° ᱱᱳ°ᱰᱮ ᱟᱭᱟᱜ ᱠᱟᱨᱭᱟᱞᱚᱭᱮ ᱵᱮᱱᱟᱣ ᱞᱟ.ᱜᱤᱛ  ᱱᱤᱭᱳ ᱥᱚᱦᱚᱨ ᱨᱮ ᱞᱚᱜᱽᱵᱷᱚᱜ ᱑,᱖᱐,᱐᱐᱐ ᱦᱚᱲ ᱠᱚᱣᱟᱜ ᱛᱟᱦᱮᱱ  ᱢᱮᱱᱟ- ᱟ ᱟᱨ ᱡᱚᱱᱚᱥᱚ°ᱠᱷᱭᱟ ᱰᱷᱤᱨᱩ ᱫᱚᱨ ᱟ.ᱰᱤ ᱰᱷᱤᱨ  ᱦᱩᱭ ᱤᱫᱤ~ᱠᱟᱱᱟ ᱾
