@@ -1,23 +1,24 @@
 {{Infobox language
-|name          = Macedonian
+|name          = ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ
 |nativename    = {{lang|mk|македонски}}<br />''{{transl|mk|ALA|makedonski}}''
 |pronunciation = {{IPA-mk|maˈkɛdɔnski|}}
-|states        = [[North Macedonia]], [[Albania]], [[Bulgaria]], [[Greece]], [[Romania]], [[Serbia]]
-|region        = [[Balkans]]
-|ethnicity     = [[Macedonians (ethnic group)|Macedonians]]
-|speakers      = 1.4–3.5 million
-|date          = 1999–2011
+|states        = [[ᱮᱛᱚᱢ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟ]], [[ᱟᱠᱵᱮᱱᱤᱭᱟ]], [[ᱵᱩᱞᱜᱮᱨᱤᱭᱟ]], [[ᱜᱽᱨᱤᱠ]], [[ᱨᱳᱢᱟᱱᱤᱭᱟ]], [[ᱥᱟᱨᱵᱤᱭᱟ]]
+|region        = [[ᱵᱚᱞᱠᱟᱱ]]
+|ethnicity     = [[:en:Macedonians (ethnic group)|ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱹ]]
+|speakers      = ᱑.᱔–᱓.᱕ ᱢᱤᱞᱤᱭᱚᱱ (᱑᱙᱙᱙-᱒᱐᱑᱑)
+|date          = 
 |ref           = <ref name="ethnologue">{{cite web |url=http://www.ethnologue.com/show_language.asp?code=mkd |title=Ethnologue report for Macedonian |work=[[Ethnologue]] |date=19 February 1999 |accessdate=7 August 2014 |archive-url=https://web.archive.org/web/20120901171251/http://www.ethnologue.com/show_language.asp?code=mkd |archive-date=1 September 2012 |url-status=live }}</ref><ref name="periods435" />
-|familycolor   = Indo-European
-|fam2          = [[Balto-Slavic languages|Balto-Slavic]]
-|fam3          = [[Slavic languages|Slavic]]
-|fam4          = [[South Slavic languages|South Slavic]]
-|fam5          = [[Eastern South Slavic languages|Eastern South Slavic]]
-|script        = [[Cyrillic script|Cyrillic]] ([[Macedonian alphabet]])<br />[[Macedonian Braille]]
-|dia1          = [[Dialects of Macedonian|Macedonian dialects]]
-|nation        = {{flag|North Macedonia}}
-|minority      = {{Flag|Albania|size=23px}}<br />{{BIH}}<ref name="bih" /><br />{{ROU}}<ref name="rou" /><br />{{SRB}}<ref name="serbia" />
-|agency        = [[Macedonian Language Institute "Krste Misirkov"]] at the [[Ss. Cyril and Methodius University of Skopje]]
+|familycolor   = ᱤᱱᱫᱳ-ᱤᱣᱨᱳᱯᱤᱭᱟᱱ
+|fam2          = [[ᱵᱟᱞᱛᱳᱼᱥᱞᱟᱵᱷᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱵᱟᱞᱛᱳᱼᱥᱞᱟᱵᱷᱤᱠ]]
+|fam3          = [[ᱥᱞᱟᱵᱷᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱥᱞᱟᱵᱷᱤᱠ]]
+|fam4          = [[ᱠᱚᱧᱮ ᱥᱞᱟᱵᱷᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱠᱚᱧᱮ ᱥᱞᱟᱵᱷᱤᱠ]]
+|fam5          = [[:en:Eastern South Slavic languages|ᱥᱟᱢᱟᱝ ᱠᱚᱧᱮ ᱥᱞᱟᱵᱷᱤᱠ ᱯᱟᱹᱨᱥᱤ]]
+|script        = [[ᱥᱤᱨᱤᱞᱤᱠ ᱦᱚᱨᱚᱯ|ᱥᱤᱨᱤᱞᱤᱠ]] ([[ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱪᱤᱠᱤ]])<br />[[ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱵᱽᱨᱮᱭᱤᱞ]]
+|dia1          = [[:en:Dialects of Macedonian|ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱪᱟᱸᱜᱟ ᱯᱟᱹᱨᱥᱤ ᱠᱚ]]
+|nation        = [[File:Flag of North Macedonia.svg|22x20px]] [[ᱮᱛᱚᱢ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟ]]
+|minority      = [[File:Flag of Albania.svg|22x20px]] [[ᱟᱠᱵᱮᱱᱤᱭᱟ]]<br />[[File:Flag of Bosnia and Herzegovina.svg|22x20px]] [[ᱵᱚᱥᱱᱤᱭᱟ ᱟᱨ ᱦᱟᱨᱡᱮᱜᱳᱵᱤᱱᱟ]]<ref name="bih" /><br />[[File:Flag of Romania.svg|22x20px]] [[ᱨᱳᱢᱟᱱᱤᱭᱟ]]<ref name="rou" /><br />[[File:Flag of Serbia.svg|22x20px]] [[ᱥᱟᱨᱵᱤᱭᱟ]]<ref name="serbia" />
+|agency        = [[:en:Macedonian Language Institute "Krste Misirkov"|ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱤᱱᱥᱴᱤᱴᱤᱭᱩᱴ "ᱠᱨᱤᱥᱴᱮ ᱢᱤᱥᱤᱨᱠᱳᱵᱷ"]]
+[[:en:Ss. Cyril and Methodius University of Skopje|ᱮᱥᱮᱥ. ᱥᱤᱨᱤᱞ ᱟᱨ ᱢᱮᱛᱷᱳᱰᱤᱭᱟᱥ ᱡᱮᱜᱮᱛ ᱵᱤᱨᱫᱟᱹᱜᱟᱲ ᱥᱠᱚᱯᱡᱮ]] ᱨᱮ
 |iso1          = mk
 |iso2b         = mac
 |iso2t=mkd
@@ -27,7 +28,28 @@
 |lingua        = 53-AAA-ha (part of 53-AAA-h)
 |notice=IPA
 |map=Idioma macedonio.PNG
-|mapcaption=The Macedonian-speaking world: {{Legend|#0080FF|regions where Macedonian is the language of the majority}}{{Citation needed|reason=Aromanian and Albanian speaking majorities are included in dark blue|date=October 2015}} {{Legend|#88C4FF|regions where Macedonian is the language of a significant minority{{Citation needed|reason=Same area is listed as Bulgarian dialects according to wikipedia.|date=September 2015}} }}
+|mapcaption=ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱨᱚᱲ ᱡᱮᱜᱮᱛ: {{Legend|#0080FF|ᱴᱚᱴᱷᱟ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱡᱟᱹᱥᱛᱤ ᱠᱚ ᱨᱚᱲᱼᱟ}}{{Citation needed|reason=Aromanian and Albanian speaking majorities are included in dark blue|date=October 2015}} {{Legend|#88C4FF|ᱴᱚᱴᱷᱟ ᱡᱟᱦᱟᱸ ᱨᱮ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱢᱤᱫ ᱞᱮᱠᱷᱟᱥᱤᱫ ᱯᱟᱹᱨᱥᱤ{{Citation needed|reason=Same area is listed as Bulgarian dialects according to wikipedia.|date=September 2015}} }}
 }}
 
 '''ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ''' (ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ: македонски јазик, ''ᱢᱟᱠᱮᱰᱳᱱᱥᱠᱤ ᱡᱟᱡᱤᱠ'') ᱫᱚ ᱢᱤᱫ [[ᱠᱚᱧᱮ ᱥᱞᱟᱵᱷᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱠᱚᱧᱮ ᱥᱞᱟᱵᱷᱤᱠ ᱯᱟᱹᱨᱥᱤ]] ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱯᱟᱹᱨᱥᱤ [[ᱜᱚᱜᱚ ᱟᱲᱟᱝ|ᱯᱳᱭᱞᱳ ᱯᱟᱹᱨᱥᱤ]] ᱞᱮᱠᱟᱛᱮ ᱒᱐ ᱞᱟᱠᱷ ᱜᱟᱱ ᱦᱚᱲ ᱠᱚ ᱨᱚᱲᱼᱟ ᱾ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ [[ᱮᱛᱚᱢ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟ]] ᱨᱮᱱᱟᱜ ᱥᱚᱨᱠᱟᱨᱤ ᱯᱟᱹᱨᱥᱤ ᱠᱟᱱᱟ ᱾ ᱢᱮᱥᱤᱰᱳᱱᱤᱭᱟ ᱵᱟᱨᱦᱮ ᱱᱚᱶᱟ ᱯᱟᱹᱨᱥᱤ [[ᱟᱠᱵᱮᱱᱤᱭᱟ]], [[ᱵᱚᱥᱱᱤᱭᱟ ᱟᱨ ᱦᱟᱨᱡᱮᱜᱳᱵᱤᱱᱟ]], [[ᱨᱳᱢᱟᱱᱤᱭᱟ]] ᱟᱨ [[ᱥᱟᱨᱵᱤᱭᱟ]] ᱫᱤᱥᱚᱢ ᱨᱮ ᱞᱮᱠᱷᱟᱥᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱞᱮᱠᱟᱛᱮ ᱢᱟᱱᱟᱣᱼᱵᱟᱛᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+
+==ᱦᱟᱹᱴᱤᱧ ==
+
+==ᱱᱟᱜᱟᱢ==
+
+==ᱚᱛᱱᱚᱜ ᱪᱷᱮᱨ==
+
+==ᱪᱟᱸᱜᱟ ᱯᱟᱹᱨᱥᱤ ᱠᱚ==
+
+==ᱨᱚᱱᱚᱲ==
+
+==ᱚᱛ ᱛᱚᱦᱚᱨ==
+
+==ᱟᱨᱦᱚᱸ ᱧᱮᱞ ᱢᱮ==
+
+==ᱵᱟᱨᱦᱮ ᱡᱚᱱᱚᱲ==
+
+==ᱥᱟᱹᱠᱷᱭᱟᱹᱛ==
+[[ᱛᱷᱚᱠ: ᱯᱟᱹᱨᱥᱤ]]
+[[ᱛᱷᱚᱠ: ᱤᱣᱨᱳᱯ ᱨᱮᱱᱟᱜ ᱯᱟᱹᱨᱥᱤ]]
+[[ᱛᱷᱚᱠ: ᱤᱱᱫᱳᱼᱤᱣᱨᱳᱯᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ]]
