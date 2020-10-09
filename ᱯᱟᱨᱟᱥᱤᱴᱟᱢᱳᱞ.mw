@@ -1,0 +1,123 @@
+{{short description|Common medication for pain and fever}}
+{{Use dmy dates|date=December 2019}}
+{{drugbox
+| Watchedfields = changed
+| verifiedrevid = 456349142
+| drug_name         =
+| INN               =
+| type              =<!-- empty -->
+| image             = Paracetamol-skeletal.svg
+| width             = 
+| alt               = 
+| caption           = 
+| image2            = Paracetamol-from-xtal-3D-balls.png
+| width2            = 
+| alt2              = 
+| USAN              = acetaminophen
+
+<!-- ᱠᱞᱤᱱᱤᱠᱟᱞ ᱰᱟᱴᱟ(Clinical data) -->
+| pronounce = ᱯᱟᱨᱟᱥᱤᱴᱟᱢᱳᱞ: {{IPAc-en|ˌ|p|ær|ə|ˈ|s|iː|t|ə|m|ɒ|l}}<br />ᱮᱥᱤᱴᱟᱢᱤᱱᱳᱯᱷᱮᱱ: {{IPAc-en|audio=En-acetaminophen.oga|ə|ˌ|s|iː|t|ə|ˈ|m|ɪ|n|ə|f|ᵻ|n}}
+| tradename = [[ᱴᱟᱭᱞᱤᱱᱳᱞ (ᱵᱽᱨᱟᱸᱰ)|ᱴᱟᱭᱞᱤᱱᱳᱞ]], [[ᱯᱟᱱᱟᱰᱳᱞ (ᱵᱽᱨᱟᱸᱰ)|ᱯᱟᱱᱟᱰᱳᱞ]], [[ᱯᱟᱨᱟᱥᱤᱴᱟᱢᱳᱞ ᱵᱽᱨᱟᱸᱰ ᱧᱩᱛᱩᱢ ᱠᱚ|ᱮᱴᱟᱜᱟᱜ ᱠᱚ]]<ref name=drugs.com-internatl/>
+| Drugs.com = {{drugs.com|monograph|acetaminophen}}
+| MedlinePlus = a681004
+| licence_CA        = <!-- Health Canada may use generic or brand name (generic name preferred) -->
+| licence_EU        = <!-- EMA uses INN (or special INN_EMA) -->
+| DailyMedID = Acetaminophen
+| licence_US = Acetaminophen
+| pregnancy_AU = A
+| pregnancy_AU_comment=<ref name="Drugs.com pregnancy">{{cite web | title=Acetaminophen Use During Pregnancy | website=Drugs.com | date=14 June 2019 | url=https://www.drugs.com/pregnancy/acetaminophen.html | access-date=25 February 2020 | archive-date=9 March 2020 | archive-url=https://web.archive.org/web/20200309154313/https://www.drugs.com/pregnancy/acetaminophen.html | url-status=live }}</ref>
+| pregnancy_US = N
+| pregnancy_US_comment=<ref name="Drugs.com pregnancy" />
+| pregnancy_category =
+| dependency_liability = 
+| addiction_liability = 
+| routes_of_administration = [[Oral administration|By mouth]], [[buccal administration|through the cheek]], [[rectal administration|rectal]], [[intravenous administration|intravenous]] (IV)
+| class             = Analgesics and antipyretics
+| ATCvet            = 
+| ATC_prefix        = N02
+| ATC_suffix        = BE01
+| ATC_supplemental  = {{ATC|N02|BE51}} {{ATC|N02|BE71}}
+
+<!-- Legal status -->
+| legal_AU = S4 (Rx), OTC, and unscheduled
+| legal_AU_comment = 
+| legal_BR =  <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F-->
+| legal_BR_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_CA_comment = 
+| legal_DE = <!-- Anlage I, II, III or Unscheduled-->
+| legal_DE_comment = 
+| legal_NZ = <!-- Class A, B, C -->
+| legal_NZ_comment = 
+| legal_UK = GSL
+| legal_UK_comment = 
+| legal_US = OTC
+| legal_US_comment = /&nbsp;Rx-only
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_UN_comment = 
+| legal_status      = <!--For countries not listed above-->
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 63–89%<ref>{{cite book | isbn=978-0-9873236-7-5 | title=Acute Pain Management: Scientific Evidence | veditors=Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J | vauthors=((Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine)) | year=2015 | edition=4th | publisher=Australian and New Zealand College of Anaesthetists (ANZCA), Faculty of Pain Medicine (FPM) | location=Melbourne | url=http://fpm.anzca.edu.au/documents/apmse4_2015_final | format=PDF | access-date=28 October 2019 | archive-url=https://web.archive.org/web/20190731120330/http://fpm.anzca.edu.au/documents/apmse4_2015_final | archive-date=31 July 2019 | url-status=dead }}</ref>{{rp|73}}
+| protein_bound = 10–25%<ref>{{cite web|title=Tylenol, Tylenol Infants' Drops (acetaminophen) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|access-date=10 May 2014|url=https://reference.medscape.com/drug/tylenol-acetaminophen-343346#showall|url-status=live|archive-url=https://web.archive.org/web/20140414025534/https://reference.medscape.com/drug/tylenol-acetaminophen-343346#showall|archive-date=14 April 2014}}</ref>
+| metabolism = Predominantly in the liver<ref name = TGA>{{cite web|title=Codapane Forte Paracetamol and codeine phosphate product information|work=TGA eBusiness Services|publisher=Alphapharm Pty Limited|date=29 April 2013|access-date=10 May 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-05623-3|format=PDF|archive-date=6 February 2016|archive-url=https://web.archive.org/web/20160206163239/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-05623-3|url-status=live}}</ref>
+| metabolites = APAP [[Glucuronide|gluc]], APAP [[sulfate]], APAP [[Glutathione|GSH]], APAP [[cys]], [[NAPQI]]<ref>{{cite web |title= Acetaminophen Pathway (therapeutic doses), Pharmacokinetics |access-date= 13 January 2016 |url= https://www.pharmgkb.org/pathway/PA165986279 |url-status= dead |archive-url= https://web.archive.org/web/20160304220600/https://www.pharmgkb.org/pathway/PA165986279 |archive-date= 4 March 2016 }}</ref>
+| onset = Pain relief onset by [[Route of administration|route]]:<br />[[Oral administration|By mouth]]{{nbsp}}– 37{{nbsp}}minutes<ref name="Buccal route">{{cite journal | vauthors = Pickering G, Macian N, Libert F, Cardot JM, Coissard S, Perovitch P, Maury M, Dubray C | title = Buccal acetaminophen provides fast analgesia: two randomized clinical trials in healthy volunteers | journal = Drug Des. Devel. Ther. | volume = 8 | issue = | pages = 1621–1627 | date = September 2014 | pmid = 25302017 | pmc = 4189711 | doi = 10.2147/DDDT.S63476 | quote = bAPAP has a faster time of antinociception onset (15 minutes, P<0.01) and greater antinociception at 50 minutes (P<0.01, CT1) and 30 minutes (P<0.01, CT2) than ivAPAP and sAPAP. All routes are similar after 50 minutes.{{nbsp}}... In postoperative conditions for acute pain of mild to moderate intensity, the quickest reported time to onset of analgesia with APAP is 8 minutes9 for the iv route and 37 minutes6 for the oral route.}}</ref><br />[[Buccal administration|Buccal]]{{nbsp}}– 15{{nbsp}}minutes<ref name="Buccal route" /><br />[[Intravenous]]{{nbsp}}– 8{{nbsp}}minutes<ref name="Buccal route" />
+| elimination_half-life = 2–2.5 hours<ref name="halflife">{{cite journal | authors =Wong A, Graudins A| title =Risk prediction of hepatotoxicity in paracetamol poisoning. | journal =Clin Toxicol (Phila).| date = 2017 | pmid= 28447858 | doi=10.1080/15563650.2017.1317349 | volume=55 | issue =8 | pages=879–892| s2cid =8888616 }}</ref>
+| duration_of_action =
+| excretion = Urine (85–90%)<ref name = TGA/>
+
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 103-90-2
+| CAS_supplemental  = 
+| PubChem = 1983
+| PubChemSubstance  = 46506142
+| IUPHAR_ligand = 5239
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00316
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1906
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 362O9ITL9D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00217
+| KEGG2 = C06804
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 46195
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 112
+| NIAID_ChemDB      =
+| PDB_ligand = TYL
+| synonyms = N-acetyl-para-aminophenol (APAP)
+
+<!-- Chemical and physical data -->
+| IUPAC_name = ''N''-(4-hydroxyphenyl)acetamide
+| C=8 | H=9 | N=1 | O=2
+| SMILES = CC(=O)Nc1ccc(O)cc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10)
+| StdInChI_comment  = 
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RZVAJINKPMORJF-UHFFFAOYSA-N
+| density = 1.263
+| density_notes     = 
+| melting_point = 169
+| melting_high      = 
+| melting_notes =<ref>{{Cite journal | doi = 10.1021/ci0500132 | title = General Melting Point Prediction Based on a Diverse Compound Data Set and Artificial Neural Networks | year = 2005 | vauthors=Karthikeyan M, Glen RC, Bender A | journal = Journal of Chemical Information and Modeling | volume = 45 | issue = 3 | pages = 581–590 | pmid = 15921448}}</ref><ref>{{cite web | url = http://lxsrv7.oru.edu/~alang/meltingpoints/meltingpointof.php?csid=1906 | title = melting point data for paracetamol | publisher = Lxsrv7.oru.edu | access-date = 19 March 2011 | url-status=dead | archive-url = https://archive.today/20120630213835/http://lxsrv7.oru.edu/~alang/meltingpoints/meltingpointof.php?csid=1906 | archive-date = 30 June 2012 }}</ref>
+| boiling_point = 420
+| boiling_notes     = 
+| solubility = {{ubl| 7.21{{nbsp}}g/kg (0{{nbsp}}°C)<ref name="paracetamol-solubility">{{cite journal| doi = 10.1021/je990124v| title = Solubility of paracetamol in pure solvents| vauthors=Granberg RA, Rasmuson AC| journal = [[Journal of Chemical & Engineering Data]]| volume = 44 | issue = 6 | pages = 1391–95| year = 1999}}</ref>| 8.21{{nbsp}}g/kg (5{{nbsp}}°C)<ref name="paracetamol-solubility" />| 9.44{{nbsp}}g/kg (10{{nbsp}}°C)<ref name="paracetamol-solubility" />| 10.97{{nbsp}}g/kg (15{{nbsp}}°C)<ref name="paracetamol-solubility" />| 12.78{{nbsp}}g/kg (20{{nbsp}}°C)<ref name="paracetamol-solubility" />| ~14{{nbsp}}mg/ml (20{{nbsp}}°C)}}
+|sol_units=
+| specific_rotation = 
+}}
+
+<!-- Definition and medical uses -->
+'''Paracetamol''', also known as '''acetaminophen''', is a medication used to treat [[pain]] and [[fever]].<ref name=AHFS2016/><ref name=pmid28734939>{{cite journal |last1=Lee |first1=WM |title=Acetaminophen (APAP) hepatotoxicity-Isn't it time for APAP to go away? |journal=Journal of Hepatology |date=December 2017 |volume=67 |issue=6 |pages=1324–1331 |doi=10.1016/j.jhep.2017.07.005 |pmid=28734939|pmc=5696016 }}</ref> It is typically used for mild to moderate pain relief.<ref name=AHFS2016/> Evidence is mixed for its use to relieve fever in children.<ref>{{cite journal|vauthors=Meremikwu M, Oyo-Ita A|title=Paracetamol for treating fever in children|journal=The Cochrane Database of Systematic Reviews|date=2002|issue=2|pages=CD003676|pmid=12076499|pmc=6532671|doi=10.1002/14651858.CD003676}}</ref><ref>{{cite journal|vauthors=de Martino M, Chiarugi A |title=Recent Advances in Pediatric Use of Oral Paracetamol in Fever and Pain Management|journal=Pain and Therapy|date=2015|volume=4|issue=2|pages=149–168|doi=10.1007/s40122-015-0040-z|pmid=26518691|pmc=4676765}}</ref> It is often sold in combination with other medications, such as in many [[cold medication]]s.<ref name=AHFS2016/> Paracetamol is also used for severe pain, such as [[cancer pain]] and pain after surgery, in combination with [[opioid analgesic|opioid pain medication]].<ref>{{cite book|chapter-url = http://www.sign.ac.uk/pdf/SIGN106.pdf|title = Guideline 106: Control of pain in adults with cancer|author = Scottish Intercollegiate Guidelines Network (SIGN)|publisher = National Health Service (NHS)|location = Scotland|year = 2008|isbn = 9781905813384|chapter = 6.1 and 7.1.1|url-status=live|archive-url = https://web.archive.org/web/20101220061154/http://sign.ac.uk/pdf/SIGN106.pdf|archive-date = 20 December 2010|df = }}</ref> It is typically used either by mouth or [[rectally]], but is also available by [[intravenous|injection into a vein]].<ref name=AHFS2016/><ref name=Hoch2014/> Effects last between two and four hours.<ref name=Hoch2014/>
+
+<!-- Side effects and mechanism-->
+Paracetamol is generally safe at recommended doses.<ref>{{cite journal|vauthors=Russell FM, Shann F, Curtis N, Mulholland K|title=Evidence on the use of paracetamol in febrile children|journal=Bulletin of the World Health Organization|date=2003|volume=81|issue=5|pages=367–72|pmid=12856055|pmc=2572451|hdl=10665/268935|issn=0042-9686}}</ref><ref name=BMJ2015/> The recommended maximum daily dose for an adult is three to four grams.<ref name=UK2017>{{Cite web|url=https://www.nhs.uk/medicines/paracetamol-for-adults/|title=Paracetamol for adults: painkiller to treat aches, pains and fever |website=[[National Health Service]]|access-date=22 August 2017|url-status=live|archive-url=https://web.archive.org/web/20170822174155/https://beta.nhs.uk/medicines/paracetamol-for-adults|archive-date=22 August 2017}}</ref><ref name=Med2018>{{cite web |title=What are the recommended maximum daily dosages of acetaminophen in adults and children? |url=https://www.medscape.com/answers/820200-27207/what-are-the-recommended-maximum-daily-dosages-of-acetaminophen-in-adults-and-children |website=Medscape |access-date=19 December 2018 |archive-date=21 December 2018 |archive-url=https://web.archive.org/web/20181221041534/https://www.medscape.com/answers/820200-27207/what-are-the-recommended-maximum-daily-dosages-of-acetaminophen-in-adults-and-children |url-status=live }}</ref><ref name=BMJ2015/> Higher doses may lead to toxicity, including [[liver failure]].<ref name=AHFS2016/> Serious skin rashes may rarely occur.<ref name=AHFS2016/> It appears to be safe during [[pregnancy]] and when [[breastfeeding]].<ref name=AHFS2016>{{cite web|title=Acetaminophen|url=https://www.drugs.com/monograph/acetaminophen.html|publisher=The American Society of Health-System Pharmacists|access-date=16 September 2016|url-status=live|archive-url=https://web.archive.org/web/20160605063136/http://www.drugs.com/monograph/acetaminophen.html|archive-date=5 June 2016}}</ref> In those with liver disease, it may still be used, but in lower doses.<ref>{{cite journal|vauthors=Lewis JH, Stine JG |title=Review article: prescribing medications in patients with cirrhosis - a practical guide|journal=Alimentary Pharmacology & Therapeutics|date=June 2013|volume=37|issue=12|pages=1132–56|pmid=23638982|doi=10.1111/apt.12324|s2cid=20759947}}</ref> It is classified as a mild [[analgesic]].<ref name=Hoch2014>{{cite book|first=Daniel|last=Hochhauser|title=Cancer and its Management|date=2014|publisher=John Wiley & Sons|isbn=9781118468715|page=119|url=https://books.google.com/books?id=CXjDBAAAQBAJ&pg=PA119|url-status=live|archive-url=https://web.archive.org/web/20170908185107/https://books.google.com/books?id=CXjDBAAAQBAJ&pg=PA119|archive-date=8 September 2017|author-link=Daniel Hochhauser | name-list-format=vanc }}</ref> It does not have significant [[anti-inflammatory]] activity.<ref name=McK2013/> How it works is not entirely clear.<ref name=McK2013>{{cite book |last1=McKay |first1=Gerard A. |last2=Walters |first2=Matthew R. |name-list-format=vanc |title=Lecture Notes Clinical Pharmacology and Therapeutics |date=2013 |publisher=Wiley |location=Hoboken |isbn=9781118344897 |edition=9th |chapter-url=https://books.google.com/books?id=OGOqcfN_Cc8C&pg=PT353 |chapter=Non-Opioid Analgesics |access-date=7 September 2017 |archive-date=8 September 2017 |archive-url=https://web.archive.org/web/20170908185108/https://books.google.com/books?id=OGOqcfN_Cc8C&pg=PT353 |url-status=live }}</ref><ref name=Ghanem2016/><ref name=pmid18381460/>
+
+<!-- Society and culture -->
+Paracetamol was first made in 1877.<ref>{{cite book |last1=Mangus |first1=Brent C. |first2=Michael G. |last2=Miller |name-list-format=vanc |title=Pharmacology application in athletic training |date=2005 |publisher=F.A. Davis |location=Philadelphia, Pennsylvania |isbn=9780803620278 |page=39 |url=https://books.google.com/books?id=tV72AAAAQBAJ&pg=PA39 |access-date=7 September 2017 |archive-date=8 September 2017 |archive-url=https://web.archive.org/web/20170908185108/https://books.google.com/books?id=tV72AAAAQBAJ&pg=PA39 |url-status=live }}</ref> It is the most commonly used medication for pain and fever in both the United States and Europe.<ref>{{cite book |last=Aghababian |first=Richard V. | name-list-format=vanc |title=Essentials of emergency medicine |url=https://books.google.com/books?id=HnbKaRQAXOIC&pg=PA814 |date=22 October 2010 |publisher=Jones & Bartlett Publishers |isbn=978-1-4496-1846-9 |page=814 |url-status=live |archive-url= https://web.archive.org/web/20160817202827/https://books.google.com/books?id=HnbKaRQAXOIC&pg=PA814 |archive-date=17 August 2016 }}</ref> It is on the [[WHO Model List of Essential Medicines|World Health Organization's List of Essential Medicines]].<ref name="WHO21st">{{cite book | vauthors = ((World Health Organization)) | title = World Health Organization model list of essential medicines: 21st list 2019 | year = 2019 | hdl = 10665/325771 | author-link = World Health Organization | publisher = World Health Organization | location = Geneva | id = WHO/MVP/EMP/IAU/2019.06. License: CC BY-NC-SA 3.0 IGO | hdl-access=free }}</ref> Paracetamol is available as a [[generic medication]], with brand names including [[Tylenol (brand)|Tylenol]] and [[Panadol (brand)|Panadol]] among [[Paracetamol brand names|others]].<ref>{{cite book|last1=Hamilton|first1=Richard J.|title=Tarascon pocket pharmacopoeia : 2013 classic shirt-pocket edition|date=2013|publisher=Jones & Bartlett Learning|location=Burlington, Massachusetts|isbn=9781449665869|page=12|edition=27th|url=https://books.google.com/books?id=lwueJ4IAl4oC&pg=PA12|url-status=live|archive-url=https://web.archive.org/web/20170908185107/https://books.google.com/books?id=lwueJ4IAl4oC&pg=PA12|archive-date=8 September 2017 | name-list-format=vanc }}</ref> In 2017, it was the 25th-most commonly prescribed medication in the United States, with more than 24 million prescriptions.<ref>{{cite web |title=The Top 300 of 2020 |url=https://clincalc.com/DrugStats/Top300Drugs.aspx |publisher=ClinCalc |access-date=25 February 2020 |archive-date=18 March 2020 |archive-url=https://web.archive.org/web/20200318234059/https://clincalc.com/DrugStats/Top300Drugs.aspx |url-status=live }}</ref><ref>{{cite web | title=Acetaminophen Drug Usage Statistics | website=ClinCalc | url=https://clincalc.com/DrugStats/Drugs/Acetaminophen | access-date=11 April 2020 | archive-date=12 April 2020 | archive-url=https://web.archive.org/web/20200412005634/https://clincalc.com/DrugStats/Drugs/Acetaminophen | url-status=dead }}</ref>
+{{TOC limit}}
