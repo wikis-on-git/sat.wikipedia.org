@@ -52,6 +52,1913 @@
 ==ᱨᱳᱢᱟᱱᱟᱭᱡᱮᱥᱟᱱ==
 
 ==ᱭᱩᱱᱤᱠᱳᱰ==
+<!--(begin of legend)-->
+{| class="nounderlines" border="1" cellpadding="3" cellspacing="0" align="right" style="border-collapse:collapse;margin:0 0 0 4em;"
+|----- align="center"
+!colspan="2"|Legend: Unicode version
+|----- align="center"
+|style="background:#f66;" width="50%"|[[Unicode#Standard|Unicode&nbsp;1.0]]
+|style="background:#96f;" width="50%"|[[Unicode#Standard|Unicode&nbsp;5.1]]
+|----- align="center"
+|style="background:#f96;"|[[Unicode#Standard|Unicode&nbsp;1.1]]
+|style="background:#c6f;"|[[Unicode#Standard|Unicode&nbsp;5.2]]
+|----- align="center"
+|style="background:#ff6;"|[[Unicode#Standard|Unicode&nbsp;2.0]]
+|style="background:#f6f;"|[[Unicode#Standard|Unicode&nbsp;6.0]]
+|----- align="center"
+|style="background:#cf6;"|[[Unicode#Standard|Unicode&nbsp;2.1]]
+|style="background:#fcf;"|[[Unicode#Standard|Unicode&nbsp;6.1]]
+|----- align="center"
+|style="background:#6f6;"|[[Unicode#Standard|Unicode&nbsp;3.0]]
+|style="background:#acf;"|[[Unicode#Standard|Unicode&nbsp;7.0]]
+|----- align="center"
+|style="background:#6f9;"|[[Unicode#Standard|Unicode&nbsp;3.1]]
+|style="background:#d2691e;"|[[Unicode#Standard|Unicode&nbsp;8.0]]
+|----- align="center"
+|style="background:#6fc;"|[[Unicode#Standard|Unicode&nbsp;3.2]]
+|style="background:#ff7f50;"|[[Unicode#Standard|Unicode&nbsp;9.0]]
+|----- align="center"
+|style="background:#6ff;"|[[Unicode#Standard|Unicode&nbsp;4.0]]
+|style="background:#ffbf00;"|[[Unicode#Standard|Unicode&nbsp;11.0]]
+|----- align="center"
+|style="background:#6cf;"|[[Unicode#Standard|Unicode&nbsp;4.1]]
+|style="background:#b28b15"|[[Unicode#Standard|Unicode&nbsp;12.0]]
+|----- align="center"
+|style="background:#66f;"|[[Unicode#Standard|Unicode&nbsp;5.0]]
+|style="background:#c39c26"|[[Unicode#Standard|Unicode&nbsp;13.0]]
+|----- align="center"
+|style="background:#fff;"|Not Latin script
+|style="background:#666;color:#fff;"|Reserved
+|}<!--(end of legend)-->
+{| class="nounderlines" border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse"
+|----- align="center"
+!style="background:#ccf"|[[U+]]
+!style="background:#fff"|0||1||2||3||4||5||6||7||8||9||A||B||C||D||E||F||Block||#
+|-
+|----- align="center" style="background:#f66"
+!style="background:#fff"|0040
+|title="COMMERCIAL AT" style="background:#fff"|@
+|title="LATIN CAPITAL LETTER A"|[[A]]
+|title="LATIN CAPITAL LETTER B"|[[B]]
+|title="LATIN CAPITAL LETTER C"|[[C]]
+|title="LATIN CAPITAL LETTER D"|[[D]]
+|title="LATIN CAPITAL LETTER E"|[[E]]
+|title="LATIN CAPITAL LETTER F"|[[F]]
+|title="LATIN CAPITAL LETTER G"|[[G]]
+|title="LATIN CAPITAL LETTER H"|[[H]]
+|title="LATIN CAPITAL LETTER I"|[[I]]
+|title="LATIN CAPITAL LETTER J"|[[J]]
+|title="LATIN CAPITAL LETTER K"|[[K]]
+|title="LATIN CAPITAL LETTER L"|[[L]]
+|title="LATIN CAPITAL LETTER M"|[[M]]
+|title="LATIN CAPITAL LETTER N"|[[N]]
+|title="LATIN CAPITAL LETTER O"|[[O]]
+|rowspan="4" style="background:#fff" align="center"|[[C0 Controls and Basic Latin]]<br>0000–007F<br>(identical to [[ASCII]])
+|rowspan="4" style="background:#fff"|52
+|----- align="center" style="background:#f66"
+!style="background:#fff"|0050
+|title="LATIN CAPITAL LETTER P"|[[P]]
+|title="LATIN CAPITAL LETTER Q"|[[Q]]
+|title="LATIN CAPITAL LETTER R"|[[R]]
+|title="LATIN CAPITAL LETTER S"|[[S]]
+|title="LATIN CAPITAL LETTER T"|[[T]]
+|title="LATIN CAPITAL LETTER U"|[[U]]
+|title="LATIN CAPITAL LETTER V"|[[V]]
+|title="LATIN CAPITAL LETTER W"|[[W]]
+|title="LATIN CAPITAL LETTER X"|[[X]]
+|title="LATIN CAPITAL LETTER Y"|[[Y]]
+|title="LATIN CAPITAL LETTER Z"|[[Z]]
+|title="LEFT SQUARE BRACKET" style="background:#fff"|&#91;
+|title="REVERSE SOLIDUS" style="background:#fff"|\
+|title="RIGHT SQUARE BRACKET" style="background:#fff"|&#93;
+|title="CIRCUMFLEX ACCENT" style="background:#fff"|^
+|title="LOW LINE" style="background:#fff"|_
+|----- align="center" style="background:#f66"
+!style="background:#fff"|0060
+|title="GRAVE ACCENT" style="background:#fff"|`
+|title="LATIN SMALL LETTER A"|[[a]]
+|title="LATIN SMALL LETTER B"|[[b]]
+|title="LATIN SMALL LETTER C"|[[c]]
+|title="LATIN SMALL LETTER D"|[[d]]
+|title="LATIN SMALL LETTER E"|[[e]]
+|title="LATIN SMALL LETTER F"|[[f]]
+|title="LATIN SMALL LETTER G"|[[g]]
+|title="LATIN SMALL LETTER H"|[[h]]
+|title="LATIN SMALL LETTER I"|[[i]]
+|title="LATIN SMALL LETTER J"|[[j]]
+|title="LATIN SMALL LETTER K"|[[k]]
+|title="LATIN SMALL LETTER L"|[[l]]
+|title="LATIN SMALL LETTER M"|[[m]]
+|title="LATIN SMALL LETTER N"|[[n]]
+|title="LATIN SMALL LETTER O"|[[o]]
+|----- align="center" style="background:#f66"
+!style="background:#fff"|0070
+|title="LATIN SMALL LETTER P"|[[p]]
+|title="LATIN SMALL LETTER Q"|[[q]]
+|title="LATIN SMALL LETTER R"|[[r]]
+|title="LATIN SMALL LETTER S"|[[s]]
+|title="LATIN SMALL LETTER T"|[[t]]
+|title="LATIN SMALL LETTER U"|[[u]]
+|title="LATIN SMALL LETTER V"|[[v]]
+|title="LATIN SMALL LETTER W"|[[w]]
+|title="LATIN SMALL LETTER X"|[[x]]
+|title="LATIN SMALL LETTER Y"|[[y]]
+|title="LATIN SMALL LETTER Z"|[[z]]
+|title="LEFT CURLY BRACKET" style="background:#fff"|&#123;
+|title="VERTICAL LINE" style="background:#fff"|&#124;
+|title="RIGHT CURLY BRACKET" style="background:#fff"|&#125;
+|title="TILDE" style="background:#fff"|~
+|title="DELETE" style="background:#fff; font-size:75%"|DEL
+|-
+!colspan="19"| 
+|----- align="center" style="background:#fff"
+!style="background:#fff"|00A0
+|&nbsp;
+|title="INVERTED EXCLAMATION MARK"|¡
+|title="CENT SIGN"|¢
+|title="POUND SIGN"|£
+|title="CURRENCY SIGN"|¤
+|title="YEN SIGN"|¥
+|title="BROKEN BAR"|¦
+|title="SECTION SIGN"|§
+|title="DIAERESIS"|¨
+|title="COPYRIGHT SIGN"|©
+|title="FEMININE ORDINAL INDICATOR" style="background:#f66"|[[ª]]
+|title="LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"|«
+|title="NOT SIGN"|¬
+|title="SOFT HYPHEN"|
+|title="REGISTERED SIGN"|®
+|title="MACRON"|¯
+|rowspan="6" style="background:#fff" align="center"|[[C1 Controls and Latin-1 Supplement]]<br>0080–00FF<br>(identical to [[ISO/IEC 8859-1]])
+|rowspan="6" style="background:#fff"|64
+|----- align="center" style="background:#fff"
+!style="background:#fff"|00B0
+|title="DEGREE SIGN"|°
+|title="PLUS-MINUS SIGN"|±
+|title="SUPERSCRIPT TWO"|²
+|title="SUPERSCRIPT THREE"|³
+|title="ACUTE ACCENT"|´
+|title="MICRO SIGN"|µ
+|title="PILCROW SIGN"|¶
+|title="MIDDLE DOT"|·
+|title="CEDILLA"|¸
+|title="SUPERSCRIPT ONE"|¹
+|title="MASCULINE ORDINAL INDICATOR" style="background:#f66"|[[º]]
+|title="RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"|»
+|title="VULGAR FRACTION ONE QUARTER"|¼
+|title="VULGAR FRACTION ONE HALF"|½
+|title="VULGAR FRACTION THREE QUARTERS"|¾
+|title="INVERTED QUESTION MARK"|¿
+|----- align="center" style="background:#f66"
+!style="background:#fff"|00C0
+|title="LATIN CAPITAL LETTER A WITH GRAVE"|[[À]]
+|title="LATIN CAPITAL LETTER A WITH ACUTE"|[[Á]]
+|title="LATIN CAPITAL LETTER A WITH CIRCUMFLEX"|[[Â]]
+|title="LATIN CAPITAL LETTER A WITH TILDE"|[[Ã]]
+|title="LATIN CAPITAL LETTER A WITH DIAERESIS"|[[Ä]]
+|title="LATIN CAPITAL LETTER A WITH RING ABOVE"|[[Å]]
+|title="LATIN CAPITAL LETTER AE"|[[Æ]]
+|title="LATIN CAPITAL LETTER C WITH CEDILLA"|[[Ç]]
+|title="LATIN CAPITAL LETTER E WITH GRAVE"|[[È]]
+|title="LATIN CAPITAL LETTER E WITH ACUTE"|[[É]]
+|title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX"|[[Ê]]
+|title="LATIN CAPITAL LETTER E WITH DIAERESIS"|[[Ë]]
+|title="LATIN CAPITAL LETTER I WITH GRAVE"|[[Ì]]
+|title="LATIN CAPITAL LETTER I WITH ACUTE"|[[Í]]
+|title="LATIN CAPITAL LETTER I WITH CIRCUMFLEX"|[[Î]]
+|title="LATIN CAPITAL LETTER I WITH DIAERESIS"|[[Ï]]
+|----- align="center" style="background:#f66"
+!style="background:#fff"|00D0
+|title="LATIN CAPITAL LETTER ETH"|[[Ð]]
+|title="LATIN CAPITAL LETTER N WITH TILDE"|[[Ñ]]
+|title="LATIN CAPITAL LETTER O WITH GRAVE"|[[Ò]]
+|title="LATIN CAPITAL LETTER O WITH ACUTE"|[[Ó]]
+|title="LATIN CAPITAL LETTER O WITH CIRCUMFLEX"|[[Ô]]
+|title="LATIN CAPITAL LETTER O WITH TILDE"|[[Õ]]
+|title="LATIN CAPITAL LETTER O WITH DIAERESIS"|[[Ö]]
+|title="MULTIPLICATION SIGN" style="background:#fff"|×
+|title="LATIN CAPITAL LETTER O WITH STROKE"|[[Ø]]
+|title="LATIN CAPITAL LETTER U WITH GRAVE"|[[Ù]]
+|title="LATIN CAPITAL LETTER U WITH ACUTE"|[[Ú]]
+|title="LATIN CAPITAL LETTER U WITH CIRCUMFLEX"|[[Û]]
+|title="LATIN CAPITAL LETTER U WITH DIAERESIS"|[[Ü]]
+|title="LATIN CAPITAL LETTER Y WITH ACUTE"|[[Ý]]
+|title="LATIN CAPITAL LETTER THORN"|[[Þ]]
+|title="LATIN SMALL LETTER SHARP S"|[[ß]]
+|----- align="center" style="background:#f66"
+!style="background:#fff"|00E0
+|title="LATIN SMALL LETTER A WITH GRAVE"|[[à]]
+|title="LATIN SMALL LETTER A WITH ACUTE"|[[á]]
+|title="LATIN SMALL LETTER A WITH CIRCUMFLEX"|[[â]]
+|title="LATIN SMALL LETTER A WITH TILDE"|[[ã]]
+|title="LATIN SMALL LETTER A WITH DIAERESIS"|[[ä]]
+|title="LATIN SMALL LETTER A WITH RING ABOVE"|[[å]]
+|title="LATIN SMALL LETTER AE"|[[æ]]
+|title="LATIN SMALL LETTER C WITH CEDILLA"|[[ç]]
+|title="LATIN SMALL LETTER E WITH GRAVE"|[[è]]
+|title="LATIN SMALL LETTER E WITH ACUTE"|[[é]]
+|title="LATIN SMALL LETTER E WITH CIRCUMFLEX"|[[ê]]
+|title="LATIN SMALL LETTER E WITH DIAERESIS"|[[ë]]
+|title="LATIN SMALL LETTER I WITH GRAVE"|[[ì]]
+|title="LATIN SMALL LETTER I WITH ACUTE"|[[í]]
+|title="LATIN SMALL LETTER I WITH CIRCUMFLEX"|[[î]]
+|title="LATIN SMALL LETTER I WITH DIAERESIS"|[[ï]]
+|----- align="center" style="background:#f66"
+!style="background:#fff"|00F0
+|title="LATIN SMALL LETTER ETH"|[[ð]]
+|title="LATIN SMALL LETTER N WITH TILDE"|[[ñ]]
+|title="LATIN SMALL LETTER O WITH GRAVE"|[[ò]]
+|title="LATIN SMALL LETTER O WITH ACUTE"|[[ó]]
+|title="LATIN SMALL LETTER O WITH CIRCUMFLEX"|[[ô]]
+|title="LATIN SMALL LETTER O WITH TILDE"|[[õ]]
+|title="LATIN SMALL LETTER O WITH DIAERESIS"|[[ö]]
+|title="DIVISION SIGN" style="background:#fff"|÷
+|title="LATIN SMALL LETTER O WITH STROKE"|[[ø]]
+|title="LATIN SMALL LETTER U WITH GRAVE"|[[ù]]
+|title="LATIN SMALL LETTER U WITH ACUTE"|[[ú]]
+|title="LATIN SMALL LETTER U WITH CIRCUMFLEX"|[[û]]
+|title="LATIN SMALL LETTER U WITH DIAERESIS"|[[ü]]
+|title="LATIN SMALL LETTER Y WITH ACUTE"|[[ý]]
+|title="LATIN SMALL LETTER THORN"|[[þ]]
+|title="LATIN SMALL LETTER Y WITH DIAERESIS"|[[ÿ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0100
+|title="LATIN CAPITAL LETTER A WITH MACRON"|[[Ā]]
+|title="LATIN SMALL LETTER A WITH MACRON"|[[ā]]
+|title="LATIN CAPITAL LETTER A WITH BREVE"|[[Ă]]
+|title="LATIN SMALL LETTER A WITH BREVE"|[[ă]]
+|title="LATIN CAPITAL LETTER A WITH OGONEK"|[[Ą]]
+|title="LATIN SMALL LETTER A WITH OGONEK"|[[ą]]
+|title="LATIN CAPITAL LETTER C WITH ACUTE"|[[Ć]]
+|title="LATIN SMALL LETTER C WITH ACUTE"|[[ć]]
+|title="LATIN CAPITAL LETTER C WITH CIRCUMFLEX"|[[Ĉ]]
+|title="LATIN SMALL LETTER C WITH CIRCUMFLEX"|[[ĉ]]
+|title="LATIN CAPITAL LETTER C WITH DOT ABOVE"|[[Ċ]]
+|title="LATIN SMALL LETTER C WITH DOT ABOVE"|[[ċ]]
+|title="LATIN CAPITAL LETTER C WITH CARON"|[[Č]]
+|title="LATIN SMALL LETTER C WITH CARON"|[[č]]
+|title="LATIN CAPITAL LETTER D WITH CARON"|[[Ď]]
+|title="LATIN SMALL LETTER D WITH CARON"|[[ď]]
+|rowspan="8" style="background:#fff"|[[Latin Extended-A]]<br>0100–017F
+|rowspan="8" style="background:#fff"|128
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0110
+|title="LATIN CAPITAL LETTER D WITH STROKE"|[[Đ]]
+|title="LATIN SMALL LETTER D WITH STROKE"|[[đ]]
+|title="LATIN CAPITAL LETTER E WITH MACRON"|[[Ē]]
+|title="LATIN SMALL LETTER E WITH MACRON"|[[ē]]
+|title="LATIN CAPITAL LETTER E WITH BREVE"|[[Ĕ]]
+|title="LATIN SMALL LETTER E WITH BREVE"|[[ĕ]]
+|title="LATIN CAPITAL LETTER E WITH DOT ABOVE"|[[Ė]]
+|title="LATIN SMALL LETTER E WITH DOT ABOVE"|[[ė]]
+|title="LATIN CAPITAL LETTER E WITH OGONEK"|[[Ę]]
+|title="LATIN SMALL LETTER E WITH OGONEK"|[[ę]]
+|title="LATIN CAPITAL LETTER E WITH CARON"|[[Ě]]
+|title="LATIN SMALL LETTER E WITH CARON"|[[ě]]
+|title="LATIN CAPITAL LETTER G WITH CIRCUMFLEX"|[[Ĝ]]
+|title="LATIN SMALL LETTER G WITH CIRCUMFLEX"|[[ĝ]]
+|title="LATIN CAPITAL LETTER G WITH BREVE"|[[Ğ]]
+|title="LATIN SMALL LETTER G WITH BREVE"|[[ğ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0120
+|title="LATIN CAPITAL LETTER G WITH DOT ABOVE"|[[Ġ]]
+|title="LATIN SMALL LETTER G WITH DOT ABOVE"|[[ġ]]
+|title="LATIN CAPITAL LETTER G WITH CEDILLA"|[[Ģ]]
+|title="LATIN SMALL LETTER G WITH CEDILLA"|[[ģ]]
+|title="LATIN CAPITAL LETTER H WITH CIRCUMFLEX"|[[Ĥ]]
+|title="LATIN SMALL LETTER H WITH CIRCUMFLEX"|[[ĥ]]
+|title="LATIN CAPITAL LETTER H WITH STROKE"|[[Ħ]]
+|title="LATIN SMALL LETTER H WITH STROKE"|[[ħ]]
+|title="LATIN CAPITAL LETTER I WITH TILDE"|[[Ĩ]]
+|title="LATIN SMALL LETTER I WITH TILDE"|[[ĩ]]
+|title="LATIN CAPITAL LETTER I WITH MACRON"|[[Ī]]
+|title="LATIN SMALL LETTER I WITH MACRON"|[[ī]]
+|title="LATIN CAPITAL LETTER I WITH BREVE"|[[Ĭ]]
+|title="LATIN SMALL LETTER I WITH BREVE"|[[ĭ]]
+|title="LATIN CAPITAL LETTER I WITH OGONEK"|[[Į]]
+|title="LATIN SMALL LETTER I WITH OGONEK"|[[į]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0130
+|title="LATIN CAPITAL LETTER I WITH DOT ABOVE"|[[Dotted and dotless I|İ]]
+|title="LATIN SMALL LETTER DOTLESS I"|[[Dotted and dotless I|ı]]
+|title="LATIN CAPITAL LIGATURE IJ"|[[Ĳ]]
+|title="LATIN SMALL LIGATURE IJ"|[[ĳ]]
+|title="LATIN CAPITAL LETTER J WITH CIRCUMFLEX"|[[Ĵ]]
+|title="LATIN SMALL LETTER J WITH CIRCUMFLEX"|[[ĵ]]
+|title="LATIN CAPITAL LETTER K WITH CEDILLA"|[[Ķ]]
+|title="LATIN SMALL LETTER K WITH CEDILLA"|[[ķ]]
+|title="LATIN SMALL LETTER KRA"|[[ĸ]]
+|title="LATIN CAPITAL LETTER L WITH ACUTE"|[[Ĺ]]
+|title="LATIN SMALL LETTER L WITH ACUTE"|[[ĺ]]
+|title="LATIN CAPITAL LETTER L WITH CEDILLA"|[[Ļ]]
+|title="LATIN SMALL LETTER L WITH CEDILLA"|[[ļ]]
+|title="LATIN CAPITAL LETTER L WITH CARON"|[[Ľ]]
+|title="LATIN SMALL LETTER L WITH CARON"|[[ľ]]
+|title="LATIN CAPITAL LETTER L WITH MIDDLE DOT"|[[Ŀ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0140
+|title="LATIN SMALL LETTER L WITH MIDDLE DOT"|[[ŀ]]
+|title="LATIN CAPITAL LETTER L WITH STROKE"|[[Ł]]
+|title="LATIN SMALL LETTER L WITH STROKE"|[[ł]]
+|title="LATIN CAPITAL LETTER N WITH ACUTE"|[[Ń]]
+|title="LATIN SMALL LETTER N WITH ACUTE"|[[ń]]
+|title="LATIN CAPITAL LETTER N WITH CEDILLA"|[[Ņ]]
+|title="LATIN SMALL LETTER N WITH CEDILLA"|[[ņ]]
+|title="LATIN CAPITAL LETTER N WITH CARON"|[[Ň]]
+|title="LATIN SMALL LETTER N WITH CARON"|[[ň]]
+|title="LATIN SMALL LETTER N PRECEDED BY APOSTROPHE"|[[ŉ]]
+|title="LATIN CAPITAL LETTER ENG"|[[Ŋ]]
+|title="LATIN SMALL LETTER ENG"|[[ŋ]]
+|title="LATIN CAPITAL LETTER O WITH MACRON"|[[Ō]]
+|title="LATIN SMALL LETTER O WITH MACRON"|[[ō]]
+|title="LATIN CAPITAL LETTER O WITH BREVE"|[[Ŏ]]
+|title="LATIN SMALL LETTER O WITH BREVE"|[[ŏ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0150
+|title="LATIN CAPITAL LETTER O WITH DOUBLE ACUTE"|[[Ő]]
+|title="LATIN SMALL LETTER O WITH DOUBLE ACUTE"|[[ő]]
+|title="LATIN CAPITAL LIGATURE OE"|[[Œ]]
+|title="LATIN SMALL LIGATURE OE"|[[œ]]
+|title="LATIN CAPITAL LETTER R WITH ACUTE"|[[Ŕ]]
+|title="LATIN SMALL LETTER R WITH ACUTE"|[[ŕ]]
+|title="LATIN CAPITAL LETTER R WITH CEDILLA"|[[Ŗ]]
+|title="LATIN SMALL LETTER R WITH CEDILLA"|[[ŗ]]
+|title="LATIN CAPITAL LETTER R WITH CARON"|[[Ř]]
+|title="LATIN SMALL LETTER R WITH CARON"|[[ř]]
+|title="LATIN CAPITAL LETTER S WITH ACUTE"|[[Ś]]
+|title="LATIN SMALL LETTER S WITH ACUTE"|[[ś]]
+|title="LATIN CAPITAL LETTER S WITH CIRCUMFLEX"|[[Ŝ]]
+|title="LATIN SMALL LETTER S WITH CIRCUMFLEX"|[[ŝ]]
+|title="LATIN CAPITAL LETTER S WITH CEDILLA"|[[Ş]]
+|title="LATIN SMALL LETTER S WITH CEDILLA"|[[ş]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0160
+|title="LATIN CAPITAL LETTER S WITH CARON"|[[Š]]
+|title="LATIN SMALL LETTER S WITH CARON"|[[š]]
+|title="LATIN CAPITAL LETTER T WITH CEDILLA"|[[Ţ]]
+|title="LATIN SMALL LETTER T WITH CEDILLA"|[[ţ]]
+|title="LATIN CAPITAL LETTER T WITH CARON"|[[Ť]]
+|title="LATIN SMALL LETTER T WITH CARON"|[[ť]]
+|title="LATIN CAPITAL LETTER T WITH STROKE"|[[Ŧ]]
+|title="LATIN SMALL LETTER T WITH STROKE"|[[ŧ]]
+|title="LATIN CAPITAL LETTER U WITH TILDE"|[[Ũ]]
+|title="LATIN SMALL LETTER U WITH TILDE"|[[ũ]]
+|title="LATIN CAPITAL LETTER U WITH MACRON"|[[Ū]]
+|title="LATIN SMALL LETTER U WITH MACRON"|[[ū]]
+|title="LATIN CAPITAL LETTER U WITH BREVE"|[[Ŭ]]
+|title="LATIN SMALL LETTER U WITH BREVE"|[[ŭ]]
+|title="LATIN CAPITAL LETTER U WITH RING ABOVE"|[[Ů]]
+|title="LATIN SMALL LETTER U WITH RING ABOVE"|[[ů]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0170
+|title="LATIN CAPITAL LETTER U WITH DOUBLE ACUTE"|[[Ű]]
+|title="LATIN SMALL LETTER U WITH DOUBLE ACUTE"|[[ű]]
+|title="LATIN CAPITAL LETTER U WITH OGONEK"|[[Ų]]
+|title="LATIN SMALL LETTER U WITH OGONEK"|[[ų]]
+|title="LATIN CAPITAL LETTER W WITH CIRCUMFLEX"|[[Ŵ]]
+|title="LATIN SMALL LETTER W WITH CIRCUMFLEX"|[[ŵ]]
+|title="LATIN CAPITAL LETTER Y WITH CIRCUMFLEX"|[[Ŷ]]
+|title="LATIN SMALL LETTER Y WITH CIRCUMFLEX"|[[ŷ]]
+|title="LATIN CAPITAL LETTER Y WITH DIAERESIS"|[[Ÿ]]
+|title="LATIN CAPITAL LETTER Z WITH ACUTE"|[[Ź]]
+|title="LATIN SMALL LETTER Z WITH ACUTE"|[[ź]]
+|title="LATIN CAPITAL LETTER Z WITH DOT ABOVE"|[[Ż]]
+|title="LATIN SMALL LETTER Z WITH DOT ABOVE"|[[ż]]
+|title="LATIN CAPITAL LETTER Z WITH CARON"|[[Ž]]
+|title="LATIN SMALL LETTER Z WITH CARON"|[[ž]]
+|title="LATIN SMALL LETTER LONG S" style="background:#f96"|[[Long s|ſ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0180
+|title="LATIN SMALL LETTER B WITH STROKE"|[[ƀ]]
+|title="LATIN CAPITAL LETTER B WITH HOOK"|[[Ɓ]]
+|title="LATIN CAPITAL LETTER B WITH TOPBAR"|[[Ƃ]]
+|title="LATIN SMALL LETTER B WITH TOPBAR"|[[ƃ]]
+|title="LATIN CAPITAL LETTER TONE SIX"|[[Ƅ]]
+|title="LATIN SMALL LETTER TONE SIX"|[[ƅ]]
+|title="LATIN CAPITAL LETTER OPEN O"|[[Ɔ]]
+|title="LATIN CAPITAL LETTER C WITH HOOK"|[[Ƈ]]
+|title="LATIN SMALL LETTER C WITH HOOK"|[[ƈ]]
+|title="LATIN CAPITAL LETTER AFRICAN D"|[[Ɖ]]
+|title="LATIN CAPITAL LETTER D WITH HOOK"|[[Ɗ]]
+|title="LATIN CAPITAL LETTER D WITH TOPBAR"|[[Ƌ]]
+|title="LATIN SMALL LETTER D WITH TOPBAR"|[[ƌ]]
+|title="LATIN SMALL LETTER TURNED DELTA"|[[ƍ]]
+|title="LATIN CAPITAL LETTER REVERSED E"|[[Ǝ]]
+|title="LATIN CAPITAL LETTER SCHWA"|[[Ə]]
+|rowspan="13" style="background:#fff"|[[Latin Extended-B]]<br>0180–024F
+|rowspan="13" style="background:#fff"|208
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0190
+|title="LATIN CAPITAL LETTER OPEN E"|[[Ɛ]]
+|title="LATIN CAPITAL LETTER F WITH HOOK"|[[Ƒ]]
+|title="LATIN SMALL LETTER F WITH HOOK"|[[ƒ]]
+|title="LATIN CAPITAL LETTER G WITH HOOK"|[[Ɠ]]
+|title="LATIN CAPITAL LETTER GAMMA"|[[Ɣ]]
+|title="LATIN SMALL LETTER HV"|[[ƕ]]
+|title="LATIN CAPITAL LETTER IOTA"|[[Ɩ]]
+|title="LATIN CAPITAL LETTER I WITH STROKE"|[[Ɨ]]
+|title="LATIN CAPITAL LETTER K WITH HOOK"|[[Ƙ]]
+|title="LATIN SMALL LETTER K WITH HOOK"|[[ƙ]]
+|title="LATIN SMALL LETTER L WITH BAR"|[[ƚ]]
+|title="LATIN SMALL LETTER LAMBDA WITH STROKE"|[[ƛ]]
+|title="LATIN CAPITAL LETTER TURNED M"|[[Ɯ]]
+|title="LATIN CAPITAL LETTER N WITH LEFT HOOK"|[[Ɲ]]
+|title="LATIN SMALL LETTER N WITH LONG RIGHT LEG"|[[ƞ]]
+|title="LATIN CAPITAL LETTER O WITH MIDDLE TILDE"|[[Ɵ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|01A0
+|title="LATIN CAPITAL LETTER O WITH HORN"|[[Ơ]]
+|title="LATIN SMALL LETTER O WITH HORN"|[[ơ]]
+|title="LATIN CAPITAL LETTER OI"|[[Ƣ]]
+|title="LATIN SMALL LETTER OI"|[[ƣ]]
+|title="LATIN CAPITAL LETTER P WITH HOOK"|[[Ƥ]]
+|title="LATIN SMALL LETTER P WITH HOOK"|[[ƥ]]
+|title="LATIN LETTER YR"|[[Ʀ]]
+|title="LATIN CAPITAL LETTER TONE TWO"|[[Ƨ]]
+|title="LATIN SMALL LETTER TONE TWO"|[[ƨ]]
+|title="LATIN CAPITAL LETTER ESH"|[[Ʃ]]
+|title="LATIN LETTER REVERSED ESH LOOP"|[[ƪ]]
+|title="LATIN SMALL LETTER T WITH PALATAL HOOK"|[[ƫ]]
+|title="LATIN CAPITAL LETTER T WITH HOOK"|[[Ƭ]]
+|title="LATIN SMALL LETTER T WITH HOOK"|[[ƭ]]
+|title="LATIN CAPITAL LETTER T WITH RETROFLEX HOOK"|[[Ʈ]]
+|title="LATIN CAPITAL LETTER U WITH HORN"|[[Ư]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|01B0
+|title="LATIN SMALL LETTER U WITH HORN"|[[ư]]
+|title="LATIN CAPITAL LETTER UPSILON"|[[Ʊ]]
+|title="LATIN CAPITAL LETTER V WITH HOOK"|[[Ʋ]]
+|title="LATIN CAPITAL LETTER Y WITH HOOK"|[[Ƴ]]
+|title="LATIN SMALL LETTER Y WITH HOOK"|[[ƴ]]
+|title="LATIN CAPITAL LETTER Z WITH STROKE"|[[Ƶ]]
+|title="LATIN SMALL LETTER Z WITH STROKE"|[[ƶ]]
+|title="LATIN CAPITAL LETTER EZH"|[[Ʒ]]
+|title="LATIN CAPITAL LETTER EZH REVERSED"|[[Ƹ]]
+|title="LATIN SMALL LETTER EZH REVERSED"|[[ƹ]]
+|title="LATIN SMALL LETTER EZH WITH TAIL"|[[ƺ]]
+|title="LATIN LETTER TWO WITH STROKE"|[[ƻ]]
+|title="LATIN CAPITAL LETTER TONE FIVE"|[[Ƽ]]
+|title="LATIN SMALL LETTER TONE FIVE"|[[ƽ]]
+|title="LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE"|[[ƾ]]
+|title="LATIN LETTER WYNN"|[[ƿ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|01C0
+|title="LATIN LETTER DENTAL CLICK"|[[ǀ]]
+|title="LATIN LETTER LATERAL CLICK"|[[ǁ]]
+|title="LATIN LETTER ALVEOLAR CLICK"|[[ǂ]]
+|title="LATIN LETTER RETROFLEX CLICK"|[[ǃ]]
+|title="LATIN CAPITAL LETTER DZ WITH CARON"|[[Ǆ]]
+|title="LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON"|[[ǅ]]
+|title="LATIN SMALL LETTER DZ WITH CARON"|[[ǆ]]
+|title="LATIN CAPITAL LETTER LJ"|[[Ǉ]]
+|title="LATIN CAPITAL LETTER L WITH SMALL LETTER J"|[[ǈ]]
+|title="LATIN SMALL LETTER LJ"|[[ǉ]]
+|title="LATIN CAPITAL LETTER NJ"|[[Ǌ]]
+|title="LATIN CAPITAL LETTER N WITH SMALL LETTER J"|[[ǋ]]
+|title="LATIN SMALL LETTER NJ"|[[ǌ]]
+|title="LATIN CAPITAL LETTER A WITH CARON"|[[Ǎ]]
+|title="LATIN SMALL LETTER A WITH CARON"|[[ǎ]]
+|title="LATIN CAPITAL LETTER I WITH CARON"|[[Ǐ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|01D0
+|title="LATIN SMALL LETTER I WITH CARON"|[[ǐ]]
+|title="LATIN CAPITAL LETTER O WITH CARON"|[[Ǒ]]
+|title="LATIN SMALL LETTER O WITH CARON"|[[ǒ]]
+|title="LATIN CAPITAL LETTER U WITH CARON"|[[Ǔ]]
+|title="LATIN SMALL LETTER U WITH CARON"|[[ǔ]]
+|title="LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON"|[[Ǖ]]
+|title="LATIN SMALL LETTER U WITH DIAERESIS AND MACRON"|[[ǖ]]
+|title="LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE"|[[Ǘ]]
+|title="LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE"|[[ǘ]]
+|title="LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON"|[[Ǚ]]
+|title="LATIN SMALL LETTER U WITH DIAERESIS AND CARON"|[[ǚ]]
+|title="LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE"|[[Ǜ]]
+|title="LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE"|[[ǜ]]
+|title="LATIN SMALL LETTER TURNED E"|[[ǝ]]
+|title="LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON"|[[Ǟ]]
+|title="LATIN SMALL LETTER A WITH DIAERESIS AND MACRON"|[[ǟ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|01E0
+|title="LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON"|[[Ǡ]]
+|title="LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON"|[[ǡ]]
+|title="LATIN CAPITAL LETTER AE WITH MACRON"|[[Ǣ]]
+|title="LATIN SMALL LETTER AE WITH MACRON"|[[ǣ]]
+|title="LATIN CAPITAL LETTER G WITH STROKE"|[[Ǥ]]
+|title="LATIN SMALL LETTER G WITH STROKE"|[[ǥ]]
+|title="LATIN CAPITAL LETTER G WITH CARON"|[[Ǧ]]
+|title="LATIN SMALL LETTER G WITH CARON"|[[ǧ]]
+|title="LATIN CAPITAL LETTER K WITH CARON"|[[Ǩ]]
+|title="LATIN SMALL LETTER K WITH CARON"|[[ǩ]]
+|title="LATIN CAPITAL LETTER O WITH OGONEK"|[[Ǫ]]
+|title="LATIN SMALL LETTER O WITH OGONEK"|[[ǫ]]
+|title="LATIN CAPITAL LETTER O WITH OGONEK AND MACRON"|[[Ǭ]]
+|title="LATIN SMALL LETTER O WITH OGONEK AND MACRON"|[[ǭ]]
+|title="LATIN CAPITAL LETTER EZH WITH CARON"|[[Ǯ]]
+|title="LATIN SMALL LETTER EZH WITH CARON"|[[ǯ]]
+|---- align="center" style="background:#f96"
+!style="background:#fff"|01F0
+|title="LATIN SMALL LETTER J WITH CARON" style="background:#f66"|[[ǰ]]
+|title="LATIN CAPITAL LETTER DZ"|[[Ǳ]]
+|title="LATIN CAPITAL LETTER D WITH SMALL LETTER Z"|[[ǲ]]
+|title="LATIN SMALL LETTER DZ"|[[ǳ]]
+|title="LATIN CAPITAL LETTER G WITH ACUTE"|[[Ǵ]]
+|title="LATIN SMALL LETTER G WITH ACUTE"|[[ǵ]]
+|title="LATIN CAPITAL LETTER HWAIR" style="background:#6f6"|[[Ƕ]]
+|title="LATIN CAPITAL LETTER WYNN" style="background:#6f6"|[[Ƿ]]
+|title="LATIN CAPITAL LETTER N WITH GRAVE" style="background:#6f6"|[[Ǹ]]
+|title="LATIN SMALL LETTER N WITH GRAVE" style="background:#6f6"|[[ǹ]]
+|title="LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE"|[[Ǻ]]
+|title="LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE"|[[ǻ]]
+|title="LATIN CAPITAL LETTER AE WITH ACUTE"|[[Ǽ]]
+|title="LATIN SMALL LETTER AE WITH ACUTE"|[[ǽ]]
+|title="LATIN CAPITAL LETTER O WITH STROKE AND ACUTE"|[[Ǿ]]
+|title="LATIN SMALL LETTER O WITH STROKE AND ACUTE"|[[ǿ]]
+|---- align="center" style="background:#f96"
+!style="background:#fff"|0200
+|title="LATIN CAPITAL LETTER A WITH DOUBLE GRAVE"|[[Ȁ]]
+|title="LATIN SMALL LETTER A WITH DOUBLE GRAVE"|[[ȁ]]
+|title="LATIN CAPITAL LETTER A WITH INVERTED BREVE"|[[Ȃ]]
+|title="LATIN SMALL LETTER A WITH INVERTED BREVE"|[[ȃ]]
+|title="LATIN CAPITAL LETTER E WITH DOUBLE GRAVE"|[[Ȅ]]
+|title="LATIN SMALL LETTER E WITH DOUBLE GRAVE"|[[ȅ]]
+|title="LATIN CAPITAL LETTER E WITH INVERTED BREVE"|[[Ȇ]]
+|title="LATIN SMALL LETTER E WITH INVERTED BREVE"|[[ȇ]]
+|title="LATIN CAPITAL LETTER I WITH DOUBLE GRAVE"|[[Ȉ]]
+|title="LATIN SMALL LETTER I WITH DOUBLE GRAVE"|[[ȉ]]
+|title="LATIN CAPITAL LETTER I WITH INVERTED BREVE"|[[Ȋ]]
+|title="LATIN SMALL LETTER I WITH INVERTED BREVE"|[[ȋ]]
+|title="LATIN CAPITAL LETTER O WITH DOUBLE GRAVE"|[[Ȍ]]
+|title="LATIN SMALL LETTER O WITH DOUBLE GRAVE"|[[ȍ]]
+|title="LATIN CAPITAL LETTER O WITH INVERTED BREVE"|[[Ȏ]]
+|title="LATIN SMALL LETTER O WITH INVERTED BREVE"|[[ȏ]]
+|---- align="center" style="background:#f96"
+!style="background:#fff"|0210
+|title="LATIN CAPITAL LETTER R WITH DOUBLE GRAVE"|[[Ȑ]]
+|title="LATIN SMALL LETTER R WITH DOUBLE GRAVE"|[[ȑ]]
+|title="LATIN CAPITAL LETTER R WITH INVERTED BREVE"|[[Ȓ]]
+|title="LATIN SMALL LETTER R WITH INVERTED BREVE"|[[ȓ]]
+|title="LATIN CAPITAL LETTER U WITH DOUBLE GRAVE"|[[Ȕ]]
+|title="LATIN SMALL LETTER U WITH DOUBLE GRAVE"|[[ȕ]]
+|title="LATIN CAPITAL LETTER U WITH INVERTED BREVE"|[[Ȗ]]
+|title="LATIN SMALL LETTER U WITH INVERTED BREVE"|[[ȗ]]
+|title="LATIN CAPITAL LETTER S WITH COMMA BELOW" style="background:#6f6"|[[Ș]]
+|title="LATIN SMALL LETTER S WITH COMMA BELOW" style="background:#6f6"|[[ș]]
+|title="LATIN CAPITAL LETTER T WITH COMMA BELOW" style="background:#6f6"|[[Ț]]
+|title="LATIN SMALL LETTER T WITH COMMA BELOW" style="background:#6f6"|[[ț]]
+|title="LATIN CAPITAL LETTER YOGH" style="background:#6f6"|[[Ȝ]]
+|title="LATIN SMALL LETTER YOGH" style="background:#6f6"|[[ȝ]]
+|title="LATIN CAPITAL LETTER H WITH CARON" style="background:#6f6"|[[Ȟ]]
+|title="LATIN SMALL LETTER H WITH CARON" style="background:#6f6"|[[ȟ]]
+|---- align="center" style="background:#6f6"
+!style="background:#fff"|0220
+|title="LATIN CAPITAL LETTER N WITH LONG RIGHT LEG" style="background:#6fc"|[[Ƞ]]
+|title="LATIN SMALL LETTER D WITH CURL" style="background:#6ff"|[[ȡ]]
+|title="LATIN CAPITAL LETTER OU"|[[Ȣ]]
+|title="LATIN SMALL LETTER OU"|[[ȣ]]
+|title="LATIN CAPITAL LETTER Z WITH HOOK"|[[Ȥ]]
+|title="LATIN SMALL LETTER Z WITH HOOK"|[[ȥ]]
+|title="LATIN CAPITAL LETTER A WITH DOT ABOVE"|[[Ȧ]]
+|title="LATIN SMALL LETTER A WITH DOT ABOVE"|[[ȧ]]
+|title="LATIN CAPITAL LETTER E WITH CEDILLA"|[[Ȩ]]
+|title="LATIN SMALL LETTER E WITH CEDILLA"|[[ȩ]]
+|title="LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON"|[[Ȫ]]
+|title="LATIN SMALL LETTER O WITH DIAERESIS AND MACRON"|[[ȫ]]
+|title="LATIN CAPITAL LETTER O WITH TILDE AND MACRON"|[[Ȭ]]
+|title="LATIN SMALL LETTER O WITH TILDE AND MACRON"|[[ȭ]]
+|title="LATIN CAPITAL LETTER O WITH DOT ABOVE"|[[Ȯ]]
+|title="LATIN SMALL LETTER O WITH DOT ABOVE"|[[ȯ]]
+|---- align="center" style="background:#6cf"
+!style="background:#fff"|0230
+|title="LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON" style="background:#6f6"|[[Ȱ]]
+|title="LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON" style="background:#6f6"|[[ȱ]]
+|title="LATIN CAPITAL LETTER Y WITH MACRON" style="background:#6f6"|[[Ȳ]]
+|title="LATIN SMALL LETTER Y WITH MACRON" style="background:#6f6"|[[ȳ]]
+|title="LATIN SMALL LETTER L WITH CURL" style="background:#6ff"|[[ȴ]]
+|title="LATIN SMALL LETTER N WITH CURL" style="background:#6ff"|[[ȵ]]
+|title="LATIN SMALL LETTER T WITH CURL" style="background:#6ff"|[[ȶ]]
+|title="LATIN SMALL LETTER DOTLESS J"|[[ȷ]]
+|title="LATIN SMALL LETTER DB DIGRAPH"|[[ȸ]]
+|title="LATIN SMALL LETTER QP DIGRAPH"|[[ȹ]]
+|title="LATIN CAPITAL LETTER A WITH STROKE"|[[Ⱥ]]
+|title="LATIN CAPITAL LETTER C WITH STROKE"|[[Ȼ]]
+|title="LATIN SMALL LETTER C WITH STROKE"|[[ȼ]]
+|title="LATIN CAPITAL LETTER L WITH BAR"|[[Ƚ]]
+|title="LATIN CAPITAL LETTER T WITH DIAGONAL STROKE"|[[Ⱦ]]
+|title="LATIN SMALL LETTER S WITH SWASH TAIL"|[[ȿ]]
+|---- align="center" style="background:#66f"
+!style="background:#fff"|0240
+|title="LATIN SMALL LETTER Z WITH SWASH TAIL" style="background:#6cf"|[[ɀ]]
+|title="LATIN CAPITAL LETTER GLOTTAL STOP" style="background:#6cf"|[[Ɂ]]
+|title="LATIN SMALL LETTER GLOTTAL STOP"|[[ɂ]]
+|title="LATIN CAPITAL LETTER B WITH STROKE"|[[Ƀ]]
+|title="LATIN CAPITAL LETTER U BAR"|[[Ʉ]]
+|title="LATIN CAPITAL LETTER TURNED V"|[[Ʌ]]
+|title="LATIN CAPITAL LETTER E WITH STROKE"|[[Ɇ]]
+|title="LATIN SMALL LETTER E WITH STROKE"|[[ɇ]]
+|title="LATIN CAPITAL LETTER J WITH STROKE"|[[Ɉ]]
+|title="LATIN SMALL LETTER J WITH STROKE"|[[ɉ]]
+|title="LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL"|[[Ɋ]]
+|title="LATIN SMALL LETTER Q WITH HOOK TAIL"|[[ɋ]]
+|title="LATIN CAPITAL LETTER R WITH STROKE"|[[Ɍ]]
+|title="LATIN SMALL LETTER R WITH STROKE"|[[ɍ]]
+|title="LATIN CAPITAL LETTER Y WITH STROKE"|[[Ɏ]]
+|title="LATIN SMALL LETTER Y WITH STROKE"|[[ɏ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0250
+|title="LATIN SMALL LETTER TURNED A"|[[ɐ]]
+|title="LATIN SMALL LETTER ALPHA"|[[ɑ]]
+|title="LATIN SMALL LETTER TURNED ALPHA"|[[ɒ]]
+|title="LATIN SMALL LETTER B WITH HOOK"|[[ɓ]]
+|title="LATIN SMALL LETTER OPEN O"|[[ɔ]]
+|title="LATIN SMALL LETTER C WITH CURL"|[[ɕ]]
+|title="LATIN SMALL LETTER D WITH TAIL"|[[ɖ]]
+|title="LATIN SMALL LETTER D WITH HOOK"|[[ɗ]]
+|title="LATIN SMALL LETTER REVERSED E"|[[ɘ]]
+|title="LATIN SMALL LETTER SCHWA"|[[ə]]
+|title="LATIN SMALL LETTER SCHWA WITH HOOK"|[[ɚ]]
+|title="LATIN SMALL LETTER OPEN E"|[[ɛ]]
+|title="LATIN SMALL LETTER REVERSED OPEN E"|[[ɜ]]
+|title="LATIN SMALL LETTER REVERSED OPEN E WITH HOOK"|[[ɝ]]
+|title="LATIN SMALL LETTER CLOSED REVERSED OPEN E"|[[ɞ]]
+|title="LATIN SMALL LETTER DOTLESS J WITH STROKE"|[[ɟ]]
+|rowspan="6" style="background:#fff"|[[IPA extensions (Unicode block)|IPA Extensions]]<br>0250–02AF
+|rowspan="6" style="background:#fff"|96
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0260
+|title="LATIN SMALL LETTER G WITH HOOK"|[[ɠ]]
+|title="LATIN SMALL LETTER SCRIPT G"|[[ɡ]]
+|title="LATIN LETTER SMALL CAPITAL G"|[[ɢ]]
+|title="LATIN SMALL LETTER GAMMA"|[[ɣ]]
+|title="LATIN SMALL LETTER RAMS HORN"|[[ɤ]]
+|title="LATIN SMALL LETTER TURNED H"|[[ɥ]]
+|title="LATIN SMALL LETTER H WITH HOOK"|[[ɦ]]
+|title="LATIN SMALL LETTER HENG WITH HOOK"|[[ɧ]]
+|title="LATIN SMALL LETTER I WITH STROKE"|[[ɨ]]
+|title="LATIN SMALL LETTER IOTA"|[[ɩ]]
+|title="LATIN LETTER SMALL CAPITAL I"|[[ɪ]]
+|title="LATIN SMALL LETTER L WITH MIDDLE TILDE"|[[ɫ]]
+|title="LATIN SMALL LETTER L WITH BELT"|[[ɬ]]
+|title="LATIN SMALL LETTER L WITH RETROFLEX HOOK"|[[ɭ]]
+|title="LATIN SMALL LETTER LEZH"|[[ɮ]]
+|title="LATIN SMALL LETTER TURNED M"|[[ɯ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0270
+|title="LATIN SMALL LETTER TURNED M WITH LONG LEG"|[[ɰ]]
+|title="LATIN SMALL LETTER M WITH HOOK"|[[ɱ]]
+|title="LATIN SMALL LETTER N WITH LEFT HOOK"|[[ɲ]]
+|title="LATIN SMALL LETTER N WITH RETROFLEX HOOK"|[[ɳ]]
+|title="LATIN LETTER SMALL CAPITAL N"|[[ɴ]]
+|title="LATIN SMALL LETTER BARRED O"|[[ɵ]]
+|title="LATIN LETTER SMALL CAPITAL OE"|[[ɶ]]
+|title="LATIN SMALL LETTER CLOSED OMEGA"|[[ɷ]]
+|title="LATIN SMALL LETTER PHI"|[[ɸ]]
+|title="LATIN SMALL LETTER TURNED R"|[[ɹ]]
+|title="LATIN SMALL LETTER TURNED R WITH LONG LEG"|[[ɺ]]
+|title="LATIN SMALL LETTER TURNED R WITH HOOK"|[[ɻ]]
+|title="LATIN SMALL LETTER R WITH LONG LEG"|[[ɼ]]
+|title="LATIN SMALL LETTER R WITH TAIL"|[[ɽ]]
+|title="LATIN SMALL LETTER R WITH FISHHOOK"|[[ɾ]]
+|title="LATIN SMALL LETTER REVERSED R WITH FISHHOOK"|[[ɿ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0280
+|title="LATIN LETTER SMALL CAPITAL R"|[[ʀ]]
+|title="LATIN LETTER SMALL CAPITAL INVERTED R"|[[ʁ]]
+|title="LATIN SMALL LETTER S WITH HOOK"|[[ʂ]]
+|title="LATIN SMALL LETTER ESH"|[[ʃ]]
+|title="LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK"|[[ʄ]]
+|title="LATIN SMALL LETTER SQUAT REVERSED ESH"|[[ʅ]]
+|title="LATIN SMALL LETTER ESH WITH CURL"|[[ʆ]]
+|title="LATIN SMALL LETTER TURNED T"|[[ʇ]]
+|title="LATIN SMALL LETTER T WITH RETROFLEX HOOK"|[[ʈ]]
+|title="LATIN SMALL LETTER U BAR"|[[ʉ]]
+|title="LATIN SMALL LETTER UPSILON"|[[ʊ]]
+|title="LATIN SMALL LETTER V WITH HOOK"|[[ʋ]]
+|title="LATIN SMALL LETTER TURNED V"|[[ʌ]]
+|title="LATIN SMALL LETTER TURNED W"|[[ʍ]]
+|title="LATIN SMALL LETTER TURNED Y"|[[ʎ]]
+|title="LATIN LETTER SMALL CAPITAL Y"|[[ʏ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|0290
+|title="LATIN SMALL LETTER Z WITH RETROFLEX HOOK"|[[ʐ]]
+|title="LATIN SMALL LETTER Z WITH CURL"|[[ʑ]]
+|title="LATIN SMALL LETTER EZH"|[[ʒ]]
+|title="LATIN SMALL LETTER EZH WITH CURL"|[[ʓ]]
+|title="LATIN LETTER GLOTTAL STOP"|[[ʔ]]
+|title="LATIN LETTER PHARYNGEAL VOICED FRICATIVE"|[[ʕ]]
+|title="LATIN LETTER INVERTED GLOTTAL STOP"|[[ʖ]]
+|title="LATIN LETTER STRETCHED C"|[[ʗ]]
+|title="LATIN LETTER BILABIAL CLICK"|[[ʘ]]
+|title="LATIN LETTER SMALL CAPITAL B"|[[ʙ]]
+|title="LATIN SMALL LETTER CLOSED OPEN E"|[[ʚ]]
+|title="LATIN LETTER SMALL CAPITAL G WITH HOOK"|[[ʛ]]
+|title="LATIN LETTER SMALL CAPITAL H"|[[ʜ]]
+|title="LATIN SMALL LETTER J WITH CROSSED-TAIL"|[[ʝ]]
+|title="LATIN SMALL LETTER TURNED K"|[[ʞ]]
+|title="LATIN LETTER SMALL CAPITAL L"|[[ʟ]]
+|---- align="center" style="background:#f66"
+!style="background:#fff"|02A0
+|title="LATIN SMALL LETTER Q WITH HOOK"|[[ʠ]]
+|title="LATIN LETTER GLOTTAL STOP WITH STROKE"|[[ʡ]]
+|title="LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE"|[[ʢ]]
+|title="LATIN SMALL LETTER DZ DIGRAPH"|[[ʣ]]
+|title="LATIN SMALL LETTER DEZH DIGRAPH"|[[ʤ]]
+|title="LATIN SMALL LETTER DZ DIGRAPH WITH CURL"|[[ʥ]]
+|title="LATIN SMALL LETTER TS DIGRAPH"|[[ʦ]]
+|title="LATIN SMALL LETTER TESH DIGRAPH"|[[ʧ]]
+|title="LATIN SMALL LETTER TC DIGRAPH WITH CURL"|[[ʨ]]
+|title="LATIN SMALL LETTER FENG DIGRAPH" style="background:#6f6"|[[ʩ]]
+|title="LATIN SMALL LETTER LS DIGRAPH" style="background:#6f6"|[[ʪ]]
+|title="LATIN SMALL LETTER LZ DIGRAPH" style="background:#6f6"|[[ʫ]]
+|title="LATIN LETTER BILABIAL PERCUSSIVE" style="background:#6f6"|[[ʬ]]
+|title="LATIN LETTER BIDENTAL PERCUSSIVE" style="background:#6f6"|[[ʭ]]
+|title="LATIN SMALL LETTER TURNED H WITH FISHHOOK" style="background:#6ff"|[[ʮ]]
+|title="LATIN SMALL LETTER TURNED H WITH FISHHOOK AND TAIL" style="background:#6ff"|[[ʯ]]
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|02B0
+|title="MODIFIER LETTER SMALL H"|[[ʰ]]
+|title="MODIFIER LETTER SMALL H WITH HOOK"|[[ʱ]]
+|title="MODIFIER LETTER SMALL J"|[[ʲ]]
+|title="MODIFIER LETTER SMALL R"|[[ʳ]]
+|title="MODIFIER LETTER SMALL TURNED R"|[[ʴ]]
+|title="MODIFIER LETTER SMALL TURNED R WITH HOOK"|[[ʵ]]
+|title="MODIFIER LETTER SMALL CAPITAL INVERTED R"|[[ʶ]]
+|title="MODIFIER LETTER SMALL W"|[[ʷ]]
+|title="MODIFIER LETTER SMALL Y"|[[ʸ]]
+|title="MODIFIER LETTER PRIME" style="background:#fff"|ʹ
+|title="MODIFIER LETTER DOUBLE PRIME" style="background:#fff"|ʺ
+|title="MODIFIER LETTER TURNED COMMA" style="background:#fff"|ʻ
+|title="MODIFIER LETTER APOSTROPHE" style="background:#fff"|ʼ
+|title="MODIFIER LETTER REVERSED COMMA" style="background:#fff"|ʽ
+|title="MODIFIER LETTER RIGHT HALF RING" style="background:#fff"|ʾ
+|title="MODIFIER LETTER LEFT HALF RING" style="background:#fff"|ʿ
+|rowspan="3" style="background:#fff"|[[Spacing Modifier Letters]]<br>02B0–02FF
+|rowspan="3" style="background:#fff"|14
+|----- align="center" style="background:#fff"
+!colspan="17"| 
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|02E0
+|title="MODIFIER LETTER SMALL GAMMA"|[[ˠ]]
+|title="MODIFIER LETTER SMALL L"|[[ˡ]]
+|title="MODIFIER LETTER SMALL S"|[[ˢ]]
+|title="MODIFIER LETTER SMALL X"|[[ˣ]]
+|title="MODIFIER LETTER SMALL REVERSED GLOTTAL STOP"|[[ˤ]]
+|title="MODIFIER LETTER EXTRA-HIGH TONE BAR" style="background:#fff"|˥
+|title="MODIFIER LETTER HIGH TONE BAR" style="background:#fff"|˦
+|title="MODIFIER LETTER MID TONE BAR" style="background:#fff"|˧
+|title="MODIFIER LETTER LOW TONE BAR" style="background:#fff"|˨
+|title="MODIFIER LETTER EXTRA-LOW TONE BAR" style="background:#fff"|˩
+|title="MODIFIER LETTER YIN DEPARTING TONE MARK" style="background:#fff"|˪
+|title="MODIFIER LETTER YANG DEPARTING TONE MARK" style="background:#fff"|˫
+|title="MODIFIER LETTER VOICING" style="background:#fff"|ˬ
+|title="MODIFIER LETTER UNASPIRATED" style="background:#fff"|˭
+|title="MODIFIER LETTER DOUBLE APOSTROPHE" style="background:#fff"|ˮ
+|title="MODIFIER LETTER LOW DOWN ARROWHEAD" style="background:#fff"|˯
+|-
+!colspan="19"| 
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|1D00
+|title="LATIN LETTER SMALL CAPITAL A"|[[ᴀ]]
+|title="LATIN LETTER SMALL CAPITAL AE"|[[ᴁ]]
+|title="LATIN SMALL LETTER TURNED AE"|[[ᴂ]]
+|title="LATIN LETTER SMALL CAPITAL BARRED B"|[[ᴃ]]
+|title="LATIN LETTER SMALL CAPITAL C"|[[ᴄ]]
+|title="LATIN LETTER SMALL CAPITAL D"|[[ᴅ]]
+|title="LATIN LETTER SMALL CAPITAL ETH"|[[ᴆ]]
+|title="LATIN LETTER SMALL CAPITAL E"|[[ᴇ]]
+|title="LATIN SMALL LETTER TURNED OPEN E"|[[ᴈ]]
+|title="LATIN SMALL LETTER TURNED I"|[[ᴉ]]
+|title="LATIN LETTER SMALL CAPITAL J"|[[ᴊ]]
+|title="LATIN LETTER SMALL CAPITAL K"|[[ᴋ]]
+|title="LATIN LETTER SMALL CAPITAL L WITH STROKE"|[[ᴌ]]
+|title="LATIN LETTER SMALL CAPITAL M"|[[ᴍ]]
+|title="LATIN LETTER SMALL CAPITAL REVERSED N"|[[ᴎ]]
+|title="LATIN LETTER SMALL CAPITAL O"|[[ᴏ]]
+|rowspan="8" style="background:#fff"|[[Phonetic Extensions]]<br>1D00–1D7F
+|rowspan="8" style="background:#fff"|111
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|1D10
+|title="LATIN LETTER SMALL CAPITAL OPEN O"|[[ᴐ]]
+|title="LATIN SMALL LETTER SIDEWAYS O"|[[ᴑ]]
+|title="LATIN SMALL LETTER SIDEWAYS OPEN O"|[[ᴒ]]
+|title="LATIN SMALL LETTER SIDEWAYS O WITH STROKE"|[[ᴓ]]
+|title="LATIN SMALL LETTER TURNED OE"|[[ᴔ]]
+|title="LATIN LETTER SMALL CAPITAL OU"|[[ᴕ]]
+|title="LATIN SMALL LETTER TOP HALF O"|[[ᴖ]]
+|title="LATIN SMALL LETTER BOTTOM HALF O"|[[ᴗ]]
+|title="LATIN LETTER SMALL CAPITAL P"|[[ᴘ]]
+|title="LATIN LETTER SMALL CAPITAL REVERSED R"|[[ᴙ]]
+|title="LATIN LETTER SMALL CAPITAL TURNED R"|[[ᴚ]]
+|title="LATIN LETTER SMALL CAPITAL T"|[[ᴛ]]
+|title="LATIN LETTER SMALL CAPITAL U"|[[ᴜ]]
+|title="LATIN SMALL LETTER SIDEWAYS U"|[[ᴝ]]
+|title="LATIN SMALL LETTER SIDEWAYS DIAERESIZED U"|[[ᴞ]]
+|title="LATIN SMALL LETTER SIDEWAYS TURNED M"|[[ᴟ]]
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|1D20
+|title="LATIN LETTER SMALL CAPITAL V"|[[ᴠ]]
+|title="LATIN LETTER SMALL CAPITAL W"|[[ᴡ]]
+|title="LATIN LETTER SMALL CAPITAL Z"|[[ᴢ]]
+|title="LATIN LETTER SMALL CAPITAL EZH"|[[ᴣ]]
+|title="LATIN LETTER VOICED LARYNGEAL SPIRANT"|[[ᴤ]]
+|title="LATIN LETTER AIN"|[[ᴥ]]
+|title="GREEK LETTER SMALL CAPITAL GAMMA" style="background:#fff"|ᴦ
+|title="GREEK LETTER SMALL CAPITAL LAMDA" style="background:#fff"|ᴧ
+|title="GREEK LETTER SMALL CAPITAL PI" style="background:#fff"|ᴨ
+|title="GREEK LETTER SMALL CAPITAL RHO" style="background:#fff"|ᴩ
+|title="GREEK LETTER SMALL CAPITAL PSI" style="background:#fff"|ᴪ
+|title="CYRILLIC LETTER SMALL CAPITAL EL" style="background:#fff"|ᴫ
+|title="MODIFIER LETTER CAPITAL A"|[[ᴬ]]
+|title="MODIFIER LETTER CAPITAL AE"|[[ᴭ]]
+|title="MODIFIER LETTER CAPITAL B"|[[ᴮ]]
+|title="MODIFIER LETTER CAPITAL BARRED B"|[[ᴯ]]
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|1D30
+|title="MODIFIER LETTER CAPITAL D"|[[ᴰ]]
+|title="MODIFIER LETTER CAPITAL E"|[[ᴱ]]
+|title="MODIFIER LETTER CAPITAL REVERSED E"|[[ᴲ]]
+|title="MODIFIER LETTER CAPITAL G"|[[ᴳ]]
+|title="MODIFIER LETTER CAPITAL H"|[[ᴴ]]
+|title="MODIFIER LETTER CAPITAL I"|[[ᴵ]]
+|title="MODIFIER LETTER CAPITAL J"|[[ᴶ]]
+|title="MODIFIER LETTER CAPITAL K"|[[ᴷ]]
+|title="MODIFIER LETTER CAPITAL L"|[[ᴸ]]
+|title="MODIFIER LETTER CAPITAL M"|[[ᴹ]]
+|title="MODIFIER LETTER CAPITAL N"|[[ᴺ]]
+|title="MODIFIER LETTER CAPITAL REVERSED N"|[[ᴻ]]
+|title="MODIFIER LETTER CAPITAL O"|[[ᴼ]]
+|title="MODIFIER LETTER CAPITAL OU"|[[ᴽ]]
+|title="MODIFIER LETTER CAPITAL P"|[[ᴾ]]
+|title="MODIFIER LETTER CAPITAL R"|[[ᴿ]]
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|1D40
+|title="MODIFIER LETTER CAPITAL T"|[[ᵀ]]
+|title="MODIFIER LETTER CAPITAL U"|[[ᵁ]]
+|title="MODIFIER LETTER CAPITAL W"|[[ᵂ]]
+|title="MODIFIER LETTER SMALL A"|[[ᵃ]]
+|title="MODIFIER LETTER SMALL TURNED A"|[[ᵄ]]
+|title="MODIFIER LETTER SMALL ALPHA"|[[ᵅ]]
+|title="MODIFIER LETTER SMALL TURNED AE"|[[ᵆ]]
+|title="MODIFIER LETTER SMALL B"|[[ᵇ]]
+|title="MODIFIER LETTER SMALL D"|[[ᵈ]]
+|title="MODIFIER LETTER SMALL E"|[[ᵉ]]
+|title="MODIFIER LETTER SMALL SCHWA"|[[ᵊ]]
+|title="MODIFIER LETTER SMALL OPEN E"|[[ᵋ]]
+|title="MODIFIER LETTER SMALL TURNED OPEN E"|[[ᵌ]]
+|title="MODIFIER LETTER SMALL G"|[[ᵍ]]
+|title="MODIFIER LETTER SMALL TURNED I"|[[ᵎ]]
+|title="MODIFIER LETTER SMALL K"|[[ᵏ]]
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|1D50
+|title="MODIFIER LETTER SMALL M"|[[ᵐ]]
+|title="MODIFIER LETTER SMALL ENG"|[[ᵑ]]
+|title="MODIFIER LETTER SMALL O"|[[ᵒ]]
+|title="MODIFIER LETTER SMALL OPEN O"|[[ᵓ]]
+|title="MODIFIER LETTER SMALL TOP HALF O"|[[ᵔ]]
+|title="MODIFIER LETTER SMALL BOTTOM HALF O"|[[ᵕ]]
+|title="MODIFIER LETTER SMALL P"|[[ᵖ]]
+|title="MODIFIER LETTER SMALL T"|[[ᵗ]]
+|title="MODIFIER LETTER SMALL U"|[[ᵘ]]
+|title="MODIFIER LETTER SMALL SIDEWAYS U"|[[ᵙ]]
+|title="MODIFIER LETTER SMALL TURNED M"|[[ᵚ]]
+|title="MODIFIER LETTER SMALL V"|[[ᵛ]]
+|title="MODIFIER LETTER SMALL AIN"|[[ᵜ]]
+|title="MODIFIER LETTER SMALL BETA" style="background:#fff"|ᵝ
+|title="MODIFIER LETTER SMALL GREEK GAMMA" style="background:#fff"|ᵞ
+|title="MODIFIER LETTER SMALL DELTA" style="background:#fff"|ᵟ
+|----- align="center" style="background:#6ff"
+!style="background:#fff"|1D60
+|title="MODIFIER LETTER SMALL GREEK PHI" style="background:#fff"|ᵠ
+|title="MODIFIER LETTER SMALL CHI" style="background:#fff"|ᵡ
+|title="LATIN SUBSCRIPT SMALL LETTER I"|[[ᵢ]]
+|title="LATIN SUBSCRIPT SMALL LETTER R"|[[ᵣ]]
+|title="LATIN SUBSCRIPT SMALL LETTER U"|[[ᵤ]]
+|title="LATIN SUBSCRIPT SMALL LETTER V"|[[ᵥ]]
+|title="GREEK SUBSCRIPT SMALL LETTER BETA" style="background:#fff"|ᵦ
+|title="GREEK SUBSCRIPT SMALL LETTER GAMMA" style="background:#fff"|ᵧ
+|title="GREEK SUBSCRIPT SMALL LETTER RHO" style="background:#fff"|ᵨ
+|title="GREEK SUBSCRIPT SMALL LETTER PHI" style="background:#fff"|ᵩ
+|title="GREEK SUBSCRIPT SMALL LETTER CHI" style="background:#fff"|ᵪ
+|title="LATIN SMALL LETTER UE"|[[ᵫ]]
+|title="LATIN SMALL LETTER B WITH MIDDLE TILDE" style="background:#6cf"|[[ᵬ]]
+|title="LATIN SMALL LETTER D WITH MIDDLE TILDE" style="background:#6cf"|[[ᵭ]]
+|title="LATIN SMALL LETTER F WITH MIDDLE TILDE" style="background:#6cf"|[[ᵮ]]
+|title="LATIN SMALL LETTER M WITH MIDDLE TILDE" style="background:#6cf"|[[ᵯ]]
+|----- align="center" style="background:#6cf"
+!style="background:#fff"|1D70
+|title="LATIN SMALL LETTER N WITH MIDDLE TILDE"|[[ᵰ]]
+|title="LATIN SMALL LETTER P WITH MIDDLE TILDE"|[[ᵱ]]
+|title="LATIN SMALL LETTER R WITH MIDDLE TILDE"|[[ᵲ]]
+|title="LATIN SMALL LETTER R WITH FISHHOOK AND MIDDLE TILDE"|[[ᵳ]]
+|title="LATIN SMALL LETTER S WITH MIDDLE TILDE"|[[ᵴ]]
+|title="LATIN SMALL LETTER T WITH MIDDLE TILDE"|[[ᵵ]]
+|title="LATIN SMALL LETTER Z WITH MIDDLE TILDE"|[[ᵶ]]
+|title="LATIN SMALL LETTER TURNED G"|[[ᵷ]]
+|title="MODIFIER LETTER CYRILLIC EN" style="background:#fff"|ᵸ
+|title="LATIN SMALL LETTER INSULAR G"|[[ᵹ]]
+|title="LATIN SMALL LETTER TH WITH STRIKETHROUGH"|[[ᵺ]]
+|title="LATIN SMALL CAPITAL LETTER I WITH STROKE"|[[ᵻ]]
+|title="LATIN SMALL LETTER IOTA WITH STROKE"|[[ᵼ]]
+|title="LATIN SMALL LETTER P WITH STROKE"|[[ᵽ]]
+|title="LATIN SMALL CAPITAL LETTER U WITH STROKE"|[[ᵾ]]
+|title="LATIN SMALL LETTER UPSILON WITH STROKE"|[[ᵿ]]
+|----- align="center" style="background:#6cf"
+!style="background:#fff"|1D80
+|title="LATIN SMALL LETTER B WITH PALATAL HOOK"|[[ᶀ]]
+|title="LATIN SMALL LETTER D WITH PALATAL HOOK"|[[ᶁ]]
+|title="LATIN SMALL LETTER F WITH PALATAL HOOK"|[[ᶂ]]
+|title="LATIN SMALL LETTER G WITH PALATAL HOOK"|[[ᶃ]]
+|title="LATIN SMALL LETTER K WITH PALATAL HOOK"|[[ᶄ]]
+|title="LATIN SMALL LETTER L WITH PALATAL HOOK"|[[ᶅ]]
+|title="LATIN SMALL LETTER M WITH PALATAL HOOK"|[[ᶆ]]
+|title="LATIN SMALL LETTER N WITH PALATAL HOOK"|[[ᶇ]]
+|title="LATIN SMALL LETTER P WITH PALATAL HOOK"|[[ᶈ]]
+|title="LATIN SMALL LETTER R WITH PALATAL HOOK"|[[ᶉ]]
+|title="LATIN SMALL LETTER S WITH PALATAL HOOK"|[[ᶊ]]
+|title="LATIN SMALL LETTER ESH WITH PALATAL HOOK"|[[ᶋ]]
+|title="LATIN SMALL LETTER V WITH PALATAL HOOK"|[[ᶌ]]
+|title="LATIN SMALL LETTER X WITH PALATAL HOOK"|[[ᶍ]]
+|title="LATIN SMALL LETTER Z WITH PALATAL HOOK"|[[ᶎ]]
+|title="LATIN SMALL LETTER A WITH RETROFLEX HOOK"|[[ᶏ]]
+|rowspan="4" style="background:#fff"|[[Phonetic Extensions Supplement]]<br>1D80–1DBF
+|rowspan="4" style="background:#fff"|63
+|----- align="center" style="background:#6cf"
+!style="background:#fff"|1D90
+|title="LATIN SMALL LETTER ALPHA WITH RETROFLEX HOOK"|[[ᶐ]]
+|title="LATIN SMALL LETTER D WITH HOOK AND TAIL"|[[ᶑ]]
+|title="LATIN SMALL LETTER E WITH RETROFLEX HOOK"|[[ᶒ]]
+|title="LATIN SMALL LETTER OPEN E WITH RETROFLEX HOOK"|[[ᶓ]]
+|title="LATIN SMALL LETTER REVERSED OPEN E WITH RETROFLEX HOOK"|[[ᶔ]]
+|title="LATIN SMALL LETTER SCHWA WITH RETROFLEX HOOK"|[[ᶕ]]
+|title="LATIN SMALL LETTER I WITH RETROFLEX HOOK"|[[ᶖ]]
+|title="LATIN SMALL LETTER OPEN O WITH RETROFLEX HOOK"|[[ᶗ]]
+|title="LATIN SMALL LETTER ESH WITH RETROFLEX HOOK"|[[ᶘ]]
+|title="LATIN SMALL LETTER U WITH RETROFLEX HOOK"|[[ᶙ]]
+|title="LATIN SMALL LETTER EZH WITH RETROFLEX HOOK"|[[ᶚ]]
+|title="MODIFIER LETTER SMALL TURNED ALPHA"|[[ᶛ]]
+|title="MODIFIER LETTER SMALL C"|[[ᶜ]]
+|title="MODIFIER LETTER SMALL C WITH CURL"|[[ᶝ]]
+|title="MODIFIER LETTER SMALL ETH"|[[ᶞ]]
+|title="MODIFIER LETTER SMALL REVERSED OPEN E"|[[ᶟ]]
+|----- align="center" style="background:#6cf"
+!style="background:#fff"|1DA0
+|title="MODIFIER LETTER SMALL F"|[[ᶠ]]
+|title="MODIFIER LETTER SMALL DOTLESS J WITH STROKE"|[[ᶡ]]
+|title="MODIFIER LETTER SMALL SCRIPT G"|[[ᶢ]]
+|title="MODIFIER LETTER SMALL TURNED H"|[[ᶣ]]
+|title="MODIFIER LETTER SMALL I WITH STROKE"|[[ᶤ]]
+|title="MODIFIER LETTER SMALL IOTA"|[[ᶥ]]
+|title="MODIFIER LETTER SMALL CAPITAL I"|[[ᶦ]]
+|title="MODIFIER LETTER SMALL CAPITAL I WITH STROKE"|[[ᶧ]]
+|title="MODIFIER LETTER SMALL J WITH CROSSED-TAIL"|[[ᶨ]]
+|title="MODIFIER LETTER SMALL L WITH RETROFLEX HOOK"|[[ᶩ]]
+|title="MODIFIER LETTER SMALL L WITH PALATAL HOOK"|[[ᶪ]]
+|title="MODIFIER LETTER SMALL CAPITAL L"|[[ᶫ]]
+|title="MODIFIER LETTER SMALL M WITH HOOK"|[[ᶬ]]
+|title="MODIFIER LETTER SMALL TURNED M WITH LONG LEG"|[[ᶭ]]
+|title="MODIFIER LETTER SMALL N WITH LEFT HOOK"|[[ᶮ]]
+|title="MODIFIER LETTER SMALL N WITH RETROFLEX HOOK"|[[ᶯ]]
+|----- align="center" style="background:#6cf"
+!style="background:#fff"|1DB0
+|title="MODIFIER LETTER SMALL CAPITAL N"|[[ᶰ]]
+|title="MODIFIER LETTER SMALL BARRED O"|[[ᶱ]]
+|title="MODIFIER LETTER SMALL PHI"|[[ᶲ]]
+|title="MODIFIER LETTER SMALL S WITH HOOK"|[[ᶳ]]
+|title="MODIFIER LETTER SMALL ESH"|[[ᶴ]]
+|title="MODIFIER LETTER SMALL T WITH PALATAL HOOK"|[[ᶵ]]
+|title="MODIFIER LETTER SMALL U BAR"|[[ᶶ]]
+|title="MODIFIER LETTER SMALL UPSILON"|[[ᶷ]]
+|title="MODIFIER LETTER SMALL CAPITAL U"|[[ᶸ]]
+|title="MODIFIER LETTER SMALL V WITH HOOK"|[[ᶹ]]
+|title="MODIFIER LETTER SMALL TURNED V"|[[ᶺ]]
+|title="MODIFIER LETTER SMALL Z"|[[ᶻ]]
+|title="MODIFIER LETTER SMALL Z WITH RETROFLEX HOOK"|[[ᶼ]]
+|title="MODIFIER LETTER SMALL Z WITH CURL"|[[ᶽ]]
+|title="MODIFIER LETTER SMALL EZH"|[[ᶾ]]
+|title="MODIFIER LETTER SMALL THETA" style="background:#fff"|ᶿ
+|-
+!colspan="19"| 
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E00
+|title="LATIN CAPITAL LETTER A WITH RING BELOW"|[[Ḁ]]
+|title="LATIN SMALL LETTER A WITH RING BELOW"|[[ḁ]]
+|title="LATIN CAPITAL LETTER B WITH DOT ABOVE"|[[Ḃ]]
+|title="LATIN SMALL LETTER B WITH DOT ABOVE"|[[ḃ]]
+|title="LATIN CAPITAL LETTER B WITH DOT BELOW"|[[Ḅ]]
+|title="LATIN SMALL LETTER B WITH DOT BELOW"|[[ḅ]]
+|title="LATIN CAPITAL LETTER B WITH LINE BELOW"|[[Ḇ]]
+|title="LATIN SMALL LETTER B WITH LINE BELOW"|[[ḇ]]
+|title="LATIN CAPITAL LETTER C WITH CEDILLA AND ACUTE"|[[Ḉ]]
+|title="LATIN SMALL LETTER C WITH CEDILLA AND ACUTE"|[[ḉ]]
+|title="LATIN CAPITAL LETTER D WITH DOT ABOVE"|[[Ḋ]]
+|title="LATIN SMALL LETTER D WITH DOT ABOVE"|[[ḋ]]
+|title="LATIN CAPITAL LETTER D WITH DOT BELOW"|[[Ḍ]]
+|title="LATIN SMALL LETTER D WITH DOT BELOW"|[[ḍ]]
+|title="LATIN CAPITAL LETTER D WITH LINE BELOW"|[[Ḏ]]
+|title="LATIN SMALL LETTER D WITH LINE BELOW"|[[ḏ]]
+|rowspan="16" style="background:#fff"|[[Latin Extended Additional]]<br>1E00–1EFF
+|rowspan="16" style="background:#fff"|256
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E10
+|title="LATIN CAPITAL LETTER D WITH CEDILLA"|[[Ḑ]]
+|title="LATIN SMALL LETTER D WITH CEDILLA"|[[ḑ]]
+|title="LATIN CAPITAL LETTER D WITH CIRCUMFLEX BELOW"|[[Ḓ]]
+|title="LATIN SMALL LETTER D WITH CIRCUMFLEX BELOW"|[[ḓ]]
+|title="LATIN CAPITAL LETTER E WITH MACRON AND GRAVE"|[[Ḕ]]
+|title="LATIN SMALL LETTER E WITH MACRON AND GRAVE"|[[ḕ]]
+|title="LATIN CAPITAL LETTER E WITH MACRON AND ACUTE"|[[Ḗ]]
+|title="LATIN SMALL LETTER E WITH MACRON AND ACUTE"|[[ḗ]]
+|title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX BELOW"|[[Ḙ]]
+|title="LATIN SMALL LETTER E WITH CIRCUMFLEX BELOW"|[[ḙ]]
+|title="LATIN CAPITAL LETTER E WITH TILDE BELOW"|[[Ḛ]]
+|title="LATIN SMALL LETTER E WITH TILDE BELOW"|[[ḛ]]
+|title="LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE"|[[Ḝ]]
+|title="LATIN SMALL LETTER E WITH CEDILLA AND BREVE"|[[ḝ]]
+|title="LATIN CAPITAL LETTER F WITH DOT ABOVE"|[[Ḟ]]
+|title="LATIN SMALL LETTER F WITH DOT ABOVE"|[[ḟ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E20
+|title="LATIN CAPITAL LETTER G WITH MACRON"|[[Ḡ]]
+|title="LATIN SMALL LETTER G WITH MACRON"|[[ḡ]]
+|title="LATIN CAPITAL LETTER H WITH DOT ABOVE"|[[Ḣ]]
+|title="LATIN SMALL LETTER H WITH DOT ABOVE"|[[ḣ]]
+|title="LATIN CAPITAL LETTER H WITH DOT BELOW"|[[Ḥ]]
+|title="LATIN SMALL LETTER H WITH DOT BELOW"|[[ḥ]]
+|title="LATIN CAPITAL LETTER H WITH DIAERESIS"|[[Ḧ]]
+|title="LATIN SMALL LETTER H WITH DIAERESIS"|[[ḧ]]
+|title="LATIN CAPITAL LETTER H WITH CEDILLA"|[[Ḩ]]
+|title="LATIN SMALL LETTER H WITH CEDILLA"|[[ḩ]]
+|title="LATIN CAPITAL LETTER H WITH BREVE BELOW"|[[Ḫ]]
+|title="LATIN SMALL LETTER H WITH BREVE BELOW"|[[ḫ]]
+|title="LATIN CAPITAL LETTER I WITH TILDE BELOW"|[[Ḭ]]
+|title="LATIN SMALL LETTER I WITH TILDE BELOW"|[[ḭ]]
+|title="LATIN CAPITAL LETTER I WITH DIAERESIS AND ACUTE"|[[Ḯ]]
+|title="LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE"|[[ḯ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E30
+|title="LATIN CAPITAL LETTER K WITH ACUTE"|[[Ḱ]]
+|title="LATIN SMALL LETTER K WITH ACUTE"|[[ḱ]]
+|title="LATIN CAPITAL LETTER K WITH DOT BELOW"|[[Ḳ]]
+|title="LATIN SMALL LETTER K WITH DOT BELOW"|[[ḳ]]
+|title="LATIN CAPITAL LETTER K WITH LINE BELOW"|[[Ḵ]]
+|title="LATIN SMALL LETTER K WITH LINE BELOW"|[[ḵ]]
+|title="LATIN CAPITAL LETTER L WITH DOT BELOW"|[[Ḷ]]
+|title="LATIN SMALL LETTER L WITH DOT BELOW"|[[ḷ]]
+|title="LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON"|[[Ḹ]]
+|title="LATIN SMALL LETTER L WITH DOT BELOW AND MACRON"|[[ḹ]]
+|title="LATIN CAPITAL LETTER L WITH LINE BELOW"|[[Ḻ]]
+|title="LATIN SMALL LETTER L WITH LINE BELOW"|[[ḻ]]
+|title="LATIN CAPITAL LETTER L WITH CIRCUMFLEX BELOW"|[[Ḽ]]
+|title="LATIN SMALL LETTER L WITH CIRCUMFLEX BELOW"|[[ḽ]]
+|title="LATIN CAPITAL LETTER M WITH ACUTE"|[[Ḿ]]
+|title="LATIN SMALL LETTER M WITH ACUTE"|[[ḿ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E40
+|title="LATIN CAPITAL LETTER M WITH DOT ABOVE"|[[Ṁ]]
+|title="LATIN SMALL LETTER M WITH DOT ABOVE"|[[ṁ]]
+|title="LATIN CAPITAL LETTER M WITH DOT BELOW"|[[Ṃ]]
+|title="LATIN SMALL LETTER M WITH DOT BELOW"|[[ṃ]]
+|title="LATIN CAPITAL LETTER N WITH DOT ABOVE"|[[Ṅ]]
+|title="LATIN SMALL LETTER N WITH DOT ABOVE"|[[ṅ]]
+|title="LATIN CAPITAL LETTER N WITH DOT BELOW"|[[Ṇ]]
+|title="LATIN SMALL LETTER N WITH DOT BELOW"|[[ṇ]]
+|title="LATIN CAPITAL LETTER N WITH LINE BELOW"|[[Ṉ]]
+|title="LATIN SMALL LETTER N WITH LINE BELOW"|[[ṉ]]
+|title="LATIN CAPITAL LETTER N WITH CIRCUMFLEX BELOW"|[[Ṋ]]
+|title="LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW"|[[ṋ]]
+|title="LATIN CAPITAL LETTER O WITH TILDE AND ACUTE"|[[Ṍ]]
+|title="LATIN SMALL LETTER O WITH TILDE AND ACUTE"|[[ṍ]]
+|title="LATIN CAPITAL LETTER O WITH TILDE AND DIAERESIS"|[[Ṏ]]
+|title="LATIN SMALL LETTER O WITH TILDE AND DIAERESIS"|[[ṏ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E50
+|title="LATIN CAPITAL LETTER O WITH MACRON AND GRAVE"|[[Ṑ]]
+|title="LATIN SMALL LETTER O WITH MACRON AND GRAVE"|[[ṑ]]
+|title="LATIN CAPITAL LETTER O WITH MACRON AND ACUTE"|[[Ṓ]]
+|title="LATIN SMALL LETTER O WITH MACRON AND ACUTE"|[[ṓ]]
+|title="LATIN CAPITAL LETTER P WITH ACUTE"|[[Ṕ]]
+|title="LATIN SMALL LETTER P WITH ACUTE"|[[ṕ]]
+|title="LATIN CAPITAL LETTER P WITH DOT ABOVE"|[[Ṗ]]
+|title="LATIN SMALL LETTER P WITH DOT ABOVE"|[[ṗ]]
+|title="LATIN CAPITAL LETTER R WITH DOT ABOVE"|[[Ṙ]]
+|title="LATIN SMALL LETTER R WITH DOT ABOVE"|[[ṙ]]
+|title="LATIN CAPITAL LETTER R WITH DOT BELOW"|[[Ṛ]]
+|title="LATIN SMALL LETTER R WITH DOT BELOW"|[[ṛ]]
+|title="LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON"|[[Ṝ]]
+|title="LATIN SMALL LETTER R WITH DOT BELOW AND MACRON"|[[ṝ]]
+|title="LATIN CAPITAL LETTER R WITH LINE BELOW"|[[Ṟ]]
+|title="LATIN SMALL LETTER R WITH LINE BELOW"|[[ṟ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E60
+|title="LATIN CAPITAL LETTER S WITH DOT ABOVE"|[[Ṡ]]
+|title="LATIN SMALL LETTER S WITH DOT ABOVE"|[[ṡ]]
+|title="LATIN CAPITAL LETTER S WITH DOT BELOW"|[[Ṣ]]
+|title="LATIN SMALL LETTER S WITH DOT BELOW"|[[ṣ]]
+|title="LATIN CAPITAL LETTER S WITH ACUTE AND DOT ABOVE"|[[Ṥ]]
+|title="LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE"|[[ṥ]]
+|title="LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE"|[[Ṧ]]
+|title="LATIN SMALL LETTER S WITH CARON AND DOT ABOVE"|[[ṧ]]
+|title="LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE"|[[Ṩ]]
+|title="LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE"|[[ṩ]]
+|title="LATIN CAPITAL LETTER T WITH DOT ABOVE"|[[Ṫ]]
+|title="LATIN SMALL LETTER T WITH DOT ABOVE"|[[ṫ]]
+|title="LATIN CAPITAL LETTER T WITH DOT BELOW"|[[Ṭ]]
+|title="LATIN SMALL LETTER T WITH DOT BELOW"|[[ṭ]]
+|title="LATIN CAPITAL LETTER T WITH LINE BELOW"|[[Ṯ]]
+|title="LATIN SMALL LETTER T WITH LINE BELOW"|[[ṯ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E70
+|title="LATIN CAPITAL LETTER T WITH CIRCUMFLEX BELOW"|[[Ṱ]]
+|title="LATIN SMALL LETTER T WITH CIRCUMFLEX BELOW"|[[ṱ]]
+|title="LATIN CAPITAL LETTER U WITH DIAERESIS BELOW"|[[Ṳ]]
+|title="LATIN SMALL LETTER U WITH DIAERESIS BELOW"|[[ṳ]]
+|title="LATIN CAPITAL LETTER U WITH TILDE BELOW"|[[Ṵ]]
+|title="LATIN SMALL LETTER U WITH TILDE BELOW"|[[ṵ]]
+|title="LATIN CAPITAL LETTER U WITH CIRCUMFLEX BELOW"|[[Ṷ]]
+|title="LATIN SMALL LETTER U WITH CIRCUMFLEX BELOW"|[[ṷ]]
+|title="LATIN CAPITAL LETTER U WITH TILDE AND ACUTE"|[[Ṹ]]
+|title="LATIN SMALL LETTER U WITH TILDE AND ACUTE"|[[ṹ]]
+|title="LATIN CAPITAL LETTER U WITH MACRON AND DIAERESIS"|[[Ṻ]]
+|title="LATIN SMALL LETTER U WITH MACRON AND DIAERESIS"|[[ṻ]]
+|title="LATIN CAPITAL LETTER V WITH TILDE"|[[Ṽ]]
+|title="LATIN SMALL LETTER V WITH TILDE"|[[ṽ]]
+|title="LATIN CAPITAL LETTER V WITH DOT BELOW"|[[Ṿ]]
+|title="LATIN SMALL LETTER V WITH DOT BELOW"|[[ṿ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E80
+|title="LATIN CAPITAL LETTER W WITH GRAVE"|[[Ẁ]]
+|title="LATIN SMALL LETTER W WITH GRAVE"|[[ẁ]]
+|title="LATIN CAPITAL LETTER W WITH ACUTE"|[[Ẃ]]
+|title="LATIN SMALL LETTER W WITH ACUTE"|[[ẃ]]
+|title="LATIN CAPITAL LETTER W WITH DIAERESIS"|[[Ẅ]]
+|title="LATIN SMALL LETTER W WITH DIAERESIS"|[[ẅ]]
+|title="LATIN CAPITAL LETTER W WITH DOT ABOVE"|[[Ẇ]]
+|title="LATIN SMALL LETTER W WITH DOT ABOVE"|[[ẇ]]
+|title="LATIN CAPITAL LETTER W WITH DOT BELOW"|[[Ẉ]]
+|title="LATIN SMALL LETTER W WITH DOT BELOW"|[[ẉ]]
+|title="LATIN CAPITAL LETTER X WITH DOT ABOVE"|[[Ẋ]]
+|title="LATIN SMALL LETTER X WITH DOT ABOVE"|[[ẋ]]
+|title="LATIN CAPITAL LETTER X WITH DIAERESIS"|[[Ẍ]]
+|title="LATIN SMALL LETTER X WITH DIAERESIS"|[[ẍ]]
+|title="LATIN CAPITAL LETTER Y WITH DOT ABOVE"|[[Ẏ]]
+|title="LATIN SMALL LETTER Y WITH DOT ABOVE"|[[ẏ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1E90
+|title="LATIN CAPITAL LETTER Z WITH CIRCUMFLEX"|[[Ẑ]]
+|title="LATIN SMALL LETTER Z WITH CIRCUMFLEX"|[[ẑ]]
+|title="LATIN CAPITAL LETTER Z WITH DOT BELOW"|[[Ẓ]]
+|title="LATIN SMALL LETTER Z WITH DOT BELOW"|[[ẓ]]
+|title="LATIN CAPITAL LETTER Z WITH LINE BELOW"|[[Ẕ]]
+|title="LATIN SMALL LETTER Z WITH LINE BELOW"|[[ẕ]]
+|title="LATIN SMALL LETTER H WITH LINE BELOW"|[[ẖ]]
+|title="LATIN SMALL LETTER T WITH DIAERESIS"|[[ẗ]]
+|title="LATIN SMALL LETTER W WITH RING ABOVE"|[[ẘ]]
+|title="LATIN SMALL LETTER Y WITH RING ABOVE"|[[ẙ]]
+|title="LATIN SMALL LETTER A WITH RIGHT HALF RING"|[[ẚ]]
+|title="LATIN SMALL LETTER LONG S WITH DOT ABOVE" style="background:#ff6"|[[Long s|ẛ]]
+|title="LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE" style="background:#96f"|[[ẜ]]
+|title="LATIN SMALL LETTER LONG S WITH HIGH STROKE" style="background:#96f"|[[ẝ]]
+|title="LATIN CAPITAL LETTER SHARP S" style="background:#96f"|[[ẞ]]
+|title="LATIN SMALL LETTER DELTA" style="background:#96f"|[[ẟ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1EA0
+|title="LATIN CAPITAL LETTER A WITH DOT BELOW"|[[Ạ]]
+|title="LATIN SMALL LETTER A WITH DOT BELOW"|[[ạ]]
+|title="LATIN CAPITAL LETTER A WITH HOOK ABOVE"|[[Ả]]
+|title="LATIN SMALL LETTER A WITH HOOK ABOVE"|[[ả]]
+|title="LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE"|[[Ấ]]
+|title="LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE"|[[ấ]]
+|title="LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE"|[[Ầ]]
+|title="LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE"|[[ầ]]
+|title="LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"|[[Ẩ]]
+|title="LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE"|[[ẩ]]
+|title="LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE"|[[Ẫ]]
+|title="LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE"|[[ẫ]]
+|title="LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW"|[[Ậ]]
+|title="LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW"|[[ậ]]
+|title="LATIN CAPITAL LETTER A WITH BREVE AND ACUTE"|[[Ắ]]
+|title="LATIN SMALL LETTER A WITH BREVE AND ACUTE"|[[ắ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1EB0
+|title="LATIN CAPITAL LETTER A WITH BREVE AND GRAVE"|[[Ằ]]
+|title="LATIN SMALL LETTER A WITH BREVE AND GRAVE"|[[ằ]]
+|title="LATIN CAPITAL LETTER A WITH BREVE AND HOOK ABOVE"|[[Ẳ]]
+|title="LATIN SMALL LETTER A WITH BREVE AND HOOK ABOVE"|[[ẳ]]
+|title="LATIN CAPITAL LETTER A WITH BREVE AND TILDE"|[[Ẵ]]
+|title="LATIN SMALL LETTER A WITH BREVE AND TILDE"|[[ẵ]]
+|title="LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW"|[[Ặ]]
+|title="LATIN SMALL LETTER A WITH BREVE AND DOT BELOW"|[[ặ]]
+|title="LATIN CAPITAL LETTER E WITH DOT BELOW"|[[Ẹ]]
+|title="LATIN SMALL LETTER E WITH DOT BELOW"|[[ẹ]]
+|title="LATIN CAPITAL LETTER E WITH HOOK ABOVE"|[[Ẻ]]
+|title="LATIN SMALL LETTER E WITH HOOK ABOVE"|[[ẻ]]
+|title="LATIN CAPITAL LETTER E WITH TILDE"|[[Ẽ]]
+|title="LATIN SMALL LETTER E WITH TILDE"|[[ẽ]]
+|title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE"|[[Ế]]
+|title="LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE"|[[ế]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1EC0
+|title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE"|[[Ề]]
+|title="LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE"|[[ề]]
+|title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"|[[Ể]]
+|title="LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE"|[[ể]]
+|title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE"|[[Ễ]]
+|title="LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE"|[[ễ]]
+|title="LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW"|[[Ệ]]
+|title="LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW"|[[ệ]]
+|title="LATIN CAPITAL LETTER I WITH HOOK ABOVE"|[[Ỉ]]
+|title="LATIN SMALL LETTER I WITH HOOK ABOVE"|[[ỉ]]
+|title="LATIN CAPITAL LETTER I WITH DOT BELOW"|[[Ị]]
+|title="LATIN SMALL LETTER I WITH DOT BELOW"|[[ị]]
+|title="LATIN CAPITAL LETTER O WITH DOT BELOW"|[[Ọ]]
+|title="LATIN SMALL LETTER O WITH DOT BELOW"|[[ọ]]
+|title="LATIN CAPITAL LETTER O WITH HOOK ABOVE"|[[Ỏ]]
+|title="LATIN SMALL LETTER O WITH HOOK ABOVE"|[[ỏ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1ED0
+|title="LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE"|[[Ố]]
+|title="LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE"|[[ố]]
+|title="LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE"|[[Ồ]]
+|title="LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE"|[[ồ]]
+|title="LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"|[[Ổ]]
+|title="LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE"|[[ổ]]
+|title="LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE"|[[Ỗ]]
+|title="LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE"|[[ỗ]]
+|title="LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW"|[[Ộ]]
+|title="LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW"|[[ộ]]
+|title="LATIN CAPITAL LETTER O WITH HORN AND ACUTE"|[[Ớ]]
+|title="LATIN SMALL LETTER O WITH HORN AND ACUTE"|[[ớ]]
+|title="LATIN CAPITAL LETTER O WITH HORN AND GRAVE"|[[Ờ]]
+|title="LATIN SMALL LETTER O WITH HORN AND GRAVE"|[[ờ]]
+|title="LATIN CAPITAL LETTER O WITH HORN AND HOOK ABOVE"|[[Ở]]
+|title="LATIN SMALL LETTER O WITH HORN AND HOOK ABOVE"|[[ở]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1EE0
+|title="LATIN CAPITAL LETTER O WITH HORN AND TILDE"|[[Ỡ]]
+|title="LATIN SMALL LETTER O WITH HORN AND TILDE"|[[ỡ]]
+|title="LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW"|[[Ợ]]
+|title="LATIN SMALL LETTER O WITH HORN AND DOT BELOW"|[[ợ]]
+|title="LATIN CAPITAL LETTER U WITH DOT BELOW"|[[Ụ]]
+|title="LATIN SMALL LETTER U WITH DOT BELOW"|[[ụ]]
+|title="LATIN CAPITAL LETTER U WITH HOOK ABOVE"|[[Ủ]]
+|title="LATIN SMALL LETTER U WITH HOOK ABOVE"|[[ủ]]
+|title="LATIN CAPITAL LETTER U WITH HORN AND ACUTE"|[[Ứ]]
+|title="LATIN SMALL LETTER U WITH HORN AND ACUTE"|[[ứ]]
+|title="LATIN CAPITAL LETTER U WITH HORN AND GRAVE"|[[Ừ]]
+|title="LATIN SMALL LETTER U WITH HORN AND GRAVE"|[[ừ]]
+|title="LATIN CAPITAL LETTER U WITH HORN AND HOOK ABOVE"|[[Ử]]
+|title="LATIN SMALL LETTER U WITH HORN AND HOOK ABOVE"|[[ử]]
+|title="LATIN CAPITAL LETTER U WITH HORN AND TILDE"|[[Ữ]]
+|title="LATIN SMALL LETTER U WITH HORN AND TILDE"|[[ữ]]
+|----- align="center" style="background:#f96"
+!style="background:#fff"|1EF0
+|title="LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW"|[[Ự]]
+|title="LATIN SMALL LETTER U WITH HORN AND DOT BELOW"|[[ự]]
+|title="LATIN CAPITAL LETTER Y WITH GRAVE"|[[Ỳ]]
+|title="LATIN SMALL LETTER Y WITH GRAVE"|[[ỳ]]
+|title="LATIN CAPITAL LETTER Y WITH DOT BELOW"|[[Ỵ]]
+|title="LATIN SMALL LETTER Y WITH DOT BELOW"|[[ỵ]]
+|title="LATIN CAPITAL LETTER Y WITH HOOK ABOVE"|[[Ỷ]]
+|title="LATIN SMALL LETTER Y WITH HOOK ABOVE"|[[ỷ]]
+|title="LATIN CAPITAL LETTER Y WITH TILDE"|[[Ỹ]]
+|title="LATIN SMALL LETTER Y WITH TILDE"|[[ỹ]]
+|title="LATIN CAPITAL LETTER MIDDLE-WELSH LL" style="background:#96f"|[[Ỻ]]
+|title="LATIN SMALL LETTER MIDDLE-WELSH LL" style="background:#96f"|[[ỻ]]
+|title="LATIN CAPITAL LETTER MIDDLE-WELSH V" style="background:#96f"|[[Ỽ]]
+|title="LATIN SMALL LETTER MIDDLE-WELSH V" style="background:#96f"|[[ỽ]]
+|title="LATIN CAPITAL LETTER Y WITH LOOP" style="background:#96f"|[[Ỿ]]
+|title="LATIN SMALL LETTER Y WITH LOOP" style="background:#96f"|[[ỿ]]
+|-
+!colspan="19"| 
+|----- align="center" style="background:#fff"
+!style="background:#fff"|2070
+|title="SUPERSCRIPT ZERO"|⁰
+|title="SUPERSCRIPT LATIN SMALL LETTER I" style="background:#6fc"|[[ⁱ]]
+|title="RESERVED" style="background:#666"|&nbsp;
+|title="RESERVED" style="background:#666"|&nbsp;
+|title="SUPERSCRIPT FOUR"|⁴
+|title="SUPERSCRIPT FIVE"|⁵
+|title="SUPERSCRIPT SIX"|⁶
+|title="SUPERSCRIPT SEVEN"|⁷
+|title="SUPERSCRIPT EIGHT"|⁸
+|title="SUPERSCRIPT NINE"|⁹
+|title="SUPERSCRIPT PLUS SIGN"|⁺
+|title="SUPERSCRIPT MINUS"|⁻
+|title="SUPERSCRIPT EQUALS SIGN"|⁼
+|title="SUPERSCRIPT LEFT PARENTHESIS"|⁽
+|title="SUPERSCRIPT RIGHT PARENTHESIS"|⁾
+|title="SUPERSCRIPT LATIN SMALL LETTER N" style="background:#f66"|[[ⁿ]]
+|rowspan="3" style="background:#fff"|[[Superscripts and Subscripts (Unicode block)|Superscripts and Subscripts]]<br>2070–209F
+|rowspan="3" style="background:#fff"|15
+|-
+!colspan="17"| 
+|----- align="center" style="background:#f6f"
+!style="background:#fff"|2090
+|title="LATIN SUBSCRIPT SMALL LETTER A" style="background:#6cf"|[[ₐ]]
+|title="LATIN SUBSCRIPT SMALL LETTER E" style="background:#6cf"|[[ₑ]]
+|title="LATIN SUBSCRIPT SMALL LETTER O" style="background:#6cf"|[[ₒ]]
+|title="LATIN SUBSCRIPT SMALL LETTER X" style="background:#6cf"|[[ₓ]]
+|title="LATIN SUBSCRIPT SMALL LETTER SCHWA" style="background:#6cf"|[[ₔ]]
+|title="LATIN SUBSCRIPT SMALL LETTER H"|[[ₕ]]
+|title="LATIN SUBSCRIPT SMALL LETTER K"|[[ₖ]]
+|title="LATIN SUBSCRIPT SMALL LETTER L"|[[ₗ]]
+|title="LATIN SUBSCRIPT SMALL LETTER M"|[[ₘ]]
+|title="LATIN SUBSCRIPT SMALL LETTER N"|[[ₙ]]
+|title="LATIN SUBSCRIPT SMALL LETTER P"|[[ₚ]]
+|title="LATIN SUBSCRIPT SMALL LETTER S"|[[ₛ]]
+|title="LATIN SUBSCRIPT SMALL LETTER T"|[[ₜ]]
+|title="RESERVED" style="background:#666"|&nbsp;
+|title="RESERVED" style="background:#666"|&nbsp;
+|title="RESERVED" style="background:#666"|
+|-
+!colspan="19"| 
+|----- align="center" style="background:#fff"
+!style="background:#fff"|2120
+|title="SERVICE MARK"|℠
+|title="TELEPHONE SIGN"|℡
+|title="TRADE MARK SIGN"|[[™]]
+|title="VERSICLE"|℣
+|title="DOUBLE-STRUCK CAPITAL Z"|ℤ
+|title="OUNCE SIGN"|℥
+|title="OHM SIGN"|Ω
+|title="INVERTED OHM SIGN"|℧
+|title="BLACK-LETTER CAPITAL Z"|ℨ
+|title="TURNED GREEK SMALL LETTER IOTA"|℩
+|title="KELVIN SIGN" style="background:#f66"|[[Kelvin|&#x212A;]]
+|title="ANGSTROM SIGN" style="background:#f66"|[[Angstrom|&#x212B;]]
+|title="SCRIPT CAPITAL B"|ℬ
+|title="BLACK-LETTER CAPITAL C"|ℭ
+|title="ESTIMATED SYMBOL"|℮
+|title="SCRIPT SMALL E"|ℯ
+|rowspan="3" style="background:#fff"|[[Letterlike symbols (Unicode block)|Letterlike symbols]]<br>2100–214F
+|rowspan="3" style="background:#fff"|4
+|----- align="center" style="background:#fff"
+!style="background:#fff"|2130
+|title="SCRIPT CAPITAL E"|ℰ
+|title="SCRIPT CAPITAL F"|ℱ
+|title="TURNED CAPITAL F" style="background:#f66"|[[Ⅎ]]
+|title="SCRIPT CAPITAL M"|ℳ
+|title="SCRIPT SMALL O"|ℴ
+|title="ALEF SYMBOL"|ℵ
+|title="BET SYMBOL"|ℶ
+|title="GIMEL SYMBOL"|ℷ
+|title="DALET SYMBOL"|ℸ
+|title="INFORMATION SOURCE"|ℹ
+|title="ROTATED CAPITAL Q"|℺
+|title="FACSIMILE SIGN"|℻
+|title="DOUBLE-STRUCK SMALL PI"|ℼ
+|title="DOUBLE-STRUCK SMALL GAMMA"|ℽ
+|title="DOUBLE-STRUCK CAPITAL GAMMA"|ℾ
+|title="DOUBLE-STRUCK CAPITAL PI"|ℿ
+|----- align="center" style="background:#fff"
+!style="background:#fff"|2140
+|title="DOUBLE-STRUCK N-ARY SUMMATION"|⅀
+|title="TURNED SANS-SERIF CAPITAL G"|⅁
+|title="TURNED SANS-SERIF CAPITAL L"|⅂
+|title="REVERSED SANS-SERIF CAPITAL L"|⅃
+|title="TURNED SANS-SERIF CAPITAL Y"|⅄
+|title="DOUBLE-STRUCK ITALIC CAPITAL D"|ⅅ
+|title="DOUBLE-STRUCK ITALIC SMALL D"|ⅆ
+|title="DOUBLE-STRUCK ITALIC SMALL E"|ⅇ
+|title="DOUBLE-STRUCK ITALIC SMALL I"|ⅈ
+|title="DOUBLE-STRUCK ITALIC SMALL J"|ⅉ
+|title="PROPERTY LINE"|⅊
+|title="TURNED AMPERSAND"|⅋
+|title="PER SIGN"|⅌
+|title="AKTIESELSKAB"|⅍
+|title="TURNED SMALL F" style="background:#66f"|[[ⅎ]]
+|title="SYMBOL FOR SAMARITAN SOURCE"|⅏
+|-
+!colspan="19"| 
+|----- align="center" style="background:#f66"
+!style="background:#fff"|2160
+|title="ROMAN NUMERAL ONE"|[[Ⅰ]]
+|title="ROMAN NUMERAL TWO"|[[Ⅱ]]
+|title="ROMAN NUMERAL THREE"|[[Ⅲ]]
+|title="ROMAN NUMERAL FOUR"|[[Ⅳ]]
+|title="ROMAN NUMERAL FIVE"|[[Ⅴ]]
+|title="ROMAN NUMERAL SIX"|[[Ⅵ]]
+|title="ROMAN NUMERAL SEVEN"|[[Ⅶ]]
+|title="ROMAN NUMERAL EIGHT"|[[Ⅷ]]
+|title="ROMAN NUMERAL NINE"|[[Ⅸ]]
+|title="ROMAN NUMERAL TEN"|[[Ⅹ]]
+|title="ROMAN NUMERAL ELEVEN"|[[11 (number)|Ⅺ]]
+|title="ROMAN NUMERAL TWELVE"|[[Ⅻ]]
+|title="ROMAN NUMERAL FIFTY"|[[Ⅼ]]
+|title="ROMAN NUMERAL ONE HUNDRED"|[[Ⅽ]]
+|title="ROMAN NUMERAL FIVE HUNDRED"|[[Ⅾ]]
+|title="ROMAN NUMERAL ONE THOUSAND"|[[Ⅿ]]
+|rowspan="3" style="background:#fff"|[[Number Forms]]<br>2150–218F
+|rowspan="3" style="background:#fff"|41
+|----- align="center" style="background:#f66"
+!style="background:#fff"|2170
+|title="SMALL ROMAN NUMERAL ONE"|[[ⅰ]]
+|title="SMALL ROMAN NUMERAL TWO"|[[ⅱ]]
+|title="SMALL ROMAN NUMERAL THREE"|[[ⅲ]]
+|title="SMALL ROMAN NUMERAL FOUR"|[[ⅳ]]
+|title="SMALL ROMAN NUMERAL FIVE"|[[ⅴ]]
+|title="SMALL ROMAN NUMERAL SIX"|[[ⅵ]]
+|title="SMALL ROMAN NUMERAL SEVEN"|[[ⅶ]]
+|title="SMALL ROMAN NUMERAL EIGHT"|[[ⅷ]]
+|title="SMALL ROMAN NUMERAL NINE"|[[ⅸ]]
+|title="SMALL ROMAN NUMERAL TEN"|[[ⅹ]]
+|title="SMALL ROMAN NUMERAL ELEVEN"|[[11 (number)|ⅺ]]
+|title="SMALL ROMAN NUMERAL TWELVE"|[[ⅻ]]
+|title="SMALL ROMAN NUMERAL FIFTY"|[[ⅼ]]
+|title="SMALL ROMAN NUMERAL ONE HUNDRED"|[[ⅽ]]
+|title="SMALL ROMAN NUMERAL FIVE HUNDRED"|[[ⅾ]]
+|title="SMALL ROMAN NUMERAL ONE THOUSAND"|[[ⅿ]]
+|----- align="center" style="background:#f66"
+!style="background:#fff"|2180
+|title="ROMAN NUMERAL ONE THOUSAND C D"|[[ↀ]]
+|title="ROMAN NUMERAL FIVE THOUSAND"|[[ↁ]]
+|title="ROMAN NUMERAL TEN THOUSAND"|[[ↂ]]
+|title="ROMAN NUMERAL REVERSED ONE HUNDRED" style="background:#6f6"|[[Ↄ]]
+|title="LATIN SMALL LETTER REVERSED C" style="background:#66f"|[[ↄ]]
+|title="ROMAN NUMERAL SIX LATE FORM" style="background:#96f"|[[ↅ]]
+|title="ROMAN NUMERAL FIFTY EARLY FORM" style="background:#96f"|[[ↆ]]
+|title="ROMAN NUMERAL FIFTY THOUSAND" style="background:#96f"|[[ↇ]]
+|title="ROMAN NUMERAL ONE HUNDRED THOUSAND" style="background:#96f"|[[ↈ]]
+|title="VULGAR FRACTION ZERO THIRDS" style="background:#fff"|↉
+|title="TURNED DIGIT TWO" style="background:#666"|&nbsp;
+|title="TURNED DIGIT THREE" style="background:#666"|&nbsp;
+|title="RESERVED" style="background:#666"|&nbsp;
+|title="RESERVED" style="background:#666"|&nbsp;
+|title="RESERVED" style="background:#666"|&nbsp;
+|title="RESERVED" style="background:#666"|&nbsp;
+|-
+!colspan="19"| 
+|----- align="center" style="background:#66f"
+!style="background:#fff"|2C60
+|title="LATIN CAPITAL LETTER L WITH DOUBLE BAR"|[[Ⱡ]]
+|title="LATIN SMALL LETTER L WITH DOUBLE BAR"|[[ⱡ]]
+|title="LATIN CAPITAL LETTER L WITH MIDDLE TILDE"|[[Ɫ]]
+|title="LATIN CAPITAL LETTER P WITH STROKE"|[[Ᵽ]]
+|title="LATIN CAPITAL LETTER R WITH TAIL"|[[Ɽ]]
+|title="LATIN SMALL LETTER A WITH STROKE"|[[ⱥ]]
+|title="LATIN SMALL LETTER T WITH DIAGONAL STROKE"|[[ⱦ]]
+|title="LATIN CAPITAL LETTER H WITH DESCENDER"|[[Ⱨ]]
+|title="LATIN SMALL LETTER H WITH DESCENDER"|[[ⱨ]]
+|title="LATIN CAPITAL LETTER K WITH DESCENDER"|[[Ⱪ]]
+|title="LATIN SMALL LETTER K WITH DESCENDER"|[[ⱪ]]
+|title="LATIN CAPITAL LETTER Z WITH DESCENDER"|[[Ⱬ]]
+|title="LATIN SMALL LETTER Z WITH DESCENDER"|[[ⱬ]]
+|title="LATIN CAPITAL LETTER ALPHA" style="background:#96f"|[[Ɑ]]
+|title="LATIN CAPITAL LETTER M WITH HOOK" style="background:#96f"|[[Ɱ]]
+|title="LATIN CAPITAL LETTER TURNED A" style="background:#96f"|[[Ɐ]]
+|rowspan="2" style="background:#fff"|[[Latin Extended-C]]<br>2C60–2C7F
+|rowspan="2" style="background:#fff"|32
+|----- align="center" style="background:#96f"
+!style="background:#fff"|2C70
+|title="LATIN CAPITAL LETTER TURNED ALPHA" style="background:#c6f"|[[Ɒ]]
+|title="LATIN SMALL LETTER V WITH RIGHT HOOK"|[[ⱱ]]
+|title="LATIN CAPITAL LETTER W WITH HOOK"|[[Ⱳ]]
+|title="LATIN SMALL LETTER W WITH HOOK"|[[ⱳ]]
+|title="LATIN SMALL LETTER V WITH CURL" style="background:#66f"|[[ⱴ]]
+|title="LATIN CAPITAL LETTER HALF H" style="background:#66f"|[[Ⱶ]]
+|title="LATIN SMALL LETTER HALF H" style="background:#66f"|[[ⱶ]]
+|title="LATIN SMALL LETTER TAILLESS PHI" style="background:#66f"|[[ⱷ]]
+|title="LATIN SMALL LETTER E WITH NOTCH"|[[ⱸ]]
+|title="LATIN SMALL LETTER TURNED R WITH TAIL"|[[ⱹ]]
+|title="LATIN SMALL LETTER O WITH LOW RING INSIDE"|[[ⱺ]]
+|title="LATIN LETTER SMALL CAPITAL TURNED E"|[[ⱻ]]
+|title="LATIN SUBSCRIPT SMALL LETTER J"|[[ⱼ]]
+|title="MODIFIER LETTER CAPITAL V"|[[ⱽ]]
+|title="LATIN CAPITAL LETTER S WITH SWASH TAIL" style="background:#c6f"|[[Ȿ]]
+|title="LATIN CAPITAL LETTER Z WITH SWASH TAIL" style="background:#c6f"|[[Ɀ]]
+|-
+!colspan="19"| 
+|----- align="center" style="background:#96f"
+!style="background:#fff"|A720
+|title="MODIFIER LETTER STRESS AND HIGH TONE" style="background:#fff"|꜠
+|title="MODIFIER LETTER STRESS AND LOW TONE" style="background:#fff"|꜡
+|title="LATIN CAPITAL LETTER EGYPTOLOGICAL ALEF"|[[Ꜣ]]
+|title="LATIN SMALL LETTER EGYPTOLOGICAL ALEF"|[[ꜣ]]
+|title="LATIN CAPITAL LETTER EGYPTOLOGICAL AIN"|[[Ꜥ]]
+|title="LATIN SMALL LETTER EGYPTOLOGICAL AIN"|[[ꜥ]]
+|title="LATIN CAPITAL LETTER HENG"|[[Ꜧ]]
+|title="LATIN SMALL LETTER HENG"|[[ꜧ]]
+|title="LATIN CAPITAL LETTER TZ"|[[Ꜩ]]
+|title="LATIN SMALL LETTER TZ"|[[ꜩ]]
+|title="LATIN CAPITAL LETTER TRESILLO"|[[Ꜫ]]
+|title="LATIN SMALL LETTER TRESILLO"|[[ꜫ]]
+|title="LATIN CAPITAL LETTER CUATRILLO"|[[Ꜭ]]
+|title="LATIN SMALL LETTER CUATRILLO"|[[ꜭ]]
+|title="LATIN CAPITAL LETTER CUATRILLO WITH COMMA"|[[Ꜯ]]
+|title="LATIN SMALL LETTER CUATRILLO WITH COMMA"|[[ꜯ]]
+|rowspan="14" style="background:#fff"|[[Latin Extended-D]]<br>A720–A7FF
+|rowspan="14" style="background:#fff"|175
+|----- align="center" style="background:#96f"
+!style="background:#fff"|A730
+|title="LATIN LETTER SMALL CAPITAL F"|[[ꜰ]]
+|title="LATIN LETTER SMALL CAPITAL S"|[[ꜱ]]
+|title="LATIN CAPITAL LETTER AA"|[[Ꜳ]]
+|title="LATIN SMALL LETTER AA"|[[ꜳ]]
+|title="LATIN CAPITAL LETTER AO"|[[Ꜵ]]
+|title="LATIN SMALL LETTER AO"|[[ꜵ]]
+|title="LATIN CAPITAL LETTER AU"|[[Ꜷ]]
+|title="LATIN SMALL LETTER AU"|[[ꜷ]]
+|title="LATIN CAPITAL LETTER AV"|[[Ꜹ]]
+|title="LATIN SMALL LETTER AV"|[[ꜹ]]
+|title="LATIN CAPITAL LETTER AV WITH HORIZONTAL BAR"|[[Ꜻ]]
+|title="LATIN SMALL LETTER AV WITH HORIZONTAL BAR"|[[ꜻ]]
+|title="LATIN CAPITAL LETTER AY"|[[Ꜽ]]
+|title="LATIN SMALL LETTER AY"|[[ꜽ]]
+|title="LATIN CAPITAL LETTER REVERSED C WITH DOT"|[[Ꜿ]]
+|title="LATIN SMALL LETTER REVERSED C WITH DOT"|[[ꜿ]]
+|----- align="center" style="background:#96f"
+!style="background:#fff"|A740
+|title="LATIN CAPITAL LETTER K WITH STROKE"|[[Ꝁ]]
+|title="LATIN SMALL LETTER K WITH STROKE"|[[ꝁ]]
+|title="LATIN CAPITAL LETTER K WITH DIAGONAL STROKE"|[[Ꝃ]]
+|title="LATIN SMALL LETTER K WITH DIAGONAL STROKE"|[[ꝃ]]
+|title="LATIN CAPITAL LETTER K WITH STROKE AND DIAGONAL STROKE"|[[Ꝅ]]
+|title="LATIN SMALL LETTER K WITH STROKE AND DIAGONAL STROKE"|[[ꝅ]]
+|title="LATIN CAPITAL LETTER BROKEN L"|[[Ꝇ]]
+|title="LATIN SMALL LETTER BROKEN L"|[[ꝇ]]
+|title="LATIN CAPITAL LETTER L WITH HIGH STROKE"|[[Ꝉ]]
+|title="LATIN SMALL LETTER L WITH HIGH STROKE"|[[ꝉ]]
+|title="LATIN CAPITAL LETTER O WITH LONG STROKE OVERLAY"|[[Ꝋ]]
+|title="LATIN SMALL LETTER O WITH LONG STROKE OVERLAY"|[[ꝋ]]
+|title="LATIN CAPITAL LETTER O WITH LOOP"|[[Ꝍ]]
+|title="LATIN SMALL LETTER O WITH LOOP"|[[ꝍ]]
+|title="LATIN CAPITAL LETTER OO"|[[Ꝏ]]
+|title="LATIN SMALL LETTER OO"|[[ꝏ]]
+|----- align="center" style="background:#96f"
+!style="background:#fff"|A750
+|title="LATIN CAPITAL LETTER P WITH STROKE THROUGH DESCENDER"|[[Ꝑ]]
+|title="LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER"|[[ꝑ]]
+|title="LATIN CAPITAL LETTER P WITH FLOURISH"|[[Ꝓ]]
+|title="LATIN SMALL LETTER P WITH FLOURISH"|[[ꝓ]]
+|title="LATIN CAPITAL LETTER P WITH SQUIRREL TAIL"|[[Ꝕ]]
+|title="LATIN SMALL LETTER P WITH SQUIRREL TAIL"|[[ꝕ]]
+|title="LATIN CAPITAL LETTER Q WITH STROKE THROUGH DESCENDER"|[[Ꝗ]]
+|title="LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER"|[[ꝗ]]
+|title="LATIN CAPITAL LETTER Q WITH DIAGONAL STROKE"|[[Ꝙ]]
+|title="LATIN SMALL LETTER Q WITH DIAGONAL STROKE"|[[ꝙ]]
+|title="LATIN CAPITAL LETTER R ROTUNDA"|[[Ꝛ]]
+|title="LATIN SMALL LETTER R ROTUNDA"|[[ꝛ]]
+|title="LATIN CAPITAL LETTER RUM ROTUNDA"|[[Ꝝ]]
+|title="LATIN SMALL LETTER RUM ROTUNDA"|[[ꝝ]]
+|title="LATIN CAPITAL LETTER V WITH DIAGONAL STROKE"|[[Ꝟ]]
+|title="LATIN SMALL LETTER V WITH DIAGONAL STROKE"|[[ꝟ]]
+|----- align="center" style="background:#96f"
+!style="background:#fff"|A760
+|title="LATIN CAPITAL LETTER VY"|[[Ꝡ]]
+|title="LATIN SMALL LETTER VY"|[[ꝡ]]
+|title="LATIN CAPITAL LETTER VISIGOTHIC Z"|[[Ꝣ]]
+|title="LATIN SMALL LETTER VISIGOTHIC Z"|[[ꝣ]]
+|title="LATIN CAPITAL LETTER THORN WITH STROKE"|[[Ꝥ]]
+|title="LATIN SMALL LETTER THORN WITH STROKE"|[[ꝥ]]
+|title="LATIN CAPITAL LETTER THORN WITH STROKE THROUGH DESCENDER"|[[Ꝧ]]
+|title="LATIN SMALL LETTER THORN WITH STROKE THROUGH DESCENDER"|[[ꝧ]]
+|title="LATIN CAPITAL LETTER VEND"|[[Ꝩ]]
+|title="LATIN SMALL LETTER VEND"|[[ꝩ]]
+|title="LATIN CAPITAL LETTER ET"|[[Ꝫ]]
+|title="LATIN SMALL LETTER ET"|[[ꝫ]]
+|title="LATIN CAPITAL LETTER IS"|[[Ꝭ]]
+|title="LATIN SMALL LETTER IS"|[[ꝭ]]
+|title="LATIN CAPITAL LETTER CON"|[[Ꝯ]]
+|title="LATIN SMALL LETTER CON"|[[ꝯ]]
+|----- align="center" style="background:#96f"
+!style="background:#fff"|A770
+|title="MODIFIER LETTER US"|[[ꝰ]]
+|title="LATIN SMALL LETTER DUM"|[[ꝱ]]
+|title="LATIN SMALL LETTER LUM"|[[ꝲ]]
+|title="LATIN SMALL LETTER MUM"|[[ꝳ]]
+|title="LATIN SMALL LETTER NUM"|[[ꝴ]]
+|title="LATIN SMALL LETTER RUM"|[[ꝵ]]
+|title="LATIN LETTER SMALL CAPITAL RUM"|[[ꝶ]]
+|title="LATIN SMALL LETTER TUM"|[[ꝷ]]
+|title="LATIN SMALL LETTER UM"|[[ꝸ]]
+|title="LATIN CAPITAL LETTER INSULAR D"|[[Ꝺ]]
+|title="LATIN SMALL LETTER INSULAR D"|[[ꝺ]]
+|title="LATIN CAPITAL LETTER INSULAR F"|[[Ꝼ]]
+|title="LATIN SMALL LETTER INSULAR F"|[[ꝼ]]
+|title="LATIN CAPITAL LETTER INSULAR G"|[[Ᵹ]]
+|title="LATIN CAPITAL LETTER TURNED INSULAR G"|[[Ꝿ]]
+|title="LATIN SMALL LETTER TURNED INSULAR G"|[[ꝿ]]
+|----- align="center" style="background:#96f"
+!style="background:#fff"|A780
+|title="LATIN CAPITAL LETTER TURNED L"|[[Ꞁ]]
+|title="LATIN SMALL LETTER TURNED L"|[[ꞁ]]
+|title="LATIN CAPITAL LETTER INSULAR R"|[[Ꞃ]]
+|title="LATIN SMALL LETTER INSULAR R"|[[ꞃ]]
+|title="LATIN CAPITAL LETTER INSULAR S"|[[Ꞅ]]
+|title="LATIN SMALL LETTER INSULAR S"|[[ꞅ]]
+|title="LATIN CAPITAL LETTER INSULAR T"|[[Ꞇ]]
+|title="LATIN SMALL LETTER INSULAR T"|[[ꞇ]]
+|title="MODIFIER LETTER LOW CIRCUMFLEX ACCENT" style="background:#fff"|ꞈ
+|title="MODIFIER LETTER COLON" style="background:#fff"|꞉
+|title="MODIFIER LETTER SHORT EQUALS SIGN" style="background:#fff"|꞊
+|title="LATIN CAPITAL LETTER SALTILLO"|[[Ꞌ]]
+|title="LATIN SMALL LETTER SALTILLO"|[[ꞌ]]
+|title="LATIN CAPITAL LETTER TURNED H" style="background:#f6f"|[[Ɥ]]
+|title="LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT" style="background:#f6f"|[[ꞎ]]
+|title="LATIN LETTER SINOLOGICAL DOT" style="background:#d2691e"|[[ꞏ]]
+|----- align="center" style="background:#666"
+!style="background:#fff"|A790
+|title="LATIN CAPITAL LETTER N WITH DESCENDER" style="background:#f6f"|[[Ꞑ]]
+|title="LATIN SMALL LETTER N WITH DESCENDER" style="background:#f6f"|[[ꞑ]]
+|title="LATIN CAPITAL LETTER C WITH BAR" style="background:#fcf"|[[Ꞓ]]
+|title="LATIN SMALL LETTER C WITH BAR" style="background:#fcf"|[[ꞓ]]
+|title="LATIN SMALL LETTER C WITH PALATAL HOOK" style="background:#acf"|[[ꞔ]]
+|title="LATIN SMALL LETTER H WITH PALATAL HOOK" style="background:#acf"|[[ꞕ]]
+|title="LATIN CAPITAL LETTER B WITH FLOURISH" style="background:#acf"|[[Ꞗ]]
+|title="LATIN SMALL LETTER B WITH FLOURISH" style="background:#acf"|[[ꞗ]]
+|title="LATIN CAPITAL LETTER F WITH STROKE" style="background:#acf"|[[Ꞙ]]
+|title="LATIN SMALL LETTER F WITH STROKE" style="background:#acf"|[[ꞙ]]
+|title="LATIN CAPITAL LETTER VOLAPUK AE" style="background:#acf"|[[Ꞛ]]
+|title="LATIN SMALL LETTER VOLAPUK AE" style="background:#acf"|[[ꞛ]]
+|title="LATIN CAPITAL LETTER VOLAPUK OE" style="background:#acf"|[[Ꞝ]]
+|title="LATIN SMALL LETTER VOLAPUK OE" style="background:#acf"|[[ꞝ]]
+|title="LATIN CAPITAL LETTER VOLAPUK UE" style="background:#acf"|[[Ꞟ]]
+|title="LATIN SMALL LETTER VOLAPUK UE" style="background:#acf"|[[ꞟ]]
+|----- align="center" style="background:#f6f"
+!style="background:#fff"|A7A0
+|title="LATIN CAPITAL LETTER G WITH OBLIQUE STROKE"|[[Ꞡ]]
+|title="LATIN SMALL LETTER G WITH OBLIQUE STROKE"|[[ꞡ]]
+|title="LATIN CAPITAL LETTER K WITH OBLIQUE STROKE"|[[Ꞣ]]
+|title="LATIN SMALL LETTER K WITH OBLIQUE STROKE"|[[ꞣ]]
+|title="LATIN CAPITAL LETTER N WITH OBLIQUE STROKE"|[[Ꞥ]]
+|title="LATIN SMALL LETTER N WITH OBLIQUE STROKE"|[[ꞥ]]
+|title="LATIN CAPITAL LETTER R WITH OBLIQUE STROKE"|[[Ꞧ]]
+|title="LATIN SMALL LETTER R WITH OBLIQUE STROKE"|[[ꞧ]]
+|title="LATIN CAPITAL LETTER S WITH OBLIQUE STROKE"|[[Ꞩ]]
+|title="LATIN SMALL LETTER S WITH OBLIQUE STROKE"|[[ꞩ]]
+|title="LATIN CAPITAL LETTER H WITH HOOK" style="background:#fcf"|[[Ɦ]]
+|title="LATIN CAPITAL LETTER REVERSED OPEN E" style="background:#acf"|[[Ɜ]]
+|title="LATIN CAPITAL LETTER SCRIPT G" style="background:#acf"|[[Ɡ]]
+|title="LATIN CAPITAL LETTER L WITH BELT" style="background:#acf"|[[Ɬ]]
+|title="LATIN CAPITAL LETTER SMALL CAPITAL I" style="background:#ff7f50"|[[Ɪ]]
+|title="LATIN LETTER SMALL CAPITAL Q" style="background:#ffbf00"|ꞯ
+|----- align="center" style="background:#666"
+!style="background:#fff"|A7B0
+|title="LATIN CAPITAL LETTER TURNED K" style="background:#acf"|[[Ʞ]]
+|title="LATIN CAPITAL LETTER TURNED T" style="background:#acf"|[[Ʇ]]
+|title="LATIN CAPITAL LETTER J WITH CROSSED-TAIL" style="background:#d2691e"|[[Ʝ]]
+|title="LATIN CAPITAL LETTER CHI" style="background:#d2691e"|[[Ꭓ]]
+|title="LATIN CAPITAL LETTER BETA" style="background:#d2691e"|[[Ꞵ]]
+|title="LATIN SMALL LETTER BETA" style="background:#d2691e"|[[ꞵ]]
+|title="LATIN CAPITAL LETTER OMEGA" style="background:#d2691e"|[[Ꞷ]]
+|title="LATIN SMALL LETTER OMEGA" style="background:#d2691e"|[[ꞷ]]
+|title="LATIN CAPITAL LETTER U WITH STROKE" style="background:#ffbf00"|Ꞹ
+|title="LATIN SMALL LETTER U WITH STROKE" style="background:#ffbf00"|ꞹ
+|title="LATIN CAPITAL LETTER GLOTTAL A" style="background:#b28b15"|Ꞻ
+|title="LATIN SMALL LETTER GLOTTAL A" style="background:#b28b15"|ꞻ
+|title="LATIN CAPITAL LETTER GLOTTAL I" style="background:#b28b15"|Ꞽ
+|title="LATIN SMALL LETTER GLOTTAL I" style="background:#b28b15"|ꞽ
+|title="LATIN CAPITAL LETTER GLOTTAL U" style="background:#b28b15"|Ꞿ
+|title="LATIN SMALL LETTER GLOTTAL U" style="background:#b28b15"|ꞿ
+|----- align="center" style="background:#666"
+!style="background:#fff"|A7C0
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="LATIN CAPITAL LETTER ANGLICANA W" style="background:#b28b15"|Ꟃ
+|title="LATIN SMALL LETTER ANGLICANA W" style="background:#b28b15"|ꟃ
+|title="LATIN CAPITAL LETTER C WITH PALATAL HOOK" style="background:#b28b15"|Ꞔ
+|title="LATIN CAPITAL LETTER S WITH HOOK" style="background:#b28b15"|Ʂ
+|title="LATIN CAPITAL LETTER Z WITH PALATAL HOOK" style="background:#b28b15"|Ᶎ
+|title="LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY" style="background:#c39c26"|Ꟈ
+|title="LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY" style="background:#c39c26"|ꟈ
+|title="LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY" style="background:#c39c26"|Ꟊ
+|title="LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY" style="background:#c39c26"|ꟊ
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|----- align="center" style="background:#666"
+!style="background:#fff"|A7D0
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|----- align="center" style="background:#666"
+!style="background:#fff"|A7E0
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|----- align="center" style="background:#666"
+!style="background:#fff"|A7F0
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="LATIN CAPITAL LETTER REVERSED HALF H" style="background:#c39c26"|[[Ꟶ]]
+|title="LATIN SMALL LETTER REVERSED HALF H" style="background:#c39c26"|[[ꟶ]]
+|title="LATIN EPIGRAPHIC LETTER SIDEWAYS I" style="background:#acf"|[[ꟷ]]
+|title="MODIFIER LETTER CAPITAL H WITH STROKE" style="background:#f6f"|[[ꟸ]]
+|title="MODIFIER LETTER SMALL LIGATURE OE" style="background:#f6f"|[[ꟹ]]
+|title="LATIN LETTER SMALL CAPITAL TURNED M" style="background:#f6f"|[[ꟺ]]
+|title="LATIN EPIGRAPHIC LETTER REVERSED F" style="background:#96f"|[[ꟻ]]
+|title="LATIN EPIGRAPHIC LETTER REVERSED P" style="background:#96f"|[[ꟼ]]
+|title="LATIN EPIGRAPHIC LETTER INVERTED M" style="background:#96f"|[[ꟽ]]
+|title="LATIN EPIGRAPHIC LETTER I LONGA" style="background:#96f"|[[ꟾ]]
+|title="LATIN EPIGRAPHIC LETTER ARCHAIC M" style="background:#96f"|[[ꟿ]]
+|-
+!colspan="19"| 
+|----- align="center" style="background:#acf"
+!style="background:#fff"|AB30
+|title="LATIN SMALL LETTER BARRED ALPHA"|[[ꬰ]]
+|title="LATIN SMALL LETTER A REVERSED-SCHWA"|[[ꬱ]]
+|title="LATIN SMALL LETTER BLACKLETTER E"|[[ꬲ]]
+|title="LATIN SMALL LETTER BARRED E"|[[ꬳ]]
+|title="LATIN SMALL LETTER E WITH FLOURISH"|[[ꬴ]]
+|title="LATIN SMALL LETTER LENIS F"|[[ꬵ]]
+|title="LATIN SMALL LETTER SCRIPT G WITH CROSSED-TAIL"|[[ꬶ]]
+|title="LATIN SMALL LETTER L WITH INVERTED LAZY S"|[[ꬷ]]
+|title="LATIN SMALL LETTER L WITH DOUBLE MIDDLE TILDE"|[[ꬸ]]
+|title="LATIN SMALL LETTER L WITH MIDDLE RING"|[[ꬹ]]
+|title="LATIN SMALL LETTER M WITH CROSSED-TAIL"|[[ꬺ]]
+|title="LATIN SMALL LETTER N WITH CROSSED-TAIL"|[[ꬻ]]
+|title="LATIN SMALL LETTER ENG WITH CROSSED-TAIL"|[[ꬼ]]
+|title="LATIN SMALL LETTER BLACKLETTER O"|[[ꬽ]]
+|title="LATIN SMALL LETTER BLACKLETTER O WITH STROKE"|[[ꬾ]]
+|title="LATIN SMALL LETTER OPEN O WITH STROKE"|[[ꬿ]]
+|rowspan="4" style="background:#fff"|[[Latin Extended-E]]<br>AB30–AB6F
+|rowspan="4" style="background:#fff"|56
+|----- align="center" style="background:#acf"
+!style="background:#fff"|AB40
+|title="LATIN SMALL LETTER INVERTED OE"|[[ꭀ]]
+|title="LATIN SMALL LETTER TURNED OE WITH STROKE"|[[ꭁ]]
+|title="LATIN SMALL LETTER TURNED OE WITH HORIZONTAL STROKE"|[[ꭂ]]
+|title="LATIN SMALL LETTER TURNED O OPEN-O"|[[ꭃ]]
+|title="LATIN SMALL LETTER TURNED O OPEN-O WITH STROKE"|[[ꭄ]]
+|title="LATIN SMALL LETTER STIRRUP R"|[[ꭅ]]
+|title="LATIN LETTER SMALL CAPITAL R WITH RIGHT LEG"|[[ꭆ]]
+|title="LATIN SMALL LETTER R WITHOUT HANDLE"|[[ꭇ]]
+|title="LATIN SMALL LETTER DOUBLE R"|[[ꭈ]]
+|title="LATIN SMALL LETTER R WITH CROSSED-TAIL"|[[ꭉ]]
+|title="LATIN SMALL LETTER DOUBLE R WITH CROSSED-TAIL"|[[ꭊ]]
+|title="LATIN SMALL LETTER SCRIPT R"|[[ꭋ]]
+|title="LATIN SMALL LETTER SCRIPT R WITH RING"|[[ꭌ]]
+|title="LATIN SMALL LETTER BASELINE ESH"|[[ꭍ]]
+|title="LATIN SMALL LETTER U WITH SHORT RIGHT LEG"|[[ꭎ]]
+|title="LATIN SMALL LETTER U BAR WITH SHORT RIGHT LEG"|[[ꭏ]]
+|----- align="center" style="background:#acf"
+!style="background:#fff"|AB50
+|title="LATIN SMALL LETTER UI"|[[ꭐ]]
+|title="LATIN SMALL LETTER TURNED UI"|[[ꭑ]]
+|title="LATIN SMALL LETTER U WITH LEFT HOOK"|[[ꭒ]]
+|title="LATIN SMALL LETTER CHI"|[[ꭓ]]
+|title="LATIN SMALL LETTER CHI WITH LOW RIGHT RING"|[[ꭔ]]
+|title="LATIN SMALL LETTER CHI WITH LOW LEFT SERIF"|[[ꭕ]]
+|title="LATIN SMALL LETTER X WITH LOW RIGHT RING"|[[ꭖ]]
+|title="LATIN SMALL LETTER X WITH LONG LEFT LEG"|[[ꭗ]]
+|title="LATIN SMALL LETTER X WITH LONG LEFT LEG AND LOW RIGHT RING"|[[ꭘ]]
+|title="LATIN SMALL LETTER X WITH LONG LEFT LEG WITH SERIF"|[[ꭙ]]
+|title="LATIN SMALL LETTER Y WITH SHORT RIGHT LEG"|[[ꭚ]]
+|title="MODIFIER BREVE WITH INVERTED BREVE" style="background:#fff"|꭛
+|title="MODIFIER LETTER SMALL HENG"|[[ꭜ]]
+|title="MODIFIER LETTER SMALL L WITH INVERTED LAZY S"|[[ꭝ]]
+|title="MODIFIER LETTER SMALL L WITH MIDDLE TILDE"|[[ꭞ]]
+|title="MODIFIER LETTER SMALL U WITH LEFT HOOK"|[[ꭟ]]
+|----- align="center" style="background:#666"
+!style="background:#fff"|AB60
+|title="LATIN SMALL LETTER SAKHA YAT" style="background:#d2691e"|[[ꭠ]]
+|title="LATIN SMALL LETTER IOTIFIED E" style="background:#d2691e"|[[ꭡ]]
+|title="LATIN SMALL LETTER OPEN OE" style="background:#d2691e"|[[ꭢ]]
+|title="LATIN SMALL LETTER UO" style="background:#d2691e"|[[ꭣ]]
+|title="LATIN SMALL LETTER INVERTED ALPHA" style="background:#acf"|[[ꭤ]]
+|title="GREEK LETTER SMALL CAPITAL OMEGA" style="background:#fff"|ꭥ
+|title="LATIN SMALL LETTER DZ DIGRAPH WITH RETROFLEX HOOK" style="background:#b28b15"|ꭦ
+|title="LATIN SMALL LETTER TS DIGRAPH WITH RETROFLEX HOOK" style="background:#b28b15"|ꭧ
+|title="LATIN SMALL LETTER TURNED R WITH MIDDLE TILDE" style="background:#c39c26"|ꭨ
+|title="MODIFIER LETTER SMALL TURNED W" style="background:#c39c26"|ꭩ
+|title="MODIFIER LETTER LEFT TACK" style="background:#fff"|꭪
+|title="MODIFIER LETTER RIGHT TACK" style="background:#fff"|꭫
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|-
+!colspan="19"| 
+|----- align="center" style="background:#666"
+!style="background:#fff"|FB00
+|title="LATIN SMALL LIGATURE FF" style="background:#f96"|[[ﬀ]]
+|title="LATIN SMALL LIGATURE FI" style="background:#f96"|[[ﬁ]]
+|title="LATIN SMALL LIGATURE FL" style="background:#f96"|[[ﬂ]]
+|title="LATIN SMALL LIGATURE FFI" style="background:#f96"|[[ﬃ]]
+|title="LATIN SMALL LIGATURE FFL" style="background:#f96"|[[ﬄ]]
+|title="LATIN SMALL LIGATURE LONG S T" style="background:#f96"|[[ﬅ]]
+|title="LATIN SMALL LIGATURE ST" style="background:#f96"|[[ﬆ]]
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|title="RESERVED"|&nbsp;
+|style="background:#fff"|[[Alphabetic Presentation Forms]] FB00–FB4F
+|style="background:#fff"|7
+|-
+!colspan="19"| 
+|----- align="center" style="background:#f66"
+!style="background:#fff"|FF20
+|title="FULLWIDTH COMMERCIAL AT" style="background:#fff"|＠
+|title="FULLWIDTH LATIN CAPITAL LETTER A"|[[Ａ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER B"|[[Ｂ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER C"|[[Ｃ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER D"|[[Ｄ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER E"|[[Ｅ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER F"|[[Ｆ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER G"|[[Ｇ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER H"|[[Ｈ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER I"|[[Ｉ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER J"|[[Ｊ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER K"|[[Ｋ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER L"|[[Ｌ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER M"|[[Ｍ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER N"|[[Ｎ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER O"|[[Ｏ]]
+|rowspan="4" style="background:#fff"|[[Halfwidth and fullwidth forms (Unicode block)|Halfwidth and Fullwidth Forms]]<br>(fullwidth Latin letters)<br>FF00–FFEF
+|rowspan="4" style="background:#fff"|52
+|----- align="center" style="background:#f66"
+!style="background:#fff"|FF30
+|title="FULLWIDTH LATIN CAPITAL LETTER P"|[[Ｐ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER Q"|[[Ｑ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER R"|[[Ｒ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER S"|[[Ｓ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER T"|[[Ｔ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER U"|[[Ｕ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER V"|[[Ｖ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER W"|[[Ｗ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER X"|[[Ｘ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER Y"|[[Ｙ]]
+|title="FULLWIDTH LATIN CAPITAL LETTER Z"|[[Ｚ]]
+|title="FULLWIDTH LEFT SQUARE BRACKET" style="background:#fff"|［
+|title="FULLWIDTH REVERSE SOLIDUS" style="background:#fff"|＼
+|title="FULLWIDTH RIGHT SQUARE BRACKET" style="background:#fff"|］
+|title="FULLWIDTH CIRCUMFLEX ACCENT" style="background:#fff"|＾
+|title="FULLWIDTH LOW LINE" style="background:#fff"|＿
+|----- align="center" style="background:#f66"
+!style="background:#fff"|FF40
+|title="FULLWIDTH GRAVE ACCENT" style="background:#fff"|｀
+|title="FULLWIDTH LATIN SMALL LETTER A"|[[ａ]]
+|title="FULLWIDTH LATIN SMALL LETTER B"|[[ｂ]]
+|title="FULLWIDTH LATIN SMALL LETTER C"|[[ｃ]]
+|title="FULLWIDTH LATIN SMALL LETTER D"|[[ｄ]]
+|title="FULLWIDTH LATIN SMALL LETTER E"|[[ｅ]]
+|title="FULLWIDTH LATIN SMALL LETTER F"|[[ｆ]]
+|title="FULLWIDTH LATIN SMALL LETTER G"|[[ｇ]]
+|title="FULLWIDTH LATIN SMALL LETTER H"|[[ｈ]]
+|title="FULLWIDTH LATIN SMALL LETTER I"|[[ｉ]]
+|title="FULLWIDTH LATIN SMALL LETTER J"|[[ｊ]]
+|title="FULLWIDTH LATIN SMALL LETTER K"|[[ｋ]]
+|title="FULLWIDTH LATIN SMALL LETTER L"|[[ｌ]]
+|title="FULLWIDTH LATIN SMALL LETTER M"|[[ｍ]]
+|title="FULLWIDTH LATIN SMALL LETTER N"|[[ｎ]]
+|title="FULLWIDTH LATIN SMALL LETTER O"|[[ｏ]]
+|----- align="center" style="background:#f66"
+!style="background:#fff"|FF50
+|title="FULLWIDTH LATIN SMALL LETTER P"|[[ｐ]]
+|title="FULLWIDTH LATIN SMALL LETTER Q"|[[ｑ]]
+|title="FULLWIDTH LATIN SMALL LETTER R"|[[ｒ]]
+|title="FULLWIDTH LATIN SMALL LETTER S"|[[ｓ]]
+|title="FULLWIDTH LATIN SMALL LETTER T"|[[ｔ]]
+|title="FULLWIDTH LATIN SMALL LETTER U"|[[ｕ]]
+|title="FULLWIDTH LATIN SMALL LETTER V"|[[ｖ]]
+|title="FULLWIDTH LATIN SMALL LETTER W"|[[ｗ]]
+|title="FULLWIDTH LATIN SMALL LETTER X"|[[ｘ]]
+|title="FULLWIDTH LATIN SMALL LETTER Y"|[[ｙ]]
+|title="FULLWIDTH LATIN SMALL LETTER Z"|[[ｚ]]
+|title="FULLWIDTH LEFT CURLY BRACKET" style="background:#fff"|｛
+|title="FULLWIDTH VERTICAL LINE" style="background:#fff"|｜
+|title="FULLWIDTH RIGHT CURLY BRACKET" style="background:#fff"|｝
+|title="FULLWIDTH TILDE" style="background:#fff"|～
+|title="FULLWIDTH LEFT WHITE PARENTHESIS" style="background:#fff"|｟
+|-
+!colspan="18"|'''Total characters'''
+|1,374
+|}
 
 ==ᱟᱨᱦᱚᱸ ᱧᱮᱞ ᱢᱮ==
 
