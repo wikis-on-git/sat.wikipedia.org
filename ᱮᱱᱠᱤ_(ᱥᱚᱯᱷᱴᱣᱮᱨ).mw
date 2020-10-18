@@ -1,0 +1,30 @@
+{{Infobox software
+| name = ᱮᱱᱠᱤ
+| logo = Anki-icon.svg
+| screenshot = Anki 2.0.22 KDE4.en.story-ru-en.smallwindow.png
+| caption = 
+| collapsible = 
+| author = 
+| developer = [[ᱰᱟᱹᱢᱤᱭᱟᱹᱱ ᱮᱞᱢᱮᱥ]]
+| released = {{start date and age|df=yes|2006|10|5}}
+| latest preview version = 2.1.33
+| latest preview date = {{Start date and age|df=yes|2020|08|30}}<ref>{{cite web |title=Changes |url=https://changes.ankiweb.net/#/ |website=Anki |accessdate=31 Aug 2020}}</ref>
+| latest release version = 2.1.33
+| latest release date = {{Start date and age|df=yes|2020|08|30}}<ref>{{cite web |title=Stable Release |url=https://apps.ankiweb.net/ |website=Anki |accessdate=31 Aug 2020}}</ref>
+| programming language = [[Python (programming language)|Python]], [[Rust (programming language)|Rust]]
+| operating system = [[Windows]], [[macOS]], [[Linux]], [[FreeBSD]]; [[Android OS|Android]] and [[iOS]] (special versions)
+| size = {{Plainlist|
+* Windows: 28.3 MB
+* macOS: 31.7 MB
+* Linux: 29.1–30.1 MB
+* Android: 8.0 MB
+* iOS: 25.1 MB
+  }}
+| genre = [[Flashcard]] [[spaced repetition]]
+| license = {{Plainlist| 
+Desktop: [[GNU Affero General Public License|GNU AGPL v3+]]<ref>{{cite web |title=LICENSE |url=https://github.com/ankitects/anki/blob/master/LICENSE |website=Anki |publisher=Damien Elmes |date=1 June 2020 |via=GitHub}}</ref>
+Android [[GNU GPLv3|GNU GPL v3]]<ref>{{cite web |title=COPYING |url=https://github.com/ankidroid/Anki-Android/blob/master/COPYING |website=GitHub |accessdate=1 June 2020}}</ref>}}
+| website = https://apps.ankiweb.net/
+}}
+
+==ᱥᱟᱹᱠᱷᱤᱭᱟᱹᱛ==
