@@ -1,1 +1,83 @@
+{{Infobox language
+| name = ᱥᱳᱭᱟᱦᱤᱞᱤ
+| nativename = ''ᱠᱤᱥᱳᱭᱟᱦᱤᱞᱤ''
+| pronunciation = {{IPA-sw|kiswɑˈhili|}} 
+|ethnicity= ᱥᱳᱭᱟᱦᱤᱞᱤ ᱦᱚᱲ
+| history =
+| states =  [[ᱛᱟᱱᱡᱟᱱᱤᱭᱟ]], [[ᱜᱚᱱᱚᱛᱟᱱᱛᱨᱤᱠ ᱠᱚᱝᱜᱳ ᱯᱨᱚᱡᱟᱛᱚᱱᱛᱨᱚ]], [[ᱵᱟᱡᱩᱱᱤ ᱫᱤᱯᱠᱚ]] ([[ᱥᱳᱢᱟᱞᱤᱭᱟ]] ᱨᱮᱱᱟᱜ ᱴᱚᱴᱷᱟ), [[ᱠᱚᱧᱮ ᱥᱩᱫᱟᱱ]], [[ᱢᱳᱡᱟᱢᱵᱤᱠ]] (mostly [[:en:Mwani language|ᱢᱣᱟᱱᱤ]]), [[ᱵᱩᱨᱩᱱᱰᱤ]], [[ᱨᱩᱣᱟᱱᱰᱟ]], [[ᱩᱜᱟᱱᱰᱟ]], [[ᱠᱮᱱᱤᱭᱟ]],<ref>Thomas J. Hinnebusch, 1992, "Swahili", ''International Encyclopedia of Linguistics'', Oxford, pp. 99–106<br />David Dalby, 1999/2000, ''The Linguasphere Register of the World's Languages and Speech Communities'', Linguasphere Press, Volume Two, pp. 733–735<br />Benji Wald, 1994, "Sub-Saharan Africa", ''Atlas of the World's Languages'', Routledge, pp. 289–346, maps 80, 81, 85</ref> [[ᱠᱳᱢᱳᱨᱳᱥ]], [[ᱢᱟᱭᱚᱛ]], [[ᱡᱟᱢᱵᱤᱭᱟ]], [[ᱢᱟᱞᱟᱣᱤ]], ᱟᱨ [[ᱢᱟᱫᱟᱜᱟᱥᱠᱟᱨ]]
+| speakers =ᱟᱢᱫᱟᱡᱽ ᱨᱚᱲ ᱦᱚᱲ ᱒ ᱢᱤᱞᱤᱭᱚᱱ (᱒᱐᱐᱓)<ref name=oxford>{{cite encyclopedia | title=Swahili | first=Thomas J. | last=Hinnebusch | editor=William J. Frawley | encyclopedia=International Encyclopedia of Linguistics (2 ed.) | publisher=Oxford University Press | location=Oxford | year=2003 | url=http://www.oxfordreference.com/view/10.1093/acref/9780195139778.001.0001/acref-9780195139778-e-1058 |url-access=subscription | quote=First-language (L1) speakers of Swahili, who probably number no more than two million| isbn=9780195139778 }}</ref> ᱠᱷᱚᱱ ᱑᱕᱐ ᱢᱤᱞᱤᱭᱚᱱ
+| date = 
+| ref = e21
+| speakers2 = L2 ᱨᱚᱲ ᱦᱚᱲ: ᱙᱐ ᱢᱤᱞᱤᱭᱚᱱ (᱑᱙᱙᱑–᱒᱐᱑᱕)<ref name=e21/>
+| familycolor = Niger-Congo
+| fam2 = [[Atlantic–Congo languages|Atlantic–Congo]]
+| fam3 = [[Volta–Congo languages|Volta-Congo]]
+| fam4 = [[Benue–Congo languages|Benue–Congo]]
+|fam5=[[Bantoid languages|Bantoid]]
+| fam6 = [[Southern Bantoid languages|Southern Bantoid]]
+| fam7 = [[Bantu languages|Bantu]]
+| fam8 = [[Northeast Bantu languages|Northeast Bantu]]
+| fam9 = [[Northeast Coast Bantu languages|Northeast Coast Bantu]]
+| fam10 = [[Sabaki languages|Sabaki]]
+| script = {{Plainlist}}
+* [[Latin script]] ([[#Orthography|Roman Swahili alphabet]])
+* [[Arabic script]] ([[#Orthography|Arabic Swahili alphabet]])
+* [[Swahili Braille]]
+{{Endplainlist}}
+| nation = {{Collapsible list
+| expand = yes
+| titlestyle=font-weight:normal; background:transparent; text-align:left;
+| title=6 countries
+|{{flagicon|Tanzania}} [[Tanzania]]
+|{{flagicon|Democratic Republic of the Congo}} [[Democratic Republic of the Congo|DR Congo]]
+|{{flagicon|Kenya}} [[Kenya]]
+|{{flagicon|Rwanda}} [[Rwanda]]
+|{{flagicon|Uganda}} [[Uganda]]
+|{{flagicon|South Sudan}} [[South Sudan]]
+}}
+{{Collapsible list
+| expand = yes
+| titlestyle=font-weight:normal; background:transparent; text-align:left;
+| title=Organizations
+|{{flagicon|African Union}} [[African Union]]
+|{{flagicon|East African Community}} [[East African Community]]
+|{{flagicon|SADC}} [[Southern African Development Community]]
+}}
+| minority = {{Plainlist}}
+* {{flag|Mozambique}} 
+* {{flag|Burundi}} 
+* {{flag|Oman}}
+* {{flag|Somalia}}
+{{Endplainlist}}
+| agency = {{Plainlist}}
+* {{lang|sw|[[Baraza la Kiswahili la Taifa]]|italic=no}} (Tanzania)
+* {{lang|sw|[[Chama cha Kiswahili cha Taifa]]|italic=no}} (Kenya)
+{{Endplainlist}}
+| iso1 = sw
+| iso2 = swa
+| iso3 = swa
+| lc1 = swc
+| ld1 = Congo Swahili
+| lc2 = swh
+| ld2 = Coastal Swahili
+| lc3 = ymk
+| ld3 = [[Makwe language|Makwe]]
+| lc4 = wmw
+| ld4 = [[Mwani language|Mwani]]
+| lingua = 99-AUS-m
+| guthrie = {{Plainlist}}
+* G.42–43;
+* G.40.A–H (pidgins & creoles)
+{{Endplainlist}}
+| glotto = swah1254
+| glottorefname = Swahili (G.40)
+| map = Swahili-speaking Africa.png
+| mapcaption =
+{{legend|#045A8D|Regions where Swahili is the main language}}
+{{legend|#0570B0|Regions where Swahili is a second language}}
+{{legend|#3690C0|Regions where Swahili is an official language but not a majority native language}}
+{{legend|#74A9CF|Regions where Swahili is a minority language}}
+| notice = IPA
+}}
+
 '''ᱥᱳᱭᱟᱦᱤᱞᱤ ᱯᱟᱹᱨᱥᱤ''' ᱥᱮ '''ᱠᱤᱥᱳᱭᱟᱦᱤᱞᱤ''' ᱢᱮᱱᱛᱮ ᱦᱚᱸ ᱵᱟᱲᱟᱭᱚᱜᱼᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫ [[ᱵᱟᱱᱴᱩ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱵᱟᱱᱴᱩ]] ᱯᱟᱹᱨᱥᱤ ᱠᱟᱱᱟ ᱾ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱯᱷᱨᱤᱠᱟ ᱨᱮᱱ ᱥᱳᱭᱟᱦᱤᱞᱤ ᱦᱚᱲ ᱠᱚᱣᱟᱜ [[ᱜᱚᱜᱚ ᱟᱲᱟᱝ|ᱯᱳᱭᱞᱳ ᱯᱟᱹᱨᱥᱤ]] ᱠᱟᱱᱟ ᱾ ᱥᱳᱭᱟᱦᱤᱞᱤ ᱯᱟᱹᱨᱥᱤ [[:en:African Great Lakes|ᱢᱟᱨᱟᱝ ᱟᱯᱷᱨᱤᱠᱟᱱ ᱫᱟᱨᱦᱟ]] ᱟᱨ [[ᱥᱟᱢᱟᱝ ᱟᱯᱷᱨᱤᱠᱟ]] ᱟᱨ ᱠᱚᱧᱮ ᱟᱯᱷᱨᱤᱠᱤᱭᱟᱹ ᱴᱚᱴᱷᱟ ᱨᱮᱱᱟᱜ ᱫᱤᱥᱚᱢ ᱠᱚ [[ᱛᱟᱱᱡᱟᱱᱤᱭᱟ]], [[ᱩᱜᱟᱱᱰᱟ]], [[ᱨᱩᱣᱟᱱᱰᱟ]], [[ᱵᱩᱨᱩᱱᱰᱤ]] [[ᱠᱮᱱᱤᱭᱟ]] ᱟᱨᱦᱚᱸ ᱮᱴᱟᱜ ᱫᱤᱥᱚᱢ ᱠᱚᱨᱮᱱᱟᱜ ᱞᱤᱝᱜᱩᱣᱟ ᱯᱷᱨᱟᱝᱠᱟ ᱠᱟᱱᱟ ᱾
