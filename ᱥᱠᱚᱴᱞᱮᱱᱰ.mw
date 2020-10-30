@@ -1,18 +1,22 @@
 {{Infobox country
-| native_name = ᱥᱠᱚᱴᱞᱮᱱᱰ<br/>{{native name|sco|Scotland|nbsp=omit}}<br>{{native name|gd|Alba|nbsp=omit}}
+| conventional_long_name = ᱥᱠᱚᱴᱞᱮᱱᱰ
+| native_name = {{native name|sco|Scotland|nbsp=omit}}<br>{{native name|gd|Alba|nbsp=omit}}
+| common_name = ᱥᱠᱚᱴᱞᱮᱱᱰ
 | image_flag = Flag of Scotland.svg
+| flag_width = 127px
 | image_coat = Royal Standard of Scotland.svg{{!}}border
 | symbol_width = 125px
-| symbol_type = [[Royal Banner of Scotland|Royal Banner]]
-| national_motto = {{native phrase|sco|"[[In My Defens God Me Defend]]"|italics=off|parensize=90%|nbsp=omit}}{{ref label|footnote_a|a}}<br />{{smaller|"In my defence God me defend"}}
-| national_anthem = [[National anthem of Scotland|Various]]{{ref label|footnote_b|b}}<br />
-| status = [[Countries of the United Kingdom|Country]]
-| capital = [[Edinburgh]]<br />{{smaller|"In my defence God me defend"}}
-| national_anthem = [[National anthem of Scotland|Various]]{{ref label|footnote_b|b}}<br />
-| status = [[Countries of the United Kingdom|Country]]
-| capital = [[ᱮᱰᱤᱱᱵᱟᱨᱜ]]<br />{{smaller|{{coord|55|57|11|N|3|11|20|W|display=inline}}}}
-| largest_city = [[ᱜᱞᱟᱥᱜᱳ]]
-| languages_type = Recognised languages{{ref label|footnote_c|c}}
+| symbol_type = [[স্কটল্যান্ডের রয়েল স্ট্যান্ডার্ড|রাজকীয়&nbsp;ব্যানার]]
+| national_motto = {{native phrase|sco|"[[In My Defens God Me Defend]]"|italics=off}}<br>"In my defence God me defend"<sup>ᱚ</sup>
+| national_anthem = [[National anthem of Scotland|Various]]{{ref label|footnote_b|ᱛ}}<br />
+| image_map = Scotland in the UK and Europe.svg
+| map_width = 250px
+| map_caption = {{map caption |location_color=ᱰᱤᱯ ᱦᱟᱹᱨᱭᱟᱹᱲ|country={{nobold|ᱥᱠᱚᱴᱞᱮᱱᱰ}}
+|subregion=the [[ᱥᱮᱞᱮᱫ ᱫᱤᱥᱟᱹᱢ]] |subregion_color=ᱦᱟᱹᱨᱭᱟᱹᱲ |region=Europe|region_color=Dark gray}}
+| capital = [[ᱮᱰᱤᱱᱵᱟᱨᱜ]]
+| latd=55 |latm=57 |lats=11 |latNS=N |longd=3 |longm=11 |longs=20 |longEW=W
+| largest_city = [[ᱜᱞᱟᱥᱜᱳ]]<br/>{{smaller|{{Coordinates|55|51|N|4|16|W|display=inline}}}}
+| languages_type = ᱢᱟᱹᱱ ᱮᱢ ᱟᱠᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ{{ref label|footnote_c|ᱜ}}
 | languages = 
 {{unbulleted list|style=white-space:nowrap;
   | [[ᱤᱝᱞᱤᱥ ᱯᱟᱹᱨᱥᱤ|ᱤᱝᱞᱤᱥ]]
