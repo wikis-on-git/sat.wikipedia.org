@@ -44,6 +44,100 @@
 ==ᱦᱟᱹᱴᱤᱧ ᱠᱚ==
 ᱯᱟᱹᱱᱟᱹᱨᱥᱤᱭᱟᱹ ᱠᱚ ᱚᱥᱴᱨᱳᱼᱮᱥᱤᱭᱟᱴᱤᱠ ᱨᱮᱱᱟᱜ ᱯᱳᱭᱞᱳ ᱵᱟᱨᱭᱟ ᱵᱷᱟᱜᱽ ᱢᱟᱹᱱ ᱠᱚ ᱮᱢ ᱟᱠᱟᱫᱟ : [[ᱥᱟᱢᱟᱝᱼᱠᱚᱧᱮ ᱮᱥᱤᱭᱟ]], [[ᱮᱛᱚᱢᱼᱥᱟᱢᱟᱝ ᱥᱤᱧᱚᱛ]] ᱟᱨ [[ᱱᱤᱠᱚᱵᱚᱨ ᱫᱤᱯᱠᱚ]] ᱨᱮᱱᱟᱜ [[ᱚᱥᱴᱨᱳᱼᱮᱥᱤᱭᱟᱴᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱢᱳᱱᱼᱠᱷᱚᱢᱮᱨ ᱯᱟᱹᱨᱥᱤᱠᱚ]], ᱟᱨ [[ᱥᱟᱢᱟᱝ ᱥᱤᱧᱚᱛ|ᱥᱟᱢᱟᱝ]] ᱟᱨ [[ᱛᱟᱞᱢᱟ ᱥᱤᱧᱚᱛ]] ᱟᱨ [[ᱵᱟᱝᱞᱟᱫᱮᱥ]] ᱟᱨ [[ᱱᱮᱯᱟᱞ]] ᱨᱮᱱᱟᱜ ᱴᱚᱴᱷᱟ ᱠᱚᱨᱮᱱᱟᱜ [[ᱢᱩᱱᱰᱟ ᱯᱟᱹᱨᱥᱤᱠᱚ]] ᱾ ᱛᱚᱵᱮ ᱱᱚᱶᱟ ᱵᱷᱟᱜᱽ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱫ ᱯᱨᱚᱢᱟᱱ ᱫᱚ ᱵᱟᱝ ᱪᱷᱟᱯᱟ ᱟᱠᱟᱱᱟ ᱾
 
+{{clade
+| label1='''ᱚᱥᱴᱨᱳ&nbsp;-&nbsp;ᱮᱥᱤᱭᱟᱴᱤᱠ'''&nbsp;
+| 1={{clade
+| label1=&nbsp;[[ᱢᱩᱱᱰᱟ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱢᱩᱱᱰᱟ]]&nbsp;
+| 1={{clade
+   |1={{clade
+      |1=[[ᱵᱳᱱᱰᱟ ᱯᱟᱹᱨᱥᱤ|ᱨᱮᱢᱳ]]
+      |2=[[ᱥᱳᱨᱥ ᱯᱟᱹᱨᱥᱤ|ᱥᱟᱵᱷᱟᱨᱟ]]
+      }}
+   |2={{clade
+   |1=[[ᱠᱷᱟᱨᱤᱭᱟ ᱯᱟᱹᱨᱥᱤ|ᱠᱷᱟᱨᱤᱭᱟ]]–[[ᱡᱩᱣᱟᱝ ᱯᱟᱹᱨᱥᱤ|ᱡᱩᱣᱟᱝ]]
+   |2={{clade
+   |1=[[ᱠᱳᱨᱠᱩ ᱯᱟᱹᱨᱥᱤ|ᱠᱳᱨᱠᱩ]]
+   |2=ᱠᱷᱮᱨᱣᱟᱲᱤ
+      }}
+      }}
+    }}
+| label2=&nbsp;[[:en:Khasi–Khmuic languages|ᱠᱷᱟᱥᱤ&nbsp;–&nbsp;ᱠᱷᱢᱩᱪ]]&nbsp;
+| 2={{clade
+   |2=[[:en:Khasic languages|ᱠᱷᱟᱥᱤᱭᱟᱱ]]
+   |1={{clade
+   |1=[[:en:Khmuic languages|ᱠᱷᱢᱩᱪ]]
+   |2={{clade
+   |1=[[:en:Pakanic languages|ᱯᱟᱠᱟᱱᱤᱠ]]
+   |2=[[:en:Palaungic languages|ᱯᱟᱞᱣᱩᱱᱜᱤᱠ]]
+      }}
+      }}
+   }}
+| label3=&nbsp;(Nuclear)&nbsp;&nbsp;{{nowrap|ᱢᱳᱱᱼᱠᱷᱚᱢᱮᱨ}}&nbsp;
+| 3={{clade
+   |1={{clade
+   |1={{clade
+   |1=[[:en:Vietic languages|ᱵᱷᱤᱭᱮᱛᱤᱠ]]
+   |label2=?<ref name=VK />
+   |2=[[:en:Katuic languages|ᱠᱟᱛᱩᱭᱤᱠ]]
+      }}
+   |2={{clade
+   |1=[[:en:Bahnaric languages|ᱵᱟᱦᱱᱟᱨᱤᱠ]]
+   |2={{clade
+      |1=[[ᱠᱷᱚᱢᱮᱨ ᱯᱟᱹᱨᱥᱤ|ᱠᱷᱚᱢᱮᱨ]]
+      |2=[[:en:Pearic languages|ᱯᱤᱭᱟᱨᱤᱠ]]
+      }}
+      }}
+      }}
+   |2={{clade
+   |1=[[:en:Nicobarese languages|ᱱᱤᱠᱳᱵᱳᱨᱤᱥ]]
+   |2={{clade
+   |1=[[:en:Aslian languages|ᱟᱥᱞᱤᱭᱟᱱ]]
+   |2=[[:en:Monic languages|ᱢᱳᱱᱤᱠ]]
+      }}
+      }}
+   }}
+}}
+}}
+
+ᱟᱨᱦᱚᱸ ᱯᱟᱥᱱᱟᱣ ᱛᱮ,
+
+* '''[[ᱢᱤᱱᱰᱟᱱᱟᱣ ᱯᱟᱹᱨᱥᱤᱠᱚ]]''' (ᱥᱤᱧᱚᱛ)
+:* '''Koraput''': 7 languages
+:*Core Munda languages
+::* '''Kharian–Juang''': 2 languages
+::*North Munda languages
+::: ''[[Korku language|Korku]]''
+::: '''Kherwarian''': 12 languages
+
+* [[Khasi–Khmuic languages]] (Northern Mon–Khmer)
+:* '''[[Khasic languages|Khasian]]''': 3 languages of north eastern India and adjacent region of Bangladesh
+:*Palaungo-Khmuic languages
+::* '''[[Khmuic languages|Khmuic]]''': 13 languages of Laos and Thailand
+
+::*Palaungo-Pakanic languages
+::: '''Pakanic''' or '''[[Pakanic languages|Palyu]]''': 4 or 5 languages of southern China and Vietnam
+::: '''[[Palaungic languages|Palaungic]]''': 21 languages of Burma, southern China, and Thailand
+
+* Nuclear Mon–Khmer languages
+:* Khmero-Vietic languages (Eastern Mon–Khmer)
+
+::* Vieto-Katuic languages ?<ref name=VK>Sidwell (2005) casts doubt on Diffloth's Vieto-Katuic hypothesis, saying that the evidence is ambiguous, and that it is not clear where Katuic belongs in the family.</ref>
+::: '''[[Vietic languages|Vietic]]''': 10 languages of Vietnam and Laos, including the [[Vietnamese language]], which has the most speakers of any Austroasiatic language.
+::: '''[[Katuic languages|Katuic]]''': 19 languages of Laos, Vietnam, and Thailand.
+
+::* Khmero-Bahnaric languages
+:::* '''[[Bahnaric languages|Bahnaric]]''': 40 languages of Vietnam, Laos, and Cambodia.
+:::*Khmeric languages
+:::: The '''[[Khmer language|Khmer]]''' dialects of Cambodia, Thailand, and Vietnam.
+:::: '''[[Pearic languages|Pearic]]''': 6 languages of Cambodia.
+
+:* Nico-Monic languages (Southern Mon–Khmer)
+::* '''[[Nicobarese languages|Nicobarese]]''': 6 languages of the [[Nicobar Islands]], a territory of India.
+
+::* Asli-Monic languages
+::: '''[[Aslian languages|Aslian]]''': 19 languages of peninsular Malaysia and Thailand.
+::: '''[[Monic languages|Monic]]''': 2 languages, the [[Mon language]] of Burma and the [[Nyah Kur language|Nyahkur language]] of Thailand.
+
 ==ᱚᱞ ᱛᱚᱦᱚᱨ ᱠᱚ==
 
 ==ᱵᱟᱨᱦᱮ ᱥᱟᱹᱜᱟᱹᱭ ᱠᱚ==
