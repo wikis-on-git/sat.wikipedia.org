@@ -1,2 +1,18 @@
-short descriptionWeb mapping service bygoogleuse mdy datesdateaugust 2019infoboxwebsitenamegoogle mapslogogooglemaps Logosvglogosize200screenshotgoogle maps screenshotpngcaptionscreenshotgoogle maps on a webbrowsertypeweb mappinlanguagemultilingualownergoogle llccurlurLhttpgooglecommapscommerciano
-registrationoptionalincluded with agoogleaccount launchdatestart date and agecurrentstatusactiveprogramminglanguagecbackendjavascriptxmLajaxprogrammingajax
+{{short description|Web mapping service by Google}}
+{{Use mdy dates|date=August 2019}}
+{{Infobox website
+| name = Google Maps
+| logo = Google Maps Logo.svg
+| logo_size = 200
+| screenshot = Google maps screenshot.png
+| caption = Screenshot of Google Maps on a web browser
+| type = [[Web mapping]]
+| language = Multilingual
+| owner = [[Google LLC]]
+| url = {{URL|https://google.com/maps}}
+| commercial = Yes
+| registration = Optional, included with a [[Google Account]]
+| launch_date = {{start date and age|2005|2|8}}
+| current_status = Active
+| programming_language = [[C++]] (back-end), [[JavaScript]], [[XML]], [[Ajax (programming)|Ajax]] (UI)
+}}
