@@ -1,4 +1,37 @@
-'''ᱟᱞᱮᱢᱟᱱᱤᱠ ᱡᱚᱨᱢᱟᱱ''' ([[ᱤᱝᱞᱤᱥ ᱯᱟᱹᱨᱥᱤ|ᱤᱝᱞᱤᱥ]]: Alemannic) ᱫᱚ [[ᱡᱚᱨᱢᱟᱱᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱡᱚᱨᱢᱟᱱᱤᱠ ᱯᱟᱹᱨᱥᱤ ᱜᱷᱟᱨᱚᱸᱡᱽ]] ᱨᱮᱱᱟᱜ [[ᱪᱮᱛᱟᱱ ᱡᱚᱨᱢᱟᱱ]] ᱪᱟᱸᱜᱟ ᱨᱮᱱᱟᱜ ᱪᱟᱸᱜᱟ ᱯᱟᱹᱨᱥᱤ ᱥᱮᱢᱞᱮᱫ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱧᱩᱛᱩᱢ ᱫᱚ ᱢᱟᱬᱮ ᱟᱹᱫᱤᱵᱟᱹᱥᱤ ᱡᱟᱨᱢᱟᱱ ᱠᱚᱱᱯᱷᱮᱰᱟᱨᱮᱥᱟᱱ ᱠᱷᱚᱱ ᱦᱮᱡᱽ ᱟᱠᱟᱱᱟ ᱾  
+{{Infobox language
+|name=ᱟᱞᱮᱢᱟᱱᱤᱠ
+|altname=Alemannish
+|nativename={{lang|gsw|Alemannisch}}
+|pronunciation={{IPA-gsw|alɛˈman(ː)ɪʃ||Alemannisch.ogg}}
+|states=[[ᱥᱩᱭᱡᱟᱨᱞᱮᱱᱰ|Switzerland]]: entire [[:en:German-speaking|German-speaking]] part, except for the town of [[Samnaun]].<br>[[ᱡᱟᱨᱢᱟᱱᱤ|Germany]]: most of [[Baden-Württemberg]] and [[:en:Swabia (administrative region)|Bavarian Swabia]].<br>[[ᱚᱥᱴᱨᱤᱭᱟ|Austria]]: [[Vorarlberg]] and some parts of [[:en:Tyrol (state)|Tyrol]].<br>[[ᱞᱤᱪᱮᱱᱥᱴᱟᱭᱤᱱ|Liechtenstein]]: entire country.<br>[[ᱯᱷᱨᱟᱱᱥ|France]]: most of [[Alsace]].<br>[[ᱤᱴᱟᱞᱤ|Italy]]: some parts of [[Aosta Valley]] and northern [[Piedmont]]<br>[[ᱥᱮᱞᱮᱫ ᱯᱚᱱᱚᱛ ᱟᱢᱮᱨᱤᱠᱟ|United States]]: Amish in Adams and Allen counties, Indiana<br>[[ᱵᱷᱮᱱᱮᱡᱩᱭᱮᱞᱟ|Venezuela]]: [[:en:Colonia Tovar dialect|Alemán Coloniero]]
+|speakers={{sigfig|7,162,280|4}} (᱒᱐᱐᱔-᱒᱐᱑᱒)<!-- Number significant down to thousands, apparently. -->
+|date=
+|ref = e18
+|familycolor=[[ᱤᱱᱫᱳᱼᱤᱣᱨᱳᱯᱤᱭᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱜᱷᱟᱨᱚᱸᱡᱽ|ᱤᱱᱫᱳᱼᱤᱣᱨᱳᱯᱤᱭᱟᱱ]]
+|fam2=[[ᱡᱚᱨᱢᱟᱱᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱡᱚᱨᱢᱟᱱᱤᱠ]]
+|fam3=[[ᱯᱟᱪᱮ ᱡᱟᱨᱢᱟᱱᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱯᱟᱪᱮ ᱡᱟᱨᱢᱟᱱᱤᱠ]]
+|fam4=[[ᱟᱞᱵᱮ ᱡᱚᱨᱢᱟᱱᱤᱠ|ᱤᱨᱢᱤᱱᱳᱱᱤᱠ]]
+|fam5=[[ᱩᱥᱩᱞ ᱡᱚᱨᱢᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱩᱥᱩᱞ ᱡᱚᱨᱢᱟᱱ]]
+|fam6=[[ᱪᱮᱛᱟᱱ ᱡᱚᱨᱢᱟᱱ]]
+|script=[[ᱞᱟᱛᱤᱱ ᱦᱚᱨᱚᱯ|ᱞᱟᱛᱤᱱ]], ᱱᱟᱜᱟᱢᱤᱭᱟᱹ [[:en:Elder Futhark|Elder Futhark]]
+|ietf = {{wikidata|property|references|P305}}
+|iso2=gsw
+|glotto=alem1243
+|glottorefname=Alemannic
+|lc1=gct
+|ld1=[[Colonia Tovar dialect|Colonia Tovar]]
+|lc2=gsw
+|ld2=[[Swiss German]] and [[Alsatian dialect|Alsatian]]
+|lc3=swg
+|ld3=[[Swabian German|Swabian]]
+|lc4=wae
+|ld4=[[Walser German|Walser]]
+|map=Alemannic-Dialects-Map-English.png
+|mapcaption=Blue indicates the traditional distribution area of Western Upper German (=Alemannic) dialects. 
+|notice=IPA
+}}
+
+'''ᱟᱞᱮᱢᱟᱱᱤᱠ ᱡᱚᱨᱢᱟᱱ''' ([[ᱤᱝᱞᱤᱥ ᱯᱟᱹᱨᱥᱤ|ᱤᱝᱞᱤᱥ]]: Alemannic) ᱫᱚ [[ᱡᱚᱨᱢᱟᱱᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ|ᱡᱚᱨᱢᱟᱱᱤᱠ ᱯᱟᱹᱨᱥᱤ ᱜᱷᱟᱨᱚᱸᱡᱽ]] ᱨᱮᱱᱟᱜ [[ᱪᱮᱛᱟᱱ ᱡᱚᱨᱢᱟᱱ]] ᱪᱟᱸᱜᱟ ᱨᱮᱱᱟᱜ ᱪᱟᱸᱜᱟ ᱯᱟᱹᱨᱥᱤ ᱥᱮᱢᱞᱮᱫ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱧᱩᱛᱩᱢ ᱫᱚ ᱢᱟᱬᱮ ᱟᱹᱫᱤᱵᱟᱹᱥᱤ ᱡᱟᱨᱢᱟᱱ ᱠᱚᱱᱯᱷᱮᱰᱟᱨᱮᱥᱟᱱ ᱠᱷᱚᱱ ᱦᱮᱡᱽ ᱟᱠᱟᱱᱟ ᱾
 
 ==ᱯᱟᱥᱱᱟᱣ==
 ᱟᱞᱮᱢᱟᱱᱤᱠ ᱪᱟᱸᱜᱟ ᱯᱟᱹᱨᱥᱤ ᱠᱚᱛᱮ ᱟᱭᱢᱟ ᱫᱤᱥᱚᱢ ᱨᱮᱱ ᱟᱢᱫᱟᱡᱽ ᱜᱮᱞ ᱞᱟᱠᱷ ᱜᱟᱱ ᱦᱚᱲ ᱠᱚ ᱨᱚᱲᱼᱟ ᱾
