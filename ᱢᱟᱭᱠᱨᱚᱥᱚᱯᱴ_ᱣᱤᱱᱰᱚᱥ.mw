@@ -1,31 +1,7 @@
-{{Infobox OS
-| name = ᱢᱟᱭᱠᱨᱳᱥᱚᱯᱴ ᱩᱭᱤᱱᱰᱳᱥ
-| logo = [[File:Windows darkblue 2012.svg|300px]]
-| screenshot = [[File:ᱣᱤᱱᱰᱚᱥ ᱑᱐.png|300px|]]
-| caption = ᱩᱭᱤᱱᱰᱳᱥ ᱑᱐ ᱥᱠᱨᱤᱱᱥᱚᱴ
-| developer = [[ᱢᱟᱭᱠᱨᱳᱥᱚᱯᱴ]]
-| released = {{Start date and years ago|1985|11|20}}, as version 1.0 (Unsupported)
-| language = ᱑᱓᱘ ᱜᱚᱴᱟᱝ ᱯᱟᱹᱨᱥᱤ<ref>{{cite web|url=http://msdn.microsoft.com/goglobal/ee461121#AvailableLanguagePacks |title=Listing of available Windows 7 language packs |publisher=Msdn.microsoft.com |date= |accessdate=April 5, 2014}}</ref>
-| package manager = [[ᱩᱭᱤᱱᱰᱳᱥ ᱤᱱᱥᱴᱚᱞᱚᱨ]] (.msi), [[ᱩᱭᱤᱱᱰᱳᱥ ᱥᱴᱚᱨ]] ([[APPX|.appx]])<ref>{{cite web |url=http://msdn.microsoft.com/en-us/library/windows/apps/hh464929.aspx |title=App packages and deployment (Windows Store apps) (Windows) |publisher=Msdn.microsoft.com |date= |accessdate=April 5, 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20140330050737/http://msdn.microsoft.com/en-us/library/windows/apps/hh464929.aspx |archivedate=March 30, 2014 |df=mdy-all }}</ref>
-| ui = [[ᱣᱤᱱᱰᱚᱥ ᱥᱮᱞᱞ]]
-| license = [[Proprietary software|ᱯᱨᱚᱯᱨᱤᱭᱮᱴᱟᱨᱤ]] [[ᱵᱮᱯᱟᱨ ᱥᱚᱯᱴᱮᱭᱟᱨ]]
-| website = {{URL|windows.microsoft.com}}
-| source_model = {{ubl
-  | [[Proprietary software|Closed-source]]
-  | [[Source-available software|Source-available]] (through [[Shared Source Initiative]])
-}}
-| marketing_target = Personal computing
-| kernel_type = {{plainlist|
-* [[Windows NT]] family: [[Hybrid kernel|Hybrid]]
-* [[Windows CE]]: [[Hybrid kernel|Hybrid]]
-* [[Windows 9x]] and earlier: [[Monolithic kernel|Monolithic]] ([[MS-DOS]])
-}}
-| supported_platforms = [[ARM architecture|ARM]], [[IA-32]], [[Itanium]], [[x86-64]], [[DEC Alpha]], [[MIPS architecture|MIPS]], [[PowerPC]]
-| updatemodel = {{unbulleted list|[[Windows Update]]|[[Windows Anytime Upgrade]]|[[Windows Store]]|[[Windows Server Update Services]] (WSUS)}}
-}}
-'''ᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ ᱣᱤᱱᱰᱚᱥ''' ᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱜᱷᱟᱨᱚᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱟᱨᱦᱚᱸ ᱦᱩᱰᱤᱧ ᱢᱟᱨᱟᱝ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ᱾ᱱᱤᱛᱚᱜ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱛᱤ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱ ᱣᱤᱱᱰᱚᱥ ᱜᱷᱟᱨᱚᱡᱽ ᱨᱮᱱᱟᱜ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱠᱚᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ  '''ᱣᱤᱱᱰᱚᱥ ᱮᱱ ᱴᱤ''', '''ᱣᱤᱱᱰᱚᱥ ᱮᱢᱵᱮᱰᱮᱰ '''ᱟᱨ '''ᱣᱤᱱᱰᱚᱥ ᱯᱷᱳᱱ '''ᱮᱢᱟᱱᱟᱜ ᱠᱚ ᱾ ᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ ᱫᱚ ᱯᱩᱭᱞᱩ ᱫᱷᱟᱣ ᱒᱐ ᱱᱚᱵᱷᱮᱢᱵᱚᱨ ᱑᱙᱘᱕ ᱨᱮ ᱟᱡᱟᱜ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱡᱮᱜᱮᱛ ᱨᱮᱭ ᱥᱚᱫᱚᱨ ᱞᱮᱫ ᱛᱟᱦᱮᱸᱫ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱮᱢ ᱮᱥ ᱰᱚᱥ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱜᱨᱟᱯᱷᱤᱠᱟᱞ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ ᱧᱩᱛᱩᱢ ᱵᱟᱰᱟᱭᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱫ ᱾<ref name="aboutcomnov">{{cite web|url=http://inventors.about.com/od/mstartinventions/a/Windows.htm?rd=1|title=The Unusual History of Microsoft Windows|accessdate=April 22, 2007}}</ref>
-
-ᱡᱩᱞᱟᱭ ᱒᱐᱑᱕ ᱨᱮ ᱣᱤᱱᱰᱚᱥ ᱑᱐, ᱣᱤᱱᱰᱚᱥ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱶᱟ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱞᱮᱠᱟᱛᱮ ᱩᱯᱨᱩᱢ ᱮ ᱧᱟᱢ ᱠᱮᱫᱼᱟ ᱾ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱤᱛᱚᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ, ᱴᱟᱵᱽᱞᱮᱴ ᱟᱨ ᱣᱤᱱᱰᱚᱥ ᱯᱷᱳᱱ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱒᱐᱑᱖ ᱥᱟᱞᱮ ᱨᱮ ᱣᱤᱱᱰᱚᱥ ᱥᱚᱨᱵᱷᱚᱨ ᱦᱚᱸ ᱦᱮᱡ ᱮᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱩᱱᱟᱹᱜ ᱫᱚ ᱵᱟᱝ ᱪᱚᱦᱚᱲ ᱜᱚᱫ ᱟᱠᱟᱱᱟ ᱾
+Infobox OS name = ᱢᱟᱭᱠᱨᱳᱥᱚᱯᱴ ᱩᱭᱤᱱᱰᱳᱥ
+logoFile:Windows darkblue 2012.svg300pxscreenshotFile:ᱣᱤᱱᱰᱚᱥ ᱑᱐.png300px captionᱩᱭᱤᱱᱰᱳᱥ ᱑᱐ ᱥᱠᱨᱤᱱᱥᱚᱴdeveloperᱢᱟᱭᱠᱨᱳᱥᱚᱯᱴreleasedStart date and years ago19851120as version 1.0Unsupportedlanguage  ᱑᱓᱘ ᱜᱚᱴᱟᱝ ᱯᱟᱹᱨᱥᱤ<refcite weburl=http:msdn.microsoft.comgoglobalee461121AvailableLanguagePackstitle=Listingavailable Windows 7 language packs publisher=Msdn.microsoft.comdate=accessdate=April 5 2014<ref>package manager =ᱩᱭᱤᱱᱰᱳᱥ ᱤᱱᱥᱴᱚᱞᱚᱨmsiᱩᱭᱤᱱᱰᱳᱥ ᱥᱴᱚᱨAPPXappx<ref>cite weburl=http:msdn.microsoft.comenuslibrarywindowsappshh464929.aspxtitle=App packages and deploymentWindows Store appsWindowspublisher=Msdn.microsoftcomdate=accessdate=April 5, 2014deadurl=noarchiveurl=http:web archive.orgweb20140330050737http:msdn.microsoft.comenuslibrarywindowsappshh464929.aspxarchivedate=March 30, 2014df=mdy-all<ref> ui ᱣᱤᱱᱰᱚᱥ ᱥᱮᱞᱞlicense Proprietary softwareᱯᱨᱚᱯᱨᱤᱭᱮᱴᱟᱨᱤᱵᱮᱯᱟᱨ ᱥᱚᱯᱴᱮᱭᱟᱨwebsite =URLwindows.microsoft.comsource_model =ubl
+Proprietary softwareClosedsourceSourceavailable softwareSourceavailablethroughShared Source Initiativemarketing_target  Personal computingkernel_type = plainlistWindows NTfamilyHybrid kernelHybridWindows CE:Hybrid kernel|HybridWindows 9xand earlier:Monolithic kernelMonolithicMSDOSsupportedplatforms =ARM architectureARMIA32Itaniumx86-64DEC AlphaMIPS architectureMIPSPowerPCupdatemodel =unbulleted listWindows UpdateWindows Anytime UpgradeWindows StoreWindows Server Update ServicesWSUSᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ ᱣᱤᱱᱰᱚᱥᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱜᱷᱟᱨᱚᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱠᱟᱱᱟ  ᱱᱚᱶᱟ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱟᱨᱦᱚᱸ ᱦᱩᱰᱤᱧ ᱢᱟᱨᱟᱝ ᱚᱯᱮᱨᱮᱴᱤᱥᱤᱥᱴᱚᱢ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ᱾ᱱᱤᱛᱚᱜ ᱟᱹᱰᱤ ᱵᱟᱹᱲᱛᱤ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱ ᱣᱤᱱᱰᱚᱥ ᱜᱷᱟᱨᱚᱡᱽ ᱨᱮᱱᱟᱜ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱠᱚᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟᱣᱤᱱᱰᱚᱥ ᱮᱱ ᱴᱤᱣᱤᱱᱰᱚᱥ ᱮᱢᱵᱮᱰᱮᱰᱟᱨᱣᱤᱱᱰᱚᱥ ᱯᱷᱳᱱᱢᱟᱱᱟᱜ ᱠᱚ ᱢᱟᱭᱠᱨᱚᱥᱚᱯᱴ ᱫᱚ ᱯᱩᱭᱞᱩ ᱫᱷᱟᱣ ᱒᱐ ᱱᱚᱵᱷᱮᱢᱵᱚᱨ ᱑᱙᱘᱕ ᱨᱮ ᱟᱡᱟᱜ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱡᱮᱜᱮᱛ ᱨᱮᱭ ᱥᱚᱫᱚᱨ ᱞᱮᱫ ᱛᱟᱦᱮᱸᱫ  ᱱᱚᱶᱟ ᱫᱚ ᱮᱢ ᱮᱥ ᱰᱚᱥ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱜᱨᱟᱯᱷᱤᱠᱟᱞ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ ᱧᱩᱛᱩᱢ ᱵᱟᱰᱟᱭᱚᱜ ᱠᱟᱱ ᱛᱟᱦᱮᱸᱫ<ref namecomnov>cite weburl=http:inventorscomodmstartinventionsaWindows.htmrd=1title=The Unusual HistoryMicrosoft Windowsaccessdate=April 22, 2007<ref>
+ᱡᱩᱞᱟᱭ ᱒᱐᱑᱕ ᱨᱮ ᱣᱤᱱᱰᱚᱥ ᱑᱐ᱣᱤᱱᱰᱚᱥ ᱨᱮᱱᱟᱜ ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱶᱟ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱞᱮᱠᱟᱛᱮ ᱩᱯᱨᱩᱢ ᱮ ᱧᱟᱢ ᱠᱮᱫᱼᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱱᱤᱛᱚᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ, ᱴᱟᱵᱽᱞᱮᱴ ᱟᱨ ᱣᱤᱱᱰᱚᱥ ᱯᱷᱳᱱ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟᱚᱱᱟ ᱛᱟᱭᱚᱢ ᱒᱐᱑᱖ ᱥᱟᱞᱮ ᱨᱮ ᱣᱤᱱᱰᱚᱥ ᱥᱚᱨᱵᱷᱚᱨ ᱦᱚᱸ ᱦᱮᱡ ᱮᱱᱟᱢᱮᱱᱠᱷᱟᱱ ᱩᱱᱟᱹᱜ ᱫᱚ ᱵᱟᱝ ᱪᱚᱦᱚᱲ ᱜᱚᱫ ᱟᱠᱟᱱᱟ 
 
 == ᱞᱮᱠᱟᱱ ==
 ᱱᱤᱛᱚᱜ ᱦᱟᱹᱵᱤᱡ ᱟᱹᱰᱤ ᱞᱮᱠᱟᱱ ᱶᱤᱱᱰᱚᱥ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱤᱥᱴᱚᱢ ᱧᱮᱞ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ ᱾ ᱒᱐᱑᱔ ᱥᱟᱞᱮ ᱫᱷᱟᱹᱵᱤᱡ ᱛᱮ ᱛᱮᱭᱟᱨ ᱟᱠᱟᱱ ᱣᱤᱱᱰᱚᱥ ᱨᱮᱱᱟᱜ ᱯᱨᱚᱡᱮᱠᱴ ᱠᱚᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱾
