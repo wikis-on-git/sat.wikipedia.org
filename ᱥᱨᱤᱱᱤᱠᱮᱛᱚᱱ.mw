@@ -55,6 +55,28 @@
 }}
 
 ==ᱚᱛᱱᱚᱜ==
+{{OSM Location map
+| width=400| height=300| zoom=10
+| coord={{coord|23|44|0|N|87|40|0|E}}|  float=left|caption='''ᱵᱤᱨᱵᱷᱩᱢ ᱦᱚᱱᱚᱛ, ᱵᱳᱞᱯᱩᱨ ᱥᱟᱵᱽᱰᱤᱵᱷᱤᱥᱟᱱ ᱨᱮᱱᱟᱜ ᱵᱟᱡᱟᱨ ᱟᱨ ᱥᱚᱦᱚᱨ ᱠᱚ'''<br/>M: ᱢᱤᱭᱩᱱᱤᱥᱤᱯᱟᱞ ᱥᱚᱦᱚᱨ/ ᱴᱟᱭᱩᱱ, CT: ᱦᱚᱲᱞᱮᱠᱷᱟ ᱥᱚᱦᱚᱨ (ᱥᱮᱱᱥᱟᱥ ᱥᱚᱦᱚᱨ), R: ᱟᱹᱛᱩ/ urban centre, U: ᱡᱮᱜᱮᱛ ᱵᱤᱨᱫᱟᱹᱜᱟᱲ.<br/>ᱦᱩᱰᱤᱝ ᱢᱮᱯ ᱨᱮ ᱡᱟᱭᱜᱟ ᱨᱮᱭᱟᱜ ᱟᱱᱟᱴ ᱠᱷᱟᱹᱛᱤᱨ ᱛᱮ ᱞᱟᱹᱴᱩ ᱢᱮᱯ ᱨᱮ ᱟᱥᱚᱞ ᱡᱟᱭᱜᱟ ᱠᱚ ᱛᱷᱚᱨᱟ ᱜᱟᱱ ᱦᱟᱛᱮᱻᱱᱟᱛᱮ ᱫᱟᱨᱮᱭᱟᱜᱼᱟ
+|mark-coord1={{coord|23|37|45|N|87|32|30|E}} | label-pos1=right|label1=Ilambazar | numbered1=CT| mark-title1= [[Ilambazar]] (CT)|label-color1=#800000 |label-size1=13| mark-size1=13|shape1=l-circle|shape-color1=#A40000|shape-outline1=white|label-offset-x1=2
+|mark-coord2={{coord|23|40|13|N|87|39|5|E}} | label-pos2=left|label2=Surul | numbered2=CT| mark-title2= [[Surul]] (CT)|
+|mark-coord3={{coord|23|46|44|N|87|52|21|E}} | label-pos3=left|label3=Parota | numbered3=CT| mark-title3= [[Parota, Birbhum]] (CT)|
+|mark-coord4={{coord|23|49|47|N|87|47|49|E}} | label-pos4=left|label4=Labhpur | numbered4=CT| mark-title4= [[Labhpur]] (CT)|
+|mark-coord5={{coord|23|40|16|N|87|41|19|E}} | label-pos5=right|label5=Bolpur |label-size5=14 | numbered5=M| mark-title5= [[Bolpur]] (M)|label-color5=#800000 
+|mark-coord6={{coord|23|41|10|N|87|39|40|E}} | label-pos6=left|label6= Shantiniketan| numbered6=R| mark-title6= [[Shantiniketan]] (R)|shape-color6=#A40000
+|mark-coord7={{coord|23|42|0|N|87|51|36|E}} | label-pos7=right|label7= Nanoor| numbered7=R| mark-title7= [[Nanoor]] (R)|shape-color7=#A40000
+|mark-coord8={{coord|23|39|30|N|87|39|40|E}} | label-pos8=left|label8= Sriniketan| numbered8=R| mark-title8= [[Sriniketan]] (R)|shape-color8=black| label-size8=13|label-color8=black <!-- make the subject of the article stand out with black colors -->
+|mark-coord9={{coord|23|45|47|N|87|52|40|E}} | label-pos9=bottom|label9= Kirnahar| numbered9=R| mark-title9= [[Kirnahar]] (R)|shape-color9=#A40000
+|mark-coord10={{coord|23|38|12|N|87|38|49|E}} | label-pos10=right|label10= Raipur| numbered10=R| mark-title10= [[Raipur, Birbhum]] (R)|shape-color10=#A40000
+|mark-coord11={{coord|23|36|39|N|87|53|49|E}} | label-pos11=left|label11= Khujutipara| numbered11=R| mark-title11= [[Khujutipara]] (R)|shape-color11=#A40000
+|mark-coord12={{coord|23|45|38|N|87|32|11|E}} | label-pos12=right|label12= Khustigiri| numbered12=R| mark-title12= [[Khustigiri]] (R)|shape-color12=#A40000
+|mark-coord13={{coord|23|38|40|N|87|25|48|E}} | label-pos13=right|label13= Jaydev Kenduli| numbered13=R| mark-title13= [[Jaydev Kenduli]] (R)|shape-color13=#A40000
+|mark-coord14={{coord|23|42|53|N|87|43|22|E}} | label-pos14=right|label14= Kankalitala| numbered14=R| mark-title14= [[Kankalitala]] (R)|shape-color14=#A40000
+|mark-coord15={{coord|23|41|0|N|87|40|25|E}} | label-pos15=right|label15= Visva-Bharati University| numbered15=U| mark-title15= [[Visva-Bharati University]] (U) |shape-color15=#967117
+|mark-coord16={{coord|23.8882|87.7549}}| label16=Mayurakshi River| label-color16 = #77A1CB| label-angle16= 16| label-pos16=right| label-size16=10| mark-size16=0| mark-title16 =none
+|mark-coord17={{coord|23.7998|87.7254}}| label17=Bakreshwar River| label-color17 = #77A1CB| label-angle17=7| label-pos17=top| label-size17=10| mark-size17=0| mark-title17 =none
+|mark-coord18={{coord|23.7546|87.7528}}| label18=Kopai River| label-color18 = #77A1CB| label-angle18=-45| label-pos18=top| label-size18=10| mark-size18=0| mark-title18 =none
+|mark-coord19={{coord|23.5809|87.7668}}| label19=Ajay River| label-color19 = #77A1CB| label-angle19=20| label-pos19=top| label-size19=10| mark-size19=0| mark-title19 =none}}
 
 ==ᱱᱟᱜᱟᱢ==
 ==ᱥᱟᱹᱠᱷᱭᱟᱹᱛ==
