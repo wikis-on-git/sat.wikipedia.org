@@ -42,8 +42,7 @@
 {{wikiquote}}
 
 *{{IMDb name}}
-*{{musicbrainz artist|id=}}{{#invoke:Wikidata|getValue|P434|FETCH_WIKIDATA}}}}
-
+*{{musicbrainz artist}}
 
 
 {{authority control}}
