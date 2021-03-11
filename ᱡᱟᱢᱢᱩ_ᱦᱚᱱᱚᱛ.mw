@@ -149,17 +149,17 @@
 !| Not stated 
 !| ᱜᱩᱴ
 |- style="vertical-align:top;text-align:right;" 
-| rowspan=2 style="text-align:left;" | Total 
+| rowspan=2 style="text-align:left;" | ᱜᱩᱴ 
 || 1,289,240 || 107,489 || 12,104 || 114,272 || 470 || 1,987 || 321 || 4,075 || 1,529,958
 |- style="vertical-align:top;text-align:right;" 
 || 84.27% || 7.03% || 0.79% || 7.47% || 0.03% || 0.13% || 0.02% || 0.27% || 100.00% 
 |- 
 | colspan=10| 
 |- style="vertical-align:top;text-align:right;" 
-| style="text-align:left;" | Male 
+| style="text-align:left;" | ᱠᱚᱲᱟ 
 || 685,679 || 56,927 || 6,455 || 61,098 || 266 || 1,038 || 171 || 2,187 || 813,821
 |- style="vertical-align:top;text-align:right;" 
-| style="text-align:left;" | Female 
+| style="text-align:left;" | ᱛᱤᱨᱞᱟᱹ 
 || 603,561 || 50,562 || 5,649 || 53,174 || 204 || 949 || 150 || 1,888 || 716,137
 |- style="vertical-align:top;text-align:right;" 
 | style="text-align:left;" | Gender ratio (% female) 
@@ -170,13 +170,13 @@
 |- 
 | colspan=10| 
 |- style="vertical-align:top;text-align:right;" 
-| style="text-align:left;" | Urban 
+| style="text-align:left;" | ᱥᱚᱦᱨᱤ 
 || 621,495 || 54,157 || 9,599 || 75,307 || 361 || 1,949 || 156 || 1,989 || 765,013
 |- style="vertical-align:top;text-align:right;" 
-| style="text-align:left;" | Rural 
+| style="text-align:left;" | ᱫᱮᱦᱟᱛ 
 || 667,745 || 53,332 || 2,505 || 38,965 || 109 || 38 || 165 || 2,086 || 764,945
 |- style="vertical-align:top;text-align:right;" 
-| style="text-align:left;" | % Urban 
+| style="text-align:left;" | % ᱥᱚᱦᱨᱤ 
 || 48.2% || 50.4% || 79.3% || 65.9% || 76.8% || 98.1% || 48.6% || 48.8% || 50.0%
 |- 
 |}
@@ -190,11 +190,11 @@
 ! People
 ! Percentage
 |- style="vertical-align:top;" 
-|| 001002 || [[ᱟᱥᱟᱢᱤ ᱯᱟᱹᱨᱥᱤ|ᱟᱥᱟᱢᱤ]] 
+|| 001002 || [[ᱟᱥᱟᱢᱤᱥ|ᱟᱥᱟᱢᱤ]] 
 | style="text-align:right;" | 1,123 
 | style="text-align:right;" | 0.07%
 |- style="vertical-align:top;" 
-|| 002007 || [[ᱵᱟᱝᱞᱟ ᱯᱟᱹᱨᱥᱤ|ᱵᱟᱝᱞᱟ]] 
+|| 002007 || [[ᱵᱟᱸᱜᱽᱞᱟ ᱯᱟᱹᱨᱥᱤ|ᱵᱟᱸᱜᱽᱞᱟ]] 
 | style="text-align:right;" | 3,879 
 | style="text-align:right;" | 0.25%
 |- style="vertical-align:top;" 
@@ -254,11 +254,11 @@
 | style="text-align:right;" | 84 
 | style="text-align:right;" | 0.01%
 |- style="vertical-align:top;" 
-|| 006439 || [[Pahari language|Pahari]] 
+|| 006439 || [[ᱯᱟᱦᱟᱲᱤ ᱯᱟᱹᱨᱥᱤ|ᱯᱟᱦᱟᱲᱤ]] 
 | style="text-align:right;" | 5,738 
 | style="text-align:right;" | 0.38%
 |- style="vertical-align:top;" 
-|| 006489 || [[Rajasthani language|Rajasthani]] 
+|| 006489 || [[ᱨᱟᱡᱚᱥᱛᱷᱟᱱᱤ ᱯᱟᱹᱨᱥᱤ|ᱨᱟᱡᱚᱥᱛᱷᱟᱱᱚ]] 
 | style="text-align:right;" | 1,384 
 | style="text-align:right;" | 0.09%
 |- style="vertical-align:top;" 
@@ -266,8 +266,7 @@
 | style="text-align:right;" | 1,087 
 | style="text-align:right;" | 0.07%
 |- style="vertical-align:top;" 
-|| 008005 || [[ᱠᱟᱹᱥᱢᱤᱨᱤ 
-ᱯᱟᱹᱨᱥᱤ|ᱠᱟᱹᱥᱢᱤᱨᱤ]] 
+|| 008005 || [[ᱠᱟᱹᱥᱢᱤᱨᱤ ᱯᱟᱹᱨᱥᱤ|ᱠᱟᱹᱥᱢᱤᱨᱤ]] 
 | style="text-align:right;" | 91,733 
 | style="text-align:right;" | 6.00%
 |- style="vertical-align:top;" 
@@ -295,7 +294,7 @@
 | style="text-align:right;" | 247 
 | style="text-align:right;" | 0.02%
 |- style="vertical-align:top;" 
-|| 013071 || [[Marathi language|Marathi]] 
+|| 013071 || [[ᱢᱟᱨᱟᱴᱷᱤ ᱯᱟᱹᱨᱥᱤ|ᱢᱟᱨᱟᱴᱷᱤ]] 
 | style="text-align:right;" | 3,843 
 | style="text-align:right;" | 0.25%
 |- style="vertical-align:top;" 
